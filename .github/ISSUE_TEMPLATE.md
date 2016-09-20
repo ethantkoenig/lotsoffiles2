@@ -1,6 +1,6 @@
 **Thank you so much for submitting a suggested change.**
 
-We ask that you title the issue starting with the first set of words in the title of the translationWord. For example: 
+We ask that you title the issue starting with the first set of words in the title of the translationWord. For example you will type in the Title field above: 
 
     spirit of God
 
@@ -14,5 +14,6 @@ For example:
 
 **We really appreciate your help in making the resources the best they can be!**
 
------
+
+(you can replace all of the above text with your suggestions)
 
