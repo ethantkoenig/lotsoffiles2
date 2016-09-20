@@ -1,4 +1,4 @@
-**Thank you so much for submitting a suggested change. **
+**Thank you so much for submitting a suggested change.**
 
 We ask that you title the issue starting with the first set of words in the title of the translationWord. For example: 
 
