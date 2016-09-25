@@ -1,0 +1,21 @@
+# Bethany #
+
+## Facts: ##
+
+The town of Bethany was located at the base of the eastern slope of the Mount of Olives, about 2 miles east of Jerusalem, 
+
+* Bethany was near the road that ran between Jerusalem and Jericho.
+* Jesus often visited Bethany where his close friends Lazarus, Martha, and Mary lived.
+* Bethany is especially known as the place where Jesus raised Lazarus from the dead.
+
+(Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
+
+(See also:  [jericho](../other/jericho.md), [jerusalem](../other/jerusalem.md), [lazarus](../other/lazarus.md), [martha](../other/martha.md), [mary](../other/mary.md), [mountofolives](../other/mountofolives.md))
+
+## Bible References: ##
+
+* [John 01:26-28](https://door43.org/en/bible/notes/jhn/01/26)
+* [Luke 24:50-51](https://door43.org/en/bible/notes/luk/24/50)
+* [Mark 11:1-3](https://door43.org/en/bible/notes/mrk/11/01)
+* [Matthew 21:15-17](https://door43.org/en/bible/notes/mat/21/15)
+

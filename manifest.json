@@ -1,0 +1,26 @@
+{
+  "syntax_version": "1.0",
+  "type": "book",
+  "content_mime_type": "text/markdown",
+  "language": {
+    "slug": "en",
+    "dir": "ltr",
+    "name": "English"
+  },
+  "slug": "tw",
+  "name": "translationWords",
+  "versification_slug": "ufw",
+  "status": {
+    "source_translations": [],
+    "license": "CC BY-SA",
+    "checks_performed": [],
+    "contributors": [],
+    "pub_date": "2016-09-30",
+    "translate_mode": "all",
+    "version": "3",
+    "checking_level": "3",
+    "comments": "",
+    "checking_entity": "Wycliffe Associates"
+  },
+  "finished_chunks": []
+}

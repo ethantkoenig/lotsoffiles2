@@ -1,0 +1,23 @@
+# winnow, sift #
+
+## Definition: ##
+
+The terms "winnow" and "sift" mean to separate grain from unwanted materials. In the Bible, both words are also used in a figurative sense to refer to separating or dividing people.
+
+* To "winnow" means to separate grain from the unwanted parts of the plant by tossing both the grain and chaff into the air, allowing the wind to blow the chaff away.
+* The word "sift" refers to shaking the winnowed grain in a sieve to get rid of any remaining unwanted materials, such as dirt or stones.
+* In the Old Testament, "winnow" and "sift" are used figuratively to describe hardship that separates the righteous people from the unrighteous people.
+* Jesus also used the term "sift" in this figurative way when he was telling Simon Peter about how he and the other disciples would be tested in their faith.
+* To translate these terms, use the words or phrases in the project language that refer to these activities; possible translations might be,  "shaking" or "fanning." If winnowing or sifting are not known, then these terms could be translated by a term that refers to a different method of separating grain from chaff or dirt, or by describing this process.
+
+(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+
+(See also: [chaff](../other/chaff.md), [grain](../other/grain.md))
+
+## Bible References: ##
+
+* [Isaiah 21:10](https://door43.org/en/bible/notes/isa/21/10)
+* [Luke 22:31-32](https://door43.org/en/bible/notes/luk/22/31)
+* [Matthew 03:10-12](https://door43.org/en/bible/notes/mat/03/10)
+* [Proverbs 20:7-8](https://door43.org/en/bible/notes/pro/20/07)
+* [Ruth 03:1-2](https://door43.org/en/bible/notes/rut/03/01)
