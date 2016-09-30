@@ -1,0 +1,22 @@
+# Girgashites #
+
+## Facts: ##
+
+The Girgashites were a people group living near the Sea of Galilee in the land of Canaan. 
+
+* They were descendants of Ham's son Canaan and so were one of the many people groups who were also known as "Canaanites."
+* God promised the Israelites that he would help them defeat the Girgashites and other Canaanite people groups.
+* Like all the Canaanite peoples, the Girgashites worshiped false gods and did immoral things as part of that worship.
+
+(Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
+
+(See also: [[canaan|Canaan]] , [[ham|Ham]], [[noah|Noah]])
+
+## Bible References: ##
+
+* [1 Chronicles 01:13-16](https://door43.org/en/bible/notes/1ch/01/13)
+* [Deuteronomy 07:1](https://door43.org/en/bible/notes/deu/07/01)
+* [Genesis 10:15-18](https://door43.org/en/bible/notes/gen/10/15)
+* [Joshua 03:9-11](https://door43.org/en/bible/notes/jos/03/09)
+* [Joshua 24:11-12](https://door43.org/en/bible/notes/jos/24/11)
+
