@@ -10,7 +10,7 @@ The term "acacia" is the name of a common shrub or tree growing in the land of C
 
 (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [arkofthecovenant](../other/arkofthecovenant.md), [tabernacle](../kt/tabernacle.md) )
+(See also: [ark of the covenant](../other/arkofthecovenant.md), [tabernacle](../kt/tabernacle.md) )
 
 ## Bible References: ##
 
