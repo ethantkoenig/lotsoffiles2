@@ -13,7 +13,7 @@ In general, the term "faith" refers to a belief, trust or confidence in someone 
 ## Translation Suggestions: ##
 
 * In some contexts, "faith" can be translated as "belief" or "conviction" or "confidence" or "trust."
-* For some languages these terms will be translated using forms of the verb "believe." (See: [[[[:en:ta:vol2:translate:figs_abstractnouns]]]])
+* For some languages these terms will be translated using forms of the verb "believe." (See: [abstractnouns](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_abstractnouns.md))
 * The expression, "keep the faith" could be translated by, "keep believing in Jesus" or "continue to believe in Jesus."
 * The sentence, "they must keep hold of the deep truths of the faith" could be translated by, "they must keep believing all the true things about Jesus that they have been taught."
 * The expression, "my true son in the faith" could be translated by something like, "who is like a son to me because I taught him to believe in Jesus" or "my true spiritual son, who believes in Jesus."

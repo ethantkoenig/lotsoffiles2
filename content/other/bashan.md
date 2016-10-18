@@ -12,7 +12,7 @@ Bashan was a region of land east of the Sea of Galilee. It covered an area that 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See: [egypt](../other/egypt.md), [oak](../other/oak.md), [seaofgalilee](../other/seaofgalilee.md), [syria](../other/syria.md))
+(See also: [egypt](../other/egypt.md), [oak](../other/oak.md), [seaofgalilee](../other/seaofgalilee.md), [syria](../other/syria.md))
 
 ## Bible References: ##
 

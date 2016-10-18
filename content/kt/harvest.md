@@ -15,7 +15,7 @@ The term "harvest" refers to the gathering in of ripe fruits or vegetables from 
 * The event of harvesting could be translated as, "time of gathering in" or "crop gathering time" or "fruit picking time."
 * The verb "to harvest" could be translated as, "to gather in" or "to pick up" or "to collect."
 
-(See: [firstfruit](../kt/firstfruit.md), [festival](../other/festival.md))
+(See also: [firstfruit](../kt/firstfruit.md), [festival](../other/festival.md))
 
 ## Bible References: ##
 

@@ -15,7 +15,7 @@ The term "trust" refers to believing that something or someone is true or depend
 * The phrase "put your trust in" is very similar in meaning to "trust in."
 * The term "trustworthy" could be translated as, "dependable" or "reliable" or "can always be trusted."
 
-(See also: , [believe](../kt/believe.md), [confidence](../kt/confidence.md), [faith](../kt/faith.md), [faithful](../kt/faithful.md), [true](../kt/true.md))
+(See also: [believe](../kt/believe.md), [confidence](../kt/confidence.md), [faith](../kt/faith.md), [faithful](../kt/faithful.md), [true](../kt/true.md))
 
 ## Bible References: ##
 

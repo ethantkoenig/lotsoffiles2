@@ -5,7 +5,7 @@
 There are several figurative ways that "hand" is used in the Bible:
 
 * To "hand" something to someone means to put something into that person's hands.
-* The term "hand" is often used in reference to God's power and action, such as when God says, "Has not my hand made all these things?" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+* The term "hand" is often used in reference to God's power and action, such as when God says, "Has not my hand made all these things?" (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md))
 * Expressions such as "hand over to" or "deliver into the hands of" refer to causing someone to be under the control or power of someone else.
 * Placing hands on someone is often done while speaking a blessing over that person.
 * The term "laying on of hands" refers to placing a hand on a person in order to dedicate that person to God's service or to pray for healing.

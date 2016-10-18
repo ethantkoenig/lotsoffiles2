@@ -11,7 +11,7 @@ Gomorrah was a city located in a fertile valley, near Sodom where Abraham's neph
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: , [abraham](../other/abraham.md) , [babylon](../other/babylon.md), [lot](../other/lot.md), [saltsea](../other/saltsea.md), [sodom](../other/sodom.md))
+(See also: [abraham](../other/abraham.md) , [babylon](../other/babylon.md), [lot](../other/lot.md), [saltsea](../other/saltsea.md), [sodom](../other/sodom.md))
 
 ## Bible References: ##
 

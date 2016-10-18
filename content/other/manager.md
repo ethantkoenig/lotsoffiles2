@@ -11,7 +11,7 @@ The term "manager" or "steward" in the Bible refers to a servant who was entrust
 
 * This could also be translated as, "supervisor" or "household organizer" or "servant who manages" or "person who organizes."
 
-(See also: [[servant]])
+(See also: [servant](../other/servant.md))
 
 ## Bible References: ##
 

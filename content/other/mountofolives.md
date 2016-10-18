@@ -9,7 +9,7 @@ The Mount of Olives is a mountain or large hill located near the east side of th
 * Jesus was arrested in the Garden of Gethsemane, which is located on the Mount of Olives.
 * This could also be translated as "Olive Hill" or "Olive Tree Mountain."
 
-(See: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
+(See also: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
 (See also: [gethsemane](../other/gethsemane.md), [olive](../other/olive.md))
 

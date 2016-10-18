@@ -13,9 +13,9 @@ Sackcloth was a coarse, scratchy type of cloth that was made out of goat hair or
 * Other ways to translate this term could include, "rough, scratchy mourning clothes."
 * The phrase "sit in sackcloth and ashes" could be translated as, "show mourning and humility by wearing scratchy cloth and sitting in ashes."
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See: [ash](../other/ash.md), [camel](../other/camel.md), [goat](../other/goat.md), [humble](../other/humble.md), [mourn](../other/mourn.md), [repent](../kt/repent.md), [sign](../kt/sign.md))
+(See also: [ash](../other/ash.md), [camel](../other/camel.md), [goat](../other/goat.md), [humble](../other/humble.md), [mourn](../other/mourn.md), [repent](../kt/repent.md), [sign](../kt/sign.md))
 
 ## Bible References: ##
 

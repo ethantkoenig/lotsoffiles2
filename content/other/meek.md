@@ -8,7 +8,7 @@ The term "meek" describes a person who is gentle, submissive, and willing to suf
 * This term could also be translated as "gentle" or "mild-mannered" or "sweet-tempered."
 * The term "meekness" could be translated as "gentleness" or "humility."
 
-(See also: [[humble]])
+(See also: [humble](../other/humble.md))
 
 ## Bible References: ##
 

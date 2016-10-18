@@ -8,7 +8,7 @@ A leopard is a large, cat-like, wild animal that is brown with black spots.
 * In the Bible, the suddenness of disaster is compared to a leopard, which pounces suddenly on its prey.
 * The prophet Daniel and the apostle John tell about visions in which they saw a beast that looked like a leopard.
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 

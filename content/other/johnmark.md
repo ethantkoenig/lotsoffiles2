@@ -10,7 +10,7 @@ John Mark, also known as "Mark," was one of the men who traveled with Paul on hi
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [[barnabas]], [[paul]])
+(See also: [barnabas](../other/barnabas.md), [paul](../other/paul.md))
 
 ## Bible References: ##
 

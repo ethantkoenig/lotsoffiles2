@@ -10,7 +10,7 @@ Caleb was one of the twelve Israelite spies whom Moses sent to explore the land 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See: [hebron](../other/hebron.md), [joshua](../other/joshua.md))
+(See also: [hebron](../other/hebron.md), [joshua](../other/joshua.md))
 
 ## Bible References: ##
 

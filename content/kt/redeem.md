@@ -15,7 +15,7 @@ The terms "redeem" and "redemption" refer to buying back something that was prev
 * The term "redemption" could be translated as "ransom" or "freedom payment" or "the buying back."
 * The words, "ransom" and "redeem" have basically the same meaning, so some languages may only use one term to translate both these terms.
 
-(See also: [free](../kt/free.md), [ransom](../kt/ransom.md) )
+(See also: [free](../kt/free.md), [ransom](../kt/ransom.md))
 
 ## Bible References: ##
 

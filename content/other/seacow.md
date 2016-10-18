@@ -9,7 +9,7 @@ The term "sea cow" refers to a large sea animal that eats sea grass and other ve
 * It was nicknamed the "sea cow" because it eats grass like a cow does, but they are not similar in other ways.
 * Related animals are the "dugong" and the "manatee."
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [tabernacle](../kt/tabernacle.md))
 

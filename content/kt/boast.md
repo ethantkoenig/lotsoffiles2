@@ -19,7 +19,7 @@ The term "boast" means to talk proudly about something or someone. Often it mean
 
 ## Translation Suggestions: ##
 
-(See also: [proud, pride, prideful](../other/proud.md) )
+(See also: [proud, pride, prideful](../other/proud.md))
 
 ## Bible References: ##
 

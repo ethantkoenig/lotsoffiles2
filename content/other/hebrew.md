@@ -9,7 +9,7 @@ The "Hebrews" were people who were descended from Abraham through the line of Is
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [[israel|Israel]], [[jew|Jewish]], [[jewishleaders|Jewish Leaders]] )
+(See also: [Israel](../other/israel.md), [Jewish](../other/jew.md), [Jewish Leaders](../other/jewishleaders.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ The term , "cattle" refers to a kind of large, four-legged farm animal that eats
 * A "heifer" is a cow that has not yet had a baby.
 * An "ox" is a special type of bull that is used for agricultural work, like pulling a plow.
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [heifer](../other/heifer.md), [ox](../other/ox.md), [yoke](../other/yoke.md))
 

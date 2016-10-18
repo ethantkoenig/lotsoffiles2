@@ -8,8 +8,8 @@ There are several figurative meanings of "tongue" in the Bible.
 * Sometimes "tongue" may refer to a human language spoken by a certain people group.
 * Other times it refers to a supernatural language that the Holy Spirit gives believers in Christ as one of the "gifts of the Spirit."
 * The expression, "tongues" of fire refers to "flames" of fire.
-* In the expression "my tongue rejoices," the term "tongue" refers to the whole person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-* The phrase "lying tongues" refers to a person's voice or speech. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+* In the expression "my tongue rejoices," the term "tongue" refers to the whole person. (See: [synecdoche](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_synecdoche.md))
+* The phrase "lying tongues" refers to a person's voice or speech. (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md))
 
 ## Translation Suggestions ##
 

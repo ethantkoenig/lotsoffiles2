@@ -10,7 +10,7 @@ A lion is a large, cat-like, wild animal, with powerful teeth and claws for kill
 * When King David was a boy, he killed lions who tried to attack the sheep he was caring for.
 * Samson also killed a lion with his bare hands.
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [david](../other/david.md), [leopard](../other/leopard.md), [samson](../other/samson.md), [sheep](../other/sheep.md))
 

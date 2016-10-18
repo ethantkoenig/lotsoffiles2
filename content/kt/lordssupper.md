@@ -14,7 +14,7 @@ The term "Lord's Supper" is used by the apostle Paul to refer to the Passover me
 
 * This term could also be translated as, "the Lord's meal" or "the meal of our Lord Jesus" or "the meal in memory of the Lord Jesus."
 
-(See: [passover](../kt/passover.md))
+(See also: [passover](../kt/passover.md))
 
 ## Bible References: ##
 

@@ -17,7 +17,7 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
 * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
 * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [uncircumcised](../kt/uncircumcised.md), [covenant](../kt/covenant.md))
 

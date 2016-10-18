@@ -11,7 +11,7 @@ Philip the apostle was one of the original twelve disciples of Jesus. He was fro
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [[philip|Philip the evangelist]])
+(See also: [Philip the evangelist](../other/philip.md))
 
 ## Bible References: ##
 

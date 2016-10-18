@@ -10,7 +10,7 @@ The term "snow" refers to white flakes of frozen water that fall from clouds in 
 * Some languages might refer to snow as "frozen rain" or "flakes of ice" or "frozen flakes."
 * "Snow water" refers to the water that comes from melted snow.
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 

@@ -19,7 +19,7 @@ The terms "Messiah" and "Christ" mean "Anointed One" and refer to Jesus, God's S
 * Be consistent in how this is translated throughout the Bible so that it is clear that the same term is being referred to.
 * Make sure the translations of "Messiah" and "Christ" work well in contexts where both terms occur in the same verse (such as John 1:41).
 
-(See: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
+(See also: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
 (See also: [sonofgod](../kt/sonofgod.md), [david](../other/david.md), [jesus](../kt/jesus.md), [anoint](../kt/anoint.md))
 

@@ -17,7 +17,7 @@ The terms "testimony" and "testify" refer to making a statement about something 
 * The phrase, "as a testimony against them" could be translated as, "which will show them their sin" or "exposing their hypocrisy" or "which will prove that they are wrong."
 * To "give false testimony" could be translated as "say false things about" or "state things that are not true."
 
-(See: [ark of the covenant, ark of the covenant decrees, ark of the testimony, ark of Yahweh](../other/arkofthecovenant.md), [prophet, prophecy, prophesy, seer, prophetess](../kt/prophet.md)[, witness, eyewitness](../kt/witness.md))
+(See also: [ark of the covenant, ark of the covenant decrees, ark of the testimony, ark of Yahweh](../other/arkofthecovenant.md), [prophet, prophecy, prophesy, seer, prophetess](../kt/prophet.md)[, witness, eyewitness](../kt/witness.md))
 
 ## Bible References: ##
 

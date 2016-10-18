@@ -4,7 +4,7 @@
 
 The terms "kingdom of God" and "kingdom of heaven" both refer to God's rule and authority over his people and over all creation.
 
-* The Jews often used the term "heaven" to refer to God, to avoid saying his name directly. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+* The Jews often used the term "heaven" to refer to God, to avoid saying his name directly. (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md)) 
 * In the NT book that Matthew wrote, he referred to God's kingdom as "the kingdom of heaven," probably because he was writing primarily for a Jewish audience.
 * The kingdom of God refers to God ruling people spiritually as well as ruling over the physical world.
 * The Old Testament prophets said that God would send the Messiah to rule with righteousness. Jesus, the Son of God, is the Messiah who will rule over God's kingdom forever.

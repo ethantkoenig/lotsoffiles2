@@ -15,7 +15,7 @@ A seed is the part of a plant that gets planted in the ground to reproduce more 
 * For a literal seed, it is best to use the literal term for "seed" that is used in the target language for what a farmer plants in his field.
 * The literal term should also be used in contexts where it refers figuratively to God's Word.
 * For the figurative use that refers to people who are of the same family line, it may be more clear to use the word "descendant" or "descendants" instead of seed. Some languages may have a word that means "children and grandchildren."
-* For a man or woman's "seed," consider how the target expresses this in a way that will not offend or embarrass people.  (See: [[:en:ta:vol2:translate:figs_euphemism|euphemism]])
+* For a man or woman's "seed," consider how the target expresses this in a way that will not offend or embarrass people.  (See: [euphemism](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_euphemism.md))
 
 (See also: [descendant](../other/descendant.md), [offspring](../other/offspring.md))
 

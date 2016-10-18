@@ -11,7 +11,7 @@ The term "humble" describes a person who does not think of himself as better tha
 * The phrase "be humble" could be translated as "don't be prideful."
 * "Humble yourself before God" could be translated as, "Submit your will to God, recognizing his greatness."
 
-(See also: [[proud|proud]])
+(See also: [proud](../other/proud.md))
 
 ## Bible References: ##
 

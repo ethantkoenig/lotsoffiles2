@@ -15,7 +15,7 @@ Joy is a feeling of delight or deep satisfaction that comes from God. The relate
 * The phrase, "be joyful" could be translated as "rejoice" or "be very glad" or with a phrase that means, "be very happy in God's goodness."
 * A person who is joyful could be described as "very happy" or "delighted" or "deeply glad."
 * A phrase such as "make a joyful shout" could be translated as "shout in a way that shows you are very happy."
-* A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people" or "city whose people are very happy." [[:en:ta:vol2:translate:figs_metonymy]])
+* A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people" or "city whose people are very happy." (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md))
 
 (See also: [rejoice](../other/rejoice.md))
 

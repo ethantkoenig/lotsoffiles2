@@ -23,7 +23,7 @@ In the Bible, the term "God" refers to the eternal being who created the univers
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also:  [create, creation, Creator](../other/creation.md),[false god, god](../kt/falsegod.md), [God the Father, Heavenly Father](../kt/godthefather.md), [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md), [idol](../other/idol.md), [Son of God, the Son](../kt/sonofgod.md),     [Yahweh](../kt/yahweh.md),)
+(See also: [create, creation, Creator](../other/creation.md),[false god, god](../kt/falsegod.md), [God the Father, Heavenly Father](../kt/godthefather.md), [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md), [idol](../other/idol.md), [Son of God, the Son](../kt/sonofgod.md),     [Yahweh](../kt/yahweh.md),)
 
 ## Bible References: ##
 

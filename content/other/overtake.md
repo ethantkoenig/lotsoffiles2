@@ -13,7 +13,7 @@ The term "overtake" and "overtook" refer to gaining control over someone or some
 * When used as a warning that darkness or punishment or terrors will overtake people because of their sin, it means that those people will experience these negative things if they don't repent.
 * The phrase, "My words have overtaken your fathers" means that the teachings that Yahweh gave to their ancestors will now cause them to receive punishment because they failed to obey those teachings.
 
-(See also: [bless](../kt/bless.md), [curse](../kt/curse.md), [capture](../other/capture.md), [conquer](../other/conquer.md), [prey](../other/prey.md), [[:enobe:other:punish]])
+(See also: [bless](../kt/bless.md), [curse](../kt/curse.md), [capture](../other/capture.md), [conquer](../other/conquer.md), [prey](../other/prey.md), [punish](../other/punish.md))
 
 ## Bible References: ##
 

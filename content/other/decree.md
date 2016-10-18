@@ -10,7 +10,7 @@ A decree is a proclamation or law that is publicly declared to all the people.
 * To decree something means to give an order that must be obeyed. This could be translated as, "to order" or "to command" or "to formally require" or "to publicly make a law."
 * Something that is "decreed" to happen means that this "will definitely happen" or "has been decided upon and will not be changed" or "declared absolutely that this will happen."
 
-(See also:  [command](../other/command.md), [declare](../other/declare.md), [law](../other/law.md), [proclaim](../other/proclaim.md))
+(See also: [command](../other/command.md), [declare](../other/declare.md), [law](../other/law.md), [proclaim](../other/proclaim.md))
 
 ## Bible References: ##
 

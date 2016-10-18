@@ -24,10 +24,10 @@ This term is used to refer to both physical and spiritual death. Physically, it 
 * Many languages use figurative expressions to describe death, such as "to pass away" in English. However in the Bible it is best to use the most direct term for death that is used in everyday language.
 * In the Bible, physical life and death are often compared to spiritual life and death. It is important in a translation to use the same word or phrase for both physical death and spiritual death.
 * In some languages it may be more clear to say "spiritual death" when the context requires that meaning. Some translators may also feel it is best to say "physical death" in contexts where it is being contrasted to spiritual death.
-* The expression, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died."  (See: nominal adjective)
+* The expression, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died."  (See: [nominal adjective](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_nominaladj.md))
 * The expression, "put to death" could also be translated as, "kill" or "murder" or "execute."
 
-(See also: [](../kt/believe.md), [faith](../kt/faith.md), [life](../kt/life.md), [spirit](../kt/spirit.md))
+(See also: [believe](../kt/believe.md), [faith](../kt/faith.md), [life](../kt/life.md), [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born. 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also:  [edom](../other/edom.md), [isaac](../other/isaac.md), , [jacob](../other/jacob.md), [rebekah](../other/rebekah.md))
+(See also: [edom](../other/edom.md), [isaac](../other/isaac.md), , [jacob](../other/jacob.md), [rebekah](../other/rebekah.md))
 
 ## Bible References: ##
 

@@ -8,7 +8,7 @@ The term "hang" means to suspend something or someone above the ground.
 * Jesus' death by hanging on a wooden cross was done differently: the soldiers suspended him by nailing his hands (or wrists) and his feet to the cross.
 * To hang someone always refers to a way of killing someone by hanging them with a rope around their neck.
 
-(See also: other)
+(See also:)
 
 ## Bible References: ##
 

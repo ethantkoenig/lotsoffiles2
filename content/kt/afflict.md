@@ -17,7 +17,7 @@ The term "afflict" means to cause someone distress or suffering. An "affliction"
 * Depending on the context, the term "affliction" could be translated as "calamity" or "sickness" or "suffering" or "great distress." physical
 * The phrase "afflicted with" could also be translated as, "suffering from" or "sick with."
 
-(See: [leprosy](../other/leprosy.md), [plague](../other/plague.md), [suffer](../kt/suffer.md))
+(See also: [leprosy](../other/leprosy.md), [plague](../other/plague.md), [suffer](../kt/suffer.md))
 
 ## Bible References: ##
 

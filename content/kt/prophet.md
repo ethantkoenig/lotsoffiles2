@@ -20,7 +20,7 @@ A "prophet" is a man who speaks God's messages to people. A woman who does this 
 * The term "prophetess" could be translated as, "spokeswoman for God" or "woman who speaks for God" or "woman who speaks God's messages."
 * Ways to translate "prophecy" could include, "message from God" or "prophet message."
 * The term "prophesy" could be translated as "speak words from God" or "tell God's message."
-* The figurative expression, "law and the prophets" could also be translated as, "the books of the law and of the prophets" or "everything written about God and his people, including God's laws and what his prophets preached." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+* The figurative expression, "law and the prophets" could also be translated as, "the books of the law and of the prophets" or "everything written about God and his people, including God's laws and what his prophets preached." (See: [synecdoche](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_synecdoche.md))
 * When referring to a prophet (or seer) of a false god, it may be necessary to translate this as "false prophet (seer)" or "prophet (seer) of a false god" or "prophet of Baal," for example.
  
 

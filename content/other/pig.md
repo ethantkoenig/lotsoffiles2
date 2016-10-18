@@ -9,7 +9,7 @@ A pig is a type of four-legged, hoofed animal that is raised for meat. Its meat 
  * There is a kind of swine that is not raised on farms but rather lives out in the wild; it is called a "wild boar." Wild boars have tusks and are considered to be very dangerous animals.
  * Sometimes large pigs are referred to as "hogs."
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [unclean](../kt/unclean.md))
 

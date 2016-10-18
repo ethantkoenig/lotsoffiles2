@@ -14,7 +14,7 @@ The term "Rabbi" literally means, "my master" or "my teacher."
 * Make sure the translation of this term does not sound like Jesus was a schoolteacher.
 * Also consider how "Rabbi" is translated in a Bible translation in a related language or a national language. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See: [teacher](../kt/teacher.md) )
+(See also: [teacher](../kt/teacher.md))
 
 ## Bible References: ##
 

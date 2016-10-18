@@ -8,7 +8,7 @@ The term "devour" means to eat or consume in an aggressive manner.
 * Also in a figurative sense, the term "devour" is often used with a meaning of "completely destroy" as when talking about nations devouring each other or a fire devouring buildings and people.
 * This term could also be translated as "completely consume" or "totally destroy."
 
-(See also: other)
+(See also:)
 
 ## Bible References: ##
 

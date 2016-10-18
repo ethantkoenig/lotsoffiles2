@@ -16,7 +16,7 @@ The terms "mercy" and "merciful" refer to helping people who are in need, especi
 * The term "merciful" could be translated as, "showing pity" or "being kind to" or "forgiving."
 * To "show mercy to" or "have mercy on" could be translated as, "treat kindly" or "be compassionate toward."
 
-(See: [compassion](../kt/compassion.md), [forgive](../kt/forgive.md)
+(See also: [compassion](../kt/compassion.md), [forgive](../kt/forgive.md)
 
 ## Bible References: ##
 

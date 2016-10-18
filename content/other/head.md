@@ -10,7 +10,7 @@ In the Bible, the word "head" is used with several figurative meanings.
 * The expression, "no razor will ever touch his head" means " he will never cut or shave his hair."
 * The term "head" can also refer to the beginning or source of something as in the "head of the street."
 * The expression "heads of grain" refers to the top part of a wheat or barley plant that contains the seeds.
-* Another figurative use for "head" is when it is used to represent the whole person as in, "this gray head" referring to an elderly person or "the head of Joseph" referring to Joseph. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+* Another figurative use for "head" is when it is used to represent the whole person as in, "this gray head" referring to an elderly person or "the head of Joseph" referring to Joseph. (See: [synecdoche](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_synecdoche.md))
 * The expression "let their blood be on his own head" means that the man is responsible for their deaths and will receive the punishment for that.
 
 ## Translation Suggestions ##
@@ -20,7 +20,7 @@ In the Bible, the word "head" is used with several figurative meanings.
 * The expression "will be on his own head" could be translated as "will be on him" or "he will be punished for" or "he will be held responsible for" or "he will be considered guilty for."
 * Depending on the context, other ways to translate this term could include, "beginning" or "source" or "ruler" or "leader" or "top."
 
-(See: [grain](../other/grain.md))
+(See also: [grain](../other/grain.md))
 
 ## Bible References: ##
 

@@ -13,7 +13,7 @@ The term "faithless" means to not have faith or to not believe.
 * Depending on the context, the term "faithless" could be translated as "unfaithful" or "unbelieving" or "disobedient to God" or "not believing."
 * The term "faithlessness" could be translated as "unbelief" or "unfaithfulness" or "rebellion against God."
 
-(See: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
+(See also: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
 (See also: [unbeliever](../kt/unbeliever.md), [unfaithful](../kt/unfaithful.md), [disobey](../other/disobey.md))
 

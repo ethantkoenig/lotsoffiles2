@@ -26,7 +26,7 @@ The terms "call" and "call out" literally means to say something loudly to someo
 * The expression "you are called by my name" could be translated as, "I have given you my name, showing that you belong to me."
 * When God says,  "I have called you by name," this could be translated as, "I know your name and have chosen you."
 
-(See: [pray](../other/pray.md) )
+(See also: [pray](../other/pray.md))
 
 ## Bible References: ##
 

@@ -18,7 +18,7 @@ The term "cherub," and its plural form "cherubim," refer to a special type of he
 * Make sure that the translation of this term is different from the translation of "angel."
 * Also consider how this term is translated or written in a Bible translation in a local or national language. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [angel](../kt/angel.md), other)
+(See also: [angel](../kt/angel.md))
 
 ## Bible References: ##
 

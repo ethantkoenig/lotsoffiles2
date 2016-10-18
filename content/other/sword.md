@@ -17,7 +17,7 @@ A sword is a flat-bladed metal weapon used to cut or stab. It has a handle and a
 * If swords are not known in your culture, this word could be translated with the name of another long-bladed weapon that is used to cut or stab.
 * A sword could also be described as a "sharp weapon" or "long knife." Some translations may decide to include a picture of a sword.
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [jamesbrotherofjesus](../other/jamesbrotherofjesus.md), [johnthebaptist](../other/johnthebaptist.md), [tongue](../other/tongue.md), [wordofgod](../kt/wordofgod.md))
 

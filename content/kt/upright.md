@@ -6,7 +6,7 @@ The terms "upright" and "uprightness" refer to acting in a way that follows God'
 
 * The meaning of these words includes the idea of standing up straight and looking directly ahead.
 * A person who is "upright" is someone who obeys God's rules and does not do things that are against his will.
-* Terms such as "integrity" and "righteous" have similar meanings and are sometimes used in parallelism constructions, such as "integrity and uprightness."  (See: [[:en:ta:vol2:translate:figs_parallelism]])
+* Terms such as "integrity" and "righteous" have similar meanings and are sometimes used in parallelism constructions, such as "integrity and uprightness."  (See: [parallelism](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_parallelism.md))
 
 ## Translation Suggestions: ##
 

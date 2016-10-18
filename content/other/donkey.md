@@ -10,7 +10,7 @@ A donkey is a four-legged work animal, similar to a horse, but smaller and with 
 * In Bible times, kings would ride a donkey in times of peace, rather than a horse, which was used for times of war.
 * Jesus rode into Jerusalem on a young donkey a week before he was crucified there.
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 ## Bible References: ##
 

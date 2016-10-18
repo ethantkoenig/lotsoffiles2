@@ -10,7 +10,7 @@ Hebron was a city located in the high, rocky hills about 20 miles south of Jerus
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [[absalom]])
+(See also: [absalom](../other/absalom.md))
 
 ## Bible References: ##
 

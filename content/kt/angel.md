@@ -19,7 +19,7 @@ An angel is a powerful spirit being whom God created. Angels exist to serve God 
 * Also consider how these terms are translated in a national language or another local language.
 * The phrase "angel of Yahweh" should be translated using the words for "angel" and "Yahweh." This will allow for different interpretations of that phrase. Possible translations could include, "angel from Yahweh" or "angel sent by Yahweh" or "Yahweh who looked like an angel."
 
-(See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
+(See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [chief](../other/chief.md), [head](../other/head.md), [messenger](../other/messenger.md), [Michael](../other/michael.md), [ruler, rulers, rule](../other/ruler.md), [servant, slave, slavery](../other/servant.md))
 
