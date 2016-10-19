@@ -28,4 +28,3 @@ The term "prison" refers to a place where criminals are kept as a punishment for
 * [Matthew 14:3-5](https://door43.org/en/bible/notes/mat/14/03)
 * [Matthew 25:34-36](https://door43.org/en/bible/notes/mat/25/34)
 
-~~NOCACHE~~

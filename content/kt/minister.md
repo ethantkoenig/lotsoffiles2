@@ -26,4 +26,3 @@ In the Bible, the terms "minister" and "ministry" refer to serving others by tea
 * [Acts 06:2-4](https://door43.org/en/bible/notes/act/06/02)
 * [Acts 21:17-19](https://door43.org/en/bible/notes/act/21/17)
 
-~~NOCACHE~~

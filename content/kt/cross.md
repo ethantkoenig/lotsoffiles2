@@ -36,4 +36,3 @@ In Bible times, a cross was an upright wooden post stuck into the ground, with a
 * __[49-12](https://door43.org/en/obs/notes/frames/49-12)__ You must believe that Jesus is the Son of God, that he died on the __cross__  instead of you, and that God raised him to life again.
 
 
-~~NOCACHE~~

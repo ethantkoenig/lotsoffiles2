@@ -21,4 +21,3 @@ Abel was Adam and Eve's second son. He was Cain's younger brother.
 * [Luke 11:49-51](https://door43.org/en/bible/notes/luk/11/49)
 * [Matthew 23:34-36](https://door43.org/en/bible/notes/mat/23/34)
 
-~~NOCACHE~~

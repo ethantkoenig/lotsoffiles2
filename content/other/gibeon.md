@@ -25,4 +25,3 @@ Gibeon was a city that was located about 13 kilometers northwest of Jerusalem. T
 
 
 
-~~NOCACHE~~

@@ -51,4 +51,3 @@ A "prophet" is a man who speaks God's messages to people. A woman who does this 
 *
 
 
-~~NOCACHE~~

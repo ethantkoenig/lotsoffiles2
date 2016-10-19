@@ -40,4 +40,3 @@ The terms "suffer" and "suffering" refer to experiencing something very unpleasa
 * __[50-17](https://door43.org/en/obs/notes/frames/50-17)__ He (Jesus) will wipe away every tear and there will be no more __suffering__, sadness, crying, evil, pain, or death.
 
 
-~~NOCACHE~~

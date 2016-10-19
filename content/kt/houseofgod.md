@@ -25,4 +25,3 @@ In the Bible, the phrases "house of God" (God's house) and "house of Yahweh (Yah
 * [Mark 02:25-26](https://door43.org/en/bible/notes/mrk/02/25)
 * [Matthew 12:3-4](https://door43.org/en/bible/notes/mat/12/03)
 
-~~NOCACHE~~

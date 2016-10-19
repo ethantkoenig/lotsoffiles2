@@ -25,4 +25,3 @@ The term "unfaithful" describes people who do not do what God has commanded them
 * [Leviticus 26:40-42](https://door43.org/en/bible/notes/lev/26/40)
 * [Luke 12:45-46](https://door43.org/en/bible/notes/luk/12/45)
 
-~~NOCACHE~~

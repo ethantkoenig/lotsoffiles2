@@ -26,4 +26,3 @@ Bread is a food made from flour mixed with water and oil to form a dough. The do
 * [Matthew 04:1-4](https://door43.org/en/bible/notes/mat/04/01)
 * [Matthew 11:18-19](https://door43.org/en/bible/notes/mat/11/18)
 
-~~NOCACHE~~

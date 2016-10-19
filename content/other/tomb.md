@@ -32,4 +32,3 @@ The terms "tomb" and "grave" refer to a place where people put the body of a per
 * __[41-05](https://door43.org/en/obs/notes/frames/41-05)__ When the women arrived at the __tomb__, the angel told them, "Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the __tomb__  and see." The women looked into the __tomb__  and saw where Jesus' body had been laid. His body was not there!
 
 
-~~NOCACHE~~

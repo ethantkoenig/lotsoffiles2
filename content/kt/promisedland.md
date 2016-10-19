@@ -31,4 +31,3 @@ The term "Promised Land" only occurs in the Bible Stories, not the Bible text. I
 * __[20-09](https://door43.org/en/obs/notes/frames/20-09)__ This period of time when God's people were forced to leave the __Promised Land__  is called the Exile.
 {{tag>publish ktobs ktlink}
 
-~~NOCACHE~~

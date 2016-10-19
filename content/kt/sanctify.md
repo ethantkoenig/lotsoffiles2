@@ -25,4 +25,3 @@ To sanctify is to set apart or to make holy. Sanctification is the process of be
 * [Luke 11:2](https://door43.org/en/bible/notes/luk/11/02)
 * [Matthew 06:8-10](https://door43.org/en/bible/notes/mat/06/08)
 
-~~NOCACHE~~

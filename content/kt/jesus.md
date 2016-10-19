@@ -55,4 +55,3 @@ Jesus is God's Son. The name "Jesus" means, "Yahweh saves." The term "Christ" is
 * __[50-17](https://door43.org/en/obs/notes/frames/50-17)____Jesus__  and his people will live on the new earth, and he will reign forever over everything that exists. He will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or death. __Jesus__  will rule his kingdom with peace and justice, and he will be with his people forever.
 
 
-~~NOCACHE~~

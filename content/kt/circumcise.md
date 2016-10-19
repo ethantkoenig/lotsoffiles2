@@ -40,4 +40,3 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
 * __[05-05](https://door43.org/en/obs/notes/frames/05-05)__ That day Abraham __circumcised__  all the males in his household.
 
 
-~~NOCACHE~~

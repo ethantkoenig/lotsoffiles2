@@ -37,4 +37,3 @@ The terms "pray" and "prayer" refer to talking with God. This term is also used 
 
 
 
-~~NOCACHE~~

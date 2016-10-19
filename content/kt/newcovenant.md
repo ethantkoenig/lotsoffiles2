@@ -32,4 +32,3 @@ The term "new covenant" refers to the commitment or agreement God made with his 
 * __[48-11](https://door43.org/en/obs/notes/frames/48-11)__ But God has now made a __New Covenant__  that is available to everyone. Because of this __New Covenant__, anyone from any people group can become part of God's people by believing in Jesus.
 
 
-~~NOCACHE~~

@@ -23,5 +23,5 @@ The terms "desolate" and "desolation" refer to destroying an inhabited region so
 * [Luke 11:16-17](https://door43.org/en/bible/notes/luk/11/16)
 * [Matthew 12:24-25](https://door43.org/en/bible/notes/mat/12/24)
 
-~~NOCACHE~~ 
+ 
 

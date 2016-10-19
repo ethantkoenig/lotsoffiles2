@@ -32,4 +32,3 @@ The term "authority" refers to the power of influence and control that someone h
 * [Matthew 28:18-19](https://door43.org/en/bible/notes/mat/28/18)
 * [Titus 03:1-2](https://door43.org/en/bible/notes/tit/03/01)
 
-~~NOCACHE~~

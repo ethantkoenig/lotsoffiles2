@@ -42,4 +42,3 @@ The term that is translated as "heaven" refers to where God lives. The same word
 * __[42-11](https://door43.org/en/obs/notes/frames/42-11)__ Then Jesus went up to __heaven__, and a cloud hid him from their sight.
 
 
-~~NOCACHE~~

@@ -42,4 +42,3 @@ A "miracle" is something amazing that is not possible unless God causes it to ha
 * __[49-02](https://door43.org/en/obs/notes/frames/49-02)__ Jesus did many __miracles__  that prove he is God. He walked on water, calmed storms, healed many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
 
 
-~~NOCACHE~~

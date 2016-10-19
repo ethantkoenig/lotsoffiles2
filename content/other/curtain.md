@@ -24,5 +24,5 @@ In the Bible, the term "curtain" refers to a very thick, heavy piece of material
 * [Numbers 04:5-6](https://door43.org/en/bible/notes/num/04/05)
 
  
-~~NOCACHE~~ 
+ 
 
