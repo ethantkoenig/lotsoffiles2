@@ -1,4 +1,4 @@
-u# dove, pigeon #
+# dove, pigeon #
 
 ## Definition: ##
 
