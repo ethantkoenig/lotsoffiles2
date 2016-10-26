@@ -19,7 +19,7 @@ The term "Son of God" refers to Jesus, the Word of God who came into the world a
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [Christ, Messiah](../kt/christ.md), [ancestor, father, forefather](../other/father.md), [God](../kt/god.md), [God the Father, heavenly Father, Father](../kt/godthefather.md), [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md), [../kt/jesus], [son, son of](../kt/son.md), [sons of God](../kt/sonsofgod.md)))
+(See also: [Christ, Messiah](../kt/christ.md), [ancestor, father, forefather](../other/father.md), [God](../kt/god.md), [God the Father, heavenly Father, Father](../kt/godthefather.md), [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md), [Jesus, Jesus Christ, Christ Jesus](../kt/jesus.md), [son, son of](../kt/son.md), [sons of God](../kt/sonsofgod.md))
 
 ## Bible References: ##
 
