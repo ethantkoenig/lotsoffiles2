@@ -17,7 +17,7 @@ The terms "Hades" and "Sheol" are used in the Bible to refer to death and the pl
 
 (Translation suggestions: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [death](../kt/death.md)* [heaven](../kt/heaven.md)* [hell](../kt/hell.md)* [tomb](../kt/other/tomb.md))
+(See also: [death](../kt/death.md) **·** [heaven](../kt/heaven.md) **·** [hell](../kt/hell.md) **·** [tomb](../kt/other/tomb.md))
 
 ## Bible References: ##
 
