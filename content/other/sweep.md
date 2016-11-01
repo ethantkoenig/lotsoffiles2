@@ -9,7 +9,7 @@ The terms "sweep" and "swept" usually refer to a broad, quick movement to remove
 * The term "sweep" can also be used to describe the manner in which rapidly flowing water pushes things and forces them away.
 * To have something "sweep over" a person means that overwhelming, difficult things are happening to him.
 
-(See also: [assyria](../other/assyria.md), [isaiah](../other/isaiah.md), [judah](../other/judah.md), [prophet](../kt/prophet.md))
+(See also: [assyria](../other/assyria.md) **·** [isaiah](../other/isaiah.md) **·** [judah](../other/judah.md) **·** [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

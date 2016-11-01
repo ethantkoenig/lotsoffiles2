@@ -17,7 +17,7 @@ The term "Lord" refers to someone who has ownership or authority over people. Wh
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [god](../kt/god.md), [jesus](../kt/jesus.md), [lord](../kt/lord.md), [ruler](../other/ruler.md), [yahweh](../kt/yahweh.md))
+(See also: [god](../kt/god.md) **·** [jesus](../kt/jesus.md) **·** [lord](../kt/lord.md) **·** [ruler](../other/ruler.md) **·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The term "magic" refers to the practice of using supernatural power that does no
 * God commands his people to not do any of these practices of magic or divination.
 * A sorcerer is a type of magician, usually one who uses magic to do harm to others.
 
-(See also: [divination](../other/divination.md), [egypt](../other/egypt.md), [pharaoh](../other/pharaoh.md), [power](../kt/power.md), [sorcery](../other/sorcery.md))
+(See also: [divination](../other/divination.md) **·** [egypt](../other/egypt.md) **·** [pharaoh](../other/pharaoh.md) **·** [power](../kt/power.md) **·** [sorcery](../other/sorcery.md))
 
 ## Bible References: ##
 

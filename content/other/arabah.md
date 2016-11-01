@@ -10,7 +10,7 @@ The Old Testament term "Arabah" often refers to a very large desert and plains r
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [desert, wilderness](../other/desert.md), [Red Sea, Sea of Reeds](../other/redsea.md), [Jordan River](../other/jordanriver.md), [Canaan, Canaanite](../other/canaan.md), [Salt Sea, Dead Sea](../other/saltsea.md), [Egypt, Egyptian](../other/egypt.md))
+(See also: [desert, wilderness](../other/desert.md) **·** [Red Sea, Sea of Reeds](../other/redsea.md) **·** [Jordan River](../other/jordanriver.md) **·** [Canaan, Canaanite](../other/canaan.md) **·** [Salt Sea, Dead Sea](../other/saltsea.md) **·** [Egypt, Egyptian](../other/egypt.md))
 
 ## Bible References: ##
 

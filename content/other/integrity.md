@@ -12,7 +12,7 @@ The term "integrity" refers to being honest, with strong moral principles and be
 
 * The term "integrity" could also be translated as, "honesty" or "moral uprightness" or "behaving truthfully" or "acting in a trustworthy, honest manner."
 
-(See also: [daniel](../other/daniel.md), [josephot](../other/josephot.md))
+(See also: [daniel](../other/daniel.md) **·** [josephot](../other/josephot.md))
 
 ## Bible References: ##
 

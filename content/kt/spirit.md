@@ -25,7 +25,7 @@ The term "spirit" refers to the non-physical part of people which cannot be seen
 * The phrase "spiritual maturity" could be translated as "godly behavior that shows obedience to the Holy Spirit."
 * A "spiritual gift" could be translated as, "special ability that the Holy Spirit gives."
 
-(See also: [angel](../kt/angel.md), [demon](../kt/demon.md), [holyspirit](../kt/holyspirit.md), [soul](../kt/soul.md))
+(See also: [angel](../kt/angel.md) **·** [demon](../kt/demon.md) **·** [holyspirit](../kt/holyspirit.md) **·** [soul](../kt/soul.md))
 
 ## Bible References: ##
 

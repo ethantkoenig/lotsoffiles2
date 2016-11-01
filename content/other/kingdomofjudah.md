@@ -9,7 +9,7 @@ The tribe of Judah was the largest of the twelve tribes of Israel. The kingdom o
 * Eight kings of Judah obeyed Yahweh and led the people to worship him. The other kings of Judah were evil and led the people to worship idols.
 * Over 120 years after Assyria defeated Israel (the northern kingdom), Judah was conquered by the nation of Babylon. The Babylonians destroyed the city and the temple, and took most of the people of Judah to Babylon as captives.
 
-(See also: [judah](../other/judah.md), [saltsea](../other/saltsea.md))
+(See also: [judah](../other/judah.md) **·** [saltsea](../other/saltsea.md))
 
 ## Bible References: ##
 

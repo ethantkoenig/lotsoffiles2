@@ -9,7 +9,7 @@ The terms "persevere" and "perseverance" refer to continuing to do something eve
 * Continuing to believe what God teaches requires perseverance, especially when faced with false teachings.
 * Be careful not to use a word like "stubborn" which usually has a negative meaning.
 
-(See also: [patient](../other/patient.md), [trial](../other/trial.md))
+(See also: [patient](../other/patient.md) **·** [trial](../other/trial.md))
 
 ## Bible References: ##
 

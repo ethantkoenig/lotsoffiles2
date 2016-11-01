@@ -15,7 +15,7 @@ The term "exile" refers to people being forced to live somewhere away from their
 * The term "the Exile" could be translated with a word or phrase that means, "the sent away time" or "the time of banishment" or "the time of forced absence" or "banishment."
 * Ways to translate "the exiles" could include, "the exiled people" or "the people who were banished" or "the people exiled to Babylon."
 
-(See also: [babylon](../other/babylon.md), [kingdomofjudah](../other/kingdomofjudah.md))
+(See also: [babylon](../other/babylon.md) **·** [kingdomofjudah](../other/kingdomofjudah.md))
 
 ## Bible References: ##
 

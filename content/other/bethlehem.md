@@ -9,7 +9,7 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
 * Fulfilling that prophecy, Jesus was born in Bethlehem, many years later.
 * The name "Bethlehem" means "house of bread" or "house of food."
 
-(See also: [caleb](../other/caleb.md), [david](../other/david.md), [micah](../other/micah.md))
+(See also: [caleb](../other/caleb.md) **·** [david](../other/david.md) **·** [micah](../other/micah.md))
 
 ## Bible References: ##
 

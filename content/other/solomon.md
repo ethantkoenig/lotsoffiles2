@@ -11,7 +11,7 @@ Solomon was one of King David's sons. His mother was Bathsheba.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [bathsheba](../other/bathsheba.md), [david](../other/david.md), [israel](../other/israel.md), [kingdomofjudah](../other/kingdomofjudah.md), [kingdomofisrael](../other/kingdomofisrael.md), [temple](../kt/temple.md))
+(See also: [bathsheba](../other/bathsheba.md) **·** [david](../other/david.md) **·** [israel](../other/israel.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

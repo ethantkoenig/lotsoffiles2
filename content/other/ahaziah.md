@@ -9,7 +9,7 @@ Ahaziah was the name of two kings: one ruled over the kingdom of Israel, the oth
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [jehu](../other/jehu.md), [ahab](../other/ahab.md),[jeroboam](../other/jeroboam.md), [joash](../other/joash.md))
+(See also: [jehu](../other/jehu.md) **·** [ahab](../other/ahab.md),[jeroboam](../other/jeroboam.md) **·** [joash](../other/joash.md))
 
 ## Bible References: ##
 

@@ -8,7 +8,7 @@ The term "humiliate" means to cause someone to feel shamed or disgraced. This is
 * To "humiliate" could also be translated as to "shame" or to "cause to feel shame" or "embarrass."
 * Depending on the context, ways to translate "humiliation" could include, "shame" or "degrading" or "disgrace."
 
-(See also: [disgrace](../other/disgrace.md), [humble](../other/humble.md), [shame](../other/shame.md))
+(See also: [disgrace](../other/disgrace.md) **·** [humble](../other/humble.md) **·** [shame](../other/shame.md))
 
 ## Bible References: ##
 

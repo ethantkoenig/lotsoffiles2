@@ -20,7 +20,7 @@ The term "son" refers to a boy or man in relation to his parents. It can refer e
 * Sometimes "sons" can be translated as "children," when both males and females are being referred to. For example, "sons of God" could be translated as "children of God" since this expression also includes girls and women.
 * The figurative expression "son of" could also be translated as "someone who has the characteristics of" or "someone who is like" or "someone who has" or "someone who acts like."
 
-(See also: [azariah](../other/azariah.md), [descendant](../other/descendant.md), [father](../other/father.md), [firstborn](../kt/firstborn.md), [sonofgod](../kt/sonofgod.md), [sonsofgod](../kt/sonsofgod.md))
+(See also: [azariah](../other/azariah.md) **·** [descendant](../other/descendant.md) **·** [father](../other/father.md) **·** [firstborn](../kt/firstborn.md) **·** [sonofgod](../kt/sonofgod.md) **·** [sonsofgod](../kt/sonsofgod.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ the term "commander" refers to a leader of an army who is responsible for leadin
 * Other ways to translate "commander" could include, "leader" or "captain" or "officer."
 * The term "to command" an army could be translated as "to lead" or "to be in charge of."
 
-(See also: [command](../other/command.md), [ruler](../other/ruler.md), [centurion](../other/centurion.md))
+(See also: [command](../other/command.md) **·** [ruler](../other/ruler.md) **·** [centurion](../other/centurion.md))
 
 ## Bible References: ##
 

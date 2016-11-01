@@ -16,7 +16,7 @@ The term "unrighteous" means to be sinful and morally corrupt. "Unrighteousness"
 * The term "unrighteousness" could be translated as "sin" or "evil thoughts and actions" or "wickedness."
 * If possible, it is best to translate this in a way that shows its relationship to "righteous, righteousness."
 
-(See also: [righteous](../kt/righteous.md), [unjust](../kt/unjust.md), [sin](../kt/sin.md), [unlawful](../kt/unlawful.md))
+(See also: [righteous](../kt/righteous.md) **·** [unjust](../kt/unjust.md) **·** [sin](../kt/sin.md) **·** [unlawful](../kt/unlawful.md))
 
 ## Bible References: ##
 

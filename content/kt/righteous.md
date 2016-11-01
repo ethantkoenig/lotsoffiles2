@@ -17,7 +17,7 @@ The terms "righteous" and "righteousness" refer to God's absolute goodness, just
 * Depending on the context, "righteousness" could also be translated with a word or phrase that means,  "goodness" or "being perfect before God" or "acting in a right way by obeying God" or "doing perfectly good 
 * Sometimes "the righteous" is used figuratively and refers to "people who think they are good" or "people who seem to be righteous."
 
-(See also: [good](../kt/good.md), [holy](../kt/holy.md), [evil](../kt/evil.md), [justice](../kt/justice.md), [faithful](../kt/faithful.md))
+(See also: [good](../kt/good.md) **·** [holy](../kt/holy.md) **·** [evil](../kt/evil.md) **·** [justice](../kt/justice.md) **·** [faithful](../kt/faithful.md))
 
 ## Bible References: ##
 

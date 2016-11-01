@@ -12,7 +12,7 @@ A "sheep" is a medium-sized animal with four legs that has wool all over its bod
 
 (Translation suggestions: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [israel](../other/israel.md), [lamb](../kt/lamb.md), [sacrifice](../other/sacrifice.md), [shepherd](../other/shepherd.md))
+(See also: [israel](../other/israel.md) **·** [lamb](../kt/lamb.md) **·** [sacrifice](../other/sacrifice.md) **·** [shepherd](../other/shepherd.md))
 
 ## Bible References: ##
 

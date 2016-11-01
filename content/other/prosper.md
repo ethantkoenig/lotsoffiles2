@@ -12,7 +12,7 @@ The term "prosper" generally refers to living well and can refer to prospering p
 * The term "prosperous" could also be translated as "successful" or "wealthy" or "spiritually fruitful."
 * "Prosperity" could also be translated as, "well-being" or "wealth" or "success" or "abundant blessings."
 
-(See also: [bless](../kt/bless.md), [fruit](../kt/fruit.md), [spirit](../kt/spirit.md))
+(See also: [bless](../kt/bless.md) **·** [fruit](../kt/fruit.md) **·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

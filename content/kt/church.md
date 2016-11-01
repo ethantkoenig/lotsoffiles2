@@ -17,7 +17,7 @@ In the New Testament, the term "church" refers to a local group of believers in 
 * The term used to translate "assembly" in the Old Testament could also be used to translate this term.
 * Also consider how it is translated in a local or national Bible translation. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md).)
 
-(See also: [assembly](../kt/assembly.md), [believer](../kt/believer.md), [christian](../kt/christian.md))
+(See also: [assembly](../kt/assembly.md) **·** [believer](../kt/believer.md) **·** [christian](../kt/christian.md))
 
 ## Bible References: ##
 

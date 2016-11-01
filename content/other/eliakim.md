@@ -10,7 +10,7 @@ Eliakim was the name of two men in the Old Testament.
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [hezekiah](../other/hezekiah.md), [jehoiakim](../other/jehoiakim.md), [josiah](../other/josiah.md), [pharaoh](../other/pharaoh.md))
+(See also: [hezekiah](../other/hezekiah.md) **·** [jehoiakim](../other/jehoiakim.md) **·** [josiah](../other/josiah.md) **·** [pharaoh](../other/pharaoh.md))
 
 ## Bible References: ##
 

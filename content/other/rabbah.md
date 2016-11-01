@@ -8,7 +8,7 @@ Rabbah was the most important city of the Ammonite people.
 * Israel's King David captured Rabbah as one of his last conquests.
 * The modern-day city Amman Jordan is now where Rabbah used to be located.
 
-(See also: [ammon](../other/ammon.md), [david](../other/david.md))
+(See also: [ammon](../other/ammon.md) **·** [david](../other/david.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ The term "precious" describes people or things that are considered to be very va
 * Peter wrote that a gentle and quiet spirit is precious in God's sight (1 Peter 3:4).
 * This term could also be translated as, "valuable" or "very dear" or "cherished" or "highly valued."
 
-(See also: [gold](../other/gold.md), [silver](../other/silver.md))
+(See also: [gold](../other/gold.md) **·** [silver](../other/silver.md))
 
 ## Bible References: ##
 

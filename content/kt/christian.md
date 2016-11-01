@@ -16,7 +16,7 @@ Some time after Jesus went back to heaven, people made up the name "Christian" w
 * Be careful to translate this term with a word that can refer to everyone who believes in Jesus, not just certain groups.
 * Also consider how this term is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [antioch](../other/antioch.md), [christ](../kt/christ.md), [church](../kt/church.md), [disciple](../kt/disciple.md), [believer](../kt/believer.md), [jesus](../kt/jesus.md), [sonofgod](../kt/sonofgod.md))
+(See also: [antioch](../other/antioch.md) **·** [christ](../kt/christ.md) **·** [church](../kt/church.md) **·** [disciple](../kt/disciple.md) **·** [believer](../kt/believer.md) **·** [jesus](../kt/jesus.md) **·** [sonofgod](../kt/sonofgod.md))
 
 ## Bible References: ##
 

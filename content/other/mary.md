@@ -15,7 +15,7 @@ Mary was a young woman living in the city of Nazareth who was pledged to be marr
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [cana](../other/cana.md), [egypt](../other/egypt.md), [herodthegreat](../other/herodthegreat.md), [jesus](../kt/jesus.md), [josephnt](../other/josephnt.md), [sonofgod](../kt/sonofgod.md), [virgin](../other/virgin.md))
+(See also: [cana](../other/cana.md) **·** [egypt](../other/egypt.md) **·** [herodthegreat](../other/herodthegreat.md) **·** [jesus](../kt/jesus.md) **·** [josephnt](../other/josephnt.md) **·** [sonofgod](../kt/sonofgod.md) **·** [virgin](../other/virgin.md))
 
 ## Bible References: ##
 

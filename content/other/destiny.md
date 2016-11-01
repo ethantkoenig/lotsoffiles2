@@ -16,7 +16,7 @@ The term "destiny" refers to what will happen to people in the future. If someon
 * The phrase, "you are destined for," could be translated using a phrase like, "God has decided that you will be."
 * Depending on the context, "destiny" could be translated as "final end" or "what will happen in the end" or "what God has decided will happen."
 
-(See also: [captive](../other/captive.md), [eternity](../kt/eternity.md), [heaven](../kt/heaven.md), [hell](../kt/hell.md), [johnthebaptist](../other/johnthebaptist.md), [repent](../kt/repent.md),)
+(See also: [captive](../other/captive.md) **·** [eternity](../kt/eternity.md) **·** [heaven](../kt/heaven.md) **·** [hell](../kt/hell.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [repent](../kt/repent.md),)
 
 ## Bible References: ##
 

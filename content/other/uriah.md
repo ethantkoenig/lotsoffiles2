@@ -11,7 +11,7 @@ Uriah was a righteous man and one of King David's best soldiers. He is often ref
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ahaz](../other/ahaz.md), [bathsheba](../other/bathsheba.md), [david](../other/david.md), [hittite](../other/hittite.md))
+(See also: [ahaz](../other/ahaz.md) **·** [bathsheba](../other/bathsheba.md) **·** [david](../other/david.md) **·** [hittite](../other/hittite.md))
 
 ## Bible References: ##
 

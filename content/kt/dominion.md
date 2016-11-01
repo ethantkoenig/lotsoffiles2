@@ -13,7 +13,7 @@ The term "dominion" refers to power, control, or authority over people, animals,
 * Depending on the context, other Ways to translate this term could include "authority" or "power" or "control."
 * The phrase "have dominion over" could be translated as, "rule over" or "manage."
 
-(See also: [authority](../kt/authority.md), [power](../kt/power.md))
+(See also: [authority](../kt/authority.md) **·** [power](../kt/power.md))
 
 ## Bible References: ##
 

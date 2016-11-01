@@ -12,7 +12,7 @@ The terms "stronghold" and "fortress" both refer to places that are well protect
 * Another figurative meaning for the term "stronghold" refers to something that someone wrongly trusts in for security, such as a false god or other thing that is worshiped instead of Yahweh. This could be translated as, "false strongholds."
 * This term should be translated differently from "refuge," which emphasizes safety more than the concept of being fortified.
 
-(See also: [falsegod](../kt/falsegod.md), [idol](../other/idol.md), [refuge](../kt/refuge.md), [yahweh](../kt/yahweh.md))
+(See also: [falsegod](../kt/falsegod.md) **·** [idol](../other/idol.md) **·** [refuge](../kt/refuge.md) **·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

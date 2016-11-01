@@ -13,7 +13,7 @@ The term,"judgment day" refers to a future time when God will judge every person
 * Other ways to translate this term could include, "the end time when God will judge all people."
 * Some translations capitalize this term to show that it is the name of a special day or time: "Judgment Day" or "Judgment Time."
 
-(See also: [judge, judgment](../kt/judge.md), [Jesus, Jesus Christ, Christ Jesus](../kt/jesus.md), [heaven, sky, heavens, heavenly](../kt/heaven.md), [hell, lake of fire](../kt/hell.md))
+(See also: [judge, judgment](../kt/judge.md) **·** [Jesus, Jesus Christ, Christ Jesus](../kt/jesus.md) **·** [heaven, sky, heavens, heavenly](../kt/heaven.md) **·** [hell, lake of fire](../kt/hell.md))
 
 ## Bible References: ##
 

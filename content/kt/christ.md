@@ -21,7 +21,7 @@ The terms "Messiah" and "Christ" mean "Anointed One" and refer to Jesus, God's S
 
 (See also: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [sonofgod](../kt/sonofgod.md), [david](../other/david.md), [jesus](../kt/jesus.md), [anoint](../kt/anoint.md))
+(See also: [sonofgod](../kt/sonofgod.md) **·** [david](../other/david.md) **·** [jesus](../kt/jesus.md) **·** [anoint](../kt/anoint.md))
 
 ## Bible References: ##
 

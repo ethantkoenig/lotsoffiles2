@@ -11,7 +11,7 @@ Terah was a descendant of Noah's son, Shem. He was the father of Abram, Nahor an
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abraham](../other/abraham.md), [canaan](../other/canaan.md), [haran](../other/haran.md), [lot](../other/lot.md), [mesopotamia](../other/mesopotamia.md), [nahor](../other/nahor.md), [sarah](../other/sarah.md), [shem](../other/shem.md), [ur](../other/ur.md))
+(See also: [abraham](../other/abraham.md) **·** [canaan](../other/canaan.md) **·** [haran](../other/haran.md) **·** [lot](../other/lot.md) **·** [mesopotamia](../other/mesopotamia.md) **·** [nahor](../other/nahor.md) **·** [sarah](../other/sarah.md) **·** [shem](../other/shem.md) **·** [ur](../other/ur.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Mary Magdalene was one of several women who believed in Jesus and followed him i
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [demon, evil spirit, unclean spirit](../kt/demon.md), [demon-possessed](../kt/demonpossessed.md))
+(See also: [demon, evil spirit, unclean spirit](../kt/demon.md) **·** [demon-possessed](../kt/demonpossessed.md))
 
 ## Bible References: ##
 

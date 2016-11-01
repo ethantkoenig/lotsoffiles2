@@ -11,7 +11,7 @@ Cyprus is an island in the Mediterranean Sea, about 64 kilometers south of the m
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [barnabas](../other/barnabas.md), [johnmark](../other/johnmark.md), [mediterranean](../other/mediterranean.md))
+(See also: [barnabas](../other/barnabas.md) **·** [johnmark](../other/johnmark.md) **·** [mediterranean](../other/mediterranean.md))
 
 ## Bible References: ##
 

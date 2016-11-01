@@ -10,7 +10,7 @@ Mount Hermon is the name of the tallest mountain in Israel at the southern tip o
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [israel](../other/israel.md), [seaofgalilee](../other/seaofgalilee.md), [syria](../other/syria.md))
+(See also: [israel](../other/israel.md) **·** [seaofgalilee](../other/seaofgalilee.md) **·** [syria](../other/syria.md))
 
 ## Bible References: ##
 

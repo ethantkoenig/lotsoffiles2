@@ -16,7 +16,7 @@ These terms refer to treating people fairly according to God's laws. Human laws 
 * To "act justly" could be translated as, "treat fairly" or "behave in a just way."
 * In some contexts, "just" could be translated as, "righteous" or "upright."
 
-(See also: [judge, judgment](../kt/judge.md), [righteous](../kt/righteous.md), [upright](../kt/upright.md))
+(See also: [judge, judgment](../kt/judge.md) **·** [righteous](../kt/righteous.md) **·** [upright](../kt/upright.md))
 
 ## Bible References: ##
 

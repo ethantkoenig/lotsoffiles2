@@ -12,7 +12,7 @@ The term "unbelief" refers to not believing something or someone.
 * Other ways to translate "unbelief" could include, "lack of faith" or "not believing."
 * The term "unbeliever" could be translated as "person who does not believe in Jesus" or "someone who does not trust in Jesus as Savior."
 
-(See also: [believer](../kt/believer.md), [believe](../kt/believe.md),  [trust](../kt/trust.md))
+(See also: [believer](../kt/believer.md) **·** [believe](../kt/believe.md) **·** [trust](../kt/trust.md))
 
 ## Bible References: ##
 

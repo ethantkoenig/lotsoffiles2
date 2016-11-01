@@ -10,7 +10,7 @@ Antioch was the name of two cities in the New Testament. One was in Syria, near 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-[barnabas](../other/barnabas.md), [colossae](../other/colossae.md), [johnmark](../other/johnmark.md), [paul](../other/paul.md), [province](../other/province.md),  [rome](../other/rome.md), [syria](../other/syria.md)   
+[barnabas](../other/barnabas.md) **·** [colossae](../other/colossae.md) **·** [johnmark](../other/johnmark.md) **·** [paul](../other/paul.md) **·** [province](../other/province.md) **·** [rome](../other/rome.md) **·** [syria](../other/syria.md)   
 
 ## Bible References: ##
 

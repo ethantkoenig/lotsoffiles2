@@ -12,7 +12,7 @@
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md)) 
 
-(See also: [ahab](../other/ahab.md), [asherah](../other/asherah.md), [elijah](../other/elijah.md),  [falsegod](../kt/falsegod.md), [prostitute](../other/prostitute.md), [yahweh](../kt/yahweh.md))
+(See also: [ahab](../other/ahab.md) **·** [asherah](../other/asherah.md) **·** [elijah](../other/elijah.md) **·** [falsegod](../kt/falsegod.md) **·** [prostitute](../other/prostitute.md) **·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

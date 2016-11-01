@@ -8,7 +8,7 @@ The term "awe" refers to the sense of amazement and deep respect that comes from
 * The visions of the glory of God seen by the prophet Ezekiel were "awesome" or "awe-inspiring."
 * Typical human responses showing awe of God's presence include: fear, bowing or kneeling down, covering the face, and trembling.
 
-(See also: [fear](../kt/fear.md), [glory](../kt/glory.md))
+(See also: [fear](../kt/fear.md) **·** [glory](../kt/glory.md))
 
 ## Bible References: ##
 

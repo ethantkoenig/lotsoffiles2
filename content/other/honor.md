@@ -15,7 +15,7 @@ The terms "honor" and "to honor" refer to giving someone respect, esteem, or rev
 * Other ways to translate "honor" could include, "respect" or "esteem" or "high regard."
 * The term "to honor" could be translated as "to show special respect to" or "to cause to be praised" or "to show high regard for" or "to highly value."
  
-(See also: [dishonor](../other/dishonor.md), [glory](../kt/glory.md), [glorify](../kt/glorify.md), [praise](../other/praise.md))
+(See also: [dishonor](../other/dishonor.md) **·** [glory](../kt/glory.md) **·** [glorify](../kt/glorify.md) **·** [praise](../other/praise.md))
 
 ## Bible References: ##
 

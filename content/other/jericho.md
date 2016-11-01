@@ -8,7 +8,7 @@ Jericho was a powerful city in the land of Canaan. It was located just west of t
 * Jericho was the first city in the land of Canaan that God told the Israelites to conquer.
 * When Joshua led the Israelites against Jericho, God did a great miracle to help them defeat the city.
 
-(See also: [canaan](../other/canaan.md), [jordanriver](../other/jordanriver.md), [joshua](../other/joshua.md), [miracle](../kt/miracle.md), [saltsea](../other/saltsea.md))
+(See also: [canaan](../other/canaan.md) **·** [jordanriver](../other/jordanriver.md) **·** [joshua](../other/joshua.md) **·** [miracle](../kt/miracle.md) **·** [saltsea](../other/saltsea.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Leah was one of Jacob's wives. She was the mother of ten of Jacob's sons whose d
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [jacob](../other/jacob.md), [judah](../other/judah.md), [laban](../other/laban.md), [rachel](../other/rachel.md), [rebekah](../other/rebekah.md),  [12tribesofIsrael](../other/12tribesofIsrael.md))
+(See also: [jacob](../other/jacob.md) **·** [judah](../other/judah.md) **·** [laban](../other/laban.md) **·** [rachel](../other/rachel.md) **·** [rebekah](../other/rebekah.md) **·** [12tribesofIsrael](../other/12tribesofIsrael.md))
 
 ## Bible References: ##
 

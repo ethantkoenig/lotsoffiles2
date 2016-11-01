@@ -12,7 +12,7 @@ The term "discern" means to be able to understand something, especially being ab
 * Depending on the context, "discern" could also be translated as "understand" or "know the difference between" or "distinguish good and evil" or "judge rightly about" or "perceive right from wrong."
 * "Discernment" could be translated as, "understanding" or "ability to distinguish good and evil."
 
-(See also: [judge](../kt/judge.md), [wise, wisdom](../kt/wise.md))
+(See also: [judge](../kt/judge.md) **·** [wise, wisdom](../kt/wise.md))
 
 ## Bible References: ##
 

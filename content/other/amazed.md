@@ -11,7 +11,7 @@ All these terms refer to being very surprised because of something extraordinary
 * Related words include: "marvelous" (amazing, wonderful), "amazement," and "astonishment."
 * In general, these terms are positive and express that the people were happy about what had happened.
 
-(See also: [miracle](../kt/miracle.md), [sign](../kt/sign.md))
+(See also: [miracle](../kt/miracle.md) **·** [sign](../kt/sign.md))
 
 ## Bible References: ##
 

@@ -15,7 +15,7 @@ The term "set apart" means to be separated from something to fulfill a certain p
 * Ways to translate "to set apart" could include, "to specially select" or "to separate from among you" or "to take aside to do a special task."
 * To "be set apart" could be translated as "be separated (from)" or "be specially appointed (for)."
 
-(See also:[holy](../kt/holy.md), [sanctify](../kt/sanctify.md), [appoint](../kt/appoint.md))
+(See also:[holy](../kt/holy.md) **·** [sanctify](../kt/sanctify.md) **·** [appoint](../kt/appoint.md))
 
 ## Bible References: ##
 

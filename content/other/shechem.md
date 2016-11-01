@@ -10,7 +10,7 @@ Shechem is a town in Canaan located about 40 miles north of Jerusalem. Shechem i
 
 (Translation suggestions: [hamor](../other/hamor.md)
 
-(See also: [canaan](../other/canaan.md), [esau](../other/esau.md), [hamor](../other/hamor.md), [hivite](../other/hivite.md), [jacob](../other/jacob.md))
+(See also: [canaan](../other/canaan.md) **·** [esau](../other/esau.md) **·** [hamor](../other/hamor.md) **·** [hivite](../other/hivite.md) **·** [jacob](../other/jacob.md))
 
 ## Bible References: ##
 

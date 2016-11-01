@@ -8,7 +8,7 @@ Self-control is the ability to control one's behavior in order to avoid sinning.
 * Self-control is a fruit or characteristic that the Holy Spirit gives to Christians.
 * A person who is using self-control is able to stop himself from doing something wrong that he may want to do. God is the one who enables a person to have self-control.
 
-(See also: [fruit](../kt/fruit.md), [holyspirit](../kt/holyspirit.md))
+(See also: [fruit](../kt/fruit.md) **·** [holyspirit](../kt/holyspirit.md))
 
 ## Bible References: ##
 

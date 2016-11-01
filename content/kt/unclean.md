@@ -17,7 +17,7 @@ In the Bible, the term "â€‹unclean"â€‹ is used figuratively to refer to things t
 * When referring to a demon as an unclean spirit, "unclean" could be translated as "evil" or "defiled."
 * The translation of this term should allow for spiritual uncleanness. It should be able to refer to anything that God declared as unfit for touching, eating, or sacrifice.
 
-(See also: [clean, cleanse](../kt/clean.md), [defile](../other/defile.md),  [demon, evil spirit, unclean spirit](../kt/demon.md), [holy, holiness](../kt/holy.md), [sacrifice, offering](../other/sacrifice.md), [unholy](../kt/unholy.md)) 
+(See also: [clean, cleanse](../kt/clean.md) **·** [defile](../other/defile.md) **·** [demon, evil spirit, unclean spirit](../kt/demon.md) **·** [holy, holiness](../kt/holy.md) **·** [sacrifice, offering](../other/sacrifice.md) **·** [unholy](../kt/unholy.md)) 
 
 ## Bible References: ##
 

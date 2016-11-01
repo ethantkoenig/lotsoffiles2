@@ -13,7 +13,7 @@ Hananiah was the name of several different men in the Old Testament.
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [azariah](../other/azariah.md), [babylon](../other/babylon.md), [daniel](../other/daniel.md), [falseprophet](../other/falseprophet.md), [jeremiah](../other/jeremiah.md), [mishael](../other/mishael.md), )
+(See also: [azariah](../other/azariah.md) **·** [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [falseprophet](../other/falseprophet.md) **·** [jeremiah](../other/jeremiah.md) **·** [mishael](../other/mishael.md), )
 
 ## Bible References: ##
 

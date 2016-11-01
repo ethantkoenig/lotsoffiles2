@@ -9,7 +9,7 @@ The term "push" literally means to physically move something away using force. T
 * To "push someone out" means to "get rid of" or "send away" that person.
 * The expression "push ahead" means to persevere or to continue doing something without really making sure it is right or safe.
 
-(See also: [oppress](../kt/oppress.md), [persecute](../other/persecute.md), [reject](../other/reject.md))
+(See also: [oppress](../kt/oppress.md) **·** [persecute](../other/persecute.md) **·** [reject](../other/reject.md))
 
 ## Bible References: ##
 

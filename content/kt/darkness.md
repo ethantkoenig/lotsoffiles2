@@ -18,7 +18,7 @@ The term "darkness" literally means an absence of light. There are also several 
 * For the figurative uses, it is also important to keep the image of darkness in contrast to light, as a way to describe evil and deception in contrast to goodness and truth.
 * Depending on the context, other ways to translate this could be, "darkness of night" (as opposed to "light of day") or "not seeing anything, like at night" or "evil, like a dark place".
 
-(See also: [corrupt, corruption](../kt/corrupt.md), [dominion](../kt/dominion.md), [kingdom](../other/kingdom.md), [light](../kt/light.md), [redeem, redemption](../kt/redeem.md), [righteous, righteousness](../kt/righteous.md))
+(See also: [corrupt, corruption](../kt/corrupt.md) **·** [dominion](../kt/dominion.md) **·** [kingdom](../other/kingdom.md) **·** [light](../kt/light.md) **·** [redeem, redemption](../kt/redeem.md) **·** [righteous, righteousness](../kt/righteous.md))
 
 ## Bible References: ##
 

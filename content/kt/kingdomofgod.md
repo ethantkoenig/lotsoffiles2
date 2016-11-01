@@ -16,7 +16,7 @@ The terms "kingdom of God" and "kingdom of heaven" both refer to God's rule and 
 * Some translations may prefer to capitalize "Heaven" to show that it refers to God. Others may include a note in the text such as, "kingdom of heaven (that is, 'of God')."
 * A footnote at the bottom of the page of a printed Bible may also be used to explain the meaning of "heaven" in this expression.
 
-(See also: [God](../kt/god.md), [heaven, sky, heavens, heavenly](../kt/heaven.md), [king](../other/king.md), [kingdom](../other/kingdom.md),  [King of the Jews](../kt/kingofthejews.md),  [reign](../other/reign.md))
+(See also: [God](../kt/god.md) **·** [heaven, sky, heavens, heavenly](../kt/heaven.md) **·** [king](../other/king.md) **·** [kingdom](../other/kingdom.md) **·** [King of the Jews](../kt/kingofthejews.md) **·** [reign](../other/reign.md))
 
 ## Bible References: ##
 

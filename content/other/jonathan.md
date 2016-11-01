@@ -9,7 +9,7 @@ Jonathan is the name of at least ten men in the Old Testament. The name means, "
 
 (See also: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abiathar](../other/abiathar.md), [david](../other/david.md), [moses](../other/moses.md),[jeremiah](../other/jeremiah.md), [priest](../kt/priest.md), [saul](../other/saul.md), [scribe](../other/scribe.md))
+(See also: [abiathar](../other/abiathar.md) **·** [david](../other/david.md) **·** [moses](../other/moses.md),[jeremiah](../other/jeremiah.md) **·** [priest](../kt/priest.md) **·** [saul](../other/saul.md) **·** [scribe](../other/scribe.md))
 
 ## Bible References: ##
 

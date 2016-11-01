@@ -10,7 +10,7 @@ Rage is excessive anger which is out of control. When someone rages, it means th
 * The "nations rage" refers to ungodly people who disobey God and rebel against him.
 * To be "filled with rage" means to have an overwhelming feeling of extreme anger.
 
-(See also: [angry](../other/angry.md), [selfcontrol](../other/selfcontrol.md), 
+(See also: [angry](../other/angry.md) **·** [selfcontrol](../other/selfcontrol.md), 
 
 ## Bible References: ##
 

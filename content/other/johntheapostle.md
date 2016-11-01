@@ -11,7 +11,7 @@ John was one of Jesus' twelve apostles and one of Jesus' closest friends.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [apostle](../kt/apostle.md), [reveal](../kt/reveal.md), [jamessonofzebedee](../other/jamessonofzebedee.md), [johnthebaptist](../other/johnthebaptist.md), [zebedee](../other/zebedee.md))
+(See also: [apostle](../kt/apostle.md) **·** [reveal](../kt/reveal.md) **·** [jamessonofzebedee](../other/jamessonofzebedee.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [zebedee](../other/zebedee.md))
 
 ## Bible References: ##
 

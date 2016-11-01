@@ -10,7 +10,7 @@ Rebekah was a grand-daughter of Abraham's brother Nahor.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abraham](../other/abraham.md), [aram](../other/aram.md), [esau](../other/esau.md), [isaac](../other/isaac.md), [jacob](../other/jacob.md), [nahor](../other/nahor.md), [negev](../other/negev.md))
+(See also: [abraham](../other/abraham.md) **·** [aram](../other/aram.md) **·** [esau](../other/esau.md) **·** [isaac](../other/isaac.md) **·** [jacob](../other/jacob.md) **·** [nahor](../other/nahor.md) **·** [negev](../other/negev.md))
 
 ## Bible References: ##
 

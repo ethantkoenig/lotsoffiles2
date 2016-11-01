@@ -12,7 +12,7 @@
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [crucify](../kt/crucify.md), [herodthegreat](../other/herodthegreat.md), [johnthebaptist](../other/johnthebaptist.md), [king](../other/king.md), [rome](../other/rome.md))
+(See also: [crucify](../kt/crucify.md) **·** [herodthegreat](../other/herodthegreat.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [king](../other/king.md) **·** [rome](../other/rome.md))
 
 ## Bible References: ##
 

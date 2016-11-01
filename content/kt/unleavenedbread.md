@@ -13,7 +13,7 @@ The term "unleavened bread" refers to bread that is made without yeast or other 
 * Make sure the translation of this term is consistent with how you translate the term "yeast, leaven."
 * In some contexts, the term "unleavened bread" refers to the "Feast of Unleavened Bread" and can be translated that way.
 
-(See also: [bread](../other/bread.md), [egypt](../other/egypt.md), [feast](../other/feast.md), [passover](../kt/passover.md), [servant](../other/servant.md), [sin](../kt/sin.md), [yeast](../other/yeast.md))
+(See also: [bread](../other/bread.md) **·** [egypt](../other/egypt.md) **·** [feast](../other/feast.md) **·** [passover](../kt/passover.md) **·** [servant](../other/servant.md) **·** [sin](../kt/sin.md) **·** [yeast](../other/yeast.md))
 
 ## Bible References: ##
 

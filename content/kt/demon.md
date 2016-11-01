@@ -16,7 +16,7 @@ All these terms refer to demons, which are spirit beings that oppose God's will.
 * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
 * Also consider how the term "demon" is translated in a local or national language. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [demonpossessed](../kt/demonpossessed.md), [satan](../kt/satan.md), [idol](../other/idol.md), [falsegod](../kt/falsegod.md), [angel](../kt/angel.md), [evil](../kt/evil.md), [unclean](../kt/unclean.md))
+(See also: [demonpossessed](../kt/demonpossessed.md) **·** [satan](../kt/satan.md) **·** [idol](../other/idol.md) **·** [falsegod](../kt/falsegod.md) **·** [angel](../kt/angel.md) **·** [evil](../kt/evil.md) **·** [unclean](../kt/unclean.md))
 
 ## Bible References: ##
 

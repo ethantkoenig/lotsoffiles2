@@ -16,7 +16,7 @@ The term "born again" was first used by Jesus to describe what it means for God 
 * The phrase "born of God" could be translated as, "caused by God to have new life like a newborn baby" or "given new life by God."
 * In the same way, "born of the Spirit" could be translated as, "given new life by the Holy Spirit" or "empowered by the Holy Spirit to become God's child" or "caused by the Spirit to have new life like a newborn baby."
 
-(See also: [holyspirit](../kt/holyspirit.md), [salvation](../kt/salvation.md))
+(See also: [holyspirit](../kt/holyspirit.md) **·** [salvation](../kt/salvation.md))
 
 ## Bible References: ##
 

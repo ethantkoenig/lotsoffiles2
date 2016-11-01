@@ -8,7 +8,7 @@ The terms "cry" or cry out" often mean to say something loudly and urgently. Som
 * This term could also be translated as "exclaim loudly" or "urgently ask for help," depending on the context.
 * An expression such as, "I cry out to you"  could be translated as, "I call to you for help" or "I urgently ask you for help."
 
-(See also: [call](../kt/call.md), [plead](../other/plead.md))
+(See also: [call](../kt/call.md) **·** [plead](../other/plead.md))
 
 ## Bible References: ##
 

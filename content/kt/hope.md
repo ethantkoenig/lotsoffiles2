@@ -17,7 +17,7 @@ The term "hope" refers to expecting and strongly desiring something to happen. I
 * The phrase "I find hope in your Word" could also be translated as, "I am confident that your Word is true" or "Your Word helps me trust in you" or "When I obey your Word, I am certain to be blessed."
 * Phrases such as, "hope in" God could also be translated as, "trust in God" or "know for sure that God will do what he has promised" or "be certain that God is faithful."
 
-(See also: [bless](../kt/bless.md), [confidence](../kt/confidence.md), [good](../kt/good.md), [obey](../other/obey.md), [trust](../kt/trust.md), [wordofgod](../kt/wordofgod.md))
+(See also: [bless](../kt/bless.md) **·** [confidence](../kt/confidence.md) **·** [good](../kt/good.md) **·** [obey](../other/obey.md) **·** [trust](../kt/trust.md) **·** [wordofgod](../kt/wordofgod.md))
 
 ## Bible References: ##
 

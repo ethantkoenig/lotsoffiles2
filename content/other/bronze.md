@@ -12,7 +12,7 @@ The term "bronze" refers to a kind of metal that is made from melting together t
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [armor](../other/armor.md), [tabernacle](../kt/tabernacle.md), [temple](../kt/temple.md))
+(See also: [armor](../other/armor.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

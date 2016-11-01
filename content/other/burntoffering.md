@@ -8,7 +8,7 @@ A "burnt offering" was a type of sacrifice to God that was burnt up by fire on a
 * Except for the skin, the entire animal was burned up in this offering. The skin or hide was given to the priest.
 * God commanded the Jewish people to offer burnt offerings two times every day.
 
-(See also: [altar](../other/altar.md), [atonement](../kt/atonement.md), [ox](../other/ox.md), [priest](../kt/priest.md), [sacrifice](../other/sacrifice.md))
+(See also: [altar](../other/altar.md) **·** [atonement](../kt/atonement.md) **·** [ox](../other/ox.md) **·** [priest](../kt/priest.md) **·** [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

@@ -27,7 +27,7 @@ There are several figurative ways that "hand" is used in the Bible:
 * The expression "on the right hand of" could be translated as "on the right side of."
 * In regard to Jesus being "seated at the right hand of God," if this does not communicate in the language that it refers to a position of high honor and equal authority, a different expression with that meaning could be used. Or a short explanation could be added: "on the right side of God, in the position of highest authority."
 
-(See also: [adversary](../other/adversary.md), [bless](../kt/bless.md), [captive](../other/captive.md), [honor](../other/honor.md), [power](../kt/power.md))
+(See also: [adversary](../other/adversary.md) **·** [bless](../kt/bless.md) **·** [captive](../other/captive.md) **·** [honor](../other/honor.md) **·** [power](../kt/power.md))
 
 ## Bible References: ##
 

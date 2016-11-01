@@ -12,7 +12,7 @@ The terms "tax" and "taxes" refer to money or goods that people pay to a governm
 * Phrases such as, "collect taxes" and "pay taxes" could also be translated as, "pay money to the government" or "receive money for the government" or "make the required payment."
 * A "tax collector" is someone who works for the government to receive the money that people are required to pay them.
 
-(See also: [bethlehem](../other/bethlehem.md), [census](../other/census.md), [citizen](../other/citizen.md), [rome](../other/rome.md), [taxcollector](../other/taxcollector.md))
+(See also: [bethlehem](../other/bethlehem.md) **·** [census](../other/census.md) **·** [citizen](../other/citizen.md) **·** [rome](../other/rome.md) **·** [taxcollector](../other/taxcollector.md))
 
 ## Bible References: ##
 

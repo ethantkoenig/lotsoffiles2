@@ -14,7 +14,7 @@ The terms "justify" and "justification" refer to causing a guilty person to be r
 * The phrase "resulting in justification" could be translated as, "so that God justified many people" or "which resulted in God causing people to be righteous."
 * The phrase "for our justification" could be translated as, "in order that we could be made righteous by God."
 
-(See also: [forgive](../kt/forgive.md), [guilt](../kt/guilt.md), [righteous, righteousness](../kt/righteous.md))
+(See also: [forgive](../kt/forgive.md) **·** [guilt](../kt/guilt.md) **·** [righteous, righteousness](../kt/righteous.md))
 
 ## Bible References: ##
 

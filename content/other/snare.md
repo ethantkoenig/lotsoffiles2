@@ -12,7 +12,7 @@ The terms "snare" and "trap" refer to devices that are used to catch animals and
 * When used figuratively, being caught in a trap or snare is compared to how a person can suddenly become ensnared in a sin in the same way that an animal gets captured by a physical snare or trap.
 * Just as an animal is endangered and hurt by being in a trap, so a person caught in the trap of sin is being harmed by that sin and needs to be set free.
 
-(See also: [free](../kt/free.md), , [prey](../other/prey.md), [satan](../kt/satan.md), [tempt](../kt/tempt.md))
+(See also: [free](../kt/free.md), , [prey](../other/prey.md) **·** [satan](../kt/satan.md) **·** [tempt](../kt/tempt.md))
 
 ## Bible References: ##
 

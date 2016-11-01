@@ -10,7 +10,7 @@ The terms "on high" and "in the highest" are expressions that usually mean, "in 
 * The word "high" also indicates the elevated location or importance of a person or thing.
 * The expression "from on high" could be translated as "from heaven."
 
-(See also: [heaven](../kt/heaven.md), [honor](../other/honor.md))
+(See also: [heaven](../kt/heaven.md) **·** [honor](../other/honor.md))
 
 ## Bible References: ##
 

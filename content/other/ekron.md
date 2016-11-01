@@ -10,7 +10,7 @@ Ekron was a major city of the Philistines, located nine miles inland from the Me
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md)) 
 
-(See also: [ahaziah](../other/ahaziah.md), [arkofthecovenant](../other/arkofthecovenant.md), [ashdod](../other/ashdod.md), [beelzebul](../other/beelzebul.md), [falsegod](../kt/falsegod.md), [gath](../other/gath.md), [philistines](../other/philistines.md))
+(See also: [ahaziah](../other/ahaziah.md) **·** [arkofthecovenant](../other/arkofthecovenant.md) **·** [ashdod](../other/ashdod.md) **·** [beelzebul](../other/beelzebul.md) **·** [falsegod](../kt/falsegod.md) **·** [gath](../other/gath.md) **·** [philistines](../other/philistines.md))
 
 ## Bible References: ##
 

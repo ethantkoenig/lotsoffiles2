@@ -17,7 +17,7 @@ The title, "Son of Man" was used by Jesus to refer to himself. He often used thi
 * Check to make sure that the translation of this term does not give a wrong meaning (such as referring to an illegitimate son or giving the wrong impression that Jesus was only a human being).
 * When used to refer to a person, "son of man" could also be translated as, "you, a human being" or "you, man" or "human being" or "man."
 
-(See also: [heaven](../kt/heaven.md), [son](../kt/son.md), [sonofgod](../kt/sonofgod.md),  [Yahweh](../kt/Yahweh.md))
+(See also: [heaven](../kt/heaven.md) **·** [son](../kt/son.md) **·** [sonofgod](../kt/sonofgod.md) **·** [Yahweh](../kt/Yahweh.md))
  
 
 ## Bible References: ##

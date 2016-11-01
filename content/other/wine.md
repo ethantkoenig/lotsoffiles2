@@ -12,7 +12,7 @@ In the Bible, the term "wine" refers to a kind of fermented drink made from the 
  * If wine is unknown in your culture, it could be translated as, "fermented grape juice" or "fermented drink made from a fruit called grapes" or "fermented fruit juice." (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
  * Ways to translate "wineskin" could include, "bag for wine" or "animal skin wine bag" or "animal skin container for wine."
 
-(See also: [grape](../other/grape.md), [vine](../other/vine.md), [vineyard](../other/vineyard.md), [winepress](../other/winepress.md))
+(See also: [grape](../other/grape.md) **·** [vine](../other/vine.md) **·** [vineyard](../other/vineyard.md) **·** [winepress](../other/winepress.md))
 
 ## Bible References: ##
 

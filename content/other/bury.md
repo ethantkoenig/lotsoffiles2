@@ -12,7 +12,7 @@ The term "bury" usually refers to putting a dead body into a hole or other buria
 * The phrase "buried his face" usually means, "covered his face with his hands."
 * Sometimes the word "hide" can mean "bury" as when Achan hid things in the ground that he had stolen from Jericho. This meant he buried them in the ground.
 
-(See also:[jericho](../other/jericho.md), [tomb](../other/tomb.md))
+(See also:[jericho](../other/jericho.md) **·** [tomb](../other/tomb.md))
 
 ## Bible References: ##
 

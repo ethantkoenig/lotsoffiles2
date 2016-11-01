@@ -10,7 +10,7 @@ Canaan was the son of Ham, who was one of Noah's sons. The Canaanites were the d
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [Ham](../other/ham.md), [Promised Land](../kt/promisedland.md))
+(See also: [Ham](../other/ham.md) **·** [Promised Land](../kt/promisedland.md))
 
 ## Bible References: ##
 

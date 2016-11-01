@@ -13,7 +13,7 @@ Amaziah became king over the kingdom of Judah when his father, King Joash, was m
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [joash](../other/joash.md), [edom](../other/edom.md))
+(See also: [joash](../other/joash.md) **·** [edom](../other/edom.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The term "breastplate" refers to a piece of armor covering the front of the ches
 * Other ways to translate the term "breastplate" could include, "metal protective chest covering" or "armor piece protecting the chest."
 * The term "breastpiece" could be translated with a word that means, "priestly clothing covering the chest" or "priestly garment piece" or "front piece of priest's clothing."
 
-(See also: [armor](../other/armor.md), [highpriest](../kt/highpriest.md), [pierce](../other/pierce.md), [priest](../kt/priest.md), [temple](../kt/temple.md), [warrior](../other/warrior.md))
+(See also: [armor](../other/armor.md) **·** [highpriest](../kt/highpriest.md) **·** [pierce](../other/pierce.md) **·** [priest](../kt/priest.md) **·** [temple](../kt/temple.md) **·** [warrior](../other/warrior.md))
 
 ## Bible References: ##
 

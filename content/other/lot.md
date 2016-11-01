@@ -12,7 +12,7 @@ Lot was the name of Abraham's nephew.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abraham](../other/abraham.md), [ammon](../other/ammon.md), [haran](../other/haran.md), [moab](../other/moab.md), [sodom](../other/sodom.md))
+(See also: [abraham](../other/abraham.md) **·** [ammon](../other/ammon.md) **·** [haran](../other/haran.md) **·** [moab](../other/moab.md) **·** [sodom](../other/sodom.md))
 
 ## Bible References: ##
 

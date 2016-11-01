@@ -16,7 +16,7 @@ The tern "clean" literally means to not have any dirt or stain. In the Bible, it
 * "Cleanse" could be translated by "wash" or "purify."
 * Make sure that the words used for "clean" and "cleanse" can also be understood in a figurative sense.
 
-(See also: [holy](../kt/holy.md), [unclean](../kt/unclean.md), [sacrifice](../other/sacrifice.md))
+(See also: [holy](../kt/holy.md) **·** [unclean](../kt/unclean.md) **·** [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

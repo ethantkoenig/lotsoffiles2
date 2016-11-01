@@ -18,7 +18,7 @@ The terms "courtyard" and "court" refer to an enclosed area that is open to the 
 * The expression, "courts of Yahweh" could be translated as, "place where Yahweh lives" or "place where Yahweh is worshiped."
 * The term used for a king's court could also be used to refer to Yahweh's court.
 
-(See also: [gentile](../other/gentile.md), [judgeposition](../other/judgeposition.md), [king](../other/king.md), [tabernacle](../kt/tabernacle.md), [temple](../kt/temple.md))
+(See also: [gentile](../other/gentile.md) **·** [judgeposition](../other/judgeposition.md) **·** [king](../other/king.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

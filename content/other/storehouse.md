@@ -9,7 +9,7 @@ A "storehouse" is a large building that is used for keeping food or other things
 * The storehouses of the temple contained valuable things, such as gold and silver, that had been dedicated to Yahweh. Some of these things were used to repair and maintain the temple.
 * Other ways to translate "storehouse" could include, "a building for storing grain" or "place for keeping food" or "room for keeping valuable things safe."
 
-(See also: [consecrate](../kt/consecrate.md), [dedicate](../other/dedicate.md), [famine](../other/famine.md), [gold](../other/gold.md), [grain](../other/grain.md), [silver](../other/silver.md), [temple](../kt/temple.md))
+(See also: [consecrate](../kt/consecrate.md) **·** [dedicate](../other/dedicate.md) **·** [famine](../other/famine.md) **·** [gold](../other/gold.md) **·** [grain](../other/grain.md) **·** [silver](../other/silver.md) **·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

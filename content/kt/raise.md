@@ -29,7 +29,7 @@ To "rise" or "arise" means to "go up" or "get up." The terms "risen," "rose" and
 * The phrase "arose and went" could be translated as "got up and went" or "went."
 * Depending on the context, the term "arose" could also be translated as "began" or "started up" or "got up" or "stood up."
 
-(See also: [resurrection](../kt/resurrection.md), [appoint](../kt/appoint.md), [exalt](../kt/exalt.md))
+(See also: [resurrection](../kt/resurrection.md) **·** [appoint](../kt/appoint.md) **·** [exalt](../kt/exalt.md))
 
 ## Bible References: ##
 

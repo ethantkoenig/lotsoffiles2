@@ -15,7 +15,7 @@ The term "vain" describes something that is useless or has no purpose. Vain thin
 * The phrase "in vain" could be translated as, "without result" or "with no result" or "for no reason" or "with no purpose."
 * The term "vanity" could be translated as, "pride" or "nothing worthwhile" or "hopelessness."
 
-(See also: [idol](../other/idol.md), [worthy](../kt/worthy.md))
+(See also: [idol](../other/idol.md) **·** [worthy](../kt/worthy.md))
 
 ## Bible References: ##
 

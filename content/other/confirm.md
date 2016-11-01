@@ -11,7 +11,7 @@ The terms "confirm" and "confirmation" refer to stating or assuring that somethi
 * To give an oath "as confirmation" means to solemnly state or swear that something is true or trustworthy.
 * Ways to translate "confirm" could include, "state as true" or "prove to be trustworthy" or "agree with" or "assure" or "promise," depending on the context.
 
-(See also: [covenant](../kt/covenant.md),  [oath](../other/oath.md), [trust](../kt/trust.md))
+(See also: [covenant](../kt/covenant.md) **·** [oath](../other/oath.md) **·** [trust](../kt/trust.md))
 
 ## Bible References: ##
 

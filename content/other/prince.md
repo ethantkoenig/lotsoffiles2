@@ -18,7 +18,7 @@ A "prince" is the son of a king.  A "princess" is a daughter of a king.
 * When referring to angels, this could also be translated as, "spirit ruler" or "leading angel."
 * When referring to Satan or other evil spirits, this term could also be translated as, "evil spirit ruler" or "powerful spirit leader" or "ruling spirit,"  depending on the context.
 
-(See also: [angel](../kt/angel.md), [authority](../kt/authority.md), [christ](../kt/christ.md),[demon](../kt/demon.md), [lord](../kt/lord.md), [power](../kt/power.md), [ruler](../other/ruler.md), [satan](../kt/satan.md), [savior](../kt/savior.md), [spirit](../kt/spirit.md))
+(See also: [angel](../kt/angel.md) **·** [authority](../kt/authority.md) **·** [christ](../kt/christ.md),[demon](../kt/demon.md) **·** [lord](../kt/lord.md) **·** [power](../kt/power.md) **·** [ruler](../other/ruler.md) **·** [satan](../kt/satan.md) **·** [savior](../kt/savior.md) **·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

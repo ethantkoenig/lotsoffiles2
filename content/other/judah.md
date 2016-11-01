@@ -12,7 +12,7 @@ Judah was one of Jacob's older sons. His mother was Leah. His descendants were c
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [jacob](../other/jacob.md), [jew](../other/jew.md), [kingdomofjudah](../other/kingdomofjudah.md), [judea](../other/judea.md), [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [jacob](../other/jacob.md) **·** [jew](../other/jew.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [judea](../other/judea.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

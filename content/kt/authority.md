@@ -17,7 +17,7 @@ The term "authority" refers to the power of influence and control that someone h
  * The phrase "by his own authority" could also be translated as, "with his own right to lead" or "based on his own qualifications."
  * The expression, "under authority" could be translated as, "responsible to obey" or "having to obey others' commands."
 
-(See also: [citizen](../other/citizen.md), [command](../other/command.md), [obey](../other/obey.md), [power](../kt/power.md), [ruler](../other/ruler.md))
+(See also: [citizen](../other/citizen.md) **·** [command](../other/command.md) **·** [obey](../other/obey.md) **·** [power](../kt/power.md) **·** [ruler](../other/ruler.md))
 
 ## Bible References: ##
 

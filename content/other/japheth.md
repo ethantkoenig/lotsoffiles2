@@ -9,7 +9,7 @@ Japheth was one of Noah's three sons.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ark](../other/ark.md), [flood](../other/flood.md), [ham](../other/ham.md), [noah](../other/noah.md), [shem](../other/shem.md))
+(See also: [ark](../other/ark.md) **·** [flood](../other/flood.md) **·** [ham](../other/ham.md) **·** [noah](../other/noah.md) **·** [shem](../other/shem.md))
 
 ## Bible References: ##
 

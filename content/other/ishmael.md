@@ -13,7 +13,7 @@ Ishmael was the son of Abraham and the Egyptian slave Hagar. There are also seve
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abraham](../other/abraham.md), [babylon](../other/babylon.md), [covenant](../kt/covenant.md), [desert](../other/desert.md), [egypt](../other/egypt.md), [hagar](../other/hagar.md), [isaac](../other/isaac.md), [nebuchadnezzar](../other/nebuchadnezzar.md), [paran](../other/paran.md), [sarah](../other/sarah.md))
+(See also: [abraham](../other/abraham.md) **·** [babylon](../other/babylon.md) **·** [covenant](../kt/covenant.md) **·** [desert](../other/desert.md) **·** [egypt](../other/egypt.md) **·** [hagar](../other/hagar.md) **·** [isaac](../other/isaac.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md) **·** [paran](../other/paran.md) **·** [sarah](../other/sarah.md))
 
 ## Bible References: ##
 

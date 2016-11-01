@@ -11,7 +11,7 @@ Barnabas was one of the early Christians who lived during the time of the apostl
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [christian](../kt/christian.md), [cyprus](../other/cyprus.md), [goodnews](../kt/goodnews.md), [levite](../other/levite.md), [paul](../other/paul.md))
+(See also: [christian](../kt/christian.md) **·** [cyprus](../other/cyprus.md) **·** [goodnews](../kt/goodnews.md) **·** [levite](../other/levite.md) **·** [paul](../other/paul.md))
 
 ## Bible References: ##
 

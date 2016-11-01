@@ -22,7 +22,7 @@ The word "good" has different meanings depending on the context. Many languages 
 * To "do good on the Sabbath" means to "do things that help others on the Sabbath."
 * Depending on the context, ways to translate the term "goodness" could include, "blessing" or "kindness" or "moral perfection" or "righteousness" or "purity."
 
-(See also: [evil](../kt/evil.md), [holy](../kt/holy.md), [profit](../other/profit.md), [righteous](../kt/righteous.md), )
+(See also: [evil](../kt/evil.md) **·** [holy](../kt/holy.md) **·** [profit](../other/profit.md) **·** [righteous](../kt/righteous.md), )
 
 ## Bible References: ##
 
