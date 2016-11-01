@@ -19,7 +19,7 @@ The terms "mighty" and "might" refer to having great strength or power.
 * The term "might" could also be translated as "power" or "great strength."
 * Do not confuse this term with the English word that is used to express a possibility, as in "It might rain."
 
-(See also: [almighty](../kt/almighty.md), [miracle](../kt/miracle.md), [power](../kt/power.md), [strength](../other/strength.md))
+(See also: [almighty](../kt/almighty.md) **·** [miracle](../kt/miracle.md) **·** [power](../kt/power.md) **·** [strength](../other/strength.md))
 
 ## Bible References: ##
 

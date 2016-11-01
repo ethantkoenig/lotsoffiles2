@@ -9,7 +9,7 @@ Amos was an Israelite prophet who lived during the time of King Uzziah of Judah.
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [fig](../other/fig.md), [judah](../other/judah.md), [kingdomofisrael](../other/kingdomofisrael.md), [shepherd](../other/shepherd.md), [uzziah](../other/uzziah.md))
+(See also: [fig](../other/fig.md) **·** [judah](../other/judah.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [shepherd](../other/shepherd.md) **·** [uzziah](../other/uzziah.md))
 
 ## Bible References: ##
 

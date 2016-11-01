@@ -11,7 +11,7 @@ In ancient times, Phoenicia was a wealthy nation located in Canaan along the coa
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [cedar](../other/cedar.md), [purple](../other/purple.md), [sidon](../other/sidon.md), [tyre](../other/tyre.md))
+(See also: [cedar](../other/cedar.md) **·** [purple](../other/purple.md) **·** [sidon](../other/sidon.md) **·** [tyre](../other/tyre.md))
 
 ## Bible References: ##
 

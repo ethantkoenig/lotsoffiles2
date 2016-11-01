@@ -12,7 +12,7 @@ The terms "pray" and "prayer" refer to talking with God. This term is also used 
 * Talking to God is sometimes called "communing" with him as our spirit communicates with his spirit, sharing our emotions and enjoying his presence.
 * This term could be translated as "talking to God" or "communicating with God." The translation of this term should be able to include praying that is silent.
 
-(See also: [falsegod](../kt/falsegod.md), [forgive](../kt/forgive.md), [praise](../other/praise.md))
+(See also: [falsegod](../kt/falsegod.md) **·** [forgive](../kt/forgive.md) **·** [praise](../other/praise.md))
 
 ## Bible References: ##
 

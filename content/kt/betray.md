@@ -12,7 +12,7 @@ The term "betray" means to act in a way that deceives and harms someone. A "betr
 * Depending on the context, the term "betray" could be translated as "deceive and cause harm to" or "turn over to the enemy" or "treat treacherously."
 * The term "betrayer" could be translated as "person who betrays" or "double dealer" or "traitor."
 
-(See also: [Judas Iscariot](../other/judasiscariot.md), [Jewish leaders, religious leaders](../other/jewishleaders.md), [apostle, the twelve, the eleven](../kt/apostle.md))
+(See also: [Judas Iscariot](../other/judasiscariot.md) **·** [Jewish leaders, religious leaders](../other/jewishleaders.md) **·** [apostle, the twelve, the eleven](../kt/apostle.md))
 
 ## Bible References: ##
 

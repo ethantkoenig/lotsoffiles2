@@ -14,7 +14,7 @@ The term "save" refers to keeping someone from experiencing something bad or har
 * In the expression, "whoever would save his life," the term "save" could also be translated as "preserve" or "protect."
 * The term "safe" could be translated as "protected from danger" or "in a place where nothing can harm."
 
-(See also: [cross](../kt/cross.md), [deliverer](../kt/deliverer.md), [punish](../other/punish.md), [salvation](../kt/salvation.md), [sin](../kt/sin.md))
+(See also: [cross](../kt/cross.md) **·** [deliverer](../kt/deliverer.md) **·** [punish](../other/punish.md) **·** [salvation](../kt/salvation.md) **·** [sin](../kt/sin.md))
 
 ## Bible References: ##
 

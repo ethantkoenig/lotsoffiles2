@@ -13,7 +13,7 @@ In the Bible, the term "lampstand" generally refers to a structure on which a la
 * For the temple lampstand, this could be translated as, "seven-lamp lampstand" or "gold pedestal with seven lamps."
 * It would also be helpful in a translation to include pictures of a simple lampstand and a seven-branch lampstand in the relevant Bible passages.
 
-(See also: [bronze](../other/bronze.md), [gold](../other/gold.md), [lamp](../other/lamp.md), [light](../kt/light.md), [silver](../other/silver.md), [temple](../kt/temple.md))
+(See also: [bronze](../other/bronze.md) **·** [gold](../other/gold.md) **·** [lamp](../other/lamp.md) **·** [light](../kt/light.md) **·** [silver](../other/silver.md) **·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

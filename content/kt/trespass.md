@@ -14,7 +14,7 @@ To "trespass" means to break a law or to violate the rights of another person.
 * Some languages may have an expression like "cross the line" that could be used to translate "trespass."
 * Consider how this term fits with the meaning of the surrounding Bible text and compare it to other terms that have a similar meaning, such as "transgress" and "sin."
 
-(See also: [disobey](../other/disobey.md), [iniquity](../kt/iniquity.md), [sin](../kt/sin.md), [transgression](../kt/transgression.md))
+(See also: [disobey](../other/disobey.md) **·** [iniquity](../kt/iniquity.md) **·** [sin](../kt/sin.md) **·** [transgression](../kt/transgression.md))
 
 ## Bible References: ##
 

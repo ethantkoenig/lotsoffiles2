@@ -12,7 +12,7 @@ The term "assign" or "assigned" refers to appointing someone to do a specific ta
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [appoint](../kt/appoint.md), [samuel](../other/samuel.md), [saul](../other/saul.md))
+(See also: [appoint](../kt/appoint.md) **·** [samuel](../other/samuel.md) **·** [saul](../other/saul.md))
 
 ## Bible References: ##
 

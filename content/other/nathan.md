@@ -10,7 +10,7 @@ Nathan was a faithful prophet of God who lived during the time when David was ki
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [david](../other/david.md), [faithful](../kt/faithful.md), [prophet](../kt/prophet.md), [uriah](../other/uriah.md))
+(See also: [david](../other/david.md) **·** [faithful](../kt/faithful.md) **·** [prophet](../kt/prophet.md) **·** [uriah](../other/uriah.md))
 
 ## Bible References: ##
 

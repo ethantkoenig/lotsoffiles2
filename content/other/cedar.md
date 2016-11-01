@@ -8,7 +8,7 @@ The term "cedar" refers to a large fir tree which normally has reddish-brown woo
 * Cedar wood was used in the construction of the Jerusalem temple.
 * It was also used for sacrifices and purification offerings.
 
-(See also: [fir](../other/fir.md), [purify](../kt/purify.md), [sacrifice](../other/sacrifice.md), [temple](../kt/temple.md))
+(See also: [fir](../other/fir.md) **·** [purify](../kt/purify.md) **·** [sacrifice](../other/sacrifice.md) **·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

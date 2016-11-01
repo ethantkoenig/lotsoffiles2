@@ -9,7 +9,7 @@ The term "torment" refers to terrible suffering. To torment someone means to cau
 * According to the book of Revelation, people who do not believe in Jesus as their Savior will experience eternal torment in the lake of fire.
 * This term could be translated as, "terrible suffering" or "cause someone to suffer greatly" or "agony." Some translators may add "physical" or "spiritual" to make the meaning clear.
 
-(See also: [beast](../other/beast.md), [eternity](../kt/eternity.md), [job](../other/job.md), [savior](../kt/savior.md), [spirit](../kt/spirit.md), [suffer](../kt/suffer.md), [worship](../kt/worship.md))
+(See also: [beast](../other/beast.md) **·** [eternity](../kt/eternity.md) **·** [job](../other/job.md) **·** [savior](../kt/savior.md) **·** [spirit](../kt/spirit.md) **·** [suffer](../kt/suffer.md) **·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 

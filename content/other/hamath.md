@@ -14,7 +14,7 @@ Hamath was an important city in northern Syria, north of the land of Canaan. The
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [Babylon, Babylonian](../other/babylon.md), [Canaan, Canaanite](../other/canaan.md), [Nebuchadnezzar](../other/nebuchadnezzar.md), [Syria](../other/syria.md), [Zedekiah](../other/zedekiah.md))
+(See also: [Babylon, Babylonian](../other/babylon.md) **·** [Canaan, Canaanite](../other/canaan.md) **·** [Nebuchadnezzar](../other/nebuchadnezzar.md) **·** [Syria](../other/syria.md) **·** [Zedekiah](../other/zedekiah.md))
 
 ## Bible References: ##
 

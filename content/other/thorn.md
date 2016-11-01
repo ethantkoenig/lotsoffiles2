@@ -10,7 +10,7 @@ Thorn bushes and thistles are plants that have prickly branches or flowers. Thes
 * A crown made of twisted thorn branches was placed on Jesus' head before he was crucified. 
 * If possible, these terms should be translated by the names of two different plants or bushes that are known in the language area.
 
-(See also: [crown](../other/crown.md), [fruit](../kt/fruit.md), [spirit](../kt/spirit.md))
+(See also: [crown](../other/crown.md) **·** [fruit](../kt/fruit.md) **·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

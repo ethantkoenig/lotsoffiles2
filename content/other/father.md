@@ -17,7 +17,7 @@ When used literally, the term "father" refers to a person's male parent. There a
 * Sometimes the word "father" can be translated as "clan leader."
 * The phrase "father of all lies" could be translated as, "source of all lies" or "the one from whom all lies come."
 
-(See also: [godthefather](../kt/godthefather.md), [son](../kt/son.md), [sonofgod](../kt/sonofgod.md))
+(See also: [godthefather](../kt/godthefather.md) **·** [son](../kt/son.md) **·** [sonofgod](../kt/sonofgod.md))
 
 ## Bible References: ##
 

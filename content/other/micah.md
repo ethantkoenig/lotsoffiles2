@@ -12,7 +12,7 @@ Micah was a prophet of Judah around 700 years before Christ, when the prophet Is
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [assyria](../other/assyria.md), [dan](../other/dan.md), [ephraim](../other/ephraim.md), [idol](../other/idol.md), [isaiah](../other/isaiah.md),  [kingdomofjudah](../other/kingdomofjudah.md), [judgeposition](../other/judgeposition.md), [levite](../other/levite.md), [priest](../kt/priest.md), [prophet](../kt/prophet.md), [samaria](../other/samaria.md), [silver](../other/silver.md))
+(See also: [assyria](../other/assyria.md) **·** [dan](../other/dan.md) **·** [ephraim](../other/ephraim.md) **·** [idol](../other/idol.md) **·** [isaiah](../other/isaiah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [judgeposition](../other/judgeposition.md) **·** [levite](../other/levite.md) **·** [priest](../kt/priest.md) **·** [prophet](../kt/prophet.md) **·** [samaria](../other/samaria.md) **·** [silver](../other/silver.md))
 
 ## Bible References: ##
 

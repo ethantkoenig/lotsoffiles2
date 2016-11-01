@@ -14,7 +14,7 @@ The term "antichrist" refers to a person or teaching that is against Jesus Chris
 * The phrase, "spirit of the antichrist" could also be translated as, "spirit that is against Christ" or "(someone) teaching lies about Christ" or "attitude of believing lies about Christ" or "spirit that teaches lies about Christ."
 * Also consider how this term is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [Christ, Messiah](../kt/christ.md), [reveal, revelation](../kt/reveal.md), [tribulation](../other/tribulation.md))
+(See also: [Christ, Messiah](../kt/christ.md) **·** [reveal, revelation](../kt/reveal.md) **·** [tribulation](../other/tribulation.md))
 
 ## Bible References: ##
 

@@ -14,7 +14,7 @@ To consecrate means to dedicate something or someone to serve God. The person or
 * Ways to translate "consecrate" could include, "set apart for God's service" or "purify for service to God."
 * Also consider how the terms "holy" and "sanctify" are translated.
 
-(See also: [holy](../kt/holy.md), [purify](../kt/purify.md), [sanctify](../kt/sanctify.md))
+(See also: [holy](../kt/holy.md) **·** [purify](../kt/purify.md) **·** [sanctify](../kt/sanctify.md))
 
 ## Bible References: ##
 

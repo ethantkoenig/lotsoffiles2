@@ -10,7 +10,7 @@ Jezreel was the name of an important Israelite city in the territory of the Issa
 * Ahab's evil wife Jezebel was killed in Jezreel.
 * Many other significant events happened in this city, including several battles.
 
-(See also: [ahab](../other/ahab.md), [elijah](../other/elijah.md), [issachar](../other/issachar.md), [jezebel](../other/jezebel.md), [palace](../other/palace.md), [saltsea](../other/saltsea.md))
+(See also: [ahab](../other/ahab.md) **·** [elijah](../other/elijah.md) **·** [issachar](../other/issachar.md) **·** [jezebel](../other/jezebel.md) **·** [palace](../other/palace.md) **·** [saltsea](../other/saltsea.md))
 
 ## Bible References: ##
 

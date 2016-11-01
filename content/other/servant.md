@@ -12,7 +12,7 @@ The word for "servant" can also mean "slave" and refers to a person who works fo
 * In the New Testament, people who obey God through faith in Christ are often called his "servants."
 * Christians are also called "slaves to righteousness," which is a metaphor that compares the commitment to obey God to a slave's commitment to obeying his master. (See: [Metaphor](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/figs_metaphor.md))
 
-(See also: [commit](../other/commit.md), [enslave](../kt/enslave.md), [household](../other/household.md), [lord](../kt/lord.md), [obey:](../other/obey:.md), [righteous](../kt/righteous.md), [serve](../other/serve.md))
+(See also: [commit](../other/commit.md) **·** [enslave](../kt/enslave.md) **·** [household](../other/household.md) **·** [lord](../kt/lord.md) **·** [obey:](../other/obey:.md) **·** [righteous](../kt/righteous.md) **·** [serve](../other/serve.md))
 
 ## Bible References: ##
 

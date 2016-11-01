@@ -9,7 +9,7 @@ The term "puffed up" is a figurative expression that refers to being proud or ar
 * Other languages may have a similar idiom or a different one that expresses this meaning, such as "having a big head."
 * This could also be translated as, "very proud" or "disdainful of others" or "haughty" or "thinking oneself better than others."
 
-(See also: [arrogant](../other/arrogant.md), [proud](../other/proud.md))
+(See also: [arrogant](../other/arrogant.md) **·** [proud](../other/proud.md))
 
 ## Bible References: ##
 

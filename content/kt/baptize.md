@@ -17,7 +17,7 @@ In the New Testament, the terms "baptize" and "baptism" usually refer to rituall
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [John (the Baptist)](../other/johnthebaptist.md), [repent, repentance](../kt/repent.md), [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md))
+(See also: [John (the Baptist)](../other/johnthebaptist.md) **·** [repent, repentance](../kt/repent.md) **·** [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md))
 
 ## Bible References: ##
 

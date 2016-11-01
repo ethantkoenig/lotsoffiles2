@@ -10,7 +10,7 @@ The term "fir" refers to a kind of tree that stays green all year long and that 
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [cedar](../other/cedar.md), [cypress](../other/cypress.md))
+(See also: [cedar](../other/cedar.md) **·** [cypress](../other/cypress.md))
 
 ## Bible References: ##
 

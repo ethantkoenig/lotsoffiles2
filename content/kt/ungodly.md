@@ -13,7 +13,7 @@ The terms "ungodly" and "godless" describe people who are in rebellion against G
 * The terms "godless" and "godlessness" literally mean that the people are "without God" or "having no thought of God" or "acting in a way that does not acknowledge God."
 * Other ways to translate "ungodliness" or "godlessness" could be, "wickedness" or "evil" or "rebellion against God".
 
-(See also: [godly, godliness](../kt/godly.md), [evil, wicked, wickedness](../kt/evil.md))
+(See also: [godly, godliness](../kt/godly.md) **·** [evil, wicked, wickedness](../kt/evil.md))
 
 ## Bible References: ##
 

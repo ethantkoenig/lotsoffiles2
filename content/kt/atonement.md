@@ -14,7 +14,7 @@ The terms "atone" and "atonement" refer to how God provided a sacrifice to pay f
 * Ways to translate "atonement" could include, "payment" or "sacrifice to pay for sin" or "providing the means of forgiveness."
 * Make sure the translation of this term does not refer to payment of money.
 
-(See also: [atonementlid](../kt/atonementlid.md), [forgive](../kt/forgive.md), [propitiation](../kt/propitiation.md), [reconcile](../kt/reconcile.md), [redeem](../kt/redeem.md))
+(See also: [atonementlid](../kt/atonementlid.md) **·** [forgive](../kt/forgive.md) **·** [propitiation](../kt/propitiation.md) **·** [reconcile](../kt/reconcile.md) **·** [redeem](../kt/redeem.md))
 
 ## Bible References: ##
 

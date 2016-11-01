@@ -9,7 +9,7 @@ Hezekiah was the 13th king over the kingdom of Judah. He was a king who trusted 
 * As a sign to Hezekiah that this would happen, God did a miracle and caused time to move backwards.
 * God also answered Hezekiah's prayer to save his people from King Sennacherib of Assyria, who was attacking them.
 
-(See also: [ahaz](../other/ahaz.md), [assyria](../other/assyria.md), [idol](../other/idol.md), [judah](../other/judah.md), [sennacherib](../other/sennacherib.md))
+(See also: [ahaz](../other/ahaz.md) **·** [assyria](../other/assyria.md) **·** [idol](../other/idol.md) **·** [judah](../other/judah.md) **·** [sennacherib](../other/sennacherib.md))
 
 ## Bible References: ##
 

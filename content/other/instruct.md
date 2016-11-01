@@ -10,7 +10,7 @@ The terms "instruct" and "instruction" refer to giving specific directions about
 * The term "instructions" could be translated as "directions" or "explanations" or "what he has told you to do."
 * When God gives instructions, this term is sometimes translated as "commands" or "orders."
 
-(See also: [command](../other/command.md), [decree](../other/decree.md), [teach](../other/teach.md))
+(See also: [command](../other/command.md) **·** [decree](../other/decree.md) **·** [teach](../other/teach.md))
 
 ## Bible References: ##
 

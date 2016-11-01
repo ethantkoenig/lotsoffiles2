@@ -11,7 +11,7 @@ Maacah (or, Maakah) was one of the sons of Abraham's brother Nahor. Other people
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [asa](../other/asa.md), [asherim](../other/asherim.md), [nahor](../other/nahor.md), [naphtali](../other/naphtali.md), [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [asa](../other/asa.md) **·** [asherim](../other/asherim.md) **·** [nahor](../other/nahor.md) **·** [naphtali](../other/naphtali.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

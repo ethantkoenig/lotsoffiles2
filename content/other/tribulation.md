@@ -8,7 +8,7 @@ The term "tribulation" refers to a time of hardship, suffering, and distress.
 * The Bible uses the term "the Great Tribulation" to describe a period of time before Jesus' second coming when God's wrath will be poured out on the earth for several years.
 * The term "tribulation" could also be translated as, "time of great suffering" or "deep distress" or "severe difficulties."
 
-(See also: [earth](../other/earth.md), [teach](../other/teach.md), [wrath](../kt/wrath.md))
+(See also: [earth](../other/earth.md) **·** [teach](../other/teach.md) **·** [wrath](../kt/wrath.md))
 
 ## Bible References: ##
 

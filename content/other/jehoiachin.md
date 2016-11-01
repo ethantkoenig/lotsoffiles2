@@ -9,7 +9,7 @@ Jehoiachin was a king who ruled over the kingdom of Judah.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [babylon](../other/babylon.md), [jehoiakim](../other/jehoiakim.md),  [kingdomofjudah](../other/kingdomofjudah.md), [manasseh](../other/manasseh.md))
+(See also: [babylon](../other/babylon.md) **·** [jehoiakim](../other/jehoiakim.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [manasseh](../other/manasseh.md))
 
 ## Bible References: ##
 

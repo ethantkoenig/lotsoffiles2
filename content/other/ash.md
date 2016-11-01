@@ -13,7 +13,7 @@ The term "ash" or "ashes" refers to the grey powdery substance that is left behi
 * When translating "ashes," use the word in the project language that refers to the burned-up remains after wood has burned.
 * Note that an "ash tree" is a completely different term.
 
-(See also: [fire](../other/fire.md), [sackcloth](../other/sackcloth.md))
+(See also: [fire](../other/fire.md) **·** [sackcloth](../other/sackcloth.md))
 
 ## Bible References: ##
 

@@ -12,7 +12,7 @@ Damascus is the capital city of the country of Syria. It is still in the same lo
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [aram](../other/aram.md), [assyria](../other/assyria.md), [believer](../kt/believer.md), [syria](../other/syria.md))
+(See also: [aram](../other/aram.md) **·** [assyria](../other/assyria.md) **·** [believer](../kt/believer.md) **·** [syria](../other/syria.md))
 
 ## Bible References: ##
 

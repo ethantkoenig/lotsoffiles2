@@ -10,7 +10,7 @@ The term "Golgotha" is the name of the place where Jesus was crucified. It comes
 
 [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md)
 
-(See also: [aram](../other/aram.md), [mountofolives](../other/mountofolives.md))
+(See also: [aram](../other/aram.md) **·** [mountofolives](../other/mountofolives.md))
 
 ## Bible References: ##
 

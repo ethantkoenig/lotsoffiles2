@@ -10,7 +10,7 @@ Shinar means "country of two rivers" and was the name of a plain or region in so
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abraham](../other/abraham.md), [babel](../other/babel.md), [babylon](../other/babylon.md), [chaldeans](../other/chaldeans.md), [mesopotamia](../other/mesopotamia.md), [patriarchs](../other/patriarchs.md), [ur](../other/ur.md))
+(See also: [abraham](../other/abraham.md) **·** [babel](../other/babel.md) **·** [babylon](../other/babylon.md) **·** [chaldeans](../other/chaldeans.md) **·** [mesopotamia](../other/mesopotamia.md) **·** [patriarchs](../other/patriarchs.md) **·** [ur](../other/ur.md))
 
 ## Bible References: ##
 

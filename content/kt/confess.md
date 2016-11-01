@@ -15,7 +15,7 @@ To confess means to admit or assert that something is true. A "confession" is a 
 * Depending on the context, ways to translate "confess" could include, "admit" or "testify" or "declare" or "acknowledge" or "affirm."
 * Different ways to translate "confession" could be, "declaration" or "testimony" or "statement about what we believe" or "admitting sin."
 
-(See also: [faith](../kt/faith.md), [testimony](../kt/testimony.md))
+(See also: [faith](../kt/faith.md) **·** [testimony](../kt/testimony.md))
 
 ## Bible References: ##
 

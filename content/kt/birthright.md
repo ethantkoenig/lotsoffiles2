@@ -14,7 +14,7 @@ The term "birthright" in the Bible refers to the honor, family name, and physica
 * Possible ways to translate "birthright" could include, "rights and wealth of the firstborn son" or "family honor" or "privilege and inheritance of the firstborn." 
   
 
-(See also: [firstborn](../kt/firstborn.md), [inherit](../kt/inherit.md), [descendant](../other/descendant.md))
+(See also: [firstborn](../kt/firstborn.md) **·** [inherit](../kt/inherit.md) **·** [descendant](../other/descendant.md))
 
 ## Bible References: ##
 

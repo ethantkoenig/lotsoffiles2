@@ -11,7 +11,7 @@ The term  "tetrarch" refers to a governing official who ruled over part of the R
 * "Herod the tetrarch" is mentioned several times in the New Testament. He is also known as "Herod Antipas."
 * The term "tetrarch" could also be translated as "regional governor" or "provincial ruler" or "ruler" or "governor."
 
-(See also: [governor](../other/governor.md), [herodantipas](../other/herodantipas.md), [province](../other/province.md), [rome](../other/rome.md), [ruler](../other/ruler.md))
+(See also: [governor](../other/governor.md) **·** [herodantipas](../other/herodantipas.md) **·** [province](../other/province.md) **·** [rome](../other/rome.md) **·** [ruler](../other/ruler.md))
 
 ## Bible References: ##
 

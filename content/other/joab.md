@@ -10,7 +10,7 @@ Joab was an important military leader for King David throughout his entire reign
 * When David's son Absalom betrayed him by trying to take over his kingship, Joab killed Absalom in order to protect the king.
 * Joab was a very aggressive fighter and killed many people who were enemies of Israel.
 
-(See also: [absalom](../other/absalom.md), [david](../other/david.md))
+(See also: [absalom](../other/absalom.md) **·** [david](../other/david.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The term "strong drink" refers to drinks that have been fermented and have alcoh
 * Priests and anyone who took a special vow such as the "Nazirite vow" were not permitted to drink fermented drinks.
 * This term could also be translated as, "fermented drink" or "alcoholic drink."
 
-(See also: [grape](../other/grape.md), [nazirite](../other/nazirite.md), [vow](../kt/vow.md), [wine](../other/wine.md))
+(See also: [grape](../other/grape.md) **·** [nazirite](../other/nazirite.md) **·** [vow](../kt/vow.md) **·** [wine](../other/wine.md))
 
 ## Bible References: ##
 

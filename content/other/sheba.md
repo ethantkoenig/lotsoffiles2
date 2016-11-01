@@ -12,7 +12,7 @@ In ancient times, Sheba was an ancient civilization or region of land that was l
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [arabia](../other/arabia.md), [beersheba](../other/beersheba.md), [ethiopia](../other/ethiopia.md), [solomon](../other/solomon.md))
+(See also: [arabia](../other/arabia.md) **·** [beersheba](../other/beersheba.md) **·** [ethiopia](../other/ethiopia.md) **·** [solomon](../other/solomon.md))
 
 ## Bible References: ##
 

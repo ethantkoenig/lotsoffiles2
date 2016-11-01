@@ -8,7 +8,7 @@ A letter is a written message sent to a person or group of persons who are usual
 * The New Testament epistles from Paul, John, James, Jude, and Peter are letters of instruction that they wrote to encourage, exhort, and teach the early Christians in various cities throughout the Roman Empire.
 * Ways to translate this term could include, "written message" or "written down words" or "writing."
 
-(See also: [encourage](../other/encourage.md), [exhort](../kt/exhort.md), [teach](../other/teach.md))
+(See also: [encourage](../other/encourage.md) **·** [exhort](../kt/exhort.md) **·** [teach](../other/teach.md))
 
 ## Bible References: ##
 

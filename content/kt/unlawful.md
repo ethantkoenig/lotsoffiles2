@@ -15,7 +15,7 @@ The terms "unlawful" and "not lawful" are used to describe actions that break a 
 * Other ways to translate "unlawful" could be, "not permitted" or "not according to God's law" or "not conforming to our laws."
 * The expression "against the law" has the same meaning as "unlawful."
 
-(See also: [lawful](../other/lawful.md), [moses](../other/moses.md), [sabbath](../kt/sabbath.md))
+(See also: [lawful](../other/lawful.md) **·** [moses](../other/moses.md) **·** [sabbath](../kt/sabbath.md))
 
 ## Bible References: ##
 

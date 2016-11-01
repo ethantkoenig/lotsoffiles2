@@ -15,7 +15,7 @@ The terms "defile" and "be defiled" refer to becoming polluted or dirty. Somethi
 * The term "defile" can also be translated as "cause to be unclean" or "cause to be unrighteous" or "cause to be ritually unacceptable."
 * To "be defiled" could be translated as "become unclean" or "be caused to be morally unacceptable (to God)" or "become ritually unacceptable."
 
-(See also: [unclean](../kt/unclean.md), [clean](../kt/clean.md))
+(See also: [unclean](../kt/unclean.md) **·** [clean](../kt/clean.md))
 
 ## Bible References: ##
 

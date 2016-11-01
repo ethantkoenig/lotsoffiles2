@@ -16,7 +16,7 @@ To "deliver" someone means to rescue that person. The term  "deliverer" refers t
 * The word "deliverer" can also be translated as, "rescuer" or "liberator."
 * When the term "deliverer" refers to the judges who led Israel, it could also be translated as "governor" or "judge" or "leader."
 
-(See also: [judge](../kt/judge.md), [save](../kt/save.md))
+(See also: [judge](../kt/judge.md) **·** [save](../kt/save.md))
 
 ## Bible References: ##
 

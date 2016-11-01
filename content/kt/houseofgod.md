@@ -13,7 +13,7 @@ In the Bible, the phrases "house of God" (God's house) and "house of Yahweh (Yah
 * If it is referring to the temple or tabernacle, this could be translated as, "the temple (or tabernacle) where God is worshiped (or "where God is present" or "where God meets with his people.")
 * The word "house" may be important to use in the translation in order to communicate that God "dwells" there, that is, his spirit is in that place to meet with his people and to be worshiped by them.
 
-(See also: [people of God](../kt/peopleofgod.md), [tabernacle](../kt/tabernacle.md), [temple](../kt/temple.md))
+(See also: [people of God](../kt/peopleofgod.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

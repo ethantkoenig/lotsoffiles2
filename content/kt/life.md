@@ -30,7 +30,7 @@ All these terms refer to being physically alive, not dead. They are also used fi
 * The concept of "spiritual life" could also be translated as, "God making us alive in our spirits" or "new life by God's Spirit" or "being made alive in our inner self."
 * Depending on the context, the expression "give life" could also be translated as, "cause to live" or "give eternal life" or "cause to live eternally."
 
-(See also: [death](../kt/death.md), [eternity](../kt/eternity.md))
+(See also: [death](../kt/death.md) **·** [eternity](../kt/eternity.md))
 
 ## Bible References: ##
 

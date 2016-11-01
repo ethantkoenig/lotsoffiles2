@@ -15,7 +15,7 @@ The terms "unjust" and "unjustly" refer to treating people in an unfair, and oft
 * The term "unjustly" could be translated as, "in an unfair manner" or "wrongly" or "unfairly."
 * Ways to translate "injustice" could include, "wrong treatment" or "unfair treatment" or "acting unfairly." (See: [abstractnouns](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_abstractnouns.md))
 
-(See also: [justice](../kt/justice.md), [unrighteous](../kt/unrighteous.md))
+(See also: [justice](../kt/justice.md) **·** [unrighteous](../kt/unrighteous.md))
 
 ## Bible References: ##
 

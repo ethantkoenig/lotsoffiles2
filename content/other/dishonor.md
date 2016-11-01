@@ -13,7 +13,7 @@ The term "dishonor" means to do something that is disrespectful to someone. This
 * The noun, "dishonor" could be translated as "disrespect" or "loss of honor."
 * Depending on the context, "dishonorable" could also be translated as "not honorable" or "shameful" or "not worthwhile" or "not valuable."
 
-(See also: [disgrace](../other/disgrace.md), [honor](../other/honor.md))
+(See also: [disgrace](../other/disgrace.md) **·** [honor](../other/honor.md))
 
 ## Bible References: ##
 

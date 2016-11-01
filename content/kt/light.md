@@ -17,7 +17,7 @@ There are several figurative uses of the term "light" in the Bible. It is often 
 * It may be necessary to explain the comparison in the text. For example, "walk as children of light" could be translated as, "live openly righteous lives, like someone who walks in bright sunlight."
 * Make sure that the translation of "light" does not refer to an object that gives light, such as a lamp. The translation of this term should refer to the light itself.
 
-(See also: [darkness](../kt/darkness.md), [holy](../kt/holy.md), [righteous](../kt/righteous.md), [true](../kt/true.md))
+(See also: [darkness](../kt/darkness.md) **·** [holy](../kt/holy.md) **·** [righteous](../kt/righteous.md) **·** [true](../kt/true.md))
 
 ## Bible References: ##
 

@@ -12,7 +12,7 @@ Zechariah was a prophet who prophesied during the reign of King Darius I of Pers
 
 (Translation Suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [darius](../other/darius.md), [ezra](../other/ezra.md), [jehoshaphat](../other/jehoshaphat.md), [jeroboam](../other/jeroboam.md), [nehemiah](../other/nehemiah.md), [zerubbabel](../other/zerubbabel.md))
+(See also: [darius](../other/darius.md) **·** [ezra](../other/ezra.md) **·** [jehoshaphat](../other/jehoshaphat.md) **·** [jeroboam](../other/jeroboam.md) **·** [nehemiah](../other/nehemiah.md) **·** [zerubbabel](../other/zerubbabel.md))
 
 ## Bible References: ##
 

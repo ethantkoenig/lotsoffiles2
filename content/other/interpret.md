@@ -12,7 +12,7 @@ The terms "interpret" and "interpretation" refer to understanding and explaining
 * Ways to translate the term "interpret" could include, "figure out the meaning of" or "explain" or "give the meaning of."
 * The term "interpretation" could also be translated as, "explanation" or "meaning."
 
-(See also: [babylon](../other/babylon.md), [daniel](../other/daniel.md), [dream](../other/dream.md), [prophet](../kt/prophet.md),  [vision](../other/vision.md))
+(See also: [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [dream](../other/dream.md) **·** [prophet](../kt/prophet.md) **·** [vision](../other/vision.md))
 
 ## Bible References: ##
 

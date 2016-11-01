@@ -17,7 +17,7 @@ The terms "judge" and "judgment" often refer to making a decision about whether 
 * The term "judgment" could be translated as, "punishment" or "decision" or "verdict" or "decree" or "condemnation."
 * In some contexts, the phrase "in the judgment" could also be translated as "on judgment day" or "during the time when God judges people."
 
-(See also: [decree](../other/decree.md), [judgeposition](../other/judgeposition.md), [judgmentday](../kt/judgmentday.md), [justice](../kt/justice.md), [law](../other/law.md), [lawofmoses](../kt/lawofmoses.md))
+(See also: [decree](../other/decree.md) **·** [judgeposition](../other/judgeposition.md) **·** [judgmentday](../kt/judgmentday.md) **·** [justice](../kt/justice.md) **·** [law](../other/law.md) **·** [lawofmoses](../kt/lawofmoses.md))
 
 ## Bible References: ##
 

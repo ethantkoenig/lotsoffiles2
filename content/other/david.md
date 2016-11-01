@@ -12,7 +12,7 @@ David was the second king of Israel and he loved and served God. He was the main
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [goliath](../other/goliath.md), [philistines](../other/philistines.md), [saul](../other/saul.md))
+(See also: [goliath](../other/goliath.md) **·** [philistines](../other/philistines.md) **·** [saul](../other/saul.md))
 
 ## Bible References: ##
 

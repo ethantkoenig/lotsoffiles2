@@ -13,7 +13,7 @@ Sennacherib was a powerful king of Assyria who caused Nineveh to become a rich, 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [assyria](../other/assyria.md), [babylon](../other/babylon.md), [hezekiah](../other/hezekiah.md), [kingdomofjudah](../other/kingdomofjudah.md), [mock](../other/mock.md), [nineveh](../other/nineveh.md))
+(See also: [assyria](../other/assyria.md) **·** [babylon](../other/babylon.md) **·** [hezekiah](../other/hezekiah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [mock](../other/mock.md) **·** [nineveh](../other/nineveh.md))
 
 ## Bible References: ##
 

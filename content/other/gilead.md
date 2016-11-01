@@ -9,7 +9,7 @@ Gilead is the name of a mountainous region east of the Jordan river, where the I
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [gad](../other/gad.md), [jephthah](../other/jephthah.md), [manasseh](../other/manasseh.md), [reuben](../other/reuben.md), [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [gad](../other/gad.md) **·** [jephthah](../other/jephthah.md) **·** [manasseh](../other/manasseh.md) **·** [reuben](../other/reuben.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The term "palace" refers to the building or house where a king lived, along with
 * The buildings and furnishings of a palace were constructed of stone or wood, and often were overlaid with expensive wood, gold, or ivory.
 * Many other people also lived and worked in the palace complex, which usually included several buildings and courtyards.
 
-(See also: [courtyard](../other/courtyard.md), [highpriest](../kt/highpriest.md), [king](../other/king.md))
+(See also: [courtyard](../other/courtyard.md) **·** [highpriest](../kt/highpriest.md) **·** [king](../other/king.md))
 
 ## Bible References: ##
 

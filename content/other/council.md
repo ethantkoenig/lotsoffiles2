@@ -12,7 +12,7 @@ A council is a group of people who meet to discuss, give advice, and make decisi
 * To be "in council" means to be in a special meeting to decide something.
 * Note that this is a different word than "counsel," which means, "wise advice."
 
-(See also: [assembly](../kt/assembly.md), [counselor](../other/counselor.md), [pharisee](../other/pharisee.md), [lawofmoses](../kt/lawofmoses.md), [priest](../kt/priest.md), [sadducee](../other/sadducee.md), [scribe](../other/scribe.md))
+(See also: [assembly](../kt/assembly.md) **·** [counselor](../other/counselor.md) **·** [pharisee](../other/pharisee.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [priest](../kt/priest.md) **·** [sadducee](../other/sadducee.md) **·** [scribe](../other/scribe.md))
 
 ## Bible References: ##
 

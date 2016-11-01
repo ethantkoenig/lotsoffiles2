@@ -12,7 +12,7 @@ Samuel was a prophet and the last judge of Israel. He anointed both Saul and Dav
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [hannah](../other/hannah.md), [judge](../kt/judge.md), [prophet](../kt/prophet.md), [yahweh](../kt/yahweh.md))
+(See also: [hannah](../other/hannah.md) **·** [judge](../kt/judge.md) **·** [prophet](../kt/prophet.md) **·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

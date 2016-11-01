@@ -9,7 +9,7 @@ James, the son of Alphaeus, was one of Jesus' twelve apostles.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [apostle](../kt/apostle.md), [disciple](../kt/disciple.md), [jamesbrotherofjesus](../other/jamesbrotherofjesus.md), [jamessonofzebedee](../other/jamessonofzebedee.md), [thetwelve](../kt/thetwelve.md))
+(See also: [apostle](../kt/apostle.md) **·** [disciple](../kt/disciple.md) **·** [jamesbrotherofjesus](../other/jamesbrotherofjesus.md) **·** [jamessonofzebedee](../other/jamessonofzebedee.md) **·** [thetwelve](../kt/thetwelve.md))
 
 ## Bible References: ##
 

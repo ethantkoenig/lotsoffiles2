@@ -11,7 +11,7 @@ To rebuke is to give someone a stern verbal correction, often in order to help t
 * The phrase "a rebuke" could be translated by, "a stern correction" or "a strong criticism."
 * "Without rebuke" could be translated as, "without admonishing" or "without criticism."
 
-(See also [admonish](../other/admonish.md), [disobey](../other/disobey.md))
+(See also [admonish](../other/admonish.md) **·** [disobey](../other/disobey.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Elisha was a prophet in Israel during the reigns of several kings of Israel: Aha
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [elijah](../other/elijah.md), [naaman](../other/naaman.md), [prophet](../kt/prophet.md))
+(See also: [elijah](../other/elijah.md) **·** [naaman](../other/naaman.md) **·** [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

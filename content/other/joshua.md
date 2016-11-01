@@ -15,7 +15,7 @@ There were several Israelite men named Joshua in the Bible. The most well-known 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [canaan](../other/canaan.md),  [haggai](../other/haggai.md), [jericho](../other/jericho.md), [moses](../other/moses.md), [promisedland](../kt/promisedland.md),  [zechariahot](../other/zechariahot.md))
+(See also: [canaan](../other/canaan.md) **·** [haggai](../other/haggai.md) **·** [jericho](../other/jericho.md) **·** [moses](../other/moses.md) **·** [promisedland](../kt/promisedland.md) **·** [zechariahot](../other/zechariahot.md))
  
 ## Bible References: ##
 

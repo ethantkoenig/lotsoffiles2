@@ -11,7 +11,7 @@ The city of Babylon was the capital of the ancient region of Babylonia, which wa
 * In the New Testament, the term "Babylon" is sometimes used as a metaphor to refer to places, people, and thinking patterns that are associated with idol-worship and other sinful behaviors.
 * The phrase "Babylon the Great" or "great city of Babylon" refers metaphorically to a city or nation that was large, wealthy, and sinful, just as the ancient city of Babylon was. (See: [Metaphor](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/figs_metaphor.md))
 
-(See also: [babel](../other/babel.md), [chaldeans](../other/chaldeans.md), [kingdomofjudah](../other/kingdomofjudah.md), [nebuchadnezzar](../other/nebuchadnezzar.md))
+(See also: [babel](../other/babel.md) **·** [chaldeans](../other/chaldeans.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md))
 
 ## Bible References: ##
 

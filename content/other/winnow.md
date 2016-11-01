@@ -12,7 +12,7 @@ The terms "winnow" and "sift" mean to separate grain from unwanted materials. In
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [chaff](../other/chaff.md), [grain](../other/grain.md))
+(See also: [chaff](../other/chaff.md) **·** [grain](../other/grain.md))
 
 ## Bible References: ##
 

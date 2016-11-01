@@ -9,7 +9,7 @@ The terms "conceive" and "conception" usually refer to becoming pregnant with a 
 * These terms can also refer to creating something or thinking of something, such as an idea, a plan, or a task. Ways to translate this could include, "think of" or "plan" or "create," depending on the context.
 * Sometimes this term can be used figuratively as in, "when sin is conceived" which means "when sin is first thought of" or "at the very start of a sin" or "when a sin first begins."
 
-(See also: [creation](../other/creation.md), [womb](../other/womb.md))
+(See also: [creation](../other/creation.md) **·** [womb](../other/womb.md))
 
 ## Bible References: ##
 

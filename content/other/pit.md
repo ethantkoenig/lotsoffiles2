@@ -10,7 +10,7 @@ A pit is a deep hole that has been dug in the ground.
 * A very deep pit can also be called a "cistern."
 * The term "pit" is also used figuratively in phrases such as, "pit of destruction" which describes being trapped in a disastrous situation or being deeply involved in sinful, destructive practices.
 
-(See also: [abyss](../other/abyss.md), [hell](../kt/hell.md), [prison](../other/prison.md))
+(See also: [abyss](../other/abyss.md) **·** [hell](../kt/hell.md) **·** [prison](../other/prison.md))
 
 ## Bible References: ##
 

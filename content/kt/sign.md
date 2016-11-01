@@ -20,7 +20,7 @@ A sign is an object, event, or action that communicates a special meaning.
 * To "make signs with the hands" could also be translated as, "motion with the hands" or "gesture with the hands" or "make gestures."
 * In some languages, there may be one word for a "sign" that proves something and a different word for a "sign" that is a miracle.
 
-(See also: [miracle](../kt/miracle.md), [apostle](../kt/apostle.md), [christ](../kt/christ.md), [covenant](../kt/covenant.md), [circumcise](../kt/circumcise.md))
+(See also: [miracle](../kt/miracle.md) **·** [apostle](../kt/apostle.md) **·** [christ](../kt/christ.md) **·** [covenant](../kt/covenant.md) **·** [circumcise](../kt/circumcise.md))
 
 ## Bible References: ##
 

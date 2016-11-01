@@ -10,7 +10,7 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 * The term "disobedience" means "the act of not obeying" or "behavior that is against what God wants."
 * A "disobedient people" could be translated by "people who keep on disobeying" or "people who do not do what God commands."
 
-(See also: [authority](../kt/authority.md), [evil, wicked, wickedness](../kt/evil.md), [sin, sinful, sinner](../kt/sin.md), [obey, obedient](../other/obey.md))
+(See also: [authority](../kt/authority.md) **·** [evil, wicked, wickedness](../kt/evil.md) **·** [sin, sinful, sinner](../kt/sin.md) **·** [obey, obedient](../other/obey.md))
 
 ## Bible References: ##
 

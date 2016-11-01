@@ -11,7 +11,7 @@ Jehoiakim was an evil king who reigned over the kingdom of Judah, beginning arou
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [babylon](../other/babylon.md), [eliakim](../other/eliakim.md), [jeremiah](../other/jeremiah.md), [kingdomofjudah](../other/kingdomofjudah.md), [nebuchadnezzar](../other/nebuchadnezzar.md))
+(See also: [babylon](../other/babylon.md) **·** [eliakim](../other/eliakim.md) **·** [jeremiah](../other/jeremiah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md))
 
 ## Bible References: ##
 

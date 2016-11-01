@@ -15,7 +15,7 @@ These terms are all used to refer to idols that have been made for worshiping a 
 * It may be more clear in some languages to always use a descriptive word with this term, such as "carved image" or "cast metal figure," even in places where only the term "image" or "figure" is in the original text.
 * Make sure it is clear that this term is different than the term used to refer to being in the image of God. 
 
-(See also: [falsegod](../kt/falsegod.md), [god](../kt/god.md), [idol](../other/idol.md), [imageofgod](../kt/imageofgod.md))
+(See also: [falsegod](../kt/falsegod.md) **·** [god](../kt/god.md) **·** [idol](../other/idol.md) **·** [imageofgod](../kt/imageofgod.md))
 
 ## Bible References: ##
 
