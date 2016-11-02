@@ -19,7 +19,7 @@ The term "anoint" means to rub or pour oil on a person or object. Sometimes the 
 * In some contexts the term "anoint" could be translated as "appoint."
 * A phrase like "the anointed priest," could be translated as "the priest who was consecrated with oil" or "the priest who was set apart by the pouring on of oil."
 
-(See also: [Christ, Messiah](../kt/christ.md) **·** [consecrate](../kt/consecrate.md) **·** [high priest](../kt/highpriest.md) **·** [King of the Jews](../kt/kingofthejews.md) **·** [priest, priesthood](../kt/priest.md) **·** [prophet, prophecy, prophesy, seer, prophetess](../kt/prophet.md)  )
+(See also: [Christ, Messiah](../kt/christ.md) **Â·** [consecrate](../kt/consecrate.md) **Â·** [high priest](../kt/highpriest.md) **Â·** [King of the Jews](../kt/kingofthejews.md) **Â·** [priest, priesthood](../kt/priest.md) **Â·** [prophet, prophecy, prophesy, seer, prophetess](../kt/prophet.md)  )
 
 ## Bible References: ##
 
