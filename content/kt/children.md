@@ -21,7 +21,7 @@ In the Bible, the term "child" is often used to generally refer to someone who i
 * When Paul and John refer to believers in Jesus as "children," this could also be translated as "dear fellow believers."
 * The phrase, "children of the promise" could be translated as, "people who have received what God promised them."
 
-(See also: [descendant](../other/descendant.md) **·** [promise](../kt/promise.md) **·** [son](../kt/son.md), spirit, spiritual, believer, beloved other)
+(See also: [descendant](../other/descendant.md) **Â·** [promise](../kt/promise.md) **Â·** [son](../kt/son.md), spirit, spiritual, believer, beloved other)
 
 ## Bible References: ##
 
