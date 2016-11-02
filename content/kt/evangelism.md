@@ -13,7 +13,7 @@ An "evangelist" is a person who tells other people the good news about Jesus Chr
 
 * The term "evangelist" could be translated as, "someone who preaches the good news" or "teacher of the good news" or "person who proclaims the good news (about Jesus)" or "good news proclaimer."
 
-(See also: [goodnews](../kt/goodnews.md) **·** [spirit](../kt/spirit.md) **·** [gift](../kt/gift.md))
+(See also: [goodnews](../kt/goodnews.md) **Â·** [spirit](../kt/spirit.md) **Â·** [gift](../kt/gift.md))
 
 ## Bible References: ##
 
