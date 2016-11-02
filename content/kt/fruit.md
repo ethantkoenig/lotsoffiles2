@@ -25,7 +25,7 @@ The term "fruit" literally refers to the part of a plant that can be eaten. Some
 * The apostle Paul's expression, "fruitful labor" could be translated as, "work that brings very good results" or "efforts that result in many people believing in Jesus."
 * The "fruit of the Spirit" could also be translated as "works that the Holy Spirit produces" or "words and actions that show that the Holy Spirit is working in you."
 
-(See also: [descendant](../other/descendant.md) **·** [grain](../other/grain.md) **·** [grape](../other/grape.md)[Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md) **·** [vine](../other/vine.md) **·** [womb](../other/womb.md))
+(See also: [descendant](../other/descendant.md) **Â·** [grain](../other/grain.md) **Â·** [grape](../other/grape.md) **Â·** [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md) **Â·** [vine](../other/vine.md) **Â·** [womb](../other/womb.md))
 
 ## Bible References: ##
 
