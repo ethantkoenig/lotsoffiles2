@@ -18,7 +18,7 @@ The term "body" literally refers to the physical body of a person or animal. Thi
 * When Jesus says, "This is my body" it is best to translate this literally, with a note to explain it if needed.
 * Some languages may have a separate word when referring to a dead body, such as "corpse" for a person or "carcass" for an animal. Make sure the word used to translate this makes sense in the context and is acceptable.
 
-(See also: [head](../other/head.md) **·** [spirit](../kt/spirit.md))
+(See also: [head](../other/head.md) **Â·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 
