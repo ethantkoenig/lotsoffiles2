@@ -14,7 +14,7 @@ The term "godly" is used to describe a person who acts in a way that honors God 
 * The phrase, "in a godly manner" could be translated as, "in a way that obeys God" or "with actions and words that please God."
 * Ways to translate "godliness" could include, "acting in a way that pleases God" or "obeying God" or "living in a righteous manner."
 
-(See also [honor](../other/honor.md) **·** [obey](../other/obey.md) **·** [righteous](../kt/righteous.md) **·** [ungodly](../kt/ungodly.md) **·** [unrighteous](../kt/unrighteous.md))
+(See also [honor](../other/honor.md) **Â·** [obey](../other/obey.md) **Â·** [righteous](../kt/righteous.md) **Â·** [ungodly](../kt/ungodly.md) **Â·** [unrighteous](../kt/unrighteous.md))
 
 ## Bible References: ##
 
