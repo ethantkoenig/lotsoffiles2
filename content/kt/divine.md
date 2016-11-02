@@ -14,7 +14,7 @@ The term "divine" refers to anything pertaining to God.
 * The phrase "divine glory" could be translated as "God's glory" or "the glory that God has" or "glory that comes from God."
 * Some translations may prefer to use a different word when describing something that pertains to a false god.
 
-(See also: [authority](../kt/authority.md) **·** [:en:obe:kt:falsegod]], [glory](../kt/glory.md) **·** [god](../kt/god.md) **·** [judge](../kt/judge.md) **·** [power](../kt/power.md))
+(See also: [authority](../kt/authority.md) **Â·** [false god](../kt/falsegod.md) **Â·** [glory](../kt/glory.md) **Â·** [god](../kt/god.md) **Â·** [judge](../kt/judge.md) **Â·** [power](../kt/power.md))
 
 ## Bible References: ##
 
