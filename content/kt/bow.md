@@ -17,7 +17,7 @@ To bow means to bend over to humbly express respect and honor toward someone. To
 * The term "bow down" could be translated as "kneel down" or "prostrate oneself."
 * Some languages will have more than one way of translating this term, depending on the context.
 
-(See also: [humble](../other/humble.md) **·** [worship](../kt/worship.md))
+(See also: [humble](../other/humble.md) **Â·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 
