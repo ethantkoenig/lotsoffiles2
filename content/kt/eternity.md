@@ -16,7 +16,7 @@ The terms "everlasting" and "eternal" have very similar meanings and refer to so
 * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
 * Also consider how this word is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [forever](../kt/forever.md) **·** [life](../kt/life.md))
+(See also: [forever](../kt/forever.md) **Â·** [life](../kt/life.md))
 
 ## Bible References: ##
 
