@@ -13,7 +13,7 @@ In the Bible, the term "blasphemy" refers to speaking in a way that shows a deep
 * To "blaspheme" can be translated as, to "say evil things against" or to "dishonor God" or to "slander."
 * Ways to translate "blasphemy" could include, "speaking wrongly about others" or "slander" or "spreading false rumors."
 
-(See also: [dishonor](../other/dishonor.md) **·** [slander](../other/slander.md))
+(See also: [dishonor](../other/dishonor.md) **Â·** [slander](../other/slander.md))
 
 ## Bible References: ##
 
