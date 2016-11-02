@@ -14,7 +14,7 @@ Bread is a food made from flour mixed with water and oil to form a dough. The do
 * When Jesus and his disciples were eating the Passover meal together before his death, he compared the unleavened Passover bread to his body which would be wounded and killed on a cross.
 * Many times the term "bread" can be translated more generally as "food."
 
-(See also: [passover](../kt/passover.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md) **·** [unleavenedbread](../kt/unleavenedbread.md) **·** [yeast](../other/yeast.md)) 
+(See also: [passover](../kt/passover.md) **Â·** [tabernacle](../kt/tabernacle.md) **Â·** [temple](../kt/temple.md) **Â·** [unleavenedbread](../kt/unleavenedbread.md) **Â·** [yeast](../other/yeast.md)) 
 
 ## Bible References: ##
 
