@@ -28,7 +28,7 @@ To love another person is to care for that person and do things that will benefi
 * Some languages may also have a separate word that refers to romantic or sexual love between a husband and wife.
 * Many languages must express "love" as an action. So for example, they might translate "love is patient, love is kind" as, "when a person loves someone, he is patient with him and kind to him."
 
-(See also: [covenant](../kt/covenant.md) **·** [death](../kt/death.md) **·** [sacrifice](../other/sacrifice.md) **·** [save](../kt/save.md) **·** [sin](../kt/sin.md))
+(See also: [covenant](../kt/covenant.md) **Â·** [death](../kt/death.md) **Â·** [sacrifice](../other/sacrifice.md) **Â·** [save](../kt/save.md) **Â·** [sin](../kt/sin.md))
 
 ## Bible References: ##
 
