@@ -14,7 +14,7 @@ In the Bible, the term "believer" refers to someone who believes in and relies o
 * Other ways to translate "believer" could be, "follower of Jesus" or "person who knows and obeys Jesus."
 * The term "believer" is a general term for any believer in Christ, while "disciple" and "apostle" were used more specifically for people who knew Jesus while he was alive. It is best to translate these terms in different ways, in order to keep them distinct.
 
-(See also: [apostle](../kt/apostle.md) **�** [believe, believe in](../kt/believe.md) **�** [Christian](../kt/christian.md) **�** [disciple](../kt/disciple.md))
+(See also: [apostle](../kt/apostle.md) **·** [believe, believe in](../kt/believe.md) **·** [Christian](../kt/christian.md) **·** [disciple](../kt/disciple.md))
 
 ## Bible References: ##
 
@@ -28,7 +28,7 @@ In the Bible, the term "believer" refers to someone who believes in and relies o
 * __[43-13](https://door43.org/en/obs/notes/frames/43-13)__ Every day, more people became __believers__.
 * __[46-06](https://door43.org/en/obs/notes/frames/46-06)__ That day many people in Jerusalem started persecuting the followers of Jesus, so the __believers__  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
 * __[46-01](https://door43.org/en/obs/notes/frames/46-01)__ Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the __believers__.
-* __[46-09](https://door43.org/en/obs/notes/frames/46-09)__ Some __believers__  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that __believers__  in Jesus were first called "Christians."
+* __[46-09](https://door43.org/en/obs/notes/frames/46-09)__ Some __believers__  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesusâ€¦It was at Antioch that __believers__  in Jesus were first called "Christians."
 * __[47-14](https://door43.org/en/obs/notes/frames/47-14)__ They also wrote many letters to encourage and teach the __believers__  in the churches.
 
 
