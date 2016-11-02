@@ -15,10 +15,6 @@ The term "favor" refers to doing something to benefit someone who is regarded po
 * The "favorable year of Yahweh" could be translated as, "the year (or time) when Yahweh will bring great blessing."
 * The term "favoritism" could be translated as, "partiality" or "being prejudiced" or "unjust treatment." This word is related to the word "favorite" which means "the one who is preferred or loved best."
 
-"find favor"
-"increased in favor"
-"won the favor of"
-
 ## Bible References: ##
 
 * [1 Samuel 02:25-26](https://door43.org/en/bible/notes/1sa/02/25)
