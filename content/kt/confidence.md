@@ -16,7 +16,7 @@ The term "confidence" refers to being sure that something is true or certain to 
 * The term "confidently" could also be translated as "boldly" or "with certainty."
 * Depending on the context, ways to translate "confidence" could include, "complete assurance" or "sure expectation" or "certainty."
 
-(See also: [believe](../kt/believe.md) **·** [believer](../kt/believer.md) **·** [bold](../other/bold.md) **·** [faithful](../kt/faithful.md) **·** [hope](../kt/hope.md) **·** [trust](../kt/trust.md))
+(See also: [believe](../kt/believe.md) **Â·** [believer](../kt/believer.md) **Â·** [bold](../other/bold.md) **Â·** [faithful](../kt/faithful.md) **Â·** [hope](../kt/hope.md) **Â·** [trust](../kt/trust.md))
 
 ## Bible References: ##
 
