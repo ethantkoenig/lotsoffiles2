@@ -17,7 +17,7 @@ The term "brother" usually refers to a male person who shares at least one biolo
 * Other ways to translate this term so that it refers to both male and female believers could be, "fellow believers" or "Christian brothers and sisters."
 * Make sure to check the context to determine whether only men are being referred to, or whether both men and women are included.
 
-(See also: [apostle, the twelve, the eleven](../kt/apostle.md) **·** [God the Father, Heavenly Father](../kt/godthefather.md) **·** [sister](../other/sister.md) **·** [spirit](../kt/spirit.md))
+(See also: [apostle, the twelve, the eleven](../kt/apostle.md) **Â·** [God the Father, Heavenly Father](../kt/godthefather.md) **Â·** [sister](../other/sister.md) **Â·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 
