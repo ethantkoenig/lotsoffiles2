@@ -14,7 +14,7 @@
 * It is best to keep the term "Zion" in this expression since it is used many times in the Bible. A note could be included in the translation to explain its figurative meaning and prophetic use.
 * It is also better to keep the term "Daughter" in the translation of this expression, as long as it is understood correctly.
 
-(See also: [jerusalem](../other/jerusalem.md) **·** [prophet](../kt/prophet.md) **·** [zion](../other/zion.md))
+(See also: [jerusalem](../other/jerusalem.md) **Â·** [prophet](../kt/prophet.md) **Â·** [zion](../other/zion.md))
 
 ## Bible References: ##
 
