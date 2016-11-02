@@ -16,7 +16,7 @@ The term "glorify" means to show or tell how great and important something or so
 * The phrase "glorify God" could also be translated as "praise God" or "talk about God's greatness" or "show how great God is" or "honor God (by obeying him)."
 * The term "be glorified" could also be translated as, "be shown to be very great" or "be praised" or "be exalted."
 
-(See also: [exalt](../kt/exalt.md) **·** [glory, glorious](../kt/glory.md) **·** [obey, obedient, obedience](../other/obey.md) **·** [praise](../other/praise.md))
+(See also: [exalt](../kt/exalt.md) **Â·** [glory, glorious](../kt/glory.md) **Â·** [obey, obedient, obedience](../other/obey.md) **Â·** [praise](../other/praise.md))
 
 ## Bible References: ##
 
