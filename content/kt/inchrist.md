@@ -20,7 +20,7 @@ The phrase "in Christ" and related terms refer to the state or condition of bein
    * "because of what the Lord has done."
 * People who "believe in" Christ or who "have faith in" Christ believe what Jesus taught and are trusting him to save them because of his sacrifice on the cross that paid the penalty for their sins. Some languages may have one word that translates verbs like "believe in" or "share in" or "trust in."
 
-(See also: [Christ, Messiah](../kt/christ.md) **·** [Lord](../kt/lordgod.md) **·** [Jesus, Jesus Christ, Christ Jesus](../kt/jesus.md) **·** [believe, believe in, belief](../kt/believe.md) **·** [faith](../kt/faith.md))
+(See also: [Christ, Messiah](../kt/christ.md) **Â·** [Lord](../kt/lordgod.md) **Â·** [Jesus, Jesus Christ, Christ Jesus](../kt/jesus.md) **Â·** [believe, believe in, belief](../kt/believe.md) **Â·** [faith](../kt/faith.md))
 
 ## Bible References: ##
 
