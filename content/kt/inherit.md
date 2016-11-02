@@ -24,7 +24,7 @@ The terms "inherit" and "inheritance" refer to receiving something valuable from
 * The term "heir" could be translated with a word or phrase that means, "privileged child who receives the father's possessions" or "person chosen to receive (God's) spiritual possessions or blessings."
 * The term "heritage" could be translated as, "blessings from God" or "inherited blessings."
 
-(See also: [heir](../other/heir.md) **·** [Canaan, Canaanite](../other/canaan.md) **·** [Promised Land](../kt/promisedland.md))
+(See also: [heir](../other/heir.md) **Â·** [Canaan, Canaanite](../other/canaan.md) **Â·** [Promised Land](../kt/promisedland.md))
 
 ## Bible References: ##
 
