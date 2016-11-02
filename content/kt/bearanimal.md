@@ -9,7 +9,7 @@ A bear is a large, four-legged furry animal with dark brown or black hair, with 
 * While tending sheep, the shepherd David fought a bear and defeated it.
 * Two bears came out of the forest and attacked a group of youths who had mocked the prophet Elisha.
 
-(See also: [david](../other/david.md) **·** [elisha](../other/elisha.md))
+(See also: [david](../other/david.md) **Â·** [elisha](../other/elisha.md))
 
 ## Bible References: ##
 
