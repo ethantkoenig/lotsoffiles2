@@ -14,7 +14,7 @@ The terms "evil" and "wicked" both refer to anything that is opposed to God's ho
 * Other ways to translate these could include, "not good" or "not righteous" or "not moral."
 * Make sure the words or phrases that are used to translate these terms fit the context that is natural in the target language.
 
-(See also: [disobey, disobedient](../other/disobey.md) **·** [sin, sinful, sinner](../kt/sin.md) **·** [good, goodness](../kt/good.md) **·** [righteous](../kt/righteous.md), demon, evil spirit, unclean spirit)
+(See also: [disobey, disobedient](../other/disobey.md) **Â·** [sin, sinful, sinner](../kt/sin.md) **Â·** [good, goodness](../kt/good.md) **Â·** [righteous](../kt/righteous.md) **Â·** [demon, evil spirit, unclean spirit](../kt/demon.md)
 
 ## Bible References: ##
 
