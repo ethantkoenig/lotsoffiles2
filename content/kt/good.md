@@ -22,7 +22,7 @@ The word "good" has different meanings depending on the context. Many languages 
 * To "do good on the Sabbath" means to "do things that help others on the Sabbath."
 * Depending on the context, ways to translate the term "goodness" could include, "blessing" or "kindness" or "moral perfection" or "righteousness" or "purity."
 
-(See also: [evil](../kt/evil.md) **�** [holy](../kt/holy.md) **�** [profit](../other/profit.md) **�** [righteous](../kt/righteous.md), )
+(See also: [evil](../kt/evil.md) **·** [holy](../kt/holy.md) **·** [profit](../other/profit.md) **·** [righteous](../kt/righteous.md), )
 
 ## Bible References: ##
 
@@ -36,7 +36,7 @@ The word "good" has different meanings depending on the context. Many languages 
 ## Examples from the Bible stories: ##
 
 * __[01-04](https://door43.org/en/obs/notes/frames/01-04)__ God saw that what he had created was __good__.
-* __[01-11](https://door43.org/en/obs/notes/frames/01-11)__ God planted…the tree of the knowledge of __good__  and evil."
+* __[01-11](https://door43.org/en/obs/notes/frames/01-11)__ God plantedâ€¦the tree of the knowledge of __good__  and evil."
 * __[01-12](https://door43.org/en/obs/notes/frames/01-12)__ Then God said, "It is not __good__  for man to be alone."
 * __[02-04](https://door43.org/en/obs/notes/frames/02-04)__"God just knows that as soon as you eat it, you will be like God and will understand __good__  and evil like he does."
 * __[08-12](https://door43.org/en/obs/notes/frames/08-12)__"You tried to do evil when you sold me as a slave, but God used the evil for __good__!"
