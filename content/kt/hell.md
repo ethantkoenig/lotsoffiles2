@@ -16,7 +16,7 @@ Hell is the final place of unending pain and suffering where God will punish eve
 * The term "hell" could be translated as "place of suffering" or "final place of darkness and pain."
 * The term "lake of fire" could also be translated as, "sea of fire" or "huge fire (of suffering)" or "field of fire."
 
-(See also: [heaven](../kt/heaven.md) **·** [death](../kt/death.md) **·** [hades](../other/hades.md) **·** [abyss](../other/abyss.md))
+(See also: [heaven](../kt/heaven.md) **Â·** [death](../kt/death.md) **Â·** [hades](../other/hades.md) **Â·** [abyss](../other/abyss.md))
 
 ## Bible References: ##
 
