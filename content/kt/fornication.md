@@ -16,7 +16,7 @@ The term "sexual immorality" refers to sexual activity that takes place outside 
 * This term should be translated in a different way from the term "adultery."
 * The translation of this term's figurative uses should retain the literal term if possible since there is a common comparison in the Bible between unfaithfulness to God and unfaithfulness in the sexual relationship.
 
-(See also: [adultery, adulterer](../kt/adultery.md) **·** [false god, god](../kt/falsegod.md) **·** [prostitute, harlot](../other/prostitute.md) **·** [unfaithful](../kt/unfaithful.md))
+(See also: [adultery, adulterer](../kt/adultery.md) **Â·** [false god, god](../kt/falsegod.md) **Â·** [prostitute, harlot](../other/prostitute.md) **Â·** [unfaithful](../kt/unfaithful.md))
 
 ## Bible References: ##
 
