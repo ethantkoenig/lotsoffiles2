@@ -14,7 +14,7 @@ The term "guilt" refers to the fact of having sinned or committed a crime.
 
 ULB exs: take away the guilt of your sin, take away your guilt, guilt offering, punish your guilt, no guilt for murder will attach to him, carry his own guilt, wash away his guilt, be in great guilt, our guilt grows to the heavens
 
-(See also: [innocent](../kt/innocent.md) **·** [iniquity](../kt/iniquity.md)[punish, punishment](../other/punish.md) **·** [sin, sinful, sinner](../kt/sin.md),)
+(See also: [innocent](../kt/innocent.md) **Â·** [iniquity](../kt/iniquity.md) **Â·** [punish, punishment](../other/punish.md) **Â·** [sin, sinful, sinner](../kt/sin.md),)
 
 ## Bible References: ##
 
