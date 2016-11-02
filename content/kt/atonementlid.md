@@ -15,7 +15,7 @@ The "atonement lid" was a slab of gold that was used to cover the top of the ark
 * Can also mean "place of propitiation."
 * Compare this term with how you translated "atonement," "propitiation," and "redemption."
 
-(See also: [arkofthecovenant](../other/arkofthecovenant.md) **·** [atonement](../kt/atonement.md) **·** [cherubim](../other/cherubim.md) **·** [propitiation](../kt/propitiation.md) **·** [redeem](../kt/redeem.md))
+(See also: [arkofthecovenant](../other/arkofthecovenant.md) **Â·** [atonement](../kt/atonement.md) **Â·** [cherubim](../other/cherubim.md) **Â·** [propitiation](../kt/propitiation.md) **Â·** [redeem](../kt/redeem.md))
 
 ## Bible References: ##
 
