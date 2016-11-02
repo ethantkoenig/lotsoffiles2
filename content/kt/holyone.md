@@ -15,7 +15,7 @@ The term "Holy One" is a title in the Bible that almost always refers to God.
 * The phrase, "the Holy One of Israel" could be translated as, "the Holy God whom Israel worships" or "Holy One who rules Israel."
 * It is best to translate this term using the same word or phrase that is used to translate "holy."
 
-(See also: [holy](../kt/holy.md) **·** [god](../kt/god.md))
+(See also: [holy](../kt/holy.md) **Â·** [god](../kt/god.md))
 
 ## Bible References: ##
 
