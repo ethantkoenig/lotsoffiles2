@@ -24,7 +24,7 @@ A "prophet" is a man who speaks God's messages to people. A woman who does this 
 * When referring to a prophet (or seer) of a false god, it may be necessary to translate this as "false prophet (seer)" or "prophet (seer) of a false god" or "prophet of Baal," for example.
  
 
-(See also: [baal](../other/baal.md) **·** [divination](../other/divination.md) **·** [falsegod](../kt/falsegod.md) **·** [falseprophet](../other/falseprophet.md) **·** [fulfill](../kt/fulfill.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [vision](../other/vision.md))
+(See also: [baal](../other/baal.md) **Â·** [divination](../other/divination.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [falseprophet](../other/falseprophet.md) **Â·** [fulfill](../kt/fulfill.md) **Â·** [lawofmoses](../kt/lawofmoses.md) **Â·** [vision](../other/vision.md))
 
 ## Bible References: ##
 
