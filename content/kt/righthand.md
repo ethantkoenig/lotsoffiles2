@@ -19,7 +19,7 @@ The figurative expression "right hand" refers to the place of honor or strength 
 * The expression "their right hand is falsehood" could be translated by, "even the most honorable thing about them is corrupted by lies" or "their place of honor is corrupted by deception" or "they use lies to make themselves powerful." 
 * In Psalm 105:9, God calls for an accuser to be at the "right hand" of a wicked leader sent to punish his rebellious people. This could be translated as, "appoint an accuser to have the place of honor beside that wicked leader" or "appoint an accuser to help that wicked leader punish them."
 
-(See also: [accuse](../other/accuse.md) **·** [evil](../kt/evil.md) **·** [honor](../other/honor.md) **·** [mighty](../other/mighty.md) **·** [punish](../other/punish.md) **·** [rebel](../other/rebel.md))
+(See also: [accuse](../other/accuse.md) **Â·** [evil](../kt/evil.md) **Â·** [honor](../other/honor.md) **Â·** [mighty](../other/mighty.md) **Â·** [punish](../other/punish.md) **Â·** [rebel](../other/rebel.md))
 
 ## Bible References: ##
 
