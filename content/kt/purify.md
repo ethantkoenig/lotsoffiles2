@@ -16,7 +16,7 @@ To be "pure" means to have no flaw or to have nothing mixed in that is not suppo
 * The phrase, "provided purification for sins" could be translated as, "provided a way for people to be completely cleansed from their sin."
 * Other ways to translate "purification" could include, "cleansing" or "spiritual washing" or "becoming ritually clean."
 
-(See also: [atonement](../kt/atonement.md) **·** [clean](../kt/clean.md) **·** [spirit](../kt/spirit.md))
+(See also: [atonement](../kt/atonement.md) **Â·** [clean](../kt/clean.md) **Â·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 
