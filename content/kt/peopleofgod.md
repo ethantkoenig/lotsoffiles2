@@ -16,7 +16,7 @@ The term, "people of God" refers to people whom God has called out from the worl
 * Similarly, "your people"  could be translated as "the people who belong to you" or "the people you chose to belong to you."
 * Also "his people" could be translated as "the people who belong to him" or "the people God chose to belong to himself."
 
-(See also: [israel](../other/israel.md) **·** [peoplegroup](../other/peoplegroup.md))
+(See also: [israel](../other/israel.md) **Â·** [peoplegroup](../other/peoplegroup.md))
 ## Bible References: ##
 
 * [1 Chronicles 11:1-3](https://door43.org/en/bible/notes/1ch/11/01)
