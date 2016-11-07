@@ -14,7 +14,7 @@ The term "pastor" is literally the same word as "shepherd." It is used as a titl
 * Other ways to translate this term could include, "spiritual shepherd" or "shepherding Christian leader."
  
 
-(See also: [shepherd](../other/shepherd.md) **·** [sheep](../other/sheep.md))
+(See also: [shepherd](../other/shepherd.md) **Â·** [sheep](../other/sheep.md))
 
 ## Bible References: ##
 
