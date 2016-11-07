@@ -12,7 +12,7 @@ The term "propitiation" refers to a sacrifice that is made to satisfy or fulfill
 * This term could be translated as "appeasement" or "causing God to forgive sins and grant favor to people."
 * The word "atonement" is close in meaning to "propitiation." It is important to compare how these two terms are used.
 
-(See also: [atonement](../kt/atonement.md) **·** [eternity](../kt/eternity.md) **·** [forgive](../kt/forgive.md),[sacrifice](../other/sacrifice.md))
+(See also: [atonement](../kt/atonement.md) **Â·** [eternity](../kt/eternity.md) **Â·** [forgive](../kt/forgive.md) **Â·** [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 
