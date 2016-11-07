@@ -14,7 +14,7 @@ The term "abomination" is used to refer to something that causes disgust or extr
 * Depending on the context, ways to translate the phrase, "is an abomination to" could include: "is greatly hated by" or "is disgusting to" or "is totally unacceptable to" or "causes deep disgust."
 * The phrase "abomination of desolation" could be translated as, "defiling object that causes people to be greatly harmed" or "disgusting thing that causes great sorrow."
 
-(See also: [adultery, adulterous, adulterer, adulteress](../kt/adultery.md) **·** [Daniel](../other/daniel.md) **·** [desecrate](../other/desecrate.md) **·** [desolate, desolation](../other/desolate.md) **·** [idol, idolatrous](../other/idol.md) **·** [sacrifice, offering](../other/sacrifice.md))
+(See also: [adultery, adulterous, adulterer, adulteress](../kt/adultery.md) **·** [desecrate](../other/desecrate.md) **·** [desolate, desolation](../other/desolate.md) **·** [idol, idolatrous](../other/idol.md) **·** [sacrifice, offering](../other/sacrifice.md))
 
 ## Bible References: ##
 
