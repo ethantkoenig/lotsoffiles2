@@ -18,7 +18,7 @@ The term "witness" refers to a person who has personally experienced something t
 * "To witness to" could be translated as, "to tell what was seen" or "to testify" or "to state what happened."
 * "To witness" something could be translated as "to see something" or "to experience something happen."
 
-(See also: [guilt, guilty](../kt/guilt.md) **·** [judge, judgment](../kt/judge.md) **·** [true, truth](../kt/true.md) **·** [testimony, testify](../kt/testimony.md))
+(See also: [guilt, guilty](../kt/guilt.md) **Â·** [judge, judgment](../kt/judge.md) **Â·** [true, truth](../kt/true.md) **Â·** [testimony, testify](../kt/testimony.md))
 
 ## Bible References: ##
 
