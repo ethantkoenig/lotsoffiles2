@@ -20,7 +20,7 @@ The terms "true" and "truth" refer to concepts that are facts, events that actua
 * To "accept the truth" could be translated as, "believe what is true about God."
 * In an expression such as, "worship God in spirit and in truth," the expression "in truth" could also be translated by, "faithfully obeying what God has taught us."
 
-(See also: [believe](../kt/believe.md) **·** [faithful](../kt/faithful.md) **·** [fulfill](../kt/fulfill.md) **·** [obey](../other/obey.md) **·** [prophet](../kt/prophet.md) **·** [understand](../other/understand.md))
+(See also: [believe](../kt/believe.md) **Â·** [faithful](../kt/faithful.md) **Â·** [fulfill](../kt/fulfill.md) **Â·** [obey](../other/obey.md) **Â·** [prophet](../kt/prophet.md) **Â·** [understand](../other/understand.md))
 
 ## Bible References: ##
 
