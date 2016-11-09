@@ -16,7 +16,7 @@ The tabernacle was a special tent-like structure where the Israelites worshiped 
 * The word "tabernacle" means "dwelling place." Other ways to translate it could include, "sacred tent" or "tent where God was" or "God's tent."
 * Make sure that the translation of this term is different from the translation of "temple."
 
-(See also: [altar](../other/altar.md) **·** [altarofincense](../other/altarofincense.md) **·** [arkofthecovenant](../other/arkofthecovenant.md) **·** [temple](../kt/temple.md) **·** [tentofmeeting](../other/tentofmeeting.md))
+(See also: [altar](../other/altar.md) **Â·** [altarofincense](../other/altarofincense.md) **Â·** [arkofthecovenant](../other/arkofthecovenant.md) **Â·** [temple](../kt/temple.md) **Â·** [tentofmeeting](../other/tentofmeeting.md))
 
 ## Bible References: ##
 
