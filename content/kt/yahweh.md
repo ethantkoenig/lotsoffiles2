@@ -19,7 +19,7 @@ The term "Yahweh" is God's personal name that he revealed when he spoke to Moses
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [god](../kt/god.md) **·** [lord](../kt/lord.md) **·** [lordgod](../kt/lordgod.md) **·** [moses](../other/moses.md),[reveal](../kt/reveal.md))
+(See also: [god](../kt/god.md) **Â·** [lord](../kt/lord.md) **Â·** [lordgod](../kt/lordgod.md) **Â·** [moses](../other/moses.md) **Â·** [reveal](../kt/reveal.md))
 
 ## Bible References: ##
 
