@@ -15,7 +15,7 @@ The term "sanctuary" literally means "holy place" and refers to a place that God
 * The phrase "shekel of the sanctuary" could be translated as, "kind of shekel given for the tabernacle" or "shekel used as a tax to take care of the temple."
 * Note: Be careful that the translation of this term does not refer to a worship room in a modern day church.
 
-(See also: [holy](../kt/holy.md) **·** [holyspirit](../kt/holyspirit.md) **·** [sacred](../other/sacred.md) **·** [setapart](../kt/setapart.md) **·** [tabernacle](../kt/tabernacle.md) **·** [tax](../other/tax.md) **·** [temple](../kt/temple.md), )
+(See also: [holy](../kt/holy.md) **Â·** [holyspirit](../kt/holyspirit.md) **Â·** [sacred](../other/sacred.md) **Â·** [setapart](../kt/setapart.md) **Â·** [tabernacle](../kt/tabernacle.md) **Â·** [tax](../other/tax.md) **Â·** [temple](../kt/temple.md), )
 
 ## Bible References: ##
 
