@@ -14,7 +14,7 @@
 * The term "worship" could be translated as "bow down to" or "honor and serve" or "honor and obey."
 * In some contexts, it could also be translated as "humbly praise" or "give honor and praise."
  
-(See also: [sacrifice](../other/sacrifice.md) **·** [praise](../other/praise.md) **·** [honor](../other/honor.md))  
+(See also: [sacrifice](../other/sacrifice.md) **Â·** [praise](../other/praise.md) **Â·** [honor](../other/honor.md))  
 
 ## Bible References: ##
 
