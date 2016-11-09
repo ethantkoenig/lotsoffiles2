@@ -21,7 +21,7 @@ In the Bible, the terms "works," "deeds," and "acts" are used to refer generally
 * The expression, "examine your own work" could also be translated as, "make sure what you are doing is God's will" or "make sure that what you are doing pleases God."
 * The expression "the work of the Holy Spirit" could be translated as, "the empowering of the Holy Spirit" or "the ministry of the Holy Spirit" or "the things that the Holy Spirit does."
 
-(See also: [fruit](../kt/fruit.md) **·** [holyspirit](../kt/holyspirit.md) **·** [miracle](../kt/miracle.md))
+(See also: [fruit](../kt/fruit.md) **Â·** [holyspirit](../kt/holyspirit.md) **Â·** [miracle](../kt/miracle.md))
 
 ## Bible References: ##
 
