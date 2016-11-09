@@ -2,14 +2,14 @@
 
 ## Definition: ##	 
 
-In the Bible, the term "​unclean"​ is used figuratively to refer to things that God declared to be unfit for his people to touch, eat, or sacrifice.
+In the Bible, the term "â€‹unclean"â€‹ is used figuratively to refer to things that God declared to be unfit for his people to touch, eat, or sacrifice.
  
-* God gave the Israelites instructions about which animals were "​clean"​ and which ones were "​unclean."​ The unclean animals were not permitted to be used for eating or for sacrifice.	 
+* God gave the Israelites instructions about which animals were "â€‹clean"â€‹ and which ones were "â€‹unclean."â€‹ The unclean animals were not permitted to be used for eating or for sacrifice.	 
 * People with certain skin diseases were said to be "unclean" until they were healed.	 
-* If the Israelites touched something "​unclean,"​ they themselves would be considered unclean for a certain period of time.	 
+* If the Israelites touched something "â€‹unclean,"â€‹ they themselves would be considered unclean for a certain period of time.	 
 * Obeying God's commands about not touching or eating unclean things kept the Israelites set apart for God's service.	 
 * This physical and ritual uncleanness was also symbolic of moral uncleanness.	 
-* In another figurative sense, an "​unclean spirit"​ refers to an evil spirit.
+* In another figurative sense, an "â€‹unclean spirit"â€‹ refers to an evil spirit.
 
 ## Translation Suggestions: ##
 
@@ -17,7 +17,7 @@ In the Bible, the term "​unclean"​ is used figuratively to refer to things t
 * When referring to a demon as an unclean spirit, "unclean" could be translated as "evil" or "defiled."
 * The translation of this term should allow for spiritual uncleanness. It should be able to refer to anything that God declared as unfit for touching, eating, or sacrifice.
 
-(See also: [clean, cleanse](../kt/clean.md) **�** [defile](../other/defile.md) **�** [demon, evil spirit, unclean spirit](../kt/demon.md) **�** [holy, holiness](../kt/holy.md) **�** [sacrifice, offering](../other/sacrifice.md) **�** [unholy](../kt/unholy.md)) 
+(See also: [clean, cleanse](../kt/clean.md) **·** [defile](../other/defile.md) **·** [demon, evil spirit, unclean spirit](../kt/demon.md) **·** [holy, holiness](../kt/holy.md) **·** [sacrifice, offering](../other/sacrifice.md) **·** [unholy](../kt/unholy.md)) 
 
 ## Bible References: ##
 
