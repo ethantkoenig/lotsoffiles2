@@ -12,7 +12,7 @@ The term "word of truth" is another way of referring to God's word or teaching.
 * This could be translated as, "God's true message" or "God's word, which is true."
 * It is important for the translation of this term to include the meaning of being true.
 
-(See also: [true](../kt/true.md) **·** [word](../kt/word.md) **·** [wordofgod](../kt/wordofgod.md))
+(See also: [true](../kt/true.md) **Â·** [word](../kt/word.md) **Â·** [wordofgod](../kt/wordofgod.md))
 
 ## Bible References: ##
 
