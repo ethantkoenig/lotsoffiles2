@@ -20,7 +20,7 @@ The term "son" refers to a boy or man in relation to his parents. It can refer e
 * Sometimes "sons" can be translated as "children," when both males and females are being referred to. For example, "sons of God" could be translated as "children of God" since this expression also includes girls and women.
 * The figurative expression "son of" could also be translated as "someone who has the characteristics of" or "someone who is like" or "someone who has" or "someone who acts like."
 
-(See also: [azariah](../other/azariah.md) **·** [descendant](../other/descendant.md) **·** [father](../other/father.md) **·** [firstborn](../kt/firstborn.md) **·** [sonofgod](../kt/sonofgod.md) **·** [sonsofgod](../kt/sonsofgod.md))
+(See also: [azariah](../other/azariah.md) **Â·** [descendant](../other/descendant.md) **Â·** [father](../other/father.md) **Â·** [firstborn](../kt/firstborn.md) **Â·** [sonofgod](../kt/sonofgod.md) **Â·** [sonsofgod](../kt/sonsofgod.md))
 
 ## Bible References: ##
 
@@ -44,7 +44,7 @@ The term "son" refers to a boy or man in relation to his parents. It can refer e
 * __[09-07](https://door43.org/en/obs/notes/frames/09-07)__ When she saw the baby, she took him as her own __son__.
 * __[11-06](https://door43.org/en/obs/notes/frames/11-06)__ God killed every one of the Egyptians' firstborn __sons__.
 * __[18-01](https://door43.org/en/obs/notes/frames/18-01)__ After many years, David died, and his __son__  Solomon began to rule.
-* __[26-04](https://door43.org/en/obs/notes/frames/26-04)__"Is this the __son__  of Joseph?â€š" they said.
+* __[26-04](https://door43.org/en/obs/notes/frames/26-04)__"Is this the __son__  of Joseph?Ã¢â‚¬Å¡" they said.
 
 
 
