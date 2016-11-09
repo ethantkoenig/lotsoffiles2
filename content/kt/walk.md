@@ -19,7 +19,7 @@ The term "walk" is often used in a figurative sense to mean "live."
 * To "walk in God's commands" could be translated by "live by God's commands" or "obey God's commands."
 * The phrase "walked with God" could be translated as, "lived in close relationship with God by obeying and honoring him."
 
-(See also: [holyspirit](../kt/holyspirit.md) **·** [honor](../other/honor.md) **·** [[:en:obe:other:obey])
+(See also: [holyspirit](../kt/holyspirit.md) **Â·** [honor](../other/honor.md))
 
 ## Bible References: ##
 
