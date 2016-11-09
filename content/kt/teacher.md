@@ -14,7 +14,7 @@ A teacher is a person who gives other people new information. Teachers help othe
 * Some cultures may have a special title that is used for religious teachers, such as "Sir" or "Rabbi" or "Preacher."
  
 
-(See also: [disciple](../kt/disciple.md) **·** [preach](../other/preach.md))
+(See also: [disciple](../kt/disciple.md) **Â·** [preach](../other/preach.md))
 
 ## Bible References: ##
 
