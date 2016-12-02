@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Abimelech was a Philistine king over the region of Gerar during the time when Abraham and Isaac were licing in the land of Canaan.
+Abimelech was a Philistine king over the region of Gerar during the time when Abraham and Isaac were living in the land of Canaan.
 
 * Abraham deceived King Abimelech by telling him that Sarah was his sister rather than his wife.
 * Abraham and Abimelech made an agreement regarding ownership of wells at Beersheba.
@@ -12,7 +12,7 @@ Abimelech was a Philistine king over the region of Gerar during the time when Ab
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [Beersheba](../other/beersheba.md) **·** [Gerar](../other/gerar.md), , [Gideon](../other/gideon.md),[Jotham](../other/jotham.md) **·** [Philistines](../other/philistines.md))
+(See also: [Beersheba](../other/beersheba.md) **Â·** [Gerar](../other/gerar.md), , [Gideon](../other/gideon.md),[Jotham](../other/jotham.md) **Â·** [Philistines](../other/philistines.md))
 
 ## Bible References: ##
 
