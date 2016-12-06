@@ -10,7 +10,7 @@ A camel is a large, four legged animal with one or two humps on its back.
 * Some people groups also used camels for food, but not the Israelites because God had said that camels were unclean and were not to be eaten.
 * Camels were valuable because they could move swiftly in the sand and could live without food and water for several weeks at a time.
 
-(See also: [burden](../other/burden.md) **·** [unclean](../kt/unclean.md))
+(See also: [burden](../other/burden.md) **Â·** [unclean](../kt/unclean.md))
 
 ## Bible References: ##
 

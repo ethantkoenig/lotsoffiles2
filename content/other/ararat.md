@@ -10,7 +10,7 @@ In the Bible, "Ararat" is the name given to a land, a kingdom, and a mountain ra
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ark](../other/ark.md) **·** [Noah](../other/noah.md))
+(See also: [ark](../other/ark.md) **Â·** [Noah](../other/noah.md))
 
 ## Bible References: ##
 

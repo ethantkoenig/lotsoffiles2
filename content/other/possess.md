@@ -20,7 +20,7 @@ The terms "possess" and "possession" usually refer to owning something. They can
 * The phrase "as your possession" could also be translated as, "as something that belongs to you" or "as a place where your people will live."
 * The phrase, "in his possession" could be translated as "that he owned" or "which belonged to him."
 
-(See also: [canaan](../other/canaan.md) **·** [worship](../kt/worship.md))
+(See also: [canaan](../other/canaan.md) **Â·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 

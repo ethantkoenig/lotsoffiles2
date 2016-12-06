@@ -8,7 +8,7 @@ The term "skull" refers to the bony, skeletal structure of the head of a person 
 * The term, "Place of the Skull" was another name for Golgotha where Jesus was crucified.
 * This term could also be translated as, "head" or "head bone."
 
-(See also: [crucify](../kt/crucify.md) **·** [golgotha](../other/golgotha.md))
+(See also: [crucify](../kt/crucify.md) **Â·** [golgotha](../other/golgotha.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ A grape is a small, round, smooth-skinned berry fruit that grows in clusters on 
  * In order to keep grapes from rotting, people would often dry them. Dried grapes are called "raisins" and they were used to make raisin cakes.
  * Jesus told a parable about a grape vineyard to teach his disciples about God's kingdom.
 
-(See also: [vine](../other/vine.md) **·** [vineyard](../other/vineyard.md) **·** [wine](../other/wine.md))
+(See also: [vine](../other/vine.md) **Â·** [vineyard](../other/vineyard.md) **Â·** [wine](../other/wine.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The terms "Peor" and "Mount Peor" refer to a mountain located northeast of the S
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [baal](../other/baal.md) **·** [falsegod](../kt/falsegod.md) **·** [moab](../other/moab.md) **·** [saltsea](../other/saltsea.md) **·** [worship](../kt/worship.md))
+(See also: [baal](../other/baal.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [moab](../other/moab.md) **Â·** [saltsea](../other/saltsea.md) **Â·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 

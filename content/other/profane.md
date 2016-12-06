@@ -9,7 +9,7 @@ To profane something means to act in a way that defiles, pollutes, or disrespect
 * God told the Israelites that they "profaned" themselves with idols, meaning that the people were making themselves "unclean" or "dishonored" by this sin. They were also dishonoring God.
 * Depending on the context, the adjective "profane" could be translated as "dishonoring" or "godless" or "unholy."
  
-(See also: [defile](../other/defile.md) **·** [holy](../kt/holy.md) **·** [unclean](../kt/unclean.md))
+(See also: [defile](../other/defile.md) **Â·** [holy](../kt/holy.md) **Â·** [unclean](../kt/unclean.md))
 
 ## Bible References: ##
 

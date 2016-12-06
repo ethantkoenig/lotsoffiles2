@@ -21,7 +21,7 @@ To "know" means to understand something or to be aware of a fact. The expression
 * The expression "know how to" means to understand the process or method of getting something done. It could also be translated as, "be able to" or "have the skill to."
 * The term "knowledge" could also be translated as, "what is known" or "wisdom" or "understanding," depending on the context.
 
-(See also: [lawofmoses](../kt/lawofmoses.md) **·** [reveal](../kt/reveal.md) **·** [understand](../other/understand.md) **·** [wise](../kt/wise.md))
+(See also: [lawofmoses](../kt/lawofmoses.md) **Â·** [reveal](../kt/reveal.md) **Â·** [understand](../other/understand.md) **Â·** [wise](../kt/wise.md))
 
 ## Bible References: ##
 

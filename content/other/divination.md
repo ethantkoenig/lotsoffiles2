@@ -9,7 +9,7 @@ The terms "divination" and "soothsaying" refer to the practice of trying to get 
 * Pagan diviners used different methods of trying to find out information from the spirit world. Sometimes they would examine the inside parts of a dead animal or throw animal bones on the ground, looking for patterns that they would interpret as messages from their false gods.
 * In the New Testament, Jesus and the apostles also rejected divination, sorcery, witchcraft, and magic. All these practices involve using the power of evil spirits and are condemned by God.
 
-(See also: [apostle](../kt/apostle.md) **·** [falsegod](../kt/falsegod.md) **·** [magic](../other/magic.md) **·** [sorcery](../other/sorcery.md))
+(See also: [apostle](../kt/apostle.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [magic](../other/magic.md) **Â·** [sorcery](../other/sorcery.md))
 
 ## Bible References: ##
 

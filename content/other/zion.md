@@ -8,7 +8,7 @@ Originally, the term "Zion" or "Mount Zion" referred to a stronghold or fortress
 * David named Zion, or Jerusalem, the "City of David." This is different from David's hometown, Bethlehem, which was also called the City of David.
 * The term "Zion" is used in other figurative ways, to refer to Israel or to God's spiritual kingdom or to the new, heavenly Jerusalem that God will create.
 
-(See also: [abraham](../other/abraham.md) **·** [david](../other/david.md) **·** [jerusalem](../other/jerusalem.md) **·** [bethlehem](../other/bethlehem.md) **·** [jebusites](../other/jebusites.md))
+(See also: [abraham](../other/abraham.md) **Â·** [david](../other/david.md) **Â·** [jerusalem](../other/jerusalem.md) **Â·** [bethlehem](../other/bethlehem.md) **Â·** [jebusites](../other/jebusites.md))
 
 ## Bible References: ##
 

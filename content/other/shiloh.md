@@ -12,7 +12,7 @@ Shiloh was a walled Canaanite city that was conquered by the Israelites under th
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [bethel](../other/bethel.md) **·** [dedicate](../other/dedicate.md) **·** [hannah](../other/hannah.md) **·** [jerusalem](../other/jerusalem.md) **·** [jordanriver](../other/jordanriver.md) **·** [priest](../kt/priest.md) **·** [sacrifice](../other/sacrifice.md) **·** [samuel](../other/samuel.md) **·** [temple](../kt/temple.md))
+(See also: [bethel](../other/bethel.md) **Â·** [dedicate](../other/dedicate.md) **Â·** [hannah](../other/hannah.md) **Â·** [jerusalem](../other/jerusalem.md) **Â·** [jordanriver](../other/jordanriver.md) **Â·** [priest](../kt/priest.md) **Â·** [sacrifice](../other/sacrifice.md) **Â·** [samuel](../other/samuel.md) **Â·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

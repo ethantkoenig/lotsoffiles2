@@ -9,7 +9,7 @@
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abimelech](../other/abimelech.md) **·** [beersheba](../other/beersheba.md) **·** [hebron](../other/hebron.md) **·** [philistines](../other/philistines.md))
+(See also: [abimelech](../other/abimelech.md) **Â·** [beersheba](../other/beersheba.md) **Â·** [hebron](../other/hebron.md) **Â·** [philistines](../other/philistines.md))
 
 ## Bible References: ##
 

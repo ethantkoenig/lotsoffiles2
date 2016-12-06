@@ -11,7 +11,7 @@ The term "slaughter" refers to killing a large number of animals or people, or t
 * The expression, "the slaughter was very great" could also be translated as "a large number were killed" or "the number of deaths was very great" or "a terribly high number of people died."
 * Other ways to translate "slaughter" could include, "kill" or "slay" or "killing."
 
-(See also: [angel](../kt/angel.md) **·** [cow](../other/cow.md) **·** [disobey](../other/disobey.md) **·** [ezekiel](../other/ezekiel.md) **·** [servant](../other/servant.md) **·** [slain](../other/slain.md))
+(See also: [angel](../kt/angel.md) **Â·** [cow](../other/cow.md) **Â·** [disobey](../other/disobey.md) **Â·** [ezekiel](../other/ezekiel.md) **Â·** [servant](../other/servant.md) **Â·** [slain](../other/slain.md))
 
 ## Bible References: ##
 

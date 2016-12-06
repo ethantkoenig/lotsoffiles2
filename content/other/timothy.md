@@ -10,7 +10,7 @@ Timothy was a young man from Lystra who became a believer in Christ as a result 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [appoint](../kt/appoint.md) **·** [believer](../kt/believer.md) **·** [church](../kt/church.md) **·** [greek](../other/greek.md) **·** [minister](../kt/minister.md))
+(See also: [appoint](../kt/appoint.md) **Â·** [believer](../kt/believer.md) **Â·** [church](../kt/church.md) **Â·** [greek](../other/greek.md) **Â·** [minister](../kt/minister.md))
 
 ## Bible References: ##
 

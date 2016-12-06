@@ -10,7 +10,7 @@ The term "royal" describes people and things which are associated with a king or
 * In the New Testament, believers in Jesus are called a "royal priesthood." Other ways to translate this could include, "priests who serve God the King" or "called to be priests for God the King."
 * The term "royal" could also be translated as "kingly" or "belonging to a king."
 
-(See also: [king](../other/king.md). [palace](../other/palace.md) **·** [priest](../kt/priest.md) **·** [purple](../other/purple.md) **·** [queen](../other/queen.md) **·** [robe](../other/robe.md))
+(See also: [king](../other/king.md). [palace](../other/palace.md) **Â·** [priest](../kt/priest.md) **Â·** [purple](../other/purple.md) **Â·** [queen](../other/queen.md) **Â·** [robe](../other/robe.md))
 
 ## Bible References: ##
 

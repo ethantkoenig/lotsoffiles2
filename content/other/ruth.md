@@ -11,7 +11,7 @@ Ruth was a Moabite woman who married an Israelite man who had moved to Moab with
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [bethlehem](../other/bethlehem.md) **·** [boaz](../other/boaz.md) **·** [david](../other/david.md) **·** [judgeposition](../other/judgeposition.md) **·** [naomi](../other/naomi.md))
+(See also: [bethlehem](../other/bethlehem.md) **Â·** [boaz](../other/boaz.md) **Â·** [david](../other/david.md) **Â·** [judgeposition](../other/judgeposition.md) **Â·** [naomi](../other/naomi.md))
 
 ## Bible References: ##
 

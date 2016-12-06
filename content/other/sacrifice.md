@@ -18,7 +18,7 @@ In the Bible, the terms "sacrifice" and "offering" refer to special gifts given 
 * The action, "to sacrifice" could be translated as, "to give up something valuable" or "to kill an animal and give it to God."
 * Another way to translate "present yourself as a living sacrifice" could be, "As you live your life, offer yourself to God as completely as an animal that is offered on an altar."
 
-(See also: [altar](../other/altar.md) **·** [burntoffering](../other/burntoffering.md) **·** [drinkoffering](../other/drinkoffering.md) **·** [falsegod](../kt/falsegod.md) **·** [fellowshipoffering](../other/fellowshipoffering.md) **·** [freewilloffering](../other/freewilloffering.md) [peaceoffering](../other/peaceoffering.md) **·** [priest](../kt/priest.md) **·** [sinoffering](../other/sinoffering.md) **·** [worship](../kt/worship.md))
+(See also: [altar](../other/altar.md) **Â·** [burntoffering](../other/burntoffering.md) **Â·** [drinkoffering](../other/drinkoffering.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [fellowshipoffering](../other/fellowshipoffering.md) **Â·** [freewilloffering](../other/freewilloffering.md) [peaceoffering](../other/peaceoffering.md) **Â·** [priest](../kt/priest.md) **Â·** [sinoffering](../other/sinoffering.md) **Â·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 

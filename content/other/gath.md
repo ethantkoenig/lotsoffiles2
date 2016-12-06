@@ -10,7 +10,7 @@ Gath was one of the five major cities of the Philistines. It was located north o
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ashdod](../other/ashdod.md) **·** [ashkelon](../other/ashkelon.md) **·** [ekron](../other/ekron.md) **·** [gaza](../other/gaza.md) **·** [goliath](../other/goliath.md) **·** [philistines](../other/philistines.md))
+(See also: [ashdod](../other/ashdod.md) **Â·** [ashkelon](../other/ashkelon.md) **Â·** [ekron](../other/ekron.md) **Â·** [gaza](../other/gaza.md) **Â·** [goliath](../other/goliath.md) **Â·** [philistines](../other/philistines.md))
 
 ## Bible References: ##
 

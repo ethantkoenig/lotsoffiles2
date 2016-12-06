@@ -12,7 +12,7 @@ Corinth was a city in the country of Greece, about 50 miles west of Athens. The 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [apollos](../other/apollos.md) **·** [timothy](../other/timothy.md), :en:obe:other:titus])
+(See also: [apollos](../other/apollos.md) **Â·** [timothy](../other/timothy.md), :en:obe:other:titus])
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ The terms "exult" and "exultant" refer to being very happy because of a success 
 * The term "exult" could also be translated as "celebrate joyfully" or "praise with great joy."
 * Depending on the context, the term "exultant could be translated as, "praising triumphantly" or "celebrating with self praise" or "arrogant."
 
-(See also: [arrogant](../other/arrogant.md) **·** [joy](../kt/joy.md) **·** [praise](../other/praise.md) **·** [rejoice](../other/rejoice.md))
+(See also: [arrogant](../other/arrogant.md) **Â·** [joy](../kt/joy.md) **Â·** [praise](../other/praise.md) **Â·** [rejoice](../other/rejoice.md))
 
 ## Bible References: ##
 

@@ -16,7 +16,7 @@ The term "reveal" means to cause something to be known. A "revelation" is someth
 * Depending on the context, possible ways to translate "revelation" could be, "communication from God" or "things that God has revealed" or "teachings about God." It is best to keep the meaning of "reveal" in this word.
 * The phrase, "where there is no revelation" could be translated as, "when God does not reveal himself to people" or "when God has not spoken to people" or "among people whom God has not communicated to."
 
-(See also: [goodnews](../kt/goodnews.md) **·** [goodnews](../kt/goodnews.md) **·** [dream](../other/dream.md) **·** [vision](../other/vision.md))
+(See also: [goodnews](../kt/goodnews.md) **Â·** [goodnews](../kt/goodnews.md) **Â·** [dream](../other/dream.md) **Â·** [vision](../other/vision.md))
 
 ## Bible References: ##
 

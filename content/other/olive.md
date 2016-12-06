@@ -9,7 +9,7 @@ The olive is the small, oval fruit from an olive tree, which is mostly grown in 
 * Olive oil was used for cooking, for lighting lamps, and for religious ceremonies.
 * In the Bible, olive trees and branches are sometimes used figuratively to refer to people.
 
-(See also: [lamp](../other/lamp.md) **·** [mediterranean](../other/mediterranean.md) **·** [mountofolives](../other/mountofolives.md))
+(See also: [lamp](../other/lamp.md) **Â·** [mediterranean](../other/mediterranean.md) **Â·** [mountofolives](../other/mountofolives.md))
 
 ## Bible References: ##
 

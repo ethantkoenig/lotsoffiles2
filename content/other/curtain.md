@@ -13,7 +13,7 @@ In the Bible, the term "curtain" refers to a very thick, heavy piece of material
 * Since modern-day curtains are very different from the curtains used in the Bible, it may be more clear to use a different word or to add words that describe the curtains.
 * Depending on the context, ways to translate this term could include, "curtain covering" or "covering" or "piece of thick cloth" or "animal skin covering" or "hanging piece of cloth."
 
-(See also: [holyplace](../kt/holyplace.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
+(See also: [holyplace](../kt/holyplace.md) **Â·** [tabernacle](../kt/tabernacle.md) **Â·** [temple](../kt/temple.md))
 
 ## Bible References: ## 
 

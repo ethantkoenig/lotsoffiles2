@@ -12,7 +12,7 @@ The Philistines were a people group who occupied a region known as Philistiaâ€‹ 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ashdod](../other/ashdod.md) **·** [ashkelon](../other/ashkelon.md) **·** [david](../other/david.md) **·** [ekron](../other/ekron.md) **·** [gath](../other/gath.md) **·** [gaza](../other/gaza.md) **·** [goliath](../other/goliath.md) **·** [saltsea](../other/saltsea.md))
+(See also: [ashdod](../other/ashdod.md) **Â·** [ashkelon](../other/ashkelon.md) **Â·** [david](../other/david.md) **Â·** [ekron](../other/ekron.md) **Â·** [gath](../other/gath.md) **Â·** [gaza](../other/gaza.md) **Â·** [goliath](../other/goliath.md) **Â·** [saltsea](../other/saltsea.md))
 
 ## Bible References: ##
 

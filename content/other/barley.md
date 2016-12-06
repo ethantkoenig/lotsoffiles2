@@ -12,7 +12,7 @@ The term "barley" refers to a kind of grain that is used to make bread.
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [grain](../other/grain.md) **·** [thresh](../other/thresh.md) **·** [wheat](../other/wheat.md))
+(See also: [grain](../other/grain.md) **Â·** [thresh](../other/thresh.md) **Â·** [wheat](../other/wheat.md))
 
 ## Bible References: ##
 

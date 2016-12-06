@@ -9,7 +9,7 @@ Midian was a son of Abraham and his wife Keturah. It is also the name of a peopl
 * Many years later the Midianites attacked and raided the Israelites in the land of Canaan. Gideon led the Israelites in defeating them.
 * Many of the modern-day Arabian tribes are descendants of this group.
 
-(See also   [arabia](../other/arabia.md) **·** [egypt](../other/egypt.md) **·** [flock](../other/flock.md) **·** [gideon](../other/gideon.md) **·** [jethro](../other/jethro.md) **·** [moses](../other/moses.md), 
+(See also   [arabia](../other/arabia.md) **Â·** [egypt](../other/egypt.md) **Â·** [flock](../other/flock.md) **Â·** [gideon](../other/gideon.md) **Â·** [jethro](../other/jethro.md) **Â·** [moses](../other/moses.md), 
 
 ## Bible References: ##
 

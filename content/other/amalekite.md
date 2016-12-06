@@ -13,7 +13,7 @@ The Amalekites were a nomadic people group who lived throughout the southern par
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [arabia](../other/arabia.md) **·** [david](../other/david.md) **·** [esau](../other/esau.md) **·** [negev](../other/negev.md) **·** [saul](../other/saul.md))
+(See also: [arabia](../other/arabia.md) **Â·** [david](../other/david.md) **Â·** [esau](../other/esau.md) **Â·** [negev](../other/negev.md) **Â·** [saul](../other/saul.md))
 
 * [Prev chunk](../other/altarofincense.md): [publish-current](../other/altarofincense?do=diff&rev2[0]=1412701930&rev2[1]=&difftype=sidebyside.md)
 * [Next chunk](../other/amazed.md): [publish-current](../other/amazed?do=diff&rev2[0]=1423767478&rev2[1]=&difftype=sidebyside.md)

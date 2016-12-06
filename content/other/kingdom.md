@@ -17,7 +17,7 @@ A kingdom is a group of people ruled by a king. It also refers to the realm or p
 * The phrase, "kingdom of light" could be translated as, "God's reign that is good like light" or "when God, who is light, rules people" or "the light and goodness of God's kingdom." It is best to keep the word "light" in this expression since that is a very important term in the Bible.
 * Note that the term "kingdom" is different from an empire, in which an emperor rules over several countries.
 
-(See also: [authority](../other/authority.md) **·** [king](../other/king.md) **·** [kingdomofgod](../kt/kingdomofgod.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [judah](../other/judah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [priest](../kt/priest.md))
+(See also: [authority](../other/authority.md) **Â·** [king](../other/king.md) **Â·** [kingdomofgod](../kt/kingdomofgod.md) **Â·** [kingdomofisrael](../other/kingdomofisrael.md) **Â·** [judah](../other/judah.md) **Â·** [kingdomofjudah](../other/kingdomofjudah.md) **Â·** [priest](../kt/priest.md))
 
 ## Bible References: ##
 

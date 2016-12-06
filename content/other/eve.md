@@ -10,7 +10,7 @@ This was the name of the first woman. Her name means "life" or "living."
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [adam](../other/adam.md) **·** [life](../kt/life.md) **·** [satan](../kt/satan.md))
+(See also: [adam](../other/adam.md) **Â·** [life](../kt/life.md) **Â·** [satan](../kt/satan.md))
 
 ## Bible References: ##
 

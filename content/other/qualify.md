@@ -13,7 +13,7 @@ The term "qualify" refers to earning the right to receive certain benefits or to
 * Depending on the context, "qualified" could be translated as, "equipped" or "skilled" or "enabled."
 * To "qualify" someone could be translated as to "equip" or to "enable" or to "empower."
 
-(See also: [colossae](../other/colossae.md) **·** [godly](../kt/godly.md) **·** [kingdom](../other/kingdom.md) **·** [light](../kt/light.md) **·** [paul](../other/paul.md) **·** [redeem](../kt/redeem.md))
+(See also: [colossae](../other/colossae.md) **Â·** [godly](../kt/godly.md) **Â·** [kingdom](../other/kingdom.md) **Â·** [light](../kt/light.md) **Â·** [paul](../other/paul.md) **Â·** [redeem](../kt/redeem.md))
 
 ## Bible References: ##
 

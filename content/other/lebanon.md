@@ -10,7 +10,7 @@ Lebanon is a beautiful mountainous region located along the coast of the Mediter
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [cedar](../other/cedar.md) **·** [cypress](../other/cypress.md) **·** [fir](../other/fir.md) **·** [phonecia](../other/phonecia.md))
+(See also: [cedar](../other/cedar.md) **Â·** [cypress](../other/cypress.md) **Â·** [fir](../other/fir.md) **Â·** [phonecia](../other/phonecia.md))
 
 ## Bible References: ##
 

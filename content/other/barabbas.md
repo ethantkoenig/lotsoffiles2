@@ -10,7 +10,7 @@ Barabbas was a prisoner in Jerusalem at the time when Jesus was arrested.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [pilate](../other/pilate.md) **·** [rome](../other/rome.md))
+(See also: [pilate](../other/pilate.md) **Â·** [rome](../other/rome.md))
 
 ## Bible References: ##
 

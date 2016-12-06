@@ -10,7 +10,7 @@ The Pharisees were an important, powerful group of Jewish religious leaders in J
 * The Pharisees believed in life after death; they also believed in the existence of angels and other spiritual beings.
 * The Pharisees and Sadducees actively opposed Jesus and the early Christians.
 
-(See also: [council](../other/council.md) **·** [jewishleaders](../other/jewishleaders.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [sadducee](../other/sadducee.md))
+(See also: [council](../other/council.md) **Â·** [jewishleaders](../other/jewishleaders.md) **Â·** [lawofmoses](../kt/lawofmoses.md) **Â·** [sadducee](../other/sadducee.md))
 
 ## Bible References: ##
 

@@ -13,7 +13,7 @@ Stephen is most remembered as the first Christian martyr, that is, the first per
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [appoint](../kt/appoint.md) **·** [deacon](../other/deacon.md) **·** [jerusalem](../other/jerusalem.md) **·** [paul](../other/paul.md) **·** [stone](../other/stone.md) **·** [true](../other/true.md))
+(See also: [appoint](../kt/appoint.md) **Â·** [deacon](../other/deacon.md) **Â·** [jerusalem](../other/jerusalem.md) **Â·** [paul](../other/paul.md) **Â·** [stone](../other/stone.md) **Â·** [true](../other/true.md))
 
 ## Bible References: ##
 

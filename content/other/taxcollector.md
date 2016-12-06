@@ -10,7 +10,7 @@ A "tax collector" was a government worker whose job was to receive money that pe
 * The Jews also considered Jewish tax collectors to be traitors to their own people because they worked for the Roman government which was oppressing the Jewish people.
 * The phrase, "tax collectors and sinners" is a common expression in the New Testament, showing how much the Jews despised tax collectors.
 
-(See also: [jew](../other/jew.md) **·** [rome](../other/rome.md) **·** [sin](../kt/sin.md))
+(See also: [jew](../other/jew.md) **Â·** [rome](../other/rome.md) **Â·** [sin](../kt/sin.md))
 
 ## Bible References: ##
 

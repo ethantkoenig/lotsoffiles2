@@ -11,7 +11,7 @@ The term "obey" means to do what is required or commanded. The term "obedient" d
 * Ways to translate this term could include a word or phrase that means, "do what is commanded" or "follow orders" or "do what God says to do."
 * The term "obedient" could be translated as, "doing what was commanded" or "following orders" or "doing what God commands."
 
-(See also: [citizen](../other/citizen.md) **·** [command](../other/command.md) **·** [disobey](../other/disobey.md) **·** [kingdom](../other/kingdom.md) **·** [law](../other/law.md))
+(See also: [citizen](../other/citizen.md) **Â·** [command](../other/command.md) **Â·** [disobey](../other/disobey.md) **Â·** [kingdom](../other/kingdom.md) **Â·** [law](../other/law.md))
 
 ## Bible References: ##
 

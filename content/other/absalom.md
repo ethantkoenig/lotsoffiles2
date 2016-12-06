@@ -11,7 +11,7 @@ Absalom was the third son of King David. He was known for his handsome appearanc
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [geshur](../other/geshur.md) **·** [amnon](../other/amnon.md))
+(See also: [geshur](../other/geshur.md) **Â·** [amnon](../other/amnon.md))
 
 ## Bible References: ##
 

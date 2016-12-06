@@ -9,7 +9,7 @@ Nineveh was the capital city of Assyria.  A "Ninevite" was a person who lived in
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [assyria](../other/assyria.md) **·** [jonah](../other/jonah.md) **·** [repent](../kt/repent.md) **·** [turn](../kt/turn.md))
+(See also: [assyria](../other/assyria.md) **Â·** [jonah](../other/jonah.md) **Â·** [repent](../kt/repent.md) **Â·** [turn](../kt/turn.md))
 
 ## Bible References: ##
 

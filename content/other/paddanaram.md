@@ -12,7 +12,7 @@ Paddan Aram was the name of a region where Abraham's family lived before moving 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abraham](../other/abraham.md) **·** [aram](../other/aram.md) **·** [bethuel](../other/bethuel.md) **·** [canaan](../other/canaan.md) **·** [haran](../other/haran.md) **·** [jacob](../other/jacob.md) **·** [laban](../other/laban.md) **·** [rebekah](../other/rebekah.md) **·** [syria](../other/syria.md))
+(See also: [abraham](../other/abraham.md) **Â·** [aram](../other/aram.md) **Â·** [bethuel](../other/bethuel.md) **Â·** [canaan](../other/canaan.md) **Â·** [haran](../other/haran.md) **Â·** [jacob](../other/jacob.md) **Â·** [laban](../other/laban.md) **Â·** [rebekah](../other/rebekah.md) **Â·** [syria](../other/syria.md))
 
 ## Bible References: ##
 

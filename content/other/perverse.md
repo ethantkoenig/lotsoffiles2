@@ -13,7 +13,7 @@ The term "perverse" is used to describe a person or action that is morally crook
 * The phrase "acting perversely" could be translated as "behaving in an evil way" or "doing things against God's commands" or "living in a way that rejects God's teachings."
 * The term "pervert" could also be translated as "cause to be corrupt" or "turn into something evil."
 
-(See also: [corrupt](../kt/corrupt.md) **·** [deceive](../kt/deceive.md) **·** [disobey](../other/disobey.md) **·** [evil](../kt/evil.md) **·** [turn](../kt/turn.md))
+(See also: [corrupt](../kt/corrupt.md) **Â·** [deceive](../kt/deceive.md) **Â·** [disobey](../other/disobey.md) **Â·** [evil](../kt/evil.md) **Â·** [turn](../kt/turn.md))
 
 ## Bible References: ##
 

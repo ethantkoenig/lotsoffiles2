@@ -10,7 +10,7 @@ The terms "prostitute" and "harlot" both refer to a person who performs sexual a
 * In ancient times, some pagan temples used male and female prostitutes as part of their rituals.
 * This term could be translated by the word or phrase that is used in the project language to refer to a prostitute. Some languages may have a euphemistic term that is used for this. (See: [euphemism](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_euphemism.md))
 
-(See also: [adultery](../kt/adultery.md) **·** [falsegod](../kt/falsegod.md) **·** [fornication](../kt/fornication.md) **·** [idol](../other/idol.md))
+(See also: [adultery](../kt/adultery.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [fornication](../kt/fornication.md) **Â·** [idol](../other/idol.md))
 
 ## Bible References: ##
 

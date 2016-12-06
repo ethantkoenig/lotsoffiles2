@@ -10,7 +10,7 @@ The term "chronicle" refers to a written record of events over a period of time.
 * The "Second Book of the Chronicles" records the reigns of King Solomon and several other kings, including the building of the temple and the separation of the northern kingdom of Israel from the southern kingdom of Judah.
 * The end of 2 Chronicles describes the beginning of the Babylonian exile.
 
-(See also: [babylon](../other/babylon.md) **·** [david](../other/david.md) **·** [exile](../other/exile.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [solomon](../other/solomon.md))
+(See also: [babylon](../other/babylon.md) **Â·** [david](../other/david.md) **Â·** [exile](../other/exile.md) **Â·** [kingdomofisrael](../other/kingdomofisrael.md) **Â·** [kingdomofjudah](../other/kingdomofjudah.md) **Â·** [solomon](../other/solomon.md))
 
 ## Bible References: ##
 

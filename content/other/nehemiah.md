@@ -12,7 +12,7 @@ Nehemiah was an Israelite living in the Babylonian empire when the people of Isr
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [artaxerxes](../other/artaxerxes.md) **·** [babylon](../other/babylon.md) **·** [jerusalem](../other/jerusalem.md) **·** [son](../kt/son.md))
+(See also: [artaxerxes](../other/artaxerxes.md) **Â·** [babylon](../other/babylon.md) **Â·** [jerusalem](../other/jerusalem.md) **Â·** [son](../kt/son.md))
 
 ## Bible References: ##
 

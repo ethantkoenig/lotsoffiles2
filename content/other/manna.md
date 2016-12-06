@@ -15,7 +15,7 @@ Manna was a white, grain-like food that God provided for the Israelites to eat d
 * Other ways to translate this term could include, "thin white flakes of food" or "food from heaven."
 * Also consider how this term is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [bread](../other/bread.md) **·** [desert](../other/desert.md) **·** [grain](../other/grain.md) **·** [heaven](../kt/heaven.md) **·** [sabbath](../kt/sabbath.md))
+(See also: [bread](../other/bread.md) **Â·** [desert](../other/desert.md) **Â·** [grain](../other/grain.md) **Â·** [heaven](../kt/heaven.md) **Â·** [sabbath](../kt/sabbath.md))
 
 ## Bible References: ##
 

@@ -13,7 +13,7 @@ In the Bible, the phrase "wise men" often refers to men who serve God and act wi
 * Depending on the context, the term "wise men" could be translated using the term "wise" or with a phrase such as, "gifted men" or "educated men" or some other term that refers to men who have an important job working for a ruler.
 * When "wise men" is simply a noun phrase, the word "wise" should be translated in the same or similar way to how it is translated elsewhere in the Bible.
 
-(See also: [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [divination](../other/divination.md) **·** [magic](../other/magic.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md) **·** [ruler](../other/ruler.md) **·** [wise](../kt/wise.md))
+(See also: [babylon](../other/babylon.md) **Â·** [daniel](../other/daniel.md) **Â·** [divination](../other/divination.md) **Â·** [magic](../other/magic.md) **Â·** [nebuchadnezzar](../other/nebuchadnezzar.md) **Â·** [ruler](../other/ruler.md) **Â·** [wise](../kt/wise.md))
 
 ## Bible References: ##
 

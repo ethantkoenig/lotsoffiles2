@@ -8,7 +8,7 @@ Tamar is the name of several women in the Old Testament. It is also the name of 
 * Absalom also had a daughter named Tamar.
 * A city called "Hazezon Tamar" is the same as the city of Engedi on the western shore of the Salt Sea. There is also a "Baal Tamar." There are also general references to a place called "Tamar" which may be different from the cities.
 
-(See also: [absalom](../other/absalom.md) **·** [father](../other/father.md) **·** [amnon](../other/amnon.md) **·** [david](../other/david.md) **·** [father](../other/father.md) **·** [judah](../other/judah.md) **·** [saltsea](../other/saltsea.md))
+(See also: [absalom](../other/absalom.md) **Â·** [father](../other/father.md) **Â·** [amnon](../other/amnon.md) **Â·** [david](../other/david.md) **Â·** [father](../other/father.md) **Â·** [judah](../other/judah.md) **Â·** [saltsea](../other/saltsea.md))
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 

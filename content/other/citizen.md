@@ -8,7 +8,7 @@ A citizen is someone who lives in a specific city, country, or kingdom. It espec
 * A citizen could live in a region that is part of a larger kingdom or empire that is governed by a king, emperor, or other ruler. For example, Paul was a citizen of the Roman Empire, which consisted of many different provinces; Paul lived in one of those provinces.
 * In a figurative sense, believers in Jesus are called "citizens" of heaven in the sense that they will live there some day. Like a citizen of a country, Christians belong to God's kingdom.
 
-( See: [kingdom](../other/kingdom.md) **·** [paul](../other/paul.md) **·** [province](../other/province.md) **·** [rome](../other/rome.md)
+( See: [kingdom](../other/kingdom.md) **Â·** [paul](../other/paul.md) **Â·** [province](../other/province.md) **Â·** [rome](../other/rome.md)
 
 ## Bible References: ##
 

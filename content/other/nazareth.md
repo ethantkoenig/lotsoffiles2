@@ -9,7 +9,7 @@ Nazareth is a town in the region of Galilee in northern Israel. It was about 100
 * Once when Jesus was teaching in the Nazareth synagogue, the Jews there tried to kill him because he claimed to be the Messiah and had rebuked them for rejecting him.
 * Nathanael's remark when he heard that Jesus was from Nazareth indicates that this city was not thought of very highly.
 
-(See also: [christ](../kt/christ.md) **·** [galilee](../other/galilee.md) **·** [josephnt](../other/josephnt.md) **·** [mary](../other/mary.md))
+(See also: [christ](../kt/christ.md) **Â·** [galilee](../other/galilee.md) **Â·** [josephnt](../other/josephnt.md) **Â·** [mary](../other/mary.md))
 
 ## Bible References: ##
 

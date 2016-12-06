@@ -8,7 +8,7 @@ In Bible times, the term "horsemen" referred to men who rode horses into battle.
 * The Israelites believed that using horses in battle placed too much emphasis on their own strength rather than on Yahweh, so they did not use a lot of horsemen.
 * This term could also be translated as, "horse riders" or "men on horses."
 
-(See also: [chariot](../other/chariot.md) **·** [horse](../other/horse.md))
+(See also: [chariot](../other/chariot.md) **Â·** [horse](../other/horse.md))
 
 ## Bible References: ##
 

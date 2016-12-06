@@ -10,7 +10,7 @@ In the book of Genesis, Seth was the third son of Adam and Eve.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abel](../other/abel.md) **·** [cain](../other/cain.md) **·** [call](../kt/call.md) **·** [descendant](../other/descendant.md) **·** [father](../other/father.md) **·** [flood](../other/flood.md) **·** [noah](../other/noah.md))
+(See also: [abel](../other/abel.md) **Â·** [cain](../other/cain.md) **Â·** [call](../kt/call.md) **Â·** [descendant](../other/descendant.md) **Â·** [father](../other/father.md) **Â·** [flood](../other/flood.md) **Â·** [noah](../other/noah.md))
 
 ## Bible References: ##
 

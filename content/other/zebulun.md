@@ -10,7 +10,7 @@ Zebulun was the last son born to Jacob and Leah and is the name of one of the tw
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [jacob](../other/jacob.md) **·** [leah](../other/leah.md) **·** [saltsea](../other/saltsea.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [jacob](../other/jacob.md) **Â·** [leah](../other/leah.md) **Â·** [saltsea](../other/saltsea.md) **Â·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

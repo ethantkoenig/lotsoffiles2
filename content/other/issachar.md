@@ -10,7 +10,7 @@ Issachar was the fifth son of Jacob. His mother was Leah.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [gad](../other/gad.md) **·** [manasseh](../other/manasseh.md) **·** [naphtali](../other/naphtali.md) **·** [12tribesofisrael](../other/12tribesofisrael.md) **·** [zebulun](../other/zebulun.md))
+(See also: [gad](../other/gad.md) **Â·** [manasseh](../other/manasseh.md) **Â·** [naphtali](../other/naphtali.md) **Â·** [12tribesofisrael](../other/12tribesofisrael.md) **Â·** [zebulun](../other/zebulun.md))
 
 ## Bible References: ##
 

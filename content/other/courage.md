@@ -12,7 +12,7 @@ The term "courage" refers to boldly facing or doing something that is difficult,
 * Depending on the context, to "have courage" could also be translated as, "be emotionally strong" or "be confident" or "stand firm."
 * To "speak with courage" could be translated as, "speak boldly" or "speak without being afraid" or "speak confidently."
 
-(See also: [confidence](../kt/confidence.md) **·** [exhort](../kt/exhort.md) **·** [fear](../kt/fear.md) **·** [strength](../other/strength.md)
+(See also: [confidence](../kt/confidence.md) **Â·** [exhort](../kt/exhort.md) **Â·** [fear](../kt/fear.md) **Â·** [strength](../other/strength.md)
 
 ## Bible References: ##
 

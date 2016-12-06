@@ -10,7 +10,7 @@ Iconium was a city in the south central part of what is now the country of Turke
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [barnabas](../other/barnabas.md) **·** [Lystra](../other/lystra.md) **·** [stone](../other/stone.md))
+(See also: [barnabas](../other/barnabas.md) **Â·** [Lystra](../other/lystra.md) **Â·** [stone](../other/stone.md))
 
 ## Bible References: ##
 

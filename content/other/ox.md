@@ -8,7 +8,7 @@ An "ox" refers to a type of cattle that is specifically trained to do agricultur
 * Oxen working together under a yoke was such a common occurrence in the Bible that the phrase "to be under a yoke" became a metaphor for hard work and labor.
 *  A bull is also a male type of cattle, but it has not been castrated and has not been trained as a work animal.
 
-(See also: [cow](../other/cow.md) **·** [yoke](../other/yoke.md))
+(See also: [cow](../other/cow.md) **Â·** [yoke](../other/yoke.md))
 
 ## Bible References: ##
 

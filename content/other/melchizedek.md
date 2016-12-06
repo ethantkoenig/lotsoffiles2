@@ -13,7 +13,7 @@ During the time when Abram lived, Melchizedek was the king of the city of Salem 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [abraham](../other/abraham.md) **·** [eternity](../kt/eternity.md) **·** [highpriest](../kt/highpriest.md) **·** [jerusalem](../other/jerusalem.md) **·** [levite](../other/levite.md) **·** [priest](../kt/priest.md) **·** [righteous](../kt/righteous.md))
+(See also: [abraham](../other/abraham.md) **Â·** [eternity](../kt/eternity.md) **Â·** [highpriest](../kt/highpriest.md) **Â·** [jerusalem](../other/jerusalem.md) **Â·** [levite](../other/levite.md) **Â·** [priest](../kt/priest.md) **Â·** [righteous](../kt/righteous.md))
 
 ## Bible References: ##
 

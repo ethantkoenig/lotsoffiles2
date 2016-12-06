@@ -10,7 +10,7 @@ Goliath was a very tall and very large soldier in the army of the Philistines wh
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [david](../other/david.md) **·** [philistines](../other/philistines.md))
+(See also: [david](../other/david.md) **Â·** [philistines](../other/philistines.md))
 
 ## Bible References: ##
 

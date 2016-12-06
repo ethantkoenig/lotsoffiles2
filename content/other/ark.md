@@ -10,7 +10,7 @@ The term, "ark" literally refers to a rectangular wooden box that is made to hol
 * In the phrase "ark of the covenant," a different Hebrew word is used for "ark." This could be translated as "box" or "chest" or "container."
 * When choosing a term to translate "ark," it is important in each context to consider what size it is and what it is being used for.
 
-(See also: [arkofthecovenant](../other/arkofthecovenant.md) **·** [basket](../other/basket.md))
+(See also: [arkofthecovenant](../other/arkofthecovenant.md) **Â·** [basket](../other/basket.md))
 
 ## Bible References: ##
 

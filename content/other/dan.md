@@ -10,7 +10,7 @@ Dan was the fifth son of Jacob and was one of the twelve tribes of Israel.The re
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [canaan](../other/canaan.md) **·** [jerusalem](../other/jerusalem.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [canaan](../other/canaan.md) **Â·** [jerusalem](../other/jerusalem.md) **Â·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

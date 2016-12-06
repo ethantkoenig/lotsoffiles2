@@ -12,7 +12,7 @@ Arabia is the largest peninsula in the world, covering nearly 3,000,000 square k
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [esau](../other/esau.md) **·** [galatia](../other/galatia.md) **·** [ishmael](../other/ishmael.md) **·** [shem](../other/shem.md) **·** [sinai](../other/sinai.md))
+(See also: [esau](../other/esau.md) **Â·** [galatia](../other/galatia.md) **Â·** [ishmael](../other/ishmael.md) **Â·** [shem](../other/shem.md) **Â·** [sinai](../other/sinai.md))
 
 ## Bible References: ##
 

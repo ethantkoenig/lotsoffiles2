@@ -16,7 +16,7 @@ The term "generation" refers to a group of people who were all born around the s
  * The expression "from generation to generation" or "from one generation to the next" could be translated as, "people living now, as well as their children and grandchildren" or "people in every time period" or "people in this time period and future time periods" or "all people and their descendants."
  * "A generation to come will serve him; they will tell the next generation about Yahweh" could also be translated as "Many people in the future will serve Yahweh and will tell their children and grandchildren about him."
 
-(See also: [descendant](../other/descendant.md) **·** [evil](../kt/evil.md) **·** [father](../other/father.md))
+(See also: [descendant](../other/descendant.md) **Â·** [evil](../kt/evil.md) **Â·** [father](../other/father.md))
 
 ## Bible References: ##
 

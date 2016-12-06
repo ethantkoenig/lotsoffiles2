@@ -16,7 +16,7 @@ A sister is a female person who shares at least one biological parent with anoth
 * If the language has a feminine form for "believer," this may be a possible way to translate this term.
 * When referring to a lover or wife, this could be translated using a feminine form of "loved one" or "dear one."
 
-(See also: [brother](../kt/brother.md) [in Christ, in Jesus, in the Lord](../kt/inchrist.md) **·** [spirit](../kt/spirit.md))
+(See also: [brother](../kt/brother.md) [in Christ, in Jesus, in the Lord](../kt/inchrist.md) **Â·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

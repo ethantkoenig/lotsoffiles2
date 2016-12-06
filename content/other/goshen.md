@@ -10,7 +10,7 @@ Goshen is the name of a fertile region of land that was located along the Nile R
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [egypt](../other/egypt.md) **·** [famine](../other/famine.md) **·** [moses](../other/moses.md) **·** [nileriver](../other/nileriver.md))
+(See also: [egypt](../other/egypt.md) **Â·** [famine](../other/famine.md) **Â·** [moses](../other/moses.md) **Â·** [nileriver](../other/nileriver.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ Jezebel was the wicked wife of King Ahab of Israel.
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ahab](../other/ahab.md) **·** [elijah](../other/elijah.md) **·** [idol](../other/idol.md))
+(See also: [ahab](../other/ahab.md) **Â·** [elijah](../other/elijah.md) **Â·** [idol](../other/idol.md))
 
 ## Bible References: ##
 

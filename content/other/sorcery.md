@@ -10,7 +10,7 @@
 * Possible ways to translated "sorcerer" could include, "worker of magic" or "person who casts spells" or "person who does miracles using evil spirit power."
 * Note that "sorcery" has a different meaning than the term "divination," which refers to attempting to contact the spirit world. 
 
-(See also: [adultery](../kt/adultery.md) **·** [demon](../kt/demon.md) **·** [divination](../other/divination.md) **·** [idol](../other/idol.md) **·** [magic](../other/magic.md) **·** [sacrifice](../other/sacrifice.md) **·** [worship](../kt/worship.md))
+(See also: [adultery](../kt/adultery.md) **Â·** [demon](../kt/demon.md) **Â·** [divination](../other/divination.md) **Â·** [idol](../other/idol.md) **Â·** [magic](../other/magic.md) **Â·** [sacrifice](../other/sacrifice.md) **Â·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 

@@ -19,7 +19,7 @@ The terms "well" and "cistern" refer to two different kinds of sources for water
 * The term "cistern" could be translated as "stone water pit" or "deep and narrow pit for water" or "underground tank for holding water."
 * These terms are similar in meaning. The main difference is that a well continually receives water from underground springs, whereas a cistern is a holding tank for water that usually comes from rain.
 
-(See also: [jeremiah](../other/jeremiah.md) **·** [prison](../other/prison.md) **·** [strife](../other/strife.md))
+(See also: [jeremiah](../other/jeremiah.md) **Â·** [prison](../other/prison.md) **Â·** [strife](../other/strife.md))
 
 ## Bible References: ##
 

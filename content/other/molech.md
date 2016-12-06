@@ -9,7 +9,7 @@ Molech was the name of one of the false gods that the Canaanites worshiped. Othe
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [canaan](../other/canaan.md) **·** [evil](../kt/evil.md) **·** [falsegod](../kt/falsegod.md) **·** [god](../kt/god.md) **·** [idol](../other/idol.md) **·** [sacrifice](../other/sacrifice.md) **·** [true](../kt/true.md) **·** [worship](../kt/worship.md) **·** [yahweh](../kt/yahweh.md))
+(See also: [canaan](../other/canaan.md) **Â·** [evil](../kt/evil.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [god](../kt/god.md) **Â·** [idol](../other/idol.md) **Â·** [sacrifice](../other/sacrifice.md) **Â·** [true](../kt/true.md) **Â·** [worship](../kt/worship.md) **Â·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

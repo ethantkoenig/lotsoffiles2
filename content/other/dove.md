@@ -13,7 +13,7 @@ Doves and pigeons are two kinds of small, gray-brown birds that look similar. A 
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [olive](../other/olive.md) **·** [innocent](../kt/innocent.md) **·** [purify](../kt/purify.md))
+(See also: [olive](../other/olive.md) **Â·** [innocent](../kt/innocent.md) **Â·** [purify](../kt/purify.md))
 
 ## Bible References: ##
 

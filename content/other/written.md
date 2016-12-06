@@ -9,7 +9,7 @@ The phrase "as it is written" or "what is written" occurs frequently in the New 
 * This could be translated: "as it is written in the Law of Moses" or "as the prophets wrote long ago" or "what it says in God's laws that Moses wrote down long ago".
 * Another option is to keep "It is written" and give a footnote that explains what this means.
 
-(See also: [command](../other/command.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [prophet](../kt/prophet.md) **·** [wordofgod](../kt/wordofgod.md))
+(See also: [command](../other/command.md) **Â·** [lawofmoses](../kt/lawofmoses.md) **Â·** [prophet](../kt/prophet.md) **Â·** [wordofgod](../kt/wordofgod.md))
 
 ## Bible References: ##
 

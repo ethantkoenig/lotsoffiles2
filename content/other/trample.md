@@ -11,7 +11,7 @@ To "trample" means to step on something and smash it with the feet. This term is
 * Other ways that "trample" could be translated include, "crush with the feet" or "smash down with the feet" or "stomp on and crush" or "smash into the ground."
 * Depending on the context, this term could also be translated nonfiguratively as, "destroy" or "defeat" or "humiliate" or "punish" or "conquer completely." 
 
-(See also: [grape](../other/grape.md) **·** [humiliate](../other/humiliate.md) **·** [punish](../other/punish.md) **·** [rebel](../other/rebel.md) **·** [thresh](../other/thresh.md) **·** [wine](../other/wine.md))
+(See also: [grape](../other/grape.md) **Â·** [humiliate](../other/humiliate.md) **Â·** [punish](../other/punish.md) **Â·** [rebel](../other/rebel.md) **Â·** [thresh](../other/thresh.md) **Â·** [wine](../other/wine.md))
 
 ## Bible References: ##
 
