@@ -12,7 +12,7 @@ Artaxerxes was a king who reigned over the Persian empire from about 464 to 424 
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ahasuerus](../other/ahasuerus.md) **·** [babylon](../other/babylon.md) **·** [cupbearer](../other/cupbearer.md) **·** [ezra](../other/ezra.md) **·** [nehemiah](../other/nehemiah.md) **·** [persia](../other/persia.md))
+(See also: [ahasuerus](../other/ahasuerus.md) **Â·** [babylon](../other/babylon.md) **Â·** [cupbearer](../other/cupbearer.md) **Â·** [ezra](../other/ezra.md) **Â·** [nehemiah](../other/nehemiah.md) **Â·** [persia](../other/persia.md))
 
 ## Bible References: ##
 

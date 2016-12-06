@@ -12,7 +12,7 @@ Mary was a women from Bethany who followed Jesus.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [bethany](../other/bethany.md) **·** [frankincense](../other/frankincense.md) **·** [lazarus](../other/lazarus.md) **·** [martha](../other/martha.md))
+(See also: [bethany](../other/bethany.md) **Â·** [frankincense](../other/frankincense.md) **Â·** [lazarus](../other/lazarus.md) **Â·** [martha](../other/martha.md))
 
 ## Bible References: ##
 

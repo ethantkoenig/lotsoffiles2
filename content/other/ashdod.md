@@ -10,7 +10,7 @@ Ashdod was one of the five most important cities of the Philistines. It was loca
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ekron](../other/ekron.md) **·** [gath](../other/gath.md) **·** [gaza](../other/gaza.md) **·** [joppa](../other/joppa.md) **·** [philip](../other/philip.md) **·** [philistines](../other/philistines.md))
+(See also: [ekron](../other/ekron.md) **Â·** [gath](../other/gath.md) **Â·** [gaza](../other/gaza.md) **Â·** [joppa](../other/joppa.md) **Â·** [philip](../other/philip.md) **Â·** [philistines](../other/philistines.md))
 
 ## Bible References: ##
 

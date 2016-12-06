@@ -10,7 +10,7 @@ The terms "disperse" and  "dispersion" refer to the scattering of people or thin
 * The term "disperse" could be translated as, "send away into many different places" or "scatter abroad" or "cause to move away to live in different countries."
   
 
-(See also: [believer](../kt/believer.md) **·** [persecute](../other/persecute.md))
+(See also: [believer](../kt/believer.md) **Â·** [persecute](../other/persecute.md))
 
 ## Bible References: ##
 

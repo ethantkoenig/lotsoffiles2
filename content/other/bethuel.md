@@ -9,7 +9,7 @@ Bethuel was the son of Abraham's brother Nahor.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [beersheba](../other/beersheba.md) **·** [laban](../other/laban.md) **·** [nahor](../other/nahor.md) **·** [rebekah](../other/rebekah.md))
+(See also: [beersheba](../other/beersheba.md) **Â·** [laban](../other/laban.md) **Â·** [nahor](../other/nahor.md) **Â·** [rebekah](../other/rebekah.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ The terms "lowly" and "lowliness" refer to being poor or having low status. This
 * Ways to translate "lowly" could include, "humble" or "of low status" or "unimportant."
 * The word "lowliness" could also be translated as "humility" or "little importance."
 
-(See also: [humble](../other/humble.md) **·** [proud](../other/proud.md))
+(See also: [humble](../other/humble.md) **Â·** [proud](../other/proud.md))
 
 ## Bible References: ##
 

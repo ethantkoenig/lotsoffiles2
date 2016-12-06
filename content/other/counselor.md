@@ -10,7 +10,7 @@ The terms "counsel" and "advice" have the same meaning and refer to helping some
 * The action, "to counsel" could be translated as "to advise" or "to make suggestions" or "to exhort."
 * Note that "counsel" is a different word than "council," which refers to a group of people.
 
-(See also: [exhort](../kt/exhort.md) **·** [holyspirit](../kt/holyspirit.md) **·** [wise](../kt/wise.md)
+(See also: [exhort](../kt/exhort.md) **Â·** [holyspirit](../kt/holyspirit.md) **Â·** [wise](../kt/wise.md)
 
 ## Bible References: ##
 

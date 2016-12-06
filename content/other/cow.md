@@ -13,7 +13,7 @@ The term , "cattle" refers to a kind of large, four-legged farm animal that eats
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [heifer](../other/heifer.md) **·** [ox](../other/ox.md) **·** [yoke](../other/yoke.md))
+(See also: [heifer](../other/heifer.md) **Â·** [ox](../other/ox.md) **Â·** [yoke](../other/yoke.md))
 
 ## Bible References: ##
 

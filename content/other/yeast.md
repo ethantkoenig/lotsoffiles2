@@ -17,7 +17,7 @@
 * If a local leavening agent is used for making bread dough rise, that term can be used. If the language has a well-known, general term that means, "leavening," this would be the best term to use.
   
 
-(See also: [egypt](../other/egypt.md) **·** [passover](../kt/passover.md) **·** [unleavenedbread](../kt/unleavenedbread.md))
+(See also: [egypt](../other/egypt.md) **Â·** [passover](../kt/passover.md) **Â·** [unleavenedbread](../kt/unleavenedbread.md))
 
 ## Bible References: ##
 

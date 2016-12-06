@@ -12,7 +12,7 @@ In New Testament times, Colossae was a city located in the Roman province of Phr
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ephesus](../other/ephesus.md) **·** [paul](../other/paul.md))
+(See also: [ephesus](../other/ephesus.md) **Â·** [paul](../other/paul.md))
 
 ## Bible References: ##
 

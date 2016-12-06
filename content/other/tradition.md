@@ -9,7 +9,7 @@ The term "tradition" refers to customs and practices that have been kept over ti
 * The apostle Paul also uses the term "tradition" in a different way to refer to teachings about Christian practice that came from God and that he and other apostles had taught new believers.
 * In modern times, there are many Christian traditions that are not taught in the Bible, but rather are the result of historically accepted customs and practices. These traditions should always be evaluated in light of what God teaches us in the Bible.
 
-(See also: [apostle](../kt/apostle.md) **·** [believer](../kt/believer.md) **·** [christian](../kt/christian.md) **·** [father](../other/father.md) **·** [generation](../other/generation.md) **·** [jew](../other/jew.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [moses](../other/moses.md))
+(See also: [apostle](../kt/apostle.md) **Â·** [believer](../kt/believer.md) **Â·** [christian](../kt/christian.md) **Â·** [father](../other/father.md) **Â·** [generation](../other/generation.md) **Â·** [jew](../other/jew.md) **Â·** [lawofmoses](../kt/lawofmoses.md) **Â·** [moses](../other/moses.md))
 
 ## Bible References: ##
 

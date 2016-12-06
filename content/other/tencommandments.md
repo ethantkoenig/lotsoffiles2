@@ -8,7 +8,7 @@ The "Ten Commandments" were commands that God gave to Moses on Mount Sinai durin
 * These commandments were also part of God's covenant with his people. By obeying what God had commanded them to do, the people of Israel would show that they loved God and belonged to him.
 * The stone slabs with the commandments written on them were kept in the Ark of the Covenant which was located in the most holy place of the tabernacle and later, the temple.
 
-(See also: [arkofthecovenant](../other/arkofthecovenant.md) **·** [command](../other/command.md) **·** [covenant](../kt/covenant.md) **·** [desert](../other/desert.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [obey](../other/obey.md) **·** [sinai](../other/sinai.md) **·** [worship](../kt/worship.md))
+(See also: [arkofthecovenant](../other/arkofthecovenant.md) **Â·** [command](../other/command.md) **Â·** [covenant](../kt/covenant.md) **Â·** [desert](../other/desert.md) **Â·** [lawofmoses](../kt/lawofmoses.md) **Â·** [obey](../other/obey.md) **Â·** [sinai](../other/sinai.md) **Â·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 

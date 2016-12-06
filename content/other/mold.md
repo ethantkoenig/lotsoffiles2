@@ -15,7 +15,7 @@ A mold is a hollowed-out piece of wood, metal, or clay that is used to form obje
 * The word "molded" could be translated as "shaped" or "formed."
 * The object "mold" could possibly be translated with a phrase or word that means, "shaped container" or "sculpted dish." 
 
-(See also: [falsegod](../kt/falsegod.md) **·** [gold](../other/gold.md) **·** [idol](../other/idol.md) **·** [silver](../other/silver.md))
+(See also: [falsegod](../kt/falsegod.md) **Â·** [gold](../other/gold.md) **Â·** [idol](../other/idol.md) **Â·** [silver](../other/silver.md))
 
 ## Bible References: ##
 

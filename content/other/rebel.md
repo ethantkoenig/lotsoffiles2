@@ -12,7 +12,7 @@ The term "rebel" means to refuse to submit to someone's authority. A "rebellious
 * The term "rebellion" means "refusal to obey" or "disobedience" or "law-breaking."
 * The phrase "the rebellion" or "a rebellion" can also refer to an organized group of people who publicly rebel against ruling authorities by breaking the law and attacking leaders and other people. Often they try to get other people to join them in rebelling.
 
-:(See also: [authority](../kt/authority.md) **·** [governor](../other/governor.md))
+:(See also: [authority](../kt/authority.md) **Â·** [governor](../other/governor.md))
 
 ## Bible References: ##
 

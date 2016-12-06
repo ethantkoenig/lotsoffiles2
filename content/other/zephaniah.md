@@ -9,7 +9,7 @@ Zephaniah, son of Cushi, was a prophet who lived in Jerusalem and prophesied dur
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [jeremiah](../other/jeremiah.md) **·** [josiah](../other/josiah.md) **·** [priest](../kt/priest.md))
+(See also: [jeremiah](../other/jeremiah.md) **Â·** [josiah](../other/josiah.md) **Â·** [priest](../kt/priest.md))
 
 ## Bible References: ##
 

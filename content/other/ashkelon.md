@@ -10,7 +10,7 @@ In Bible times, Ashkelon was a major Philistine city located on the coast of the
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ashdod](../other/ashdod.md) **·** [canaan](../other/canaan.md) **·** [ekron](../other/ekron.md) **·** [gath](../other/gath.md) **·** [gaza](../other/gaza.md) **·** [philistines](../other/philistines.md) **·** [thesea](../other/thesea.md))
+(See also: [ashdod](../other/ashdod.md) **Â·** [canaan](../other/canaan.md) **Â·** [ekron](../other/ekron.md) **Â·** [gath](../other/gath.md) **Â·** [gaza](../other/gaza.md) **Â·** [philistines](../other/philistines.md) **Â·** [thesea](../other/thesea.md))
 
 ## Bible References: ##
 

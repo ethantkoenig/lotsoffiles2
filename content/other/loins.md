@@ -10,7 +10,7 @@ The term "loins" refers to the part of the body of an animal or person that is b
 * The expression "will come from your loins" could also be translated as, "will be your offspring" or "will be born from your seed" or "God will cause to come from you." (See: [euphemism](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_euphemism.md))
 * When referring to a part of the body, this could also be translated as "abdomen" or "hips" or "waist," depending on the context.
 
-(See also: [descendant](../other/descendant.md) **·** [gird](../other/gird.md) **·** [offspring](../other/offspring.md))
+(See also: [descendant](../other/descendant.md) **Â·** [gird](../other/gird.md) **Â·** [offspring](../other/offspring.md))
 
 ## Bible References: ##
 

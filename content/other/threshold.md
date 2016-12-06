@@ -9,7 +9,7 @@ The term "threshold" refers to the bottom part of a doorway or the part of a bui
 * This term should be translated with a term in the project language that refers to the place at the very entrance to a home that a person steps across.
 * If there is no term for this, "threshold" could also be translated as, "doorway" or "opening" or "entranceway," depending on the context.
 
-(See also: [gate](../kt/gate.md) **·** [tent](../other/tent.md))
+(See also: [gate](../kt/gate.md) **Â·** [tent](../other/tent.md))
 
 ## Bible References: ##
 

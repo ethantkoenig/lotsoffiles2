@@ -10,7 +10,7 @@ To speak to a group of people, teaching them about God and urging them to obey h
  * The term "preach" is usually used with the word "gospel."
  * What a person has preached to others can also be referred to in general as his "teachings."
 
-(See also: [goodnews](../kt/goodnews.md) **·** [jesus](../kt/jesus.md) **·** [kingdomofgod](../kt/kingdomofgod.md))
+(See also: [goodnews](../kt/goodnews.md) **Â·** [jesus](../kt/jesus.md) **Â·** [kingdomofgod](../kt/kingdomofgod.md))
 
 ## Bible References: ##
 

@@ -17,7 +17,7 @@ The terms "like" and "likeness" refer to something being the same as, or similar
 * "In his own likeness" could also be translated as "to be like him" or "having many of the same qualities that he has."
 * The expression "the likeness of an image of perishable man, of birds, of four-footed beasts and of creeping things" could be translated as "idols made to look like perishable humans, or animals, such as birds, beasts, and small, crawling things."
 
-(See also: [beast](../other/beast.md) **·** [flesh](../kt/flesh.md) **·** [imageofgod](../kt/imageofgod.md) **·** [image](../other/image.md) **·** [perish](../kt/perish.md))
+(See also: [beast](../other/beast.md) **Â·** [flesh](../kt/flesh.md) **Â·** [imageofgod](../kt/imageofgod.md) **Â·** [image](../other/image.md) **Â·** [perish](../kt/perish.md))
 
 ## Bible References: ##
 

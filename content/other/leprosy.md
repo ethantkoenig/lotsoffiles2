@@ -15,7 +15,7 @@ The term "leprosy" is used in the Bible to refer to several different skin disea
 * The term "leprosy" in the Bible can be translated as "skin disease" or "dreaded skin disease."
 * Ways to translate "leprous" could include,  "full of leprosy" or "infected with skin disease" or "covered with skin sores."
 
-(See also: [miriam](../other/miriam.md) **·** [naaman](../other/naaman.md) **·** [unclean](../kt/unclean.md))
+(See also: [miriam](../other/miriam.md) **Â·** [naaman](../other/naaman.md) **Â·** [unclean](../kt/unclean.md))
 
 ## Bible References: ##
 

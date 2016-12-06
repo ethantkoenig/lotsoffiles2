@@ -8,7 +8,7 @@ A "meal offering" or "grain offering" was a sacrifice to God in the form of grai
 * The flour was mixed with water or oil to make a flat bread. Sometimes oil was spread on top of the bread.
 * This kind of offering was usually offered together with a burnt offering. 
 
-(See also: [burntoffering](../other/burntoffering.md) **·** [grain](../other/grain.md) **·** [sacrifice](../other/sacrifice.md))
+(See also: [burntoffering](../other/burntoffering.md) **Â·** [grain](../other/grain.md) **Â·** [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

@@ -14,7 +14,7 @@ The names "Jethro" and "Reuel" both refer to the father of Moses' wife, Zipporah
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [captive](../other/captive.md) **·** [clan](../other/clan.md) **·** [desert](../other/desert.md) **·** [egypt](../other/egypt.md),[esau](../other/esau.md) **·** [miracle](../kt/miracle.md) **·** [moses](../other/moses.md) **·** [desert](../other/desert.md))
+(See also: [captive](../other/captive.md) **Â·** [clan](../other/clan.md) **Â·** [desert](../other/desert.md) **Â·** [egypt](../other/egypt.md),[esau](../other/esau.md) **Â·** [miracle](../kt/miracle.md) **Â·** [moses](../other/moses.md) **Â·** [desert](../other/desert.md))
 
 ## Bible References: ##
 

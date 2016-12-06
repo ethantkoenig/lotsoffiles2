@@ -15,7 +15,7 @@ The verb "founded" means to be built on or based on something. A foundation is t
 * The term "founded on" could be translated as "securely built on" or "firmly based on."
 * Depending on the context, "foundation" could be translated as "strong base" or "solid support" or "beginning" or "creation."
 
-(See also: [cornerstone](../kt/cornerstone.md) **·** [create, creation, Creator](../other/creation.md))
+(See also: [cornerstone](../kt/cornerstone.md) **Â·** [create, creation, Creator](../other/creation.md))
 
 ## Bible References: ##
 

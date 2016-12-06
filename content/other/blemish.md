@@ -9,7 +9,7 @@ The term "blemish" refers to a physical defect or imperfection on an animal or p
 * Believers in Christ have been cleansed from their sin by his blood and are considered to be without blemish.
 * Ways to translate this term could include, "defect" or "imperfection" or "sin," depending on the context.
 
-(See also: [believer](../kt/believer.md) **·** [clean](../other/clean.md) **·** [sacrifice](../other/sacrifice.md) **·** [sin](../kt/sin.md))
+(See also: [believer](../kt/believer.md) **Â·** [clean](../other/clean.md) **Â·** [sacrifice](../other/sacrifice.md) **Â·** [sin](../kt/sin.md))
 
 ## Bible References: ##
 

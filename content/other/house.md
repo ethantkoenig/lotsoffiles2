@@ -18,7 +18,7 @@ The term "house" is often used figuratively in the Bible.
 * The phrase "house of Yahweh" could be translated as "Yahweh's temple" or "place where Yahweh is worshiped" or "place where Yahweh meets with his people" or "where Yahweh dwells."
 * "House of God" could be translated in a similar way.
 
-(See also: [david](../other/david.md) **·** [descendant](../other/descendant.md) **·** [houseofgod](../kt/houseofgod.md) **·** [household](../other/household.md),[kingdomofisrael](../other/kingdomofisrael.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md) **·** [yahweh](../kt/yahweh.md))
+(See also: [david](../other/david.md) **Â·** [descendant](../other/descendant.md) **Â·** [houseofgod](../kt/houseofgod.md) **Â·** [household](../other/household.md),[kingdomofisrael](../other/kingdomofisrael.md) **Â·** [tabernacle](../kt/tabernacle.md) **Â·** [temple](../kt/temple.md) **Â·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

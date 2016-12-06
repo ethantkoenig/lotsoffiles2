@@ -13,7 +13,7 @@ The chief priests were important Jewish religious leaders during the time that J
 * The term "chief priests" could also be translated as "head priests" or "leading priests" or "ruling priests."
 * Make sure this term is translated differently from the term "high priest."
 
-(See also: [chief](../other/chief.md) **·** [highpriest](../kt/highpriest.md) **·** [jewishleaders](../other/jewishleaders.md) **·** [priest](../kt/priest.md))
+(See also: [chief](../other/chief.md) **Â·** [highpriest](../kt/highpriest.md) **Â·** [jewishleaders](../other/jewishleaders.md) **Â·** [priest](../kt/priest.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ Mizpah is the name of several towns mentioned in the Old Testament. It means, "l
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [david](../other/david.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [moab](../other/moab.md) **·** [saul](../other/saul.md))
+(See also: [david](../other/david.md) **Â·** [kingdomofjudah](../other/kingdomofjudah.md) **Â·** [kingdomofisrael](../other/kingdomofisrael.md) **Â·** [moab](../other/moab.md) **Â·** [saul](../other/saul.md))
 
 ## Bible References: ##
 

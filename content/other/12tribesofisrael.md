@@ -10,7 +10,7 @@ The term, "twelve tribes of Israel" refers to the twelve sons of Jacob and their
 * Joseph received a double inheritance of land, which was passed on to his two sons, Ephraim and Manasseh.
 *  There are several places in the Bible where the list of the twelve tribes are slightly different. Sometimes Levi, Joseph, or Dan is left out of the list and sometimes Joseph's two sons Ephraim and Manasseh are included in the list.
 
-(See also: [inherit](../kt/inherit.md) **·** [israel](../other/israel.md) **·** [jacob](../other/jacob.md),[priest](../kt/priest.md) **·** [tribe](../other/tribe.md)) 
+(See also: [inherit](../kt/inherit.md) **Â·** [israel](../other/israel.md) **Â·** [jacob](../other/jacob.md),[priest](../kt/priest.md) **Â·** [tribe](../other/tribe.md)) 
 
 ## Bible References: ##
 

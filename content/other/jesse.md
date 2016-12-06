@@ -10,7 +10,7 @@ Jesse was the father of King David, and the grandson of Ruth and Boaz.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [bethlehem](../other/bethlehem.md) **·** [boaz](../other/boaz.md) **·** [descendant](../other/descendant.md) **·** [fruit](../kt/fruit.md) **·** [jesus](../kt/jesus.md) **·** [king](../other/king.md) **·** [prophet](../kt/prophet.md) **·** [ruth](../other/ruth.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [bethlehem](../other/bethlehem.md) **Â·** [boaz](../other/boaz.md) **Â·** [descendant](../other/descendant.md) **Â·** [fruit](../kt/fruit.md) **Â·** [jesus](../kt/jesus.md) **Â·** [king](../other/king.md) **Â·** [prophet](../kt/prophet.md) **Â·** [ruth](../other/ruth.md) **Â·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

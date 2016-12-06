@@ -9,7 +9,7 @@ The term "lover" literally means "person who loves." Usually this refers to peop
 * A "lover" of money is someone who puts too much importance on getting money and being rich.
 * In the Old Testament book, Song of Songs, the term "lover" is used in a positive way.
  
-(See also: [adultery](../kt/adultery.md) **·** [falsegod](../kt/falsegod.md) **·** [idol](../other/idol.md) **·** [love](../kt/love.md))
+(See also: [adultery](../kt/adultery.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [idol](../other/idol.md) **Â·** [love](../kt/love.md))
 
 ## Bible References: ##
 

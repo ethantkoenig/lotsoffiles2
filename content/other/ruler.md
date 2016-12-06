@@ -11,7 +11,7 @@ The term "ruler" is a general reference to a person who has authority over other
 * Depending on the context, "ruler" could be translated as "leader" or "person who has authority over."
 * The action "to rule" means to "lead" to "have authority over." It is means the same thing as "reign" when referring a king ruling.
 
-(See also: [authority](../kt/authority.md) **·** [governor](../other/governor.md) **·** [king](../other/king.md) **·** [synagogue](../other/synagogue.md))
+(See also: [authority](../kt/authority.md) **Â·** [governor](../other/governor.md) **Â·** [king](../other/king.md) **Â·** [synagogue](../other/synagogue.md))
 
 ## Bible References: ##
 

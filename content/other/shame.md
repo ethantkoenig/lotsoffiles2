@@ -10,7 +10,7 @@ The term "shame" refers to a painful feeling of being disgraced a person has bec
 * The prophet Isaiah said that those who make and worship idols will be put to shame.
 * God can bring shame to a person who does not repent, by exposing that person's sin and causing him to be humiliated.
 
-(See also: [falsegod](../kt/falsegod.md) **·** [humble](../other/humble.md) **·** [humiliate](../other/humiliate.md) **·** [isaiah](../other/isaiah.md) **·** [repent](../kt/repent.md) **·** [sin](../kt/sin.md) **·** [worship](../kt/worship.md)) 
+(See also: [falsegod](../kt/falsegod.md) **Â·** [humble](../other/humble.md) **Â·** [humiliate](../other/humiliate.md) **Â·** [isaiah](../other/isaiah.md) **Â·** [repent](../kt/repent.md) **Â·** [sin](../kt/sin.md) **Â·** [worship](../kt/worship.md)) 
 
 ## Bible References: ##
 

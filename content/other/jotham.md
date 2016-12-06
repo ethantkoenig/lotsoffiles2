@@ -10,7 +10,7 @@ In the Old Testament, there are three men with the name Jotham.
 * However, he did not remove the places of idol worship and this caused the people of Judah to later turn away from God again.
 * Jotham is also one of the ancestors listed in the genealogy of Jesus Christ in the book of Matthew.
 
-(See also: [abimelech](../other/abimelech.md) **·** [ahaz](../other/ahaz.md) **·** [gideon](../other/gideon.md) **·** [uzziah](../other/uzziah.md))
+(See also: [abimelech](../other/abimelech.md) **Â·** [ahaz](../other/ahaz.md) **Â·** [gideon](../other/gideon.md) **Â·** [uzziah](../other/uzziah.md))
 
 ## Bible References: ##
 

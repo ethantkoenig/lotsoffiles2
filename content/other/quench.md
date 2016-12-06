@@ -9,7 +9,7 @@ The term "quench" means to put out or stop something that is demanding to be sat
 * Both thirst and fire are quenched with water.
 * Paul uses the term "quench" in a figurative way when he instructs believers to not "quench the Holy Spirit." This means to not discourage people from allowing the Holy Spirit to produce his fruits and gifts in them. Quenching the Holy Spirit means to do something that prevents the Holy Spirit from freely manifesting his power and work in people.
 
-(See also: [fruit](../kt/fruit.md) **·** [gift](../kt/gift.md) **·** [holyspirit](../kt/holyspirit.md))
+(See also: [fruit](../kt/fruit.md) **Â·** [gift](../kt/gift.md) **Â·** [holyspirit](../kt/holyspirit.md))
 
 ## Bible References: ##
 

@@ -14,7 +14,7 @@ A wolf is a fierce, meat-eating animal that is similar to a wild dog.
 * Other names for wild dogs could be "jackal" or "coyote."
 * When used figuratively to refer to people, this could be translated as, "evil people who harm people like animals that attack sheep."
 
-(See also: [evil](../kt/evil.md) **·** [falseprophet](../other/falseprophet.md) **·** [sheep](../other/sheep.md) **·** [teach](../other/teach.md))
+(See also: [evil](../kt/evil.md) **Â·** [falseprophet](../other/falseprophet.md) **Â·** [sheep](../other/sheep.md) **Â·** [teach](../other/teach.md))
 
 ## Bible References: ##
 

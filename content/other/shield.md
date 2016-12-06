@@ -8,7 +8,7 @@ A shield is an object held by a soldier in battle to protect himself from being 
 * Using this term as a metaphor, the Bible refers to God as a protective shield for his people. (See: [Metaphor](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/figs_metaphor.md))
 * Paul also talks about the "shield of faith," which is a figurative way of saying that believing in Jesus, and living out that faith in obedience to God, will protect believers from spiritual attacks from Satan.
 
-(See also: [faith](../kt/faith.md) **·** [obey](../other/obey.md) **·** [satan](../kt/satan.md) **·** [spirit](../kt/spirit.md))
+(See also: [faith](../kt/faith.md) **Â·** [obey](../other/obey.md) **Â·** [satan](../kt/satan.md) **Â·** [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

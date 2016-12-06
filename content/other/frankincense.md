@@ -8,7 +8,7 @@ Frankincense is a fragrant spice made from tree resin. It is used to make perfum
 * This spice is also valuable for its healing and calming qualities.
 * When learned men came from an eastern country to visit baby Jesus in Bethlehem, frankincense was one of the three gifts they brought him.
 
-(See also: [bethlehem](../other/bethlehem.md) **·** [learnedmen](../other/learnedmen.md))
+(See also: [bethlehem](../other/bethlehem.md) **Â·** [learnedmen](../other/learnedmen.md))
 
 ## Bible References: ##
 

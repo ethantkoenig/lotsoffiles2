@@ -9,7 +9,7 @@ The terms "tenth" and "tithe" refer to "ten percent" or "one-out-of-ten portion"
 * In the New Testament, God does not require giving a tithe, but instead he instructs believers to generously and cheerfully help people in need and support the work of Christian ministry.
 * This could also be translated as "one-tenth" or "one out of ten."
 
-(See also: [believer](../kt/believer.md) **·** [israel](../other/israel.md) **·** [levite](../other/levite.md) **·** [livestock](../other/livestock.md) **·** [melchizedek](../other/melchizedek.md) **·** [minister](../kt/minister.md) **·** [sacrifice](../other/sacrifice.md)  [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
+(See also: [believer](../kt/believer.md) **Â·** [israel](../other/israel.md) **Â·** [levite](../other/levite.md) **Â·** [livestock](../other/livestock.md) **Â·** [melchizedek](../other/melchizedek.md) **Â·** [minister](../kt/minister.md) **Â·** [sacrifice](../other/sacrifice.md)  [tabernacle](../kt/tabernacle.md) **Â·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

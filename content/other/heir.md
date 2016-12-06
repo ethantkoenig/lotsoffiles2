@@ -9,7 +9,7 @@ An "heir" is a person who legally receives property or money that belongs to a p
 * As God's children, Christians are said to be "joint heirs" with Jesus Christ. This could also be translated as, "co-heirs" or "fellow heirs" or "heirs together with."
 * The term "heir" could be translated as "person receiving benefits" or whatever expression is used in the language to communicate the meaning of someone who receives property and other things when a parent or other relative dies.
  
-(See also: [firstborn](../kt/firstborn.md) **·** [inherit](../kt/inherit.md))
+(See also: [firstborn](../kt/firstborn.md) **Â·** [inherit](../kt/inherit.md))
 
 ## Bible References: ##
 

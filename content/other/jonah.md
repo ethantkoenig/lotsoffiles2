@@ -13,7 +13,7 @@ Jonah was a Hebrew prophet in the Old Testament.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [disobey](../other/disobey.md) **·** [nineveh](../other/nineveh.md) **·** [turn](../kt/turn.md))
+(See also: [disobey](../other/disobey.md) **Â·** [nineveh](../other/nineveh.md) **Â·** [turn](../kt/turn.md))
 
 ## Bible References: ##
 

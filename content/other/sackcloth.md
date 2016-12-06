@@ -15,7 +15,7 @@ Sackcloth was a coarse, scratchy type of cloth that was made out of goat hair or
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [ash](../other/ash.md) **·** [camel](../other/camel.md) **·** [goat](../other/goat.md) **·** [humble](../other/humble.md) **·** [mourn](../other/mourn.md) **·** [repent](../kt/repent.md) **·** [sign](../kt/sign.md))
+(See also: [ash](../other/ash.md) **Â·** [camel](../other/camel.md) **Â·** [goat](../other/goat.md) **Â·** [humble](../other/humble.md) **Â·** [mourn](../other/mourn.md) **Â·** [repent](../kt/repent.md) **Â·** [sign](../kt/sign.md))
 
 ## Bible References: ##
 

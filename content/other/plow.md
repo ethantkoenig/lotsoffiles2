@@ -9,7 +9,7 @@ A "plow" is a farm tool that is used for breaking up soil to prepare a field for
 * Most plows were made of hard wood, except for the sharp points which were made of a metal, such as bronze or iron.
  
 
-(See also: [bronze](../other/bronze.md) **·** [ox](../other/ox.md))
+(See also: [bronze](../other/bronze.md) **Â·** [ox](../other/ox.md))
 
 ## Bible References: ##
 

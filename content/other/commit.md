@@ -10,7 +10,7 @@ The terms "commit" and "commitment" refers to making a decision or promising to 
 * The expression "committed to him the task" could also be translated as "gave him the task" or "entrusted to him the task" or "assigned the task to him."
 * The term "commitment" could be translated by, "task that was given" or "promise that was made."
 
-(See also: [adultery](../kt/adultery.md) **·** [faithful](../kt/faithful.md) **·** [promise](../kt/promise.md) **·** [sin](../kt/sin.md))
+(See also: [adultery](../kt/adultery.md) **Â·** [faithful](../kt/faithful.md) **Â·** [promise](../kt/promise.md) **Â·** [sin](../kt/sin.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ An idol is an object that people make so they can worship it. Something is descr
 * An "idolatrous kingdom" means a "kingdom of people who worship idols" or a "kingdom of people who worship earthly things."
 * The term "idolatrous figure" is another word for a "carved image" or an "idol."
 
-(See also: [falsegod](../kt/falsegod.md) **·** [image](../other/image.md) **·** [kingdom](../other/kingdom.md) **·** [worship](../kt/worship.md))
+(See also: [falsegod](../kt/falsegod.md) **Â·** [image](../other/image.md) **Â·** [kingdom](../other/kingdom.md) **Â·** [worship](../kt/worship.md))
 
 ## Bible References: ##
 

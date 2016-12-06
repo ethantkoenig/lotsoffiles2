@@ -10,7 +10,7 @@ Athaliah was the evil wife of Jehoram king of Judah. She was the granddaughter o
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ahaziah](../other/ahaziah.md) **·** [jehoram](../other/jehoram.md) **·** [joash](../other/joash.md) **·** [omri](../other/omri.md))
+(See also: [ahaziah](../other/ahaziah.md) **Â·** [jehoram](../other/jehoram.md) **Â·** [joash](../other/joash.md) **Â·** [omri](../other/omri.md))
 
 ## Bible References: ##
 

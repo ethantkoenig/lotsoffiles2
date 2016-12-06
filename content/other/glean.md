@@ -9,7 +9,7 @@ The term "glean" means to go through a field or orchard to pick up whatever grai
 * A clear example of how this worked is in the story of Ruth, who was generously allowed to glean among the harvesters in the fields of her relative Boaz.
 * Other ways to translate "glean" can be, "pick up" or "gather" or "collect."
 
-(See also: [boaz](../other/boaz.md) **·** [grain](../other/grain.md) **·** [harvest](../kt/harvest.md) **·** [ruth](../other/ruth.md))
+(See also: [boaz](../other/boaz.md) **Â·** [grain](../other/grain.md) **Â·** [harvest](../kt/harvest.md) **Â·** [ruth](../other/ruth.md))
 
 ## Bible References: ##
 

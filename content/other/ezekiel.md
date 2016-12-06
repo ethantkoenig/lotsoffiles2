@@ -11,7 +11,7 @@ Ezekiel was a prophet of God during the exile period when many Jews were taken t
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [babylon](../other/babylon.md) **·** [christ](../kt/christ.md) **·** [exile](../other/exile.md) **·** [prophet](../kt/prophet.md))
+(See also: [babylon](../other/babylon.md) **Â·** [christ](../kt/christ.md) **Â·** [exile](../other/exile.md) **Â·** [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

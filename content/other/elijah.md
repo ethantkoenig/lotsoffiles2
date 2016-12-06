@@ -12,7 +12,7 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied durin
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [miracle](../kt/miracle.md) **·** [prophet](../kt/prophet.md) **·** [yahweh](../kt/yahweh.md))
+(See also: [miracle](../kt/miracle.md) **Â·** [prophet](../kt/prophet.md) **Â·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

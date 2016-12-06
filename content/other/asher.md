@@ -10,7 +10,7 @@ Asher was the eighth son of Jacob. His descendants formed one of the twelve trib
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [israel](../kt/israel.md) **·** [twelvetribesofisrael](../other/twelvetribesofisrael.md))
+(See also: [israel](../kt/israel.md) **Â·** [twelvetribesofisrael](../other/twelvetribesofisrael.md))
 
 ## Bible References: ##
 

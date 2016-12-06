@@ -11,7 +11,7 @@ Gold is a yellow-colored high-quality metal that was used for making jewelry and
 * When referring to something that is not solid gold, but only has a thin covering of gold, the term "golden" or "gold-covered" or "gold-overlaid" could also be used.
 * Sometimes an object is described as "gold-colored" which means it has the yellow color of gold, but may not actually be made of gold.
 
-(See also: [altar](../other/altar.md) **·** [arkofthecovenant](../other/arkofthecovenant.md) **·** [falsegod](../kt/falsegod.md) **·** [silver](../other/silver.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
+(See also: [altar](../other/altar.md) **Â·** [arkofthecovenant](../other/arkofthecovenant.md) **Â·** [falsegod](../kt/falsegod.md) **Â·** [silver](../other/silver.md) **Â·** [tabernacle](../kt/tabernacle.md) **Â·** [temple](../kt/temple.md))
 
 ## Bible References: ##
 

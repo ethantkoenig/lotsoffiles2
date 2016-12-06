@@ -11,7 +11,7 @@ The term "melt" refers to something becoming liquid when it is heated. It is als
 * The literal meaning of "melt" could be translated as "become liquid" or "liquefy" or "cause to become liquid."
 * Other ways to translate the figurative meanings of "melt" could include, "become soft" or "become weak" or "be defeated."
 
-(See also: [heart](../other/heart.md),[idol](../other/idol.md) **·** [image](../other/image.md) **·** [seal](../other/seal.md))
+(See also: [heart](../other/heart.md),[idol](../other/idol.md) **Â·** [image](../other/image.md) **Â·** [seal](../other/seal.md))
 
 ## Bible References: ##
 

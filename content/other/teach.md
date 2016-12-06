@@ -13,7 +13,7 @@ The terms "teach" and "teaching" refer to telling other people information they 
 * Other ways to translate "teach" could include "tell" or "explain" or "instruct."
 * Often this term can be translated as "teaching people about God."
 
-(See also: [instruct](../other/instruct.md) **·** [teacher](../kt/teacher.md) **·** [wordofgod](../kt/wordofgod.md))
+(See also: [instruct](../other/instruct.md) **Â·** [teacher](../kt/teacher.md) **Â·** [wordofgod](../kt/wordofgod.md))
 
 ## Bible References: ##
 

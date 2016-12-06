@@ -9,7 +9,7 @@ In Bible times, pipes were musical instruments made of bone or wood with holes t
 * A shepherd played a pipe to calm his flocks of sheep.
 * Pipes and flutes were used for playing sad or joyful music.
 
-(See also: [flock](../other/.md) **·** [shepherd](../other/.md))
+(See also: [flock](../other/.md) **Â·** [shepherd](../other/.md))
 
 ## Bible References: ##
 

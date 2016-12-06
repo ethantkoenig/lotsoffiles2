@@ -10,7 +10,7 @@ Aaron was Moses' older brother. God chose Aaron to be the first high priest for 
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [priest](../kt/priest.md) **·** [moses](../other/moses.md) **·** [israel](../other/israel.md)
+(See also: [priest](../kt/priest.md) **Â·** [moses](../other/moses.md) **Â·** [israel](../other/israel.md)
 
 ## Bible References: ##
 

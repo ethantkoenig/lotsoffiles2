@@ -12,7 +12,7 @@ Horns are permanent, hard, pointed growths on the heads of many types of animals
 
  
 
-(See also: [authority](../kt/authority.md) **·** [cow](../other/cow.md) **·** [deer](../other/deer.md) **·** [goat](../other/goat.md) **·** [power](../kt/power.md) [royal](../other/royal.md) **·** [sheep](../other/sheep.md) **·** [trumpet](../other/trumpet.md))
+(See also: [authority](../kt/authority.md) **Â·** [cow](../other/cow.md) **Â·** [deer](../other/deer.md) **Â·** [goat](../other/goat.md) **Â·** [power](../kt/power.md) [royal](../other/royal.md) **Â·** [sheep](../other/sheep.md) **Â·** [trumpet](../other/trumpet.md))
 
 ## Bible References: ##
 

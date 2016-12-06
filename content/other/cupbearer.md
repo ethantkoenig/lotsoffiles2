@@ -9,7 +9,7 @@ In Old Testament times, a "cupbearer" was a king's servant who was given the tas
 * Because of his trusted position, a cupbearer would often have influence in the decisions the ruler made.
 * Nehemiah was the cupbearer for King Artaxerxes of Persia during the time when some of the Israelites were in captivity in Babylon.
 
-(See also: [artaxerxes](../other/artaxerxes.md) **·** [babylon](../other/babylon.md) **·** [captive](../other/captive.md) **·** [persia](../other/persia.md) **·** [pharaoh](../other/pharaoh.md))
+(See also: [artaxerxes](../other/artaxerxes.md) **Â·** [babylon](../other/babylon.md) **Â·** [captive](../other/captive.md) **Â·** [persia](../other/persia.md) **Â·** [pharaoh](../other/pharaoh.md))
 
 ## Bible References: ##
 

@@ -12,7 +12,7 @@ A lion is a large, cat-like, wild animal, with powerful teeth and claws for kill
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-(See also: [david](../other/david.md) **·** [leopard](../other/leopard.md) **·** [samson](../other/samson.md) **·** [sheep](../other/sheep.md))
+(See also: [david](../other/david.md) **Â·** [leopard](../other/leopard.md) **Â·** [samson](../other/samson.md) **Â·** [sheep](../other/sheep.md))
 
 ## Bible References: ##
 

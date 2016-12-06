@@ -11,7 +11,7 @@ Naphtali was the sixth son of Jacob. His descendants formed the tribe of Naphtal
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [asher](../other/asher.md) **·** [dan](../other/dan.md) **·** [jacob](../other/jacob.md) **·** [seaofgalilee](../other/seaofgalilee.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [asher](../other/asher.md) **Â·** [dan](../other/dan.md) **Â·** [jacob](../other/jacob.md) **Â·** [seaofgalilee](../other/seaofgalilee.md) **Â·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

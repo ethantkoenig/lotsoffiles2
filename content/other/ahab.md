@@ -10,7 +10,7 @@ Ahab was a very evil king who reigned over the northern kingdom of Israel from 8
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [baal](../other/baal.md) **·** [elijah](../other/elijah.md) **·** [jezebel](../other/jezebel.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [yahweh](../kt/yahweh.md))
+(See also: [baal](../other/baal.md) **Â·** [elijah](../other/elijah.md) **Â·** [jezebel](../other/jezebel.md) **Â·** [kingdomofisrael](../other/kingdomofisrael.md) **Â·** [yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

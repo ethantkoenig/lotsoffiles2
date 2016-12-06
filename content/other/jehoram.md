@@ -13,7 +13,7 @@ Jehoram was the name of two different kings in the Old Testament. Both these kin
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ahab](../other/ahab.md) **·** [jehoshaphat](../other/jehoshaphat.md) **·** [joram](../other/joram.md) **·** [judah](../other/judah.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [obadiah](../other/obadiah.md))
+(See also: [ahab](../other/ahab.md) **Â·** [jehoshaphat](../other/jehoshaphat.md) **Â·** [joram](../other/joram.md) **Â·** [judah](../other/judah.md) **Â·** [kingdomofisrael](../other/kingdomofisrael.md) **Â·** [obadiah](../other/obadiah.md))
 
 ## Bible References: ##
 

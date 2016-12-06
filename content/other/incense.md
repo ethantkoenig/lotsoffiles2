@@ -11,7 +11,7 @@ The term "incense" refers to a mixture of fragrant spices that are burned to pro
  * The burning of incense represents prayer and worship rising up to God from his people.
  * Other ways to translate "incense" could include, "fragrant spices" or "good-smelling plants."
 
-(See also: [altarofincense](../other/altarofincense.md) **·** [burntoffering](../other/burntoffering.md) **·** [frankincense](../other/frankincense.md))
+(See also: [altarofincense](../other/altarofincense.md) **Â·** [burntoffering](../other/burntoffering.md) **Â·** [frankincense](../other/frankincense.md))
 
 ## Bible References: ##
 

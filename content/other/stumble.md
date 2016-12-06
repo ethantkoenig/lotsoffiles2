@@ -15,7 +15,7 @@ The term "stumble" means to "almost fall" when walking or running. Usually it in
 * Another way to translate this term could be, "stumble by sinning" or "stumble by not believing."
 * The phrase "made to stumble" could be translated as "caused to become weak" or "caused to falter."
 
-(See also: [believe](../kt/believe.md) **·** [persecute](../other/persecute.md) **·** [sin](../kt/sin.md) **·** [stumblingblock](../other/stumblingblock.md))
+(See also: [believe](../kt/believe.md) **Â·** [persecute](../other/persecute.md) **Â·** [sin](../kt/sin.md) **Â·** [stumblingblock](../other/stumblingblock.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ Jehoiada was a priest who helped hide and protect King Ahaziah's son Joash until
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ahaziah](../other/ahaziah.md) **·** [baal](../other/baal.md) **·** [benaiah](../other/benaiah.md) **·** [joash](../other/joash.md))
+(See also: [ahaziah](../other/ahaziah.md) **Â·** [baal](../other/baal.md) **Â·** [benaiah](../other/benaiah.md) **Â·** [joash](../other/joash.md))
 
 ## Bible References: ##
 

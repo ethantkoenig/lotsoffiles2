@@ -11,7 +11,7 @@ Benjamin was the youngest son born to Jacob and his wife Rachel. His name means,
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [israel](../other/israel.md) **·** [jacob](../other/jacob.md) **·** [josephot](../other/josephot.md) **·** [paul](../other/paul.md) **·** [rachel](../other/rachel.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
+(See also: [israel](../other/israel.md) **Â·** [jacob](../other/jacob.md) **Â·** [josephot](../other/josephot.md) **Â·** [paul](../other/paul.md) **Â·** [rachel](../other/rachel.md) **Â·** [12tribesofisrael](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

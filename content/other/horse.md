@@ -9,7 +9,7 @@ A horse is a large, four-legged animal that in Bible times was mostly used for d
 * In the Bible, horses were considered to be valuable possessions and a measure of wealth, mainly because of their use in war. For example, part of King Solomon's great wealth was the thousands of horses and chariots that he had.
 * Animals that are similar to the horse are the donkey and the mule.
   
-(See also: [chariot](../other/chariot.md), , [donkey](../other/donkey.md) **·** [solomon](../other/solomon.md))
+(See also: [chariot](../other/chariot.md), , [donkey](../other/donkey.md) **Â·** [solomon](../other/solomon.md))
 
 ## Bible References: ##
 

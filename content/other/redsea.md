@@ -9,7 +9,7 @@ The "Sea of Reeds" was the name of a body of water located between Egypt and Ara
 * The land of Canaan was north of this sea.
 * This could also be translated as, "Reed Sea."
 
-(See also: [arabia](../other/arabia.md), , [canaan](../other/canaan.md) **·** [egypt](../other/egypt.md))
+(See also: [arabia](../other/arabia.md), , [canaan](../other/canaan.md) **Â·** [egypt](../other/egypt.md))
 
 ## Bible References: ##
 

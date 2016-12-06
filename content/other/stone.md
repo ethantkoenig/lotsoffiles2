@@ -10,7 +10,7 @@ A stone is a small rock. The term "stoning" refers to throwing stones and larger
 * Stephen, who was the first person in the Bible to be killed because of testifying about Jesus, was stoned to death.
 * In the city of Lystra, the apostle Paul was stoned, but he did not die from his wounds.
 
-(See also: [adultery](../kt/adultery.md) **·** [commit](../other/commit.md) **·** [criminal](../other/criminal.md) **·** [death](../kt/death.md) **·** [lystra](../other/lystra.md) **·** [testimony](../kt/testimony.md))
+(See also: [adultery](../kt/adultery.md) **Â·** [commit](../other/commit.md) **Â·** [criminal](../other/criminal.md) **Â·** [death](../kt/death.md) **Â·** [lystra](../other/lystra.md) **Â·** [testimony](../kt/testimony.md))
 
 ## Bible References: ##
 

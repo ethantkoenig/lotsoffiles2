@@ -8,7 +8,7 @@
  
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
    
-(See also: [abraham](../other/abraham.md) **·** [isaac](../other/isaac.md))
+(See also: [abraham](../other/abraham.md) **Â·** [isaac](../other/isaac.md))
 
 ## Bible References: ##
 

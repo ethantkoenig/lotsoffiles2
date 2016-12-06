@@ -10,7 +10,7 @@ Adonijah was the fourth son of King David.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [david](../other/david.md) **·** [solomon](../other/solomon.md)) 
+(See also: [david](../other/david.md) **Â·** [solomon](../other/solomon.md)) 
 
 ## Bible References: ##
 

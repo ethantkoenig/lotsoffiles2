@@ -11,7 +11,7 @@ Hoshea was the name of a king of Israel and several other men in the Old Testame
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [ahaz](../other/ahaz.md) **·** [canaan](../other/canaan.md) **·** [ephraim](../other/ephraim.md) **·** [hezekiah](../other/hezekiah.md) **·** [joshua](../other/joshua.md) **·** [moses](../other/moses.md))
+(See also: [ahaz](../other/ahaz.md) **Â·** [canaan](../other/canaan.md) **Â·** [ephraim](../other/ephraim.md) **Â·** [hezekiah](../other/hezekiah.md) **Â·** [joshua](../other/joshua.md) **Â·** [moses](../other/moses.md))
 
 ## Bible References: ##
 

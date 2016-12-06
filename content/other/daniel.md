@@ -13,7 +13,7 @@ Daniel was an Israelite prophet who as a young man was taken captive by the Baby
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [babylon](../other/babylon.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md))
+(See also: [babylon](../other/babylon.md) **Â·** [nebuchadnezzar](../other/nebuchadnezzar.md))
 
 ## Bible References: ##
 

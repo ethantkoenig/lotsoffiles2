@@ -10,7 +10,7 @@ In Bible times, "Asia" was the name of a province of the Roman Empire. It was lo
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [Rome](../other/rome.md) **·** [Paul](../other/paul.md) **·** [Ephesus](../other/ephesus.md))
+(See also: [Rome](../other/rome.md) **Â·** [Paul](../other/paul.md) **Â·** [Ephesus](../other/ephesus.md))
 
 ## Bible References: ##
 

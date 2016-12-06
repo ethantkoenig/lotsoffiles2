@@ -9,7 +9,7 @@ Gethsemane was a garden of olive trees east of Jerusalem beyond the Kidron valle
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [judasiscariot](../other/judasiscariot.md) **·** [kidronvalley](../other/kidronvalley.md) **·** [mountofolives](../other/mountofolives.md))
+(See also: [judasiscariot](../other/judasiscariot.md) **Â·** [kidronvalley](../other/kidronvalley.md) **Â·** [mountofolives](../other/mountofolives.md))
 
 ## Bible References: ##
 

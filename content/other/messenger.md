@@ -9,7 +9,7 @@ The term, "messenger" refers to someone who is given a message to tell others.
 * John the Baptist was called a messenger who came before Jesus to announce the Messiah's coming and to prepare people to receive him.
 * Jesus' apostles were his messengers to go share with other people the good news about the kingdom of God.
 
-(See also: [angel](../kt/angel.md) **·** [apostle](../kt/apostle.md) **·** [johnthebaptist](../other/johnthebaptist.md))
+(See also: [angel](../kt/angel.md) **Â·** [apostle](../kt/apostle.md) **Â·** [johnthebaptist](../other/johnthebaptist.md))
 
 ## Bible References: ##
 

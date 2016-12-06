@@ -14,7 +14,7 @@ An alarm is something that warns people about something that could harm them.  T
 * To "be alarmed" could be translated as "be worried" or "be frightened" or "be very concerned."
 * The expression "sound an alarm" could be translated by, "publicly warn" or "announce that danger is coming" or "blow a trumpet to warn about danger."
 
-(See also: [jehoshaphat](../other/jehoshaphat.md) **·** [moab](../other/moab.md))
+(See also: [jehoshaphat](../other/jehoshaphat.md) **Â·** [moab](../other/moab.md))
 
 ## Bible References: ##
 

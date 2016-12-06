@@ -11,7 +11,7 @@ Luke was the author of two books of the New Testament: the gospel of Luke and th
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [Antioch](../other/Antioch.md) **·** [paul](../other/paul.md) **·** [syria](../other/syria.md))
+(See also: [Antioch](../other/Antioch.md) **Â·** [paul](../other/paul.md) **Â·** [syria](../other/syria.md))
 
 ## Bible References: ##
 
