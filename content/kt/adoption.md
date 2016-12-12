@@ -11,7 +11,7 @@ The term "adoption" refers to the process of someone legally becoming the child 
 
 * This term could be translated with a term that the language of translation uses to describe this special parent-child relationship. Make sure it is understood that this has a figurative or spiritual meaning.
 * The phrase, "experience adoption as sons" could be translated as, "be adopted by God as his children" or "become God's (spiritual) children."
-* To "wait for the adoption of sons" could be translated as, "look forward to becoming God's children" or "wait expectantly for God to
+* To "wait for the adoption of sons" could be translated as, "look forward to becoming God's children" or "wait expectantly for God to receive as children."
 * The phrase "adopt them" could be translated as "receive them as his own children" or "make them his own (spiritual) children."
 
 (See also: [heir](../other/heir.md) **·** [inherit, inheritance](../kt/inherit.md) **·** [spirit, spiritual](../kt/spirit.md))
