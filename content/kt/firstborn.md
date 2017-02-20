@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The term "firstborn" refers to an offspring of people or animals that is born first, before the other offspring are born. Usually the firstborn
+The term "firstborn" refers to an offspring of people or animals that is born first, before the other offspring are born.
 
 * In the Bible, "firstborn" usually refers to the first male offspring that is born.
 * In Bible times, the firstborn son was given a place of prominence and twice as much of his family inheritance as the other sons.
