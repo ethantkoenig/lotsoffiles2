@@ -4,7 +4,7 @@
 
 The term "favor" refers to doing something to benefit someone who is regarded positively. Something that is "favorable" is positive, approving, or beneficial.
 
-* The term "favoritism" means to act favorably toward some people but not others. Often favoritism is The term "favoritism" means acting favorably toward some people, but not others. shown toward people who are rich or are considered
+* The term "favoritism" means to act favorably toward some people but not others. It means to pick one person over another or one thing over another because the person or item is preferred. 
 * Jesus grew up "in favor with" God and men. This means they approved of his character and behavior.
 * The expression "find favor" means that someone is approved of by someone else.
 * When a king shows favor to someone, it often means that he approves of that person's request and grants it.
