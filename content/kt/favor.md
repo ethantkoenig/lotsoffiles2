@@ -8,6 +8,7 @@ The term "favor" refers to doing something to benefit someone who is regarded po
 * Jesus grew up "in favor with" God and men. This means they approved of his character and behavior.
 * The expression "find favor" means that someone is approved of by someone else.
 * When a king shows favor to someone, it often means that he approves of that person's request and grants it.
+* A "favor" can also be a gesture or action towards or for another person for their benefit. 
 
 ## Translation Suggestions: ##
 
