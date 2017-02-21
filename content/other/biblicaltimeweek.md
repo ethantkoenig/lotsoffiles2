@@ -1,4 +1,4 @@
-# biblical time: week #
+# week #
 
 ## Definition: ##
 
