@@ -1,4 +1,4 @@
-# biblical time: watch #
+# Watch (Biblical Time) #
 
 ## Definition: ##
 
