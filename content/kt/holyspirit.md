@@ -1,4 +1,4 @@
-# Holy Spirit, Spirit of God, Spirit of the Lord #
+# Holy Spirit, Spirit of God, Spirit of the Lord, Spirit #
 
 ## Facts: ##
 
