@@ -1,4 +1,4 @@
-# authority #
+# authority, authorities #
 
 ## Definition: ##
 
