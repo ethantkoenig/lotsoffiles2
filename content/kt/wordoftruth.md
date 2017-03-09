@@ -2,9 +2,9 @@
 
 ## Definition: ##
 
-The term "word of truth" is another way of referring to God's word or teaching.
+The term "word of truth" is another way of referring to "God's word," which is his message or teaching. It does not refer to just one word.
 
-* God's word of truth includes everything that God has taught people about himself, his creation and his plan of salvation through Jesus.
+* God's word of truth includes everything that God has taught people about himself, his creation, and his plan of salvation through Jesus.
 * This term emphasizes the fact that what God has told us is true, faithful, and real.
 
 ## Translation Suggestions: ##
