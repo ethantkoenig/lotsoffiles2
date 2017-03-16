@@ -5,7 +5,8 @@
 The term "authority" refers to the power of influence and control that someone has over someone else.
 
  * Kings and other governing rulers have authority over the people they are ruling.
- * The word "authorities" refers to people, governments, or organizations that have authority over others.
+ * The word "authorities" can refer to people, governments, or organizations that have authority over others. 
+ * The word "authorities" can also refer to spirit beings who have power over people who have not submitted themselves to God’s authority.
  * Masters have authority over their servants or slaves. Parents have authority over their children.
  * Governments have the authority or right to make laws that govern their citizens.
 
