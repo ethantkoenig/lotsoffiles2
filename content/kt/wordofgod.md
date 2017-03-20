@@ -15,7 +15,7 @@ In the Bible, the term "word of God" refers to anything that God has communicate
 * It may be more natural in some languages to make this term plural and say "God's words" or "the words of Yahweh."
 * The expression "the word of Yahweh came" is often used to introduce something that God told his prophets or his people. This could be translated as, "Yahweh spoke this message" or "Yahweh spoke these words."
 * The term "scripture" or "scriptures" could be translated as "the writings" or "the written message from God." This term should be translated differently from the translation of the term "word."
-* When "word" occurs alone, it could be translated as "message" or "God's word" or "teachings," depending on the context. Also consider the alternate translations suggested above.
+* When "word" occurs alone and it refers to God's word, it could be translated as "the message" or "God's word" or "the teachings." Also consider the alternate translations suggested above.
 
 (See also: [prophet, prophecy, prophesy](../kt/prophet.md) **·** [word](../kt/word.md) **·** [Yahweh](../kt/yahweh.md))
 
