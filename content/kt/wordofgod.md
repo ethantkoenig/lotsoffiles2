@@ -1,10 +1,10 @@
-# word of God, word of Yahweh, word of the Lord, scripture #
+# word of God, words of God, word of Yahweh, word of the Lord, scripture #
 
 ## Definition: ##
 
 In the Bible, the term "word of God" refers to anything that God has communicated to people. This includes spoken and written messages. Jesus is also called "the Word of God."
 
-* The term "scriptures" means "writings." It is only used in the New Testament and refers to the Hebrew scriptures or "Old Testament." These writings were God's message that he had told people to write down so that many years in the future people can still read it. 
+* The term "scriptures" means "writings." It is only used in the New Testament and refers to the Hebrew scriptures, which is the Old Testament. These writings were God's message that he had told people to write down so that many years in the future people could still read it. 
 * The related terms "word of Yahweh" and "word of the Lord" often refer to a specific message from God that was given to a prophet or other person in the Bible.
 * Sometimes this term occurs as simply "the word" or "my word" or "your word" (when talking about God's word).
 * In the New Testament, Jesus is called "the Word" and "the Word of God." These titles mean that Jesus fully reveals who God is, because he is God himself.
