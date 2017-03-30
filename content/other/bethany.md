@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-The town of Bethany was located at the base of the eastern slope of the Mount of Olives, about 2 miles east of Jerusalem, 
+The town of Bethany was located at the base of the eastern slope of the Mount of Olives, about 2 miles east of Jerusalem. 
 
 * Bethany was near the road that ran between Jerusalem and Jericho.
 * Jesus often visited Bethany where his close friends Lazarus, Martha, and Mary lived.
