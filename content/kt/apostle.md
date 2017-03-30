@@ -4,14 +4,14 @@
 
 The "apostles" were men sent by Jesus to preach about God and his kingdom. The term "apostleship" refers to the position and authority of those who were chosen as apostles.
 
-* The word "apostle" means, "someone who is sent out for a special purpose." The apostle has the same authority as the one who sent him.
+* The word "apostle" means "someone who is sent out for a special purpose." The apostle has the same authority as the one who sent him.
 * Jesus' twelve closest disciples became the first apostles. Other men, such as Paul and James, also became apostles.
 * By God's power, the apostles were able to boldly preach the gospel and heal people, including forcing demons to come out of people.
 
 ## Translation Suggestions: ##
 
-* The word "apostle" can also be translated with a word or phrase that means, "someone who is sent out" or "sent out one" or "person who is called to go out and preach God's message to people."
-* It is important to translate the terms "apostle" and "disciple" in different ways from each other.
+* The word "apostle" can also be translated with a word or phrase that means "someone who is sent out" or "sent-out one" or "person who is called to go out and preach God's message to people."
+* It is important to translate the terms "apostle" and "disciple" in different ways.
 * Also consider how this term was translated in a Bible translation in a local or national language. (See [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
 (See also: [authority](../kt/authority.md) **·** [disciple](../kt/disciple.md) **·** [jamessonofzebedee](../other/jamessonofzebedee.md) **·** [paul](../other/paul.md) **·** [thetwelve](../kt/thetwelve.md))
