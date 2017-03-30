@@ -1,4 +1,4 @@
-# sin, sinful, sinner, sinning #
+# sin, sins, sinful, sinner, sinning #
 
 ## Definition: ##
 
