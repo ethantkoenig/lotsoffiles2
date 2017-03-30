@@ -6,14 +6,13 @@ The term, "sons of God" is a figurative expression that has several possible mea
 
 * In the New Testament, the term "sons of God" refers to all believers in Jesus and is often translated as "children of God" since it includes both males and females.
 * This use of the term speaks of a relationship with God that is like the relationship between a human son and his father, with all the privileges associated with being sons.
-* In Genesis 6, some people interpret "sons of God" to be fallen angels, that is, evil spirits or demons. Others think it may refer to powerful political rulers or to the descendants of Seth.
-* This use of the term speaks of a relationship with God that is like the relationship between a human son and his father, with all the privileges associated with being sons.
+* In Genesis 6:2 and 4, some people interpret "sons of God" to be spirit beings: fallen angels, evil spirits, or demons. Others think it may refer there to powerful political rulers or to the descendants of Seth.
 * The title, "Son of God" is a different term, which refers to Jesus, who is God's only Son.
 
 ## Translation Suggestions: ##
 
 * When "sons of God" refers to believers in Jesus, it could be translated as, "children of God."
-* Other ways to translate "sons of God" could include, "angels" or "spirit beings," or "demons," depending on the context.
+* In Genesis 6:2 and 4, ways to translate "sons of God" could include "angels," "spirit beings," "supernatural creatures," or "demons."
 * Also see the link for "son."
  
 
