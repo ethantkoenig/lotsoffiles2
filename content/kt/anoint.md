@@ -5,7 +5,7 @@
 The term "anoint" means to rub or pour oil on a person or object. Sometimes the oil was mixed with spices, giving it a sweet, perfumed smell. The term is also used figuratively to refer to the Holy Spirit choosing and empowering someone.
 
 * In the Old Testament, priests, kings, and prophets were anointed with oil to set them apart for special service to God.
-* Objects such as altars or the tabernacle, were also anointed with oil to show that they were to be used to worship and glorify God.
+* Objects such as altars or the tabernacle were also anointed with oil to show that they were to be used to worship and glorify God.
 * In the New Testament, sick people were anointed with oil for their healing.
 * The New Testament records two times that Jesus was anointed with perfumed oil by a woman, as an act of worship. One time Jesus commented that in doing this she was preparing him for his future burial.
 * After Jesus died, his friends prepared his body for burial by anointing it with oils and spices.
