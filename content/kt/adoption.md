@@ -1,11 +1,11 @@
-# adoption #
+# adoption, adopt, adopted #
 
 ## Definition: ##
 
-The term "adoption" refers to the process of someone legally becoming the child of people who are not his biological parents.
+The terms "adopt" and "adoption" refer to the process of someone legally becoming the child of people who are not his biological parents.
 
 * The Bible uses "adoption" and "adopt" in a figurative way to describe how God causes people to be part of his family, making them his spiritual sons and daughters.
-* As adopted children, believers are co-heirs with Jesus Christ, having a right to all the privileges of sons and daughters of God.
+* As adopted children, God makes believers to be co-heirs with Jesus Christ, giving them all of the privileges of sons and daughters of God.
 
 ## Translation Suggestions: ##
 
