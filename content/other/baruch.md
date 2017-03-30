@@ -10,7 +10,7 @@ Baruch is the name of several men in the Old Testament.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
-(See also: [disciple](../kt/disciple.md) **·** [jeremiah](../other/jeremiah.md), , [jerusalem](../other/jerusalem.md) **·** [nehemiah](../other/nehemiah.md) **·** [prophet](../kt/prophet.md))
+(See also: [disciple](../kt/disciple.md) **·** [jeremiah](../other/jeremiah.md), [jerusalem](../other/jerusalem.md) **·** [nehemiah](../other/nehemiah.md) **·** [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 
