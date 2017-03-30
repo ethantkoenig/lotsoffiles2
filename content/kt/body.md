@@ -14,8 +14,8 @@ The term "body" literally refers to the physical body of a person or animal. Thi
 ## Translation Suggestions: ##
 
 * The best way to translate this term would be with the word that is most commonly used to refer to a physical body in the project language. Make sure that the word used is not an offensive term.
-* When referring collectively to believers, for some languages it may be more natural and accurate to say, "spiritual body of Christ."
-* When Jesus says, "This is my body" it is best to translate this literally, with a note to explain it if needed.
+* When referring collectively to believers, for some languages it may be more natural and accurate to say "spiritual body of Christ."
+* When Jesus says, "This is my body," it is best to translate this literally, with a note to explain it if needed.
 * Some languages may have a separate word when referring to a dead body, such as "corpse" for a person or "carcass" for an animal. Make sure the word used to translate this makes sense in the context and is acceptable.
 
 (See also: [head](../other/head.md) **·** [spirit](../kt/spirit.md))
