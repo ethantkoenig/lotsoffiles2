@@ -9,8 +9,8 @@ The terms "stray" and "go astray" mean to disobey God's will. People who are "le
 
 ## Translation Suggestions: ##
 
-* The phrase "go astray" could be translated as, "go away from God" or "take a wrong path away from God's will" or "stop obeying God" or "live in a way that goes away from God."
-* To "lead someone astray" could be translated as, "cause someone to disobey God" or "influence someone to stop obeying God" or "cause someone to follow you down a wrong path." 
+* The phrase "go astray" could be translated as "go away from God" or "take a wrong path away from God's will" or "stop obeying God" or "live in a way that goes away from God."
+* To "lead someone astray" could be translated as "cause someone to disobey God" or "influence someone to stop obeying God" or "cause someone to follow you down a wrong path." 
 
 (See also: [disobey](../other/disobey.md) **·** [shepherd](../other/shepherd.md))
 
