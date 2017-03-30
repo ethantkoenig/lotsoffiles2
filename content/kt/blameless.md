@@ -10,7 +10,7 @@ The term "blameless" literally means "without blame." It is used to refer to a p
 
 ## Translation Suggestions: ##
 
-* This could also be translated as, "with no fault to his character" or "completely obedient to God" or "avoiding sin" or "keeping away from evil."
+* This could also be translated as "with no fault to his character" or "completely obedient to God" or "avoiding sin" or "keeping away from evil."
 
 ## Bible References: ##
 
