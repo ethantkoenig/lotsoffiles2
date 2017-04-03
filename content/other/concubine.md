@@ -6,7 +6,7 @@ A concubine is a woman who is a secondary wife for a man who already has a wife.
 
 * In the Old Testament, concubines were often female slaves.
 * A concubine could be acquired by purchase, through military conquest, or in payment of a debt.
-* For a king, having many concubines was a sign of power.often 
+* For a king, having many concubines was a sign of power. 
 * The New Testament teaches that the practice of having a concubine is against God's will.
 
 ## Bible References: ##
