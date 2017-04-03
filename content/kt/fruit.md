@@ -10,20 +10,20 @@ The term "fruit" literally refers to the part of a plant that can be eaten. Some
 * In general, the expression "fruit of" refers to anything that comes from or that is produced by something else. For example, the "fruit of wisdom" refers to the good things that come from being wise.
 * The expression "fruit of the land" refers generally to everything that the land produces for people to eat. This includes not only fruits such as grapes or dates, but also vegetables, nuts, and grains.
 * The figurative expression "fruit of the Spirit" refers to godly qualities that the Holy Spirit produces in the lives of people who obey him.
-* The expression, "fruit of the womb" refers to "what the womb produces," that is, children.
+* The expression "fruit of the womb" refers to "what the womb produces," that is, children.
 
 ## Translation Suggestions: ##
 
 * It is best to translate this term using the general word for "fruit" that is commonly used in the project language to refer to the edible fruit of a fruit tree. In many languages it may be more natural to use the plural
 * , "fruits" whenever it refers to more than one fruit.
 * Depending on the context, the term "fruitful" could be translated as "producing much spiritual fruit" or "having many children" or "prosperous."
-* The expression, "fruit of the land" could also be translated as, "food that the land produces" or "food crops that are growing in that region."
-* When God created animals and people, he commanded them to "be fruitful and multiply," which refers to having many offspring. This could also be translated as, "have many offspring" or "have many children and descendants" or "have many children so that you will have many descendants."
-* The expression, "fruit of the womb" could be translated as "what the womb produces" or "children a women gives birth to" or just "children." When Elisabeth says to Mary, "blessed is the fruit of your womb" she means, "blessed is the child you will give birth to." The project language may also have a different expression for this.
-* Another expression, "fruit of the vine" could be translated as "vine fruit" or "grapes."
-* Depending on the context, the expression "will be more fruitful" could also be translated as, "will produce more fruit" or "will have more children" or "will be prosperous."
-* The apostle Paul's expression, "fruitful labor" could be translated as, "work that brings very good results" or "efforts that result in many people believing in Jesus."
-* The "fruit of the Spirit" could also be translated as "works that the Holy Spirit produces" or "words and actions that show that the Holy Spirit is working in you."
+* The expression "fruit of the land" could also be translated as "food that the land produces" or "food crops that are growing in that region."
+* When God created animals and people, he commanded them to "be fruitful and multiply," which refers to having many offspring. This could also be translated as "have many offspring" or "have many children and descendants" or "have many children so that you will have many descendants."
+* The expression "fruit of the womb" could be translated as "what the womb produces" or "children a women gives birth to" or just "children." When Elizabeth says to Mary "blessed is the fruit of your womb," she means "blessed is the child you will give birth to." The project language may also have a different expression for this.
+* Another expression "fruit of the vine," could be translated as "vine fruit" or "grapes."
+* Depending on the context, the expression "will be more fruitful" could also be translated as "will produce more fruit" or "will have more children" or "will be prosperous."
+* The apostle Paul's expression "fruitful labor" could be translated as "work that brings very good results" or "efforts that result in many people believing in Jesus."
+* The "fruit of the Spirit" could also be translated as "works that the Holy Spirit produces" or "words and actions that show that the Holy Spirit is working in someone."
 
 (See also: [descendant](../other/descendant.md) **·** [grain](../other/grain.md) **·** [grape](../other/grape.md) **·** [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md) **·** [vine](../other/vine.md) **·** [womb](../other/womb.md))
 
