@@ -11,10 +11,10 @@ The term "brother" usually refers to a male person who shares at least one biolo
 ## Translation Suggestions: ##
 
 * It is best to translate this term with the literal word that is used in the target language to refer to a natural or biological brother, unless this would give wrong meaning.
-* In the Old Testament especially, when "brothers" is used very generally to refer to members of the same family, clan, or people group, possible translations could include, "relatives" or "clan members" or "fellow Israelites."
-* In the context of referring to a fellow believer in Christ, this term could be translated as, "brother in Christ" or "spiritual brother."
+* In the Old Testament especially, when "brothers" is used very generally to refer to members of the same family, clan, or people group, possible translations could include "relatives" or "clan members" or "fellow Israelites."
+* In the context of referring to a fellow believer in Christ, this term could be translated as "brother in Christ" or "spiritual brother."
 * If both males and females are being referred to and "brother" would give a wrong meaning, then a more general kinship term could be used that would include both males and females.
-* Other ways to translate this term so that it refers to both male and female believers could be, "fellow believers" or "Christian brothers and sisters."
+* Other ways to translate this term so that it refers to both male and female believers could be "fellow believers" or "Christian brothers and sisters."
 * Make sure to check the context to determine whether only men are being referred to, or whether both men and women are included.
 
 (See also: [apostle, the twelve, the eleven](../kt/apostle.md) **·** [God the Father, Heavenly Father](../kt/godthefather.md) **·** [sister](../other/sister.md) **·** [spirit](../kt/spirit.md))
