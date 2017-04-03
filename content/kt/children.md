@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-In the Bible, the term "child" is often used to generally refer to someone who is young in age, including an infant. The term "children" is the plural form and also has several figurative uses.
+In the Bible, the term "child" is often used to generally refer to someone who is young in age, including an infant. The term "children" is the plural form and it also has several figurative uses.
 
 * In the Bible, disciples or followers are sometimes called "children."
 * Often the term "children" is used to refer to a person's descendants.
