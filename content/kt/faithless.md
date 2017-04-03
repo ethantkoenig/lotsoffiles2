@@ -4,7 +4,7 @@
 
 The term "faithless" means to not have faith or to not believe. 
 
-* This word is used to describe people who do not believe in God, which is seen by the immoral way they act.
+* This word is used to describe people who do not believe in God which is seen by the immoral way they act.
 * The prophet Jeremiah accused Israel of being faithless and disobedient to God.
 * They worshiped idols and followed other ungodly customs of people groups who did not worship or obey God.
 
