@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-In the Bible, the term "forever" refers to never-ending time. Sometimes it is used figuratively to mean, "a very long time."
+In the Bible, the term "forever" refers to never-ending time. Sometimes it is used figuratively to mean "a very long time."
 
 * The term "forever and ever" emphasizes that something will always exist.
 * The phrase "forever and ever" is a way of expressing what eternity or eternal life is. It also has the idea of time that never ends.
@@ -11,9 +11,9 @@ In the Bible, the term "forever" refers to never-ending time. Sometimes it is us
 ## Translation Suggestions: ##
 
 * This term could also be translated by "always" or "never ending."
-* The phrase, "will last forever" could also be translated as "always exist" or "will never stop" or "will always continue."
-* The emphatic phrase, "forever and ever" could also be translated as, "for always and always" or "not ever ending" or "which never, ever ends."
-* David's throne lasting forever could be translated as, "David's descendant will reign forever" or "a descendant of mine will always be reigning."
+* The phrase "will last forever" could also be translated as "always exist" or "will never stop" or "will always continue."
+* The emphatic phrase "forever and ever" could also be translated as "for always and always" or "not ever ending" or "which never, ever ends."
+* David's throne lasting forever could be translated as "David's descendant will reign forever" or "a descendant of mine will always be reigning."
 
 (See also: [david](../other/david.md) **·** [everlasting, eternal, eternity](../kt/eternity.md) **·** [reign](../other/reign.md))
 
