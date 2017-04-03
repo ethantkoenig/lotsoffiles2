@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-the term "commander" refers to a leader of an army who is responsible for leading and commanding a certain group of soldiers.
+The term "commander" refers to a leader of an army who is responsible for leading and commanding a certain group of soldiers.
 
 * A commander could be in charge of a small group of soldiers or a large group, such as a thousand men.
 * This term is also used to refer to Yahweh as the commander of angel armies.
