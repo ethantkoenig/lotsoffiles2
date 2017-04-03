@@ -19,13 +19,13 @@ This term is used to refer to both physical and spiritual death. Physically, it 
 
 ## Translation Suggestions: ##
 
-* To translate this term, it is best to use the everyday, natural word or expression that refers to death in the target language.
+* To translate this term, it is best to use the everyday, natural word or expression in the target language that refers to death.
 * In some languages, "to die" may be expressed as "to not live." The term "dead" may be translated as "not alive" or "not having any life" or "not living."
-* Many languages use figurative expressions to describe death, such as "to pass away" in English. However in the Bible it is best to use the most direct term for death that is used in everyday language.
+* Many languages use figurative expressions to describe death, such as "to pass away" in English. However, in the Bible it is best to use the most direct term for death that is used in everyday language.
 * In the Bible, physical life and death are often compared to spiritual life and death. It is important in a translation to use the same word or phrase for both physical death and spiritual death.
 * In some languages it may be more clear to say "spiritual death" when the context requires that meaning. Some translators may also feel it is best to say "physical death" in contexts where it is being contrasted to spiritual death.
-* The expression, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died."  (See: [nominal adjective](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_nominaladj.md))
-* The expression, "put to death" could also be translated as, "kill" or "murder" or "execute."
+* The expression "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as "dead people" or "people who have died."  (See: [nominal adjective](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_nominaladj.md))
+* The expression "put to death" could also be translated as "kill" or "murder" or "execute."
 
 (See also: [believe](../kt/believe.md) **·** [faith](../kt/faith.md) **·** [life](../kt/life.md) **·** [spirit](../kt/spirit.md))
 
