@@ -8,7 +8,7 @@ Caesarea was an important city on the coast of the Mediterranean Sea, about 39 k
 * The coastal Caesarea became the capital city of the Roman province of Judea around the time of the birth of Jesus.
 * The apostle Peter first preached to the Gentiles in Caesarea.
 * Paul sailed from Caesarea to Tarsus and also passed through this city on two of his missionary journeys.
-* Jesus and his disciples traveled in the region surrounding Caesarea Philippi.in Syria. Both cities were named after Herod Philip.
+* Jesus and his disciples traveled in the region surrounding Caesarea Philippi in Syria. Both cities were named after Herod Philip.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
