@@ -13,8 +13,8 @@ The term "firstborn" refers to an offspring of people or animals that is born fi
 ## Translation Suggestions: ##
 
 * When "firstborn" occurs in the text alone, it could also be translated as "firstborn male" or "firstborn son," since that is what is implied. (See: [Assumed Knowledge and Implicit Information](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/figs_explicit.md))
-* Other ways to translate this term could include,  "the son who was born first" or "the eldest son" or "the number one son."
-* When used figuratively to refer to Jesus, this could be translated with a word or phrase that means, "the son who has authority over everything" or "the Son who is first in honor."
+* Other ways to translate this term could include  "the son who was born first" or "the eldest son" or "the number one son."
+* When used figuratively to refer to Jesus, this could be translated with a word or phrase that means "the son who has authority over everything" or "the Son who is first in honor."
 * Caution: Make sure the translation of this term in reference to Jesus does not imply that he was created.
 
 (See also: [inherit](../kt/inherit.md) **·** [sacrifice](../other/sacrifice.md) **·** [son](../kt/son.md))
