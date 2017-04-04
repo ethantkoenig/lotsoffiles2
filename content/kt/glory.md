@@ -11,10 +11,10 @@ In general, the term "glory" means honor, splendor, and extreme greatness. Anyth
 
 ## Translation Suggestions: ##
 
-* Depending on the context, different ways to translate "glory" could include, "splendor" or "brightness" or "majesty" or "awesome greatness" or "extreme value."
+* Depending on the context, different ways to translate "glory" could include "splendor" or "brightness" or "majesty" or "awesome greatness" or "extreme value."
 * The term "glorious" could be translated as  "full of glory" or "extremely valuable" or "brightly shining" or "awesomely majestic."
-* The expression,"give glory to God" could be translated as "honor God's greatness" or "praise God because of his splendor" or "tell others how great God is."
-* The expression "glory in" could also be translated as, "praise" or "take pride in" or "boast about" or "take pleasure in."
+* The expression "give glory to God" could be translated as "honor God's greatness" or "praise God because of his splendor" or "tell others how great God is."
+* The expression "glory in" could also be translated as "praise" or "take pride in" or "boast about" or "take pleasure in."
 
 (See also: [glorify](../kt/glorify.md))
 
