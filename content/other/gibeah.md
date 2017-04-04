@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Gibeah is the name of a city that was located north of Jerusalem and south of Bethel.
+Gibeah was a city located north of Jerusalem and south of Bethel.
 
 * Gibeah was in the territory of the tribe of Benjamin.
 * It was the site of a huge battle between the Benjamites and Israel.
