@@ -10,9 +10,9 @@ The word "grace" refers to help or blessing that is given to someone who has not
 
 ## Translation Suggestions: ##
 
-* Other ways that "grace" could be translated include, "divine kindness" or "God's favor" or "God's kindness and forgiveness for sinners" or "merciful kindness."
+* Other ways that "grace" could be translated include "divine kindness" or "God's favor" or "God's kindness and forgiveness for sinners" or "merciful kindness."
 * The term "gracious" could be translated as "full of grace" or "kind" or "merciful" or "mercifully kind."
-* The expression, "he found grace in the eyes of God" could be translated as, "he received mercy from God" or "God mercifully helped him" or "God showed his favor to him" or "God was pleased with him and helped him."
+* The expression "he found grace in the eyes of God" could be translated as "he received mercy from God" or "God mercifully helped him" or "God showed his favor to him" or "God was pleased with him and helped him."
 
 ## Bible References: ##
 
