@@ -8,11 +8,11 @@ A goat is a medium-sized, four-legged animal which is similar to a sheep and is 
 * Although goats and sheep can be very similar, these are some ways that they are different:
    * Goats have coarse hair; sheep have wool.
    * The tail of a goat stands up; the tail of a sheep hangs down.
-   * A sheep usually like to stay with their herd, but goats are more independent and tend to wander away from the herd.
+   * Sheep usually like to stay with their herd, but goats are more independent and tend to wander away from their herd.
 * In Bible times, goats were often the main source of milk in Israel.
 * Goat skins were used for tent coverings and to make bags for holding wine.
-* In both the Old and New Testaments, the goat was used as a symbol for unrighteous people, perhaps because of their tendency to wander away from the one taking care of them.
-* The Israelites also used goats as symbolic sin bearers. When one goat was sacrificed, the priest would lay his hands on a second live goat and send it into the desert as a symbol of the animal bearing the people's sins.
+* In both the Old and New Testaments, the goat was used as a symbol for unrighteous people, perhaps because of its tendency to wander away from the one taking care of it.
+* The Israelites also used goats as symbolic sin bearers. When one goat was sacrificed, the priest would lay his hands on a second, live goat, and send it into the desert as a symbol that the animal was bearing the people's sins.
 
 (See also: [flock](../other/flock.md) **·** [sacrifice](../other/sacrifice.md) **·** [sheep](../other/sheep.md) **·** [unrighteous](../kt/unrighteous.md) **·** [wine](../other/wine.md))
 
