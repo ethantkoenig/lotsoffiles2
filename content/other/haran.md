@@ -4,7 +4,7 @@
 
 Haran was a younger brother of Abraham and the father of Lot.
 
-* Haran was also the name of the town where Abram and his family lived for awhile on their journey from the city of Ur to the land of Canaan.
+* Haran was also the name of the town where Abram and his family lived awhile on their journey from the city of Ur to the land of Canaan.
 * A different man named Haran was a son of Caleb.
 * A third man in the Bible named Haran was a descendant of Levi.
   
