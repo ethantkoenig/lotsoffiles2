@@ -4,7 +4,7 @@
 
 The expression "house of David" refers to the family or descendants of King David. 
 
-* This could also be translated as, "descendants of David" or "family of David" or "King David's clan."
+* This could also be translated as "descendants of David" or "family of David" or "King David's clan."
 * Because Jesus was descended from David, he was part of the "house of David."
 * Sometimes "house of David" or "household of David" refers to the people in David's family who were still living.
 * Other times this term is more general and refers to all his descendants, including those who had already died.
