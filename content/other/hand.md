@@ -5,7 +5,7 @@
 There are several figurative ways that "hand" is used in the Bible:
 
 * To "hand" something to someone means to put something into that person's hands.
-* The term "hand" is often used in reference to God's power and action, such as when God says, "Has not my hand made all these things?" (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md))
+* The term "hand" is often used in reference to God's power and action, such as when God says "Has not my hand made all these things?" (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md))
 * Expressions such as "hand over to" or "deliver into the hands of" refer to causing someone to be under the control or power of someone else.
 * Placing hands on someone is often done while speaking a blessing over that person.
 * The term "laying on of hands" refers to placing a hand on a person in order to dedicate that person to God's service or to pray for healing.
@@ -20,10 +20,10 @@ There are several figurative ways that "hand" is used in the Bible:
 ## Translation Suggestions ##
 
 * These expressions and other figures of speech could be translated using other figurative expressions that have the same meaning. Or the meaning could be translated using direct, literal language (see examples above).
-* The expression, "handed him the scroll" could also be translated as "gave him the scroll" or "put the scroll in his hand." It was not given to him permanently, but just for the purpose of using it at that time.
+* The expression "handed him the scroll" could also be translated as "gave him the scroll" or "put the scroll in his hand." It was not given to him permanently, but just for the purpose of using it at that time.
 * When "hand" refers to the person, such as in "the hand of God did this," it could be translated as "God did this."
 * An expression such as "delivered them into the hands of their enemies" or "handed them over to their enemies," could be translated as, "allowed their enemies to conquer them" or "caused them to be captured by their enemies" or "empowered their enemies to gain control over them."
-* To "die by the hand of" could be translated as, "be killed by."
+* To "die by the hand of" could be translated as "be killed by."
 * The expression "on the right hand of" could be translated as "on the right side of."
 * In regard to Jesus being "seated at the right hand of God," if this does not communicate in the language that it refers to a position of high honor and equal authority, a different expression with that meaning could be used. Or a short explanation could be added: "on the right side of God, in the position of highest authority."
 
