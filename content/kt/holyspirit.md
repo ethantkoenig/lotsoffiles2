@@ -4,7 +4,7 @@
 
 These terms all refer to the Holy Spirit, who is God. The one true God exists eternally as the Father, the Son, and the Holy Spirit.
 
-* The Holy Spirit is also referred to as, "the Spirit" and "Spirit of Yahweh" and "Spirit of truth."
+* The Holy Spirit is also referred to as "the Spirit" and "Spirit of Yahweh" and "Spirit of truth."
 * Because the Holy Spirit is God, he is absolutely holy, infinitely pure, and morally perfect in all his nature and in everything he does.
 * Along with the Father and the Son, the Holy Spirit was active in creating the world.
 * When God's Son, Jesus, returned to heaven, God sent the Holy Spirit to his people to lead them, teach them, comfort them, and enable them to do God's will.
@@ -13,7 +13,7 @@ These terms all refer to the Holy Spirit, who is God. The one true God exists et
 ## Translation Suggestions: ##
 
 * This term could simply be translated with the words used to translate "holy" and "spirit."
-* Ways to translate this term could also include, "Pure Spirit" or "Spirit who is Holy" or "God the Spirit."
+* Ways to translate this term could also include "Pure Spirit" or "Spirit who is Holy" or "God the Spirit."
 
 (See also: [holy](../kt/holy.md) **·** [spirit](../kt/spirit.md) **·** [god](../kt/god.md) **·** [lordgod](../kt/lordgod.md) **·** [godthefather](../kt/godthefather.md) **·** [sonofgod](../kt/sonofgod.md) **·** [gift](../kt/gift.md))
 
