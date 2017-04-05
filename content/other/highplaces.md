@@ -10,8 +10,8 @@ The term "high places" refers to the altars and shrines that were used for worsh
 
 ## Translation Suggestions: ##
 
-* Other ways to translate this term could include, "elevated places for idol worship" or "hilltop idol shrines" or "idol altar mounds."
-* Make sure it is clear that this term refers to the idol altars, not just to the high place where those altars are located.
+* Other ways to translate this term could include "elevated places for idol worship" or "hilltop idol shrines" or "idol altar mounds."
+* Make sure it is clear that this term refers to the idol altars, not just to the high place where those altars were located.
 
 (See also: [altar](../other/altar.md) **·** [idol](../other/idol.md) **·** [worship](../kt/worship.md))
 
