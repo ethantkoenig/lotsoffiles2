@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Hamath was an important city in northern Syria, north of the land of Canaan. The Hamathites were descendants of Noah's son, Canaan.
+Hamath was an important city in northern Syria, north of the land of Canaan. The Hamathites were descendants of Noah's son Canaan.
 
 * The name "Lebo Hamath" probably refers to a mountain pass near the city of Hamath.
 * Some versions translate "Lebo Hamath" as "entrance to Hamath."
