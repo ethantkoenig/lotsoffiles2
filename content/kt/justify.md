@@ -9,10 +9,10 @@ The terms "justify" and "justification" refer to causing a guilty person to be r
 
 ## Translation Suggestions: ##
 
-* Other ways to translate "justify" could include, "declare (someone) to be righteous" or "cause (someone) to be righteous."
-* The term "justification" could be translated as, "being declared righteous" or "becoming righteous" or "causing people to be righteous."
-* The phrase "resulting in justification" could be translated as, "so that God justified many people" or "which resulted in God causing people to be righteous."
-* The phrase "for our justification" could be translated as, "in order that we could be made righteous by God."
+* Other ways to translate "justify" could include "declare (someone) to be righteous" or "cause (someone) to be righteous."
+* The term "justification" could be translated as "being declared righteous" or "becoming righteous" or "causing people to be righteous."
+* The phrase "resulting in justification" could be translated as "so that God justified many people" or "which resulted in God causing people to be righteous."
+* The phrase "for our justification" could be translated as "in order that we could be made righteous by God."
 
 (See also: [forgive](../kt/forgive.md) **·** [guilt](../kt/guilt.md) **·** [righteous, righteousness](../kt/righteous.md))
 
