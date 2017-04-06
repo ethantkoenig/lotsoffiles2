@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-Jezreel was the name of an important Israelite city in the territory of the Issachar tribe, located southwest of the Salt Sea.
+Jezreel was an important Israelite city in the territory of the Issachar tribe, located southwest of the Salt Sea.
 
 * The city of Jezreel is one of the western points in the Plain of Megiddo, which is also called the "Valley of Jezreel."
 * Several kings of Israel had their palaces in the city of Jezreel.
