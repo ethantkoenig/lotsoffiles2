@@ -2,11 +2,11 @@
 
 ## Facts: ##
 
-Kedar was the name of Ishmael's second son. It is also the name of an important city, which was probably named after the man.
+Kedar was Ishmael's second son. It was also an important city, which was probably named after the man.
 
 * The city of Kedar is located in the northern part of Arabia near the southern border of Palestine. In Bible times, it was known for its greatness and beauty.
 * The descendants of Kedar formed a large people group that is also called "Kedar."
-* The phrase "dark tents of Kedar" refers to the black goat hair tents the people of Kedar lived in.
+* The phrase "dark tents of Kedar" refers to the black goathair tents the people of Kedar lived in.
 * These people raised sheep and goats. They also used camels for transporting things.
 * In the Bible, the phrase "the glory of Kedar" refers to the greatness of that city and its people.
 
