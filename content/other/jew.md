@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Jews are people who are descendants of Abraham's grandson, Jacob. The word "Jew" comes from the word "Judah."
+Jews are people who are descendants of Abraham's grandson Jacob. The word "Jew" comes from the word "Judah."
 
 * People began to call the Israelites "Jews" after they returned to Judah from their exile in Babylon.
 * Jesus the Messiah was Jewish. However, the Jewish religious leaders rejected Jesus and demanded that he be killed.
