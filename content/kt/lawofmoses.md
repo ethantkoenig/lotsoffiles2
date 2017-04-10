@@ -5,20 +5,20 @@
 All these terms refer to the commandments and instructions that God gave Moses for the Israelites to obey. The terms "law" and "God's law" are also used more generally to refer to everything God wants his people to obey.
 
 * Depending on the context, the "law" can refer to:
-   * the Ten Commandments that God wrote on stone tablets for the Israelites.
+   * the Ten Commandments that God wrote on stone tablets for the Israelites
    * all the laws given to Moses
-   * the first five books of the Old Testament.
+   * the first five books of the Old Testament
    * the entire Old Testament (also referred to as "scriptures" in the New Testament).
-   * all of God's instructions and will.
-* The phrase "the law and the prophets" is used in the New Testament to refer to the Hebrew scriptures (or "Old Testament").
+   * all of God's instructions and will
+* The phrase "the law and the prophets" is used in the New Testament to refer to the Hebrew scriptures (or "Old Testament")
 
 ## Translation Suggestions: ##
 
-* These terms could be translated using the plural, "laws" since they refer to many instructions.
+* These terms could be translated using the plural, "laws," since they refer to many instructions.
 * The "law of Moses" could be translated as "the laws that God told Moses to give to the Israelites."
-* Depending on the context, "the law of Moses" could also be translated as, "the law that God told to Moses" or "God's laws that Moses wrote down" or "the laws that God told Moses to give to the Israelites."
-* Ways to translate "the law" or "law of God" or "God's laws" could include: "laws from God" or "God's commands" or "laws that God gave" or "everything that God commands" or "all of God's instructions"
-* The phrase, "law of Yahweh" could also be translated as, "Yahweh's laws" or "laws that Yahweh said to obey" or "laws from Yahweh" or "things Yahweh commanded."
+* Depending on the context, "the law of Moses" could also be translated as "the law that God told to Moses" or "God's laws that Moses wrote down" or "the laws that God told Moses to give to the Israelites."
+* Ways to translate "the law" or "law of God" or "God's laws" could include "laws from God" or "God's commands" or "laws that God gave" or "everything that God commands" or "all of God's instructions."
+* The phrase "law of Yahweh" could also be translated as "Yahweh's laws" or "laws that Yahweh said to obey" or "laws from Yahweh" or "things Yahweh commanded."
 
 (See also: [instruct](../other/instruct.md) **·** [moses](../other/moses.md) **·** [tencommandments](../other/tencommandments.md) **·** [lawful](../other/lawful.md) **·** [yahweh](../kt/yahweh.md))
 
