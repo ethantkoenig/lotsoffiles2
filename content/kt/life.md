@@ -7,15 +7,15 @@ All these terms refer to being physically alive, not dead. They are also used fi
 #### 1. Physical life ####
 
 * Physical life is the presence of the spirit in the body. God breathed life into Adam's body, and he became a living being.
-* A "life" can also refer to an individual person, as in, "a life was saved".
-* Sometimes the word "life" refers to the experience of living, as in, "his life was enjoyable."
-* It can also refer to a person's lifespan as in the expression, "the end of his life."
-* The term "living" may refer to being physically alive as in, "my mother is still living." It may also refer to dwelling somewhere as in, "they were living in the city."
+* A "life" can also refer to an individual person as in "a life was saved".
+* Sometimes the word "life" refers to the experience of living as in, "his life was enjoyable."
+* It can also refer to a person's lifespan, as in the expression, "the end of his life."
+* The term "living" may refer to being physically alive, as in "my mother is still living." It may also refer to dwelling somewhere as in, "they were living in the city."
 * In the Bible, the concept of "life" is often contrasted with the concept of "death."
 
 #### 2. Spiritual life ####
 
-* A person has spiritual life when he believes in Jesus and God gives that person a transformed life with the Holy Spirit living in him.
+* A person has spiritual life when he believes in Jesus with God gives that person a transformed life with the Holy Spirit living in him.
 * This life is also called "eternal life" to indicate that it does not end.
 * The opposite of spiritual life is spiritual death, which means being separated from God and experiencing eternal punishment.
 
@@ -23,12 +23,12 @@ All these terms refer to being physically alive, not dead. They are also used fi
 
 * Depending on the context, "life" can be translated as "existence" or "person" or "soul" or "being" or "experience."
 * The term "live" could be translated by "dwell" or "reside" or "exist."
-* The expression "end of his life" could be translated as, "when he stopped living."
-* The expression "spared their lives' could be translated as, "allowed them to live" or "did not kill them."
-* The expression "they risked their lives" could be translated as, "they put themselves in danger" or "they did something that could have killed them." 
+* The expression "end of his life" could be translated as "when he stopped living."
+* The expression "spared their lives' could be translated as "allowed them to live" or "did not kill them."
+* The expression "they risked their lives" could be translated as "they put themselves in danger" or "they did something that could have killed them." 
 * When the Bible text talks about being alive spiritually, "life" could be translated as "spiritual life" or "eternal life," depending on the context.
-* The concept of "spiritual life" could also be translated as, "God making us alive in our spirits" or "new life by God's Spirit" or "being made alive in our inner self."
-* Depending on the context, the expression "give life" could also be translated as, "cause to live" or "give eternal life" or "cause to live eternally."
+* The concept of "spiritual life" could also be translated as "God making us alive in our spirits" or "new life by God's Spirit" or "being made alive in our inner self."
+* Depending on the context, the expression "give life" could also be translated as "cause to live" or "give eternal life" or "cause to live eternally."
 
 (See also: [death](../kt/death.md) **·** [eternity](../kt/eternity.md))
 
