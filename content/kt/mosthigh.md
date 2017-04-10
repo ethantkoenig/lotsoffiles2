@@ -2,14 +2,14 @@
 
 ## Facts: ##
 
-The term, "Most High" is a title for God. It refers to his greatness or authority.
+The term "Most High" is a title for God. It refers to his greatness or authority.
 
 * The meaning of this term is similar to the meaning of "Sovereign" or "Supreme."
 * The word "high" in this title does not refer to physical height or distance. It refers to greatness.
 
 ## Translation Suggestions: ##
 
-* This term can also be translated as, "Most High God" or "Most Supreme being" or "God Most High" or "Greatest One" or "Supreme One" or "God, who is Greater than all."
+* This term can also be translated as "Most High God" or "Most Supreme being" or "God Most High" or "Greatest One" or "Supreme One" or "God, who is Greater than all."
 * If a word like "high" is used, make sure it does not refer to being physically high or tall. 
 
 (See also: [god](../kt/god.md))
