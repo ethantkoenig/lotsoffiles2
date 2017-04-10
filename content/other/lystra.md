@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Lystra is the name of a city in ancient Asia Minor which Paul visited on one of his missionary journeys. It was located in the region of Lycaonia which is now in the modern-day country of Turkey.
+Lystra was a city in ancient Asia Minor that Paul visited on one of his missionary journeys. It was located in the region of Lycaonia, which is now in the modern-day country of Turkey.
 
 * Paul and his companions escaped to Derbe and Lystra when they were threatened by the Jews in Iconium.
 * In Lystra, Paul met Timothy, who became a fellow evangelist and church planter.
