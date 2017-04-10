@@ -8,7 +8,7 @@ Micah was a prophet of Judah around 700 years before Christ, when the prophet Is
 * Micah prophesied about the destruction of Samaria by the Assyrians.
 * Micah rebuked the people of Judah for disobeying God and warned them that their enemies would attack them.
 * His prophecy ends with a message of hope in God, who is faithful and saves his people.
-* In the book of Judges, the story is told of a man named Micah living in Ephraim who made an idol out of silver. A young Levite priest who came to live with him  stealing the idol and other things, taking off with a group of Danites. Eventually the Danites and the priest settled in the city of Laish and they set up that same silver idol to worship.
+* In the book of Judges, the story is told of a man named Micah living in Ephraim who made an idol out of silver. A young Levite priest who came to live with him  stole the idol and other things, and took off with a group of Danites. Eventually the Danites and the priest settled in the city of Laish and they set up that same silver idol to worship.
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
