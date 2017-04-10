@@ -4,13 +4,13 @@
 
 The term "last days" or "latter days" refers generally to the time period at the end of the current age.
 
-* This time period will be an unknown length of time.
+* This time period will have an unknown duration.
 * The "last days" are a time of judgment upon those who have turned away from God. 
 
 ## Translation Suggestions: ##
 
-* The term, "last days" can also be translated as "final days" or "end times."
-* In some contexts, this could be translated as, "end of the world" or "when this world ends."
+* The term "last days" can also be translated as "final days" or "end times."
+* In some contexts, this could be translated as "end of the world" or "when this world ends."
 
 (See also: [dayofthelord](../kt/dayofthelord.md) **·** [judge](../kt/judge.md) **·** [turn](../kt/turn.md) **·** [world](../kt/world.md))
 
