@@ -9,7 +9,7 @@ The term "majesty" refers to greatness and splendor, often in relation to the qu
 
 ## Translation Suggestions: ##
 
-* This term could be translated as, "kingly greatness" or "royal splendor."
+* This term could be translated as "kingly greatness" or "royal splendor."
 * "Your Majesty" could be translated as something like "your Highness" or "your Excellency" or using a natural way of addressing a ruler in the target language.
 
 (See also: [king](../other/king.md))
