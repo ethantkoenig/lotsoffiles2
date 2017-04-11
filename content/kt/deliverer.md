@@ -13,7 +13,7 @@ To "deliver" someone means to rescue that person. The term  "deliverer" refers t
 
 * In the context of helping people escape from their enemies, the term "deliver" can be translated as "rescue" or "liberate" or "save."
 * When it means to deliver someone over to the enemy, "deliver over" can be translated as "betray to" or "hand over" or "give over."
-* The word "deliverer" can also be translated as, "rescuer" or "liberator."
+* The word "deliverer" can also be translated as "rescuer" or "liberator."
 * When the term "deliverer" refers to the judges who led Israel, it could also be translated as "governor" or "judge" or "leader."
 
 (See also: [judge](../kt/judge.md) **·** [save](../kt/save.md))

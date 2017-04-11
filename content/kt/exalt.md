@@ -9,10 +9,10 @@ To exalt is to highly praise and honor someone. It can also mean to put someone 
 
 ## Translation Suggestions: ##
 
-* Ways to translate "exalt" could include, "highly praise" or "honor greatly" or "extol" or "speak highly of."
-* In some contexts, it could be translated by a word or phrase that means, "put in a higher position" or "give more honor to" or "talk about proudly."
+* Ways to translate "exalt" could include "highly praise" or "honor greatly" or "extol" or "speak highly of."
+* In some contexts it could be translated by a word or phrase that means "put in a higher position" or "give more honor to" or "talk about proudly."
 * "Do not exalt yourself" could also be translated as "Do not think of yourself too highly" or "Do not brag about yourself."
-* "Those that exalt themselves" could also be translated as "Those who think proudly about themselves" or "Those who boast about themselves"
+* "Those that exalt themselves" could also be translated as "Those who think proudly about themselves" or "Those who boast about themselves."
 
 (See also: [praise](../other/praise.md) **·** [worship](../kt/worship.md) **·** [glorify](../kt/glorify.md) **·** [boast](../kt/boast.md) **·** [proud](../other/proud.md))
 

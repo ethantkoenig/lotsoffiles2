@@ -10,7 +10,7 @@ The terms "interpret" and "interpretation" refer to understanding and explaining
 * In the Old Testament, God sometimes used dreams to reveal to people what would happen in the future. So the interpretations of those dreams were prophecies.
 * The term "interpret" can also refer to figuring out the meaning of other things, such as figuring out what the weather will be like based on how cold or hot it is, how windy it is, and what the sky looks like.
 * Ways to translate the term "interpret" could include, "figure out the meaning of" or "explain" or "give the meaning of."
-* The term "interpretation" could also be translated as, "explanation" or "meaning."
+* The term "interpretation" could also be translated as "explanation" or "meaning."
 
 (See also: [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [dream](../other/dream.md) **·** [prophet](../kt/prophet.md) **·** [vision](../other/vision.md))
 

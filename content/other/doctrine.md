@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The word "doctrine" literally means "teaching". It usually refers to religious teaching.
+The word "doctrine" literally means "teaching." It usually refers to religious teaching.
 
 * In the context of Christian teachings, "doctrine" refers to all teachings about God – Father, Son and Holy Spirit – including all his character qualities and everything he has done.
 * It also refers to everything God teaches Christians about how to live holy lives that bring glory to him.

@@ -11,8 +11,8 @@ To be "faithful" to God means to consistently live according to God's teachings.
 ## Translation Suggestions: ##
 
 * In many contexts, "faithful" can be translated as "loyal" or "dedicated" or "dependable."
-* In other contexts, "faithful" can be translated by a word or phrase that means, "continuing to believe" or "persevering in believing and obeying God."
-* Ways that "faithfulness" could be translated could include, "persevering in believing" or "loyalty" or "trustworthiness" or "believing and obeying God."
+* In other contexts, "faithful" can be translated by a word or phrase that means "continuing to believe" or "persevering in believing and obeying God."
+* Ways that "faithfulness" could be translated could include "persevering in believing" or "loyalty" or "trustworthiness" or "believing and obeying God."
 
 (See also: [faith](../kt/faith.md) **·** [believe, believe in, belief](../kt/believe.md))
 

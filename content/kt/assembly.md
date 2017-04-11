@@ -5,9 +5,9 @@
 The term "assembly" usually refers to a group of people who come together to discuss problems, give advice, and make decisions.
 
 * An assembly can be a group that is organized in an official and somewhat permanent way, or it can be a group of people who come together temporarily for a specific purpose or occasion.
-* In the Old Testament there was a special kind of assembly called a "sacred assembly" where the people of Israel would gather to worship Yahweh.
+* In the Old Testament there was a special kind of assembly called a "sacred assembly" in which the people of Israel would gather to worship Yahweh.
 * Sometimes the term "assembly" referred to the Israelites in general, as a group.
-* A large gathering of enemy soldiers is sometimes also referred to as an "assembly." This could be translated as "army."
+* A large gathering of enemy soldiers was sometimes also referred to as an "assembly." This could be translated as "army."
 * In the New Testament, an assembly of 70 Jewish leaders in major cities such as Jerusalem would meet to judge legal matters and to settle disputes between people. This assembly was known as the "Sanhedrin" or the "Council."
 
 ## Translation Suggestions ##

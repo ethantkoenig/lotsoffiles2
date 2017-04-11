@@ -1,4 +1,4 @@
-# biblical time: day #
+# day #
 
 ## Definition: ##
 

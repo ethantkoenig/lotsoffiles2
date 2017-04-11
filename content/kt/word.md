@@ -1,4 +1,4 @@
-# word #
+# word, words #
 
 ## Definition: ##
 
@@ -6,14 +6,13 @@ A "word" refers to something that someone has said.
 
 * An example of this would be when the angel told Zechariah, "You did not believe my words," which means, "You did not believe what I said."
 * This term almost always refers to an entire message, not just one word.
-* Often in the Bible "the word" refers to everything God has said or commanded, as in "the word of God" or "the word of truth."
 * Sometimes "word" refers to speech in general, such as "powerful in word and deed" which means "powerful in speech and behavior."
-* A very special use of this term is when Jesus is called "the Word." 
+* Often in the Bible "the word" refers to everything God has said or commanded, as in "the word of God" or "the word of truth."
+* A very special use of this term is when Jesus is called "the Word." For these last two meanings, see [word of God, God's word, scripture](../kt/wordofgod.md)
 
 ## Translation Suggestions: ##
 
 * Different ways of translating "word" or "words" include, "teaching" or "message" or "news" or "a saying" or "what was said."
-* When it refers to Jesus as "the Word," this term could be translated as "the Message" or "the Saying."
 
 (See also: [word of God, God's word, scripture](../kt/wordofgod.md))
 

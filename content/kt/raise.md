@@ -1,4 +1,4 @@
-# raise, rise, risen, arise, arose #
+# raise, raises, raised, rise, risen, arise, arose #
 
 ## Definition: ##
 

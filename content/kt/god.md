@@ -9,17 +9,17 @@ In the Bible, the term "God" refers to the eternal being who created the univers
 * God is perfectly righteous, infinitely wise, holy, sinless, just, merciful, and loving.
 * He is a covenant-keeping God, who always fulfills his promises.
 * People were created to worship God and he is the only one they should worship.
-* God revealed his name as "Yahweh" which means, "he is" or "I am" or "the One who (always) exists."
-* The Bible also teaches about false "gods" which are nonliving idols that people wrongly worship.
+* God revealed his name as "Yahweh," which means "he is" or "I am" or "the One who (always) exists."
+* The Bible also teaches about false "gods," which are nonliving idols that people wrongly worship.
 
 ## Translation Suggestions: ##
 
-* Ways to translate "God" could include, "Deity" or "Creator" or "Supreme Being."
-* Other ways to translate "God" could be, "Supreme Creator" or "Infinite Sovereign Lord" or "Eternal Supreme Being."
+* Ways to translate "God" could include "Deity" or "Creator" or "Supreme Being."
+* Other ways to translate "God" could be "Supreme Creator" or "Infinite Sovereign Lord" or "Eternal Supreme Being."
 * Consider how God is referred to in a local or national language. There may also already be a word for "God" in the language being translated. If so, it is important to make sure that this word fits the characteristics of the one true God as described above.
 * Many languages capitalize the first letter of the word for the one true God, to distinguish it from the word for a false god. 
-* Another way to make this distinction would be to use two different terms for "God" and "god."
-* The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people and they will worship me."
+* Another way to make this distinction would be to use different terms for "God" and "god."
+* The phrase "I will be their God and they will be my people" could also be translated as "I, God, will rule over these people and they will worship me."
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 

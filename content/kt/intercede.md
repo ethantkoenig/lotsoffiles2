@@ -10,9 +10,9 @@ The terms "intercede" and "intercession" refer to making requests to someone on 
 
 ## Translation Suggestions: ##
 
-* Other ways to translate "intercede" could include, "plead for" or "urge (someone) to do something (for someone else)."
+* Other ways to translate "intercede" could include "plead for" or "urge (someone) to do something (for someone else)."
 * The noun "intercessions" could be translated as "appeals" or "requests" or "urgent prayers."
-* The phrase "make intercession for" could be translated as, "make requests for the benefit of" or "make an appeal on behalf of" or "ask God to help" or "appeal to God to bless" (someone).
+* The phrase "make intercession for" could be translated as "make requests for the benefit of" or "make an appeal on behalf of" or "ask God to help" or "appeal to God to bless (someone)."
 
 (See also: [pray](../other/pray.md))
 

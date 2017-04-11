@@ -17,14 +17,14 @@ The term "bind" means to tie something or fasten it securely. Something that is 
 ## Translation Suggestions: ##
 
 * The term "bind" could also be translated as "tie" or "tie up" or "wrap (around)."
-* Figuratively, it could be translated as, "to restrain" or "to prevent" or "to keep from (something)."
+* Figuratively, it could be translated as "to restrain" or "to prevent" or "to keep from (something)."
 * A special use of "bind" in Matthew 16 and 18 means "forbid" or "not permit."
 * The term "bonds" could be translated as "chains" or "ropes" or "shackles."
 * Figuratively the term "bond" could be translated as "knot" or "connection" or "close relationship."
-* The phrase, "bond of peace" means, "being in harmony, which brings people in closer relationship to each other" or "the tying together that peace brings."
-* To "bind up" could be translated as, "wrap around" or "put a bandage on."
-* To "bind" oneself with a vow could be translated as, "promise to fulfill a vow" or "commit to fulfill a vow."
-* Depending on the context, the term "bound" could also be translate as, "tied" or "tied up" or "chained" or "obligated (to fulfill)" or "required to do."
+* The phrase "bond of peace" means "being in harmony, which brings people in closer relationship to each other" or "the tying together that peace brings."
+* To "bind up" could be translated as "wrap around" or "put a bandage on."
+* To "bind" oneself with a vow could be translated as "promise to fulfill a vow" or "commit to fulfill a vow."
+* Depending on the context, the term "bound" could also be translated as "tied" or "tied up" or "chained" or "obligated (to fulfill)" or "required to do."
 
 (See also: [fulfill](../kt/fulfill.md) **·** [peace](../other/peace.md) **·** [prison](../other/prison.md) **·** [servant](../other/servant.md) **·** [vow](../kt/vow.md))
 

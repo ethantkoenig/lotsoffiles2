@@ -5,16 +5,16 @@
 These terms refer to treating people fairly according to God's laws. Human laws that reflect God's standard of right behavior toward others are also just.
 
 * To be "just" is to act in a fair and right way toward others. It also implies honesty and integrity to do what is morally right in God's eyes.
-* To act "justly" means to treat people in a way that is right, good and proper according to God's laws.
-* To receive "justice" means to be treated fairly under the law, either being protected by law or being punished for breaking the law.
+* To act "justly" means to treat people in a way that is right, good, and proper according to God's laws.
+* To receive "justice" means to be treated fairly under the law, either being protected by the law or being punished for breaking the law.
 * Sometimes the term "just" has the broader meaning of "righteous" or "following God's laws."
 
 ## Translation Suggestions: ##
 
-* Depending on the context, other ways to translate "just" could include, "morally right" or "fair."
-* The term "justice" could be translated as, "fair treatment" or "deserved consequences."
-* To "act justly" could be translated as, "treat fairly" or "behave in a just way."
-* In some contexts, "just" could be translated as, "righteous" or "upright."
+* Depending on the context, other ways to translate "just" could include "morally right" or "fair."
+* The term "justice" could be translated as "fair treatment" or "deserved consequences."
+* To "act justly" could be translated as "treat fairly" or "behave in a just way."
+* In some contexts, "just" could be translated as "righteous" or "upright."
 
 (See also: [judge, judgment](../kt/judge.md) **·** [righteous](../kt/righteous.md) **·** [upright](../kt/upright.md))
 

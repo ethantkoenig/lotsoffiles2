@@ -1,4 +1,4 @@
-# reveal, revelation #
+# reveal, revealed, revelation #
 
 ## Definition: ##
 

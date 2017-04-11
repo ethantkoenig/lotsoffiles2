@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Abijah was the name of a king of Judah who reigned from 915-913 BC. He was the son of King Rehoboam. There were also several other men named Abijah in the Old Testament.
+Abijah was a king of Judah who reigned from 915 to 913 B.C. He was a son of King Rehoboam. There were also several other men named Abijah in the Old Testament:
 
 * Samuel's sons Abijah and Joel were leaders over the people of Israel at Beersheba. Because Abijah and his brother were dishonest and greedy, the people asked Samuel to appoint a king to rule them instead.
 * Another Abijah was one of the temple priests during the time of King David.

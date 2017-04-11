@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-Joy is a feeling of delight or deep satisfaction that comes from God. The related term, "joyful" describes a person who feels very glad and full of deep happiness.
+Joy is a feeling of delight or deep satisfaction that comes from God. The related term "joyful" describes a person who feels very glad and is full of deep happiness.
 
 * A person feels joy when he has a deep sense that what he is experiencing is very good.
 * God is the one who gives true joy to people.
@@ -12,7 +12,7 @@ Joy is a feeling of delight or deep satisfaction that comes from God. The relate
 ## Translation Suggestions: ##
 
 * The term "joy" could also be translated as "gladness" or "delight" or "great happiness."
-* The phrase, "be joyful" could be translated as "rejoice" or "be very glad" or with a phrase that means, "be very happy in God's goodness."
+* The phrase, "be joyful" could be translated as "rejoice" or "be very glad" or with a phrase that means "be very happy in God's goodness."
 * A person who is joyful could be described as "very happy" or "delighted" or "deeply glad."
 * A phrase such as "make a joyful shout" could be translated as "shout in a way that shows you are very happy."
 * A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people" or "city whose people are very happy." (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md))

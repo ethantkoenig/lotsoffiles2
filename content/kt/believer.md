@@ -9,9 +9,9 @@ In the Bible, the term "believer" refers to someone who believes in and relies o
 
 ## Translation Suggestions: ##
 
-* Some translations may prefer to say, "believer in Jesus" or "believer in Christ."
-* This term could also be translated by a word or phrase that means, "person who trusts in Jesus" or "someone who knows Jesus and lives for him."
-* Other ways to translate "believer" could be, "follower of Jesus" or "person who knows and obeys Jesus."
+* Some translations may prefer to say "believer in Jesus" or "believer in Christ."
+* This term could also be translated by a word or phrase that means "person who trusts in Jesus" or "someone who knows Jesus and lives for him."
+* Other ways to translate "believer" could be "follower of Jesus" or "person who knows and obeys Jesus."
 * The term "believer" is a general term for any believer in Christ, while "disciple" and "apostle" were used more specifically for people who knew Jesus while he was alive. It is best to translate these terms in different ways, in order to keep them distinct.
 
 (See also: [apostle](../kt/apostle.md) **·** [believe, believe in](../kt/believe.md) **·** [Christian](../kt/christian.md) **·** [disciple](../kt/disciple.md))

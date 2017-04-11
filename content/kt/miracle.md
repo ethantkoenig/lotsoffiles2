@@ -16,7 +16,7 @@ A "miracle" is something amazing that is not possible unless God causes it to ha
 
 ## Translation Suggestions: ##
 
-* Possible translations of "miracles" or "wonders" could include, "impossible things that God does" or "powerful works of God" or "amazing acts of God."
+* Possible translations of "miracles" or "wonders" could include "impossible things that God does" or "powerful works of God" or "amazing acts of God."
 * The frequent expression "signs and wonders" could be translated as "proofs and miracles" or "miraculous works that prove God's power" or "amazing miracles that show how great God is."
 * Note that this meaning of a miraculous sign is different from a sign that gives proof or evidence for something. The two can be related.
 

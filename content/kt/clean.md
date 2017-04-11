@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The tern "clean" literally means to not have any dirt or stain. In the Bible, it is often used figuratively to mean, "pure," "holy," or "free from sin."
+The term "clean" literally means to not have any dirt or stain. In the Bible, it is often used figuratively to mean, "pure," "holy," or "free from sin."
 
 * "Cleanse" is the process of making something "clean." It could also be translated as "wash" or "purify."
 * In the Old Testament, God told the Israelites which animals he had specified as ritually "clean" and which ones were "unclean." Only the clean animals were permitted to be used for eating or for sacrifice. In this context, the term "clean" means that the animal was acceptable to God for use as a sacrifice.

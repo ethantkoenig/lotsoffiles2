@@ -13,7 +13,7 @@ The terms "holy" and "holiness" refer to the character of God that is totally se
 
 ## Translation Suggestions: ##
 
-* Ways to translate "holy" might include, "set apart for God" or "belonging to God" or "completely pure" or "perfectly sinless" or "separated from sin."
+* Ways to translate "holy" might include "set apart for God" or "belonging to God" or "completely pure" or "perfectly sinless" or "separated from sin."
 * To "make holy" is often translated as "sanctify" in English. It could also be translated as "set apart (someone) for God's glory."
 
 (See also: [Holy Spirit, Spirit of God, Spirit of the Lord](../kt/holyspirit.md) **·** [consecrate](../kt/consecrate.md) **·** [sanctify, sanctification](../kt/sanctify.md) **·** [set apart](../kt/setapart.md))

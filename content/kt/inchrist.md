@@ -4,12 +4,12 @@
 
 The phrase "in Christ" and related terms refer to the state or condition of being in relationship with Jesus Christ through faith in him.
 
-* Other related terms include, "in Christ Jesus, in Jesus Christ, in the Lord Jesus, in the Lord Jesus Christ."
-* Possible meanings for the term, "in Christ" could include, "because you belong to Christ" or "through the relationship you have with Christ" or "based on your faith in Christ."
+* Other related terms include "in Christ Jesus, in Jesus Christ, in the Lord Jesus, in the Lord Jesus Christ."
+* Possible meanings for the term "in Christ" could include "because you belong to Christ" or "through the relationship you have with Christ" or "based on your faith in Christ."
 * These related terms all have the same meaning of being in a state of believing in Jesus and being his disciple.
 * Note: Sometimes the word "in" belongs with the verb. For example, "share in Christ" means to "share in" the benefits that come from knowing Christ. To "glory in" Christ means to be glad and give praise to God for who Jesus is and what he has done. To "believe in" Christ means to trust him as Savior and know him.
 
-### Translation Suggestions: ###=
+### Translation Suggestions:
 
 * Depending on the context, different ways to translate "in Christ" and "in the Lord" (and related phrases) could include:
    * "who belong to Christ"

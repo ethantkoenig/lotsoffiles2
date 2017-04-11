@@ -6,15 +6,15 @@ The terms "evil" and "wicked" both refer to anything that is opposed to God's ho
 
 * While "evil" may describe a person's character, "wicked" may refer more to a person's behavior. However, both terms are very similar in meaning.
 * The term "wickedness" refers to the state of being that exists when people do wicked things.
-* The results of evil are clearly shown in how people mistreat others by killing, stealing, slandering or being cruel and unkind.
+* The results of evil are clearly shown in how people mistreat others by killing, stealing, slandering and being cruel and unkind.
 
 ## Translation Suggestions: ##
 
-* Depending on the context, the terms "evil" and "wicked" can be translated as "bad" or "sinful" or "immoral"
-* Other ways to translate these could include, "not good" or "not righteous" or "not moral."
+* Depending on the context, the terms "evil" and "wicked" can be translated as "bad" or "sinful" or "immoral."
+* Other ways to translate these could include "not good" or "not righteous" or "not moral."
 * Make sure the words or phrases that are used to translate these terms fit the context that is natural in the target language.
 
-(See also: [disobey, disobedient](../other/disobey.md) **·** [sin, sinful, sinner](../kt/sin.md) **·** [good, goodness](../kt/good.md) **·** [righteous](../kt/righteous.md) **·** [demon, evil spirit, unclean spirit](../kt/demon.md)
+(See also: [disobey, disobedient](../other/disobey.md) **·** [sin, sinful, sinner](../kt/sin.md) **·** [good, goodness](../kt/good.md) **·** [righteous](../kt/righteous.md) **·** [demon, evil spirit, unclean spirit](../kt/demon.md))
 
 ## Bible References: ##
 

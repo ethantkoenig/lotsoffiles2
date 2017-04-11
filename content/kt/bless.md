@@ -9,12 +9,10 @@ To "bless" someone or something means to cause good and beneficial things to hap
 * When people 'bless" God or express a desire that God be blessed, this means they are praising him.
 * The term "bless" is sometimes used for consecrating food before it is eaten, or for thanking and praising God for the food.
 
-//from comment below:
-It is important to not define, focus on, or be confined by applications of the root word of "bless" that suggest primarily the flourishing or abundance of material things or physical wellness. Consider the extensive teachings in Scripture on God's love, mercy and grace that is not only ancient, but current. Consider care, protection, and presence of God's Spirit. And for us to bless God, we can offer thankfulness, appreciation, and understanding as we learn of and follow (obey) him.// 
 
 ## Translation Suggestions: ##
 
-* To "bless" could also be translated as, "to provide abundantly for" or "to be very kind and favorable toward."
+* To "bless" could also be translated as "to provide abundantly for" or "to be very kind and favorable toward."
 * "God has brought great blessing to" could be translated as, "God has given many good things to" or "God has provided abundantly for" or "God has caused many good things to happen to".
 * "He is blessed" could be translated as "he will greatly benefit" or "he will experience good things" or "God will cause him to flourish."
 * "Blessed is the person who" could be translated as "How good it is for the person who."

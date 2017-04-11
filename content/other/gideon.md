@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Gideon was an Israelite man who God raised up to deliver the Israelites from their enemies.
+Gideon was an Israelite man whom God raised up to deliver the Israelites from their enemies.
 
 * During the time when Gideon lived, a people group called the Midianites kept attacking the Israelites and destroying their crops.
 * Even though Gideon was afraid, God used him to lead the Israelites to fight against the Midianites and defeat them.

@@ -9,7 +9,7 @@ A person who is demon-possessed has a demon or evil spirit that controls what he
 
 ## Translation Suggestions: ##
 
- * Other ways to translate this term could include, "demon-controlled" or "controlled by an evil spirit" or "having an evil spirit living inside."
+ * Other ways to translate this term could include "demon-controlled" or "controlled by an evil spirit" or "having an evil spirit living inside."
 
 (See also: [demon](../kt/demon.md))
 

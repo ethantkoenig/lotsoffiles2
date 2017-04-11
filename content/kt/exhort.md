@@ -12,7 +12,7 @@ The term "exhort" means to strongly encourage and urge someone to do what is rig
 * Depending on the context, "exhort" could also be translated as "strongly urge" or "persuade" or "advise."
 * Make sure the translation of this term does not imply that the exhorter is angry. The term should convey strength and seriousness, but should not refer to angry speech.
 * In most contexts, the term "exhort" should be translated differently than "encourage," which means to inspire, reassure, or comfort someone.
-* Ussually this term will also be translated differently from "admonish," which means to warn or correct someone for his wrong behavior.
+* Usually this term will also be translated differently from "admonish," which means to warn or correct someone for his wrong behavior.
 
 ## Bible References: ##
 

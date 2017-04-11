@@ -13,7 +13,7 @@ In the Old Testament, "Lord Yahweh" is frequently used to refer to the one true 
 * Some languages put titles after the name and would translate this as "Yahweh Lord." Consider what is natural in the project language: should the title "Lord" come before or after "Yahweh"?
 * "Yahweh God" could also be rendered as "God who is called Yahweh" or "God who is the Living One" or "I am, who is God."
 * If the translation follows the tradition of rendering "Yahweh" as "Lord" or "LORD," the term "Lord Yahweh" could be translated as "Lord God" or "God who is the Lord." Other possible translations could be, "Master LORD" or "God the LORD."
-* The term "Lord Yahweh" should_not_ be rendered as "Lord LORD" because readers may not notice the difference in letter size that has traditionally been used to distinguish these two words.
+* The term "Lord Yahweh" shouldnot_ be rendered as "Lord LORD" because readers may not notice the difference in letter size that has traditionally been used to distinguish these two words.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 

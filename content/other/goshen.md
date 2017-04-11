@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-Goshen is the name of a fertile region of land that was located along the Nile River in the northern part of Egypt.
+Goshen was the name of a fertile region of land located along the Nile River in the northern part of Egypt.
 
  * When Joseph was a ruler in Egypt, his father and brothers and their families came to live in Goshen to escape a famine in Canaan.
  * They and their descendants lived well in Goshen for over 400 years, but then they were forced into slavery by the Egyptian pharaoh.

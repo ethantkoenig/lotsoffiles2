@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-The term, "messenger" refers to someone who is given a message to tell others.
+The term "messenger" refers to someone who is given a message to tell others.
 
 * In ancient times, a messenger would be sent from the battlefield to tell people back in the city what was happening.
 * An angel is a special kind of messenger whom God sends to give people messages. Some translations translate "angel" as "messenger."

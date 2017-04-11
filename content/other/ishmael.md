@@ -2,14 +2,14 @@
 
 ## Facts: ##
 
-Ishmael was the son of Abraham and the Egyptian slave Hagar. There are also several other men in the Old Testament named Ishmael.
+Ishmael was the son of Abraham and the Egyptian slave Hagar. There were several other men in the Old Testament named Ishmael.
 
-* The name "Ishmael" means, "God hears."
+* The name "Ishmael" means "God hears."
 * God promised to bless Abraham's son Ishmael, but he was not the son God had promised to establish his covenant with.
 * God protected Hagar and Ishmael when they were sent into the desert.
 * While Ishmael was living in the desert of Paran, he married an Egyptian woman.
 * Ishmael son of Nethaniah was an army officer from Judah who led a group of men to kill a governor who had been appointed by the Babylonian king, Nebuchadnezzar.
-* There are also four other men named Ishmael in the Old Testament.
+* There were also four other men named Ishmael in the Old Testament.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 

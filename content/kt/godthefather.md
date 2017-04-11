@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-The terms, "God the Father" and "heavenly Father" refer to Yahweh, the one true God. This term also occurs as "Father," especially when Jesus is referring to him.
+The terms "God the Father" and "heavenly Father" refer to Yahweh, the one true God. This term also occurs as "Father," especially when Jesus was referring to him.
 
 * God exists as God the Father, God the Son, and God the Holy Spirit. Each one is fully God, and yet they are only one God. This is a mystery that mere humans cannot fully understand.
 * God the Father sent God the Son (Jesus) into the world and he sends the Holy Spirit to his people.
@@ -10,9 +10,9 @@ The terms, "God the Father" and "heavenly Father" refer to Yahweh, the one true 
 
 ## Translation Suggestions: ##
 
-* In the phrase "God the Father," it is best to translate "Father" with the same word that the language naturally uses to refer to a human father.
+* In translating the phrase "God the Father," it is best to translate "Father" with the same word that the language naturally uses to refer to a human father.
 * The term "heavenly Father" could be translated by "Father who lives in heaven" or "Father God who lives in heaven" or "God our Father from heaven."
-* Usually "Father" is capitalized, to show that this refers to God.
+* Usually "Father" is capitalized when it, refers to God.
 
 (Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 

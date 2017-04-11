@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The term, "King of the Jews" is a title that refers to Jesus, the Messiah.
+The term "King of the Jews" is a title that refers to Jesus, the Messiah.
 
 * The first time the Bible records this title is when it was used by the wise men who traveled to Bethlehem looking for the baby who was "King of the Jews."
 * The angel revealed to Mary that her son, a descendant of King David, would be a king whose reign would last forever.

@@ -6,8 +6,8 @@ This term is used to describe God's commitment to fulfill the promises that he m
 
 * God made promises to the Israelites in formal agreements called "covenants."
 * The "covenant faithfulness" or "covenant loyalty" of Yahweh refers to the fact that he keeps his promises to his people. 
-* God faithfulness to keep his covenant promises is an expression of his grace toward his people. 
-* The term "loyalty" is another word that refers to being committed and dependable to do and say what has been promised and what will benefit someone else.
+* God's faithfulness to keep his covenant promises is an expression of his grace toward his people. 
+* The term "loyalty" is another word that refers to being committed and dependable, to do and say what has been promised, and what will benefit someone else.
 
 ## Translation Suggestions: ##
 

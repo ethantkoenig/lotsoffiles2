@@ -10,7 +10,7 @@
 
 ## Translation Suggestions: ##
 
-* Ways to translate this could include, "my daughter Israel, from Zion" or "people from Zion, who are like a daughter to me" or "Zion, my dear people Israel."
+* Ways to translate this could include "my daughter Israel, from Zion" or "people from Zion, who are like a daughter to me" or "Zion, my dear people Israel."
 * It is best to keep the term "Zion" in this expression since it is used many times in the Bible. A note could be included in the translation to explain its figurative meaning and prophetic use.
 * It is also better to keep the term "Daughter" in the translation of this expression, as long as it is understood correctly.
 

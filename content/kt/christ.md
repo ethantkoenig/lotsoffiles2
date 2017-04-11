@@ -7,7 +7,7 @@ The terms "Messiah" and "Christ" mean "Anointed One" and refer to Jesus, God's S
 * Both "Messiah" and "Christ" are used in the New Testament to refer to God's Son, whom God the Father appointed to rule as king over his people, and to save them from sin and death.
 * In the Old Testament, the prophets wrote prophecies about the Messiah hundreds of years before he came to earth.
 * Often a word meaning "anointed (one)" is used in the Old Testament to refer to the Messiah who would come.
-* Jesus fulfilled many of these prophecies and did many miraculous works that proved he is the Messiah; the rest of these prophecies will be fulfilled when he returns.
+* Jesus fulfilled many of these prophecies and did many miraculous works that proves he is the Messiah; the rest of these prophecies will be fulfilled when he returns.
 * The word "Christ" is often used as a title, as in "the Christ" and "Christ Jesus."
 * "Christ" also came to be used as part of his name, as in "Jesus Christ."
 

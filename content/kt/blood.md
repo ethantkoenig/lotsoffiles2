@@ -12,7 +12,7 @@ The term "blood" refers to the red liquid that comes out of a person's skin when
 
 ## Translation Suggestions: ##
 
-* This term should be translated with the term that is used for blood in the target language
+* This term should be translated with the term that is used for blood in the target language.
 * The expression "flesh and blood" could be translated as "people" or "human beings."
 * Depending on the context, the expression "my own flesh and blood" could be translated as "my own family" or "my own relatives" or "my own people."
 * If there is an expression in the target language that is used with this meaning, that expression could be used to translate "flesh and blood."

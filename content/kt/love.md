@@ -1,23 +1,23 @@
-# love #
+# love, loves, loving #
 
 ## Definition: ##
 
-To love another person is to care for that person and do things that will benefit him. There are different meanings for "love" which some languages may express using different words:
+To love another person is to care for that person and do things that will benefit him. There are different meanings for "love"  some languages may express using different words:
 
-1. The kind of love that comes from God is focused on the good of others, even when it doesn't benefit oneself. This kind of love cares for others, no matter what they do. God himself is love and is the source of true love.
+1. The kind of love that comes from God is focused on the good of others even when it doesn't benefit oneself. This kind of love cares for others, no matter what they do. God himself is love and is the source of true love.
 
 * Jesus showed this kind of love by sacrificing his life in order to rescue us from sin and death. He also taught his followers to love others sacrificially.
-* When people love others with this kind of love, it involves actions that show that someone is thinking of what will cause the other person to thrive. This kind of love especially includes forgiving others.
+* When people love others with this kind of love, it involves actions that show that someone is thinking of what will cause the others to thrive. This kind of love especially includes forgiving others.
 * In the ULB, the word "love" refers to this kind of sacrificial love, unless a Translation Note indicates a different meaning.
 
-2. Another word in the New Testament refers to brotherly love or love for a friend or family member.
+2. Another word in the New Testament refers to brotherly love, or love for a friend or family member.
 
 * This term refers to natural human love between friends or relatives.
 * It can also be used in such contexts as, "They love to sit in the most important seats at a banquet." This means that they "like very much" or "greatly desire" to do that.
 
 3. The word "love" can also refer to romantic love between a man and a woman.
 
-4. In the figurative expression, "Jacob I have loved, but Esau I have hated," the term "loved" refers to God's choosing of Jacob to be in a covenant relationship with him. This could also be translated as "chosen." Although Esau was also blessed by God, he wasn't given the privilege of being in the covenant. The term "hated" is used figuratively here to mean "rejected" or "not chosen."
+4. In the figurative expression "Jacob I have loved, but Esau I have hated," the term "loved" refers to God's choosing of Jacob to be in a covenant relationship with him. This could also be translated as "chosen." Although Esau was also blessed by God, he wasn't given the privilege of being in the covenant. The term "hated" is used figuratively here to mean "rejected" or "not chosen."
 
 ## Translation Suggestions: ##
 

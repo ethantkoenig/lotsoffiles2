@@ -1,4 +1,4 @@
-# sexual immorality #
+# sexual immorality, immorality, immoral #
 
 ## Definition: ##
 

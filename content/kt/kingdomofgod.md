@@ -5,7 +5,7 @@
 The terms "kingdom of God" and "kingdom of heaven" both refer to God's rule and authority over his people and over all creation.
 
 * The Jews often used the term "heaven" to refer to God, to avoid saying his name directly. (See: [metonymy](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_metonymy.md)) 
-* In the NT book that Matthew wrote, he referred to God's kingdom as "the kingdom of heaven," probably because he was writing primarily for a Jewish audience.
+* In the New Testament book that Matthew wrote, he referred to God's kingdom as "the kingdom of heaven," probably because he was writing primarily for a Jewish audience.
 * The kingdom of God refers to God ruling people spiritually as well as ruling over the physical world.
 * The Old Testament prophets said that God would send the Messiah to rule with righteousness. Jesus, the Son of God, is the Messiah who will rule over God's kingdom forever.
 
@@ -13,7 +13,7 @@ The terms "kingdom of God" and "kingdom of heaven" both refer to God's rule and 
 
 * Depending on the context, "kingdom of God" can be translated as "God's rule (as king)" or "when God reigns as king" or "God's rule over everything."
 * The term "kingdom of heaven" could also be translated as "God's rule from heaven as king" or "God in heaven reigning" or "heaven's reign" or "heaven ruling over everything." If it is not possible to translate this simply and clearly, the phrase "kingdom of God" could be translated instead.
-* Some translations may prefer to capitalize "Heaven" to show that it refers to God. Others may include a note in the text such as, "kingdom of heaven (that is, 'of God')."
+* Some translators may prefer to capitalize "Heaven" to show that it refers to God. Others may include a note in the text, such as "kingdom of heaven (that is, 'of God')."
 * A footnote at the bottom of the page of a printed Bible may also be used to explain the meaning of "heaven" in this expression.
 
 (See also: [God](../kt/god.md) **·** [heaven, sky, heavens, heavenly](../kt/heaven.md) **·** [king](../other/king.md) **·** [kingdom](../other/kingdom.md) **·** [King of the Jews](../kt/kingofthejews.md) **·** [reign](../other/reign.md))

@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Maacah (or, Maakah) was one of the sons of Abraham's brother Nahor. Other people in the Old Testament also had this name.
+Maacah (or Maakah) was one of the sons of Abraham's brother Nahor. Other people in the Old Testament also had this name.
 
 * The city of Maacah or Beth Maacah was located in the far north of Israel, in the region occupied by the tribe of Naphtali.
 * It was an important city and was attacked by enemies on several occasions.

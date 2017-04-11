@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-The term "Golgotha" is the name of the place where Jesus was crucified. It comes from an Aramaic word that means, "Skull" or "Place of the Skull."
+ "Golgotha" was the name of the place where Jesus was crucified. Its name comes from an Aramaic word that means "Skull" or "Place of the Skull."
 
 * Golgotha was located outside the city walls of Jerusalem, somewhere nearby. It was perhaps located on a slope of the Mount of Olives.
 * In some older English versions of the Bible, Golgotha is translated as "Calvary," which comes from the Latin word for "skull." 

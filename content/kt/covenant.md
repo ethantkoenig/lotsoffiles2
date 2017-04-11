@@ -8,7 +8,7 @@ A covenant is a formal, binding agreement between two parties that one or both p
 * When people make a covenant with each other, they promise that they will do something, and they must do it.
 * Examples of human covenants include marriage covenants, business agreements, and treaties between countries.
 * Throughout the Bible, God made several different covenants with his people.
-* In some of the covenants, God promised to fulfill his part without conditions. For example when God established his covenant with mankind, promising to never destroy the earth again with a worldwide flood, this promise had no conditions for people to fulfill.
+* In some of the covenants, God promised to fulfill his part without conditions. For example, when God established his covenant with mankind promising to never destroy the earth again with a worldwide flood, this promise had no conditions for people to fulfill.
 * In other covenants, God promised to fulfill his part only if the people obeyed him and fulfilled their part of the covenant.
 
 ## Translation Suggestions: ##

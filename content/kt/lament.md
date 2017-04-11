@@ -9,7 +9,7 @@ The terms "lament" and "lamentation" refer to a strong expression of mourning, s
 
 ## Translation Suggestions: ##
 
-* The term "to lament" could be translated as, "to deeply mourn" or "to wail in grief" or "to be sorrowful."
+* The term "to lament" could be translated as "to deeply mourn" or "to wail in grief" or "to be sorrowful."
 * A "lamentation" (or a "lament") could be translated as "loud wailing and weeping" or "deep sorrow" or "sorrowful sobbing" or "mournful moaning."
 
 ## Bible References: ##
