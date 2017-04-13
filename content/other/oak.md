@@ -2,11 +2,11 @@
 
 ## Definition: ##
 
-An oak is a tall, shade tree with a large trunk and wide spreading branches.
+An oak, or oak tree,  is a tall shade tree with a large trunk and wide spreading branches.
 
-* Oak trees have strong, hard wood that was used to build ships and to make farming plows, oxen yokes and walking sticks for elderly people.
+* Oak trees have strong, hard wood that was used to build ships and to make farming plows, oxen yokes and walking sticks.
 * The seed of an oak tree is called an acorn.
-* The trunk of certain oak trees could be as wide around as 6 meters.
+* The trunks of certain oak trees could be as wide around as 6 meters.
 * Oak trees were symbolic of long life and had other spiritual meanings. In the Bible, they were often associated with holy places.
 
 ## Translation Suggestions: ##
