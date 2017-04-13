@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The term "remnant" literally refers to people or things that are "remaining" or "leftover" from a larger amount or group.
+The term "remnant" literally refers to people or things that are "remaining" or "left over" from a larger amount or group.
 
 * Often a "remnant" refers to people who survive a life-threatening situation or who remain faithful to God while undergoing persecution.
 * Isaiah referred to a group of Jews as being a remnant who survived attacks from outsiders and lived to return to the Promised Land in Canaan.
@@ -11,7 +11,7 @@ The term "remnant" literally refers to people or things that are "remaining" or 
 
 ## Translation Suggestions: ##
 
-* A phrase such as, "the remnant of this people" could be translated as "the rest of these people" or "the people who remain faithful" or "the people who are left."
+* A phrase such as "the remnant of this people" could be translated as "the rest of these people" or "the people who remain faithful" or "the people who are left."
 * The "whole remnant of people" could be translated by "all the rest of the people" or "the remaining people."
 
 ## Bible References: ##
