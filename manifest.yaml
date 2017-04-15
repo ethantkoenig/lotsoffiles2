@@ -26,11 +26,11 @@ dublin_core:
         -
             identifier: 'tw'
             language: 'en'
-            version: '1'
+            version: '2'
     subject: 'Translation Words'
     title: 'translationWords'
     type: 'dict'
-    version: '2'
+    version: '3'
 
 checking:
     checking_entity:
@@ -44,4 +44,4 @@ projects:
         path: './bible'
         sort: 0
         title: 'translationWords'
-        versification:
+        versification: ufw
