@@ -9,10 +9,10 @@ The term "ransom" refers to a sum of money or other payment that is demanded or 
 
 ## Translation Suggestions: ##
 
-* The term "to ransom" could also be translated as, "to pay to release" or "to pay a price to free" or "to buy back" someone.
+* The term "to ransom" could also be translated as "to pay to release" or "to pay a price to free" or "to buy back" someone.
 * The phrase "to pay a ransom" could be translated as "to pay the price (of freedom)" or "to pay the penalty (to free people)" or "to make the required payment."
 * The noun "ransom" could be translated as "a buying back" or "a penalty paid" or "the price paid" (to free or buy back people or land).
-* The terms "ransom" and "redemption" have the same meaning but are sometimes used slightly differently in English. Other languages may have only one term they will use to translate this concept.
+* The terms a "ransom" and a "redemption" have the same meaning but are sometimes used slightly differently in English. Other languages may have only one term they will use to translate this concept.
 * Make sure this is translated differently from "atonement."
 
 (See also: [atonement](../kt/atonement.md) **·** [redeem](../kt/redeem.md))

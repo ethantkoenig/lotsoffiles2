@@ -16,9 +16,9 @@ In the Bible, a priest was someone who was chosen to offer sacrifices to God on 
 
 ## Translation Suggestions: ##
 
-* Depending on the context, the term "priest" could be translated as "sacrifice person" or "God's intermediary" or "sacrificial mediator" or "person God appoints to represent him".
+* Depending on the context, the term "priest" could be translated as "sacrifice person" or "God's intermediary" or "sacrificial mediator" or "person God appoints to represent him."
 * The translation of "priest" should be different from the translation of "mediator."
-* Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" or "priest of Baal" to make it clear that this does not refer to a modern-day type of priest.
+* Some translations may prefer to always say something like "Israelite priest" or "Jewish priest" or "Yahweh's priest" or "priest of Baal" to make it clear that this does not refer to a modern-day type of priest.
 * The term used to translate "priest" should be different from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
 
 (See also: [aaron](../other/aaron.md) **·** [chiefpriests](../other/chiefpriests.md) **·** [highpriest](../kt/highpriest.md) **·** [mediator](../other/mediator.md) **·** [sacrifice](../other/sacrifice.md))

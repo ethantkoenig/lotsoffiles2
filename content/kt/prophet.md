@@ -9,7 +9,7 @@ A "prophet" is a man who speaks God's messages to people. A woman who does this 
 * Often the message of a prophecy was about something that would happen in the future.
 * Many prophecies in the Old Testament have already been fulfilled.
 * In the Bible the collection of books written by prophets are sometimes referred to as "the prophets."
-* For example, the phrase, "the law and the prophets" is a way of referring to all the Hebrew scriptures, which are also known as the "Old Testament."
+* For example the phrase, "the law and the prophets" is a way of referring to all the Hebrew scriptures, which are also known as the "Old Testament."
 * An older term for a  prophet was "seer" or "someone who sees."
 * Sometimes the term "seer" refers to a false prophet or to someone who practices divination.
 

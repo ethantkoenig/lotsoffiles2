@@ -9,7 +9,7 @@ A proverb is a short statement that expresses some wisdom or truth.
 * Some proverbs are very clear and direct, while others are more difficult to understand.
 * King Solomon was known for his wisdom and wrote over 1,000 proverbs.
 * Jesus often used proverbs or parables when he taught people.
-* Ways to translate "proverb" could include, "wise saying" or "true word." 
+* Ways to translate "proverb" could include "wise saying" or "true word." 
 
 (See also: [solomon](../other/solomon.md) **·** [true](../kt/true.md) **·** [wise](../kt/wise.md))
 

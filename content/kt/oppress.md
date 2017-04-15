@@ -10,8 +10,8 @@ The terms "oppress" and "oppression" refer to treating people harshly. An "oppre
 
 ## Translation Suggestions: ##
 
- * Depending on the context,"oppress" could be translated by, "severely mistreat" or "cause to be heavily burdened" or "put under miserable bondage" or "rule harshly."
- * Ways to translate "oppression" could include, "heavy suppression and bondage" or "burdensome control."
+ * Depending on the context, "oppress" could be translated as, "severely mistreat" or "cause to be heavily burdened" or "put under miserable bondage" or "rule harshly."
+ * Ways to translate "oppression" could include "heavy suppression and bondage" or "burdensome control."
  * The phrase "the oppressed" could be translated as "oppressed people" or "people in terrible bondage" or "those who are treated harshly."
  * The term "oppressor" could be translated as "person who oppresses" or "nation who controls and rules harshly" or "persecutor."
 

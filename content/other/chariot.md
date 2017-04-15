@@ -25,7 +25,6 @@ In ancient times, chariots were lightweight, two-wheeled carts that were pulled 
 ## Examples from the Bible stories: ##
 
   __*[12-10](https://door43.org/en/obs/notes/frames/12-10)__ So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their __chariots__ to get stuck. 
-  __*[rome](../other/rome.md)ing in his __chariot__. 
 
 
 

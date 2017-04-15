@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-The term "Promised Land" only occurs in the Bible Stories, not the Bible text. It is an alternate way of referring to the land of Canaan which God had promised to give to Abraham and his descendants.
+The term "Promised Land" only occurs in the Bible stories, not the Bible text. It is an alternate way of referring to the land of Canaan which God had promised to give to Abraham and his descendants.
 
 * When Abram was living in the city of Ur, God commanded him to go live in the land of Canaan. He and his descendants, the Israelites, lived there for many years.
 * When a severe famine caused there to be no food in Canaan, the Israelites moved to Egypt.
@@ -11,7 +11,7 @@ The term "Promised Land" only occurs in the Bible Stories, not the Bible text. I
 ## Translation Suggestions: ##
 
 * The term "Promised Land" can be translated as the "land that God said he would give to Abraham" or "land that God promised to Abraham" or "land God promised to his people" or "land of Canaan."
-* In the Bible text, this term occurs as some form of, "the land God promised."
+* In the Bible text, this term occurs as some form of "the land God promised."
 
 (See also: [Canaan, Canaanite](../other/canaan.md) **·** [promise](../kt/promise.md))
 
