@@ -1,0 +1,2084 @@
+abomination:
+  see_also:
+    - kt/adultery
+    - other/idol
+    - other/sacrifice
+    - other/daniel
+    - other/defile
+adultery:
+  see_also:
+    - kt/fornication
+    - kt/covenant
+    - other/sex
+    - kt/unfaithful
+  aliases:
+    - adulterer
+almighty:
+  see_also:
+    - kt/power
+anoint:
+  see_also:
+    - kt/prophet
+    - kt/kingofthejews
+    - kt/priest
+    - kt/highpriest
+apostle:
+  see_also:
+    - kt/thetwelve
+atonement:
+  see_also:
+    - kt/propitiation
+    - kt/forgive
+    - kt/reconcile
+    - kt/redeem
+atonementlid:
+  see_also:
+    - other/arkofthecovenant
+    - kt/atonement
+    - other/cherubim
+    - kt/redeem
+beloved:
+  see_also:
+    - kt/love
+birthright:
+  see_also:
+    - kt/firstborn
+    - kt/inherit
+    - other/descendant
+blasphemy:
+  aliases:
+    - insult
+bless:
+  aliases:
+    - blessed
+body:
+  see_also:
+    - kt/spirit
+bond:
+  aliases:
+    - bind
+    - bound
+bornagain:
+  see_also:
+    - kt/salvation
+bow:
+  see_also:
+    - other/humble
+    - kt/worship
+brother:
+  see_also:
+    - other/sister
+children:
+  aliases:
+    - child
+christ:
+  see_also:
+    - kt/sonofgod
+    - other/david
+    - kt/jesus
+    - kt/anoint
+church:
+  see_also:
+    - kt/christian
+    - kt/believer
+    - kt/assembly
+circumcise:
+  see_also:
+    - kt/uncircumcised
+    - kt/covenant
+  aliases:
+    - circumcised
+clean:
+  see_also:
+    - kt/holy
+    - kt/unclean
+    - other/sacrifice
+  aliases:
+    - wash
+condemn:
+  see_also:
+    - kt/judge
+    - other/punish
+confidence:
+  see_also:
+    - kt/trust
+    - kt/hope
+    - kt/believe
+consecrate:
+  see_also:
+    - kt/holy
+    - kt/sanctify
+    - kt/purify
+crucify:
+  see_also:
+    - kt/cross
+    - other/rome
+darkness:
+  see_also:
+    - kt/light
+    - kt/righteous
+    - kt/redeem
+    - kt/dominion
+    - other/kingdom
+    - kt/corrupt
+death:
+  see_also:
+    - kt/life
+    - kt/faith
+    - kt/spirit
+  aliases:
+    - lethal
+    - dead
+    - mortal
+    - die
+deceive:
+  aliases:
+    - lie
+    - falsehood
+    - deceived
+    - deceiver
+    - deception
+demon:
+  see_also:
+    - kt/demonpossessed
+    - kt/satan
+    - other/idol
+    - kt/falsegod
+    - kt/angel
+    - kt/evil
+    - kt/unclean
+disciple:
+  see_also:
+    - kt/apostle
+    - kt/believer
+    - kt/jesus
+    - other/johnthebaptist
+divine:
+  see_also:
+    - other/divination
+eternity:
+  see_also:
+    - kt/forever
+    - kt/life
+evangelism:
+  see_also:
+    - kt/goodnews
+    - kt/spirit
+    - kt/gift
+evil:
+  aliases:
+    - prophet
+    - 'Yahweh of Hosts'
+    - wicked
+exalt:
+  see_also:
+    - other/praise
+    - kt/worship
+    - kt/glorify
+    - kt/boast
+    - other/proud
+faithless:
+  see_also:
+    - kt/unbeliever
+    - kt/unfaithful
+    - other/disobey
+falsegod:
+  aliases:
+    - 'false god'
+    - god
+fear:
+  aliases:
+    - troubled
+    - afraid
+    - rest
+firstfruit:
+  aliases:
+    - firstfruits
+    - 'first converts'
+foolish:
+  see_also:
+    - kt/wise
+  aliases:
+    - fool
+foreordain:
+  see_also:
+    - kt/predestine
+forever:
+  see_also:
+    - kt/eternity
+free:
+  see_also:
+    - kt/enslave
+    - other/servant
+    - kt/bond
+fulfill:
+  see_also:
+    - kt/prophet
+    - kt/christ
+    - kt/minister
+    - kt/call
+gift:
+  see_also:
+    - kt/spirit
+    - kt/holyspirit
+glorify:
+  see_also:
+    - kt/glory
+    - other/praise
+    - other/obey
+  aliases:
+    - glory
+glory:
+  see_also:
+    - kt/glorify
+godthefather:
+  see_also:
+    - kt/god
+    - kt/holyspirit
+    - kt/sonofgod
+    - other/father
+    - kt/jesus
+    - kt/heaven
+good:
+  see_also:
+    - kt/holy
+    - other/profit
+    - kt/righteous
+    - kt/evil
+guilt:
+  aliases:
+    - convict
+heaven:
+  aliases:
+    - heavens
+hell:
+  see_also:
+    - kt/heaven
+    - kt/death
+    - other/hades
+    - other/abyss
+highpriest:
+  see_also:
+    - other/chiefpriests
+holy:
+  see_also:
+    - kt/sanctify
+    - kt/holyspirit
+    - kt/setapart
+holyone:
+  see_also:
+    - kt/holy
+    - kt/god
+holyplace:
+  see_also:
+    - kt/holy
+    - kt/setapart
+    - kt/temple
+    - kt/tabernacle
+    - other/arkofthecovenant
+  aliases:
+    - 'holy place'
+holyspirit:
+  see_also:
+    - kt/holy
+    - kt/spirit
+    - kt/god
+    - kt/lordgod
+    - kt/godthefather
+    - kt/sonofgod
+    - kt/gift
+hope:
+  aliases:
+    - confidence
+imageofgod:
+  see_also:
+    - other/image
+    - kt/sonofgod
+    - kt/sonofgod
+inchrist:
+  see_also:
+    - kt/christ
+    - kt/lordgod
+    - kt/jesus
+    - kt/believe
+    - kt/faith
+inherit:
+  see_also:
+    - other/heir
+iniquity:
+  see_also:
+    - kt/sin
+    - kt/transgression
+    - kt/trespass
+intercede:
+  see_also:
+    - other/pray
+iyahweh:
+  see_also:
+    - kt/yahweh
+jealous:
+  see_also:
+    - other/envy
+jesus:
+  aliases:
+    - 'Jesus Christ'
+judge:
+  see_also:
+    - kt/justice
+    - other/judgeposition
+    - other/law
+    - kt/lawofmoses
+lamb:
+  see_also:
+    - other/sheep
+    - other/shepherd
+life:
+  see_also:
+    - kt/death
+    - kt/eternity
+  aliases:
+    - live
+lord:
+  see_also:
+    - kt/lordgod
+lordgod:
+  see_also:
+    - kt/lord
+    - kt/god
+    - kt/yahweh
+lordyahweh:
+  see_also:
+    - kt/lordgod
+    - kt/yahweh
+love:
+  aliases:
+    - affection
+    - loved
+majesty:
+  see_also:
+    - other/king
+minister:
+  see_also:
+    - other/serve
+miracle:
+  see_also:
+    - kt/power
+    - kt/prophet
+    - kt/apostle
+    - kt/sign
+  aliases:
+    - 'deeds of power'
+    - 'powerful deed'
+    - wonders
+mosthigh:
+  see_also:
+    - kt/god
+newcovenant:
+  aliases:
+    - 'new covenant'
+oppress:
+  see_also:
+    - kt/enslave
+pastor:
+  see_also:
+    - other/shepherd
+    - other/sheep
+peopleofgod:
+  see_also:
+    - other/peoplegroup
+  aliases:
+    - people
+perish:
+  see_also:
+    - kt/death
+predestine:
+  see_also:
+    - kt/foreordain
+priest:
+  see_also:
+    - other/aaron
+    - other/sacrifice
+    - other/chiefpriests
+    - kt/highpriest
+    - other/mediator
+promise:
+  see_also:
+    - kt/covenant
+    - other/oath
+    - kt/vow
+prophet:
+  aliases:
+    - prophecy
+    - prophesy
+    - see
+propitiation:
+  see_also:
+    - kt/atonement
+    - other/sacrifice
+    - kt/eternity
+purify:
+  aliases:
+    - pure
+raise:
+  see_also:
+    - kt/resurrection
+    - kt/appoint
+  aliases:
+    - rise
+    - arisen
+receive:
+  see_also:
+    - kt/holyspirit
+    - kt/lord
+    - kt/jesus
+    - kt/save
+reconcile:
+  see_also:
+    - other/peace
+repent:
+  see_also:
+    - kt/forgive
+    - kt/sin
+rest:
+  see_also:
+    - kt/sabbath
+reveal:
+  see_also:
+    - kt/goodnews
+  aliases:
+    - insight
+    - revelation
+    - secret
+    - mystery
+reward:
+  see_also:
+    - other/punish
+righteous:
+  see_also:
+    - kt/good
+    - kt/holy
+    - kt/evil
+    - kt/justice
+    - kt/faithful
+salvation:
+  see_also:
+    - kt/save
+    - kt/savior
+  aliases:
+    - rescue
+sanctify:
+  see_also:
+    - kt/holy
+    - kt/consecrate
+sanctuary:
+  see_also:
+    - other/sacred
+    - kt/holy
+    - kt/tabernacle
+    - kt/temple
+    - other/tax
+    - other/biblicalmoney
+    - kt/holyspirit
+    - kt/setapart
+satan:
+  see_also:
+    - kt/kingdomofgod
+    - kt/evil
+    - kt/tempt
+    - kt/demon
+  aliases:
+    - devil
+save:
+  see_also:
+    - kt/salvation
+    - kt/sin
+    - other/punish
+    - kt/cross
+    - kt/deliverer
+savior:
+  see_also:
+    - kt/save
+    - kt/salvation
+    - kt/jesus
+seed:
+  see_also:
+    - other/offspring
+setapart:
+  see_also:
+    - kt/holy
+    - kt/sanctify
+    - kt/appoint
+sign:
+  aliases:
+    - reminder
+    - reminders
+sin:
+  see_also:
+    - kt/evil
+    - other/disobey
+    - other/taxcollector
+son:
+  see_also:
+    - kt/sonofgod
+    - other/father
+    - other/descendant
+sonofgod:
+  see_also:
+    - kt/jesus
+    - kt/christ
+    - kt/son
+    - kt/god
+    - kt/godthefather
+    - other/father
+sonsofgod:
+  see_also:
+    - kt/sonofgod
+    - kt/angel
+    - kt/demon
+    - other/ruler
+tabernacle:
+  see_also:
+    - other/altarofincense
+    - kt/temple
+    - other/altar
+    - other/arkofthecovenant
+temple:
+  see_also:
+    - other/sacrifice
+    - other/solomon
+    - other/babylon
+    - kt/holyspirit
+    - kt/tabernacle
+    - other/courtyard
+    - other/zion
+    - other/house
+testimony:
+  aliases:
+    - testify
+thetwelve:
+  see_also:
+    - kt/apostle
+    - kt/disciple
+trespass:
+  see_also:
+    - other/disobey
+    - kt/sin
+    - kt/transgression
+    - kt/iniquity
+trust:
+  see_also:
+    - kt/faith
+    - kt/believe
+    - kt/confidence
+    - kt/faithful
+turn:
+  aliases:
+    - 'turn away'
+    - return
+unbeliever:
+  see_also:
+    - kt/believer
+    - kt/believe
+unfaithful:
+  see_also:
+    - kt/faithful
+    - kt/adultery
+unholy:
+  see_also:
+    - other/profane
+    - kt/holy
+unlawful:
+  see_also:
+    - other/lawful
+    - kt/sabbath
+    - other/moses
+unleavenedbread:
+  see_also:
+    - other/yeast
+unrighteous:
+  see_also:
+    - kt/righteous
+    - kt/unlawful
+    - kt/sin
+veil:
+  see_also:
+    - other/moses
+vow:
+  see_also:
+    - other/oath
+    - kt/promise
+walk:
+  see_also:
+    - kt/holyspirit
+  aliases:
+    - walking
+witness:
+  see_also:
+    - kt/guilt
+    - kt/judge
+    - kt/true
+    - kt/testimony
+wordofgod:
+  aliases:
+    - 'word of yahweh'
+    - 'word of god'
+wordoftruth:
+  see_also:
+    - kt/wordofgod
+world:
+  see_also:
+    - other/rome
+    - kt/heaven
+    - kt/corrupt
+    - kt/ungodly
+worship:
+  see_also:
+    - other/sacrifice
+    - other/praise
+    - other/honor
+yahweh:
+  see_also:
+    - other/moses
+yahwehofhosts:
+  see_also:
+    - kt/yahweh
+    - kt/angel
+    - kt/authority
+  aliases:
+    - 'Yahweh of Hosts'
+    - 'God of Hosts'
+zealous:
+  aliases:
+    - zeal
+    - 'earnest desire'
+aaron:
+  see_also:
+    - kt/priest
+abimelech:
+  see_also:
+    - other/philistines
+    - other/gerar
+    - other/beersheba
+    - other/jotham
+    - other/gideon
+acacia:
+  see_also:
+    - kt/tabernacle
+    - other/arkofthecovenant
+acquit:
+  see_also:
+    - kt/forgive
+    - kt/guilt
+administration:
+  see_also:
+    - other/babylon
+    - other/daniel
+    - kt/gift
+    - other/governor
+    - other/hananiah
+    - mishael
+    - other/azariah
+ahasuerus:
+  see_also:
+    - other/esther
+    - other/babylon
+    - other/ethiopia
+    - other/exile
+    - other/persia
+ahaz:
+  see_also:
+    - other/babylon
+ahaziah:
+  see_also:
+    - other/jehu
+    - other/ahab
+    - other/jeroboam
+    - other/joash
+ahijah:
+  see_also:
+    - other/baasha
+    - other/shiloh
+amalekite:
+  see_also:
+    - other/negev
+    - other/arabia
+    - other/saul
+    - other/david
+    - other/esau
+amaziah:
+  see_also:
+    - other/joash
+    - other/edom
+ammon:
+  see_also:
+    - kt/curse
+amnon:
+  see_also:
+    - other/david
+    - other/absalom
+andrew:
+  see_also:
+    - kt/apostle
+    - kt/disciple
+angry:
+  see_also:
+    - kt/wrath
+  aliases:
+    - anger
+arabah:
+  see_also:
+    - other/desert
+    - other/redsea
+    - other/jordanriver
+    - other/canaan
+    - saltsea
+    - other/egypt
+aram:
+  see_also:
+    - other/paddanaram
+    - other/syria
+    - other/shem
+    - other/rebekah
+archer:
+  see_also:
+    - other/assyria
+arkofthecovenant:
+  see_also:
+    - kt/covenant
+    - kt/testimony
+  aliases:
+    - ark
+armor:
+  see_also:
+    - other/peace
+    - kt/faith
+    - kt/salvation
+    - kt/holyspirit
+    - kt/spirit
+arrogant:
+  see_also:
+    - other/proud
+artaxerxes:
+  see_also:
+    - other/persia
+    - other/babylon
+    - other/ezra
+    - other/nehemiah
+    - other/cupbearer
+asaph:
+  see_also:
+    - kt/prophet
+    - other/psalm
+    - other/descendant
+    - other/lute
+    - other/harp
+asherim:
+  see_also:
+    - other/idol
+    - other/baal
+    - other/image
+    - other/solomon
+    - other/gideon
+ashkelon:
+  see_also:
+    - other/philistines
+    - other/canaan
+    - other/ashdod
+    - other/ekron
+    - other/gath
+    - other/gaza
+    - other/samson
+assyria:
+  aliases:
+    - Assyrian
+    - 'Assyrian Empire'
+awe:
+  see_also:
+    - kt/fear
+    - kt/glory
+azariah:
+  see_also:
+    - other/uzziah
+    - other/babylon
+    - other/daniel
+    - other/jeremiah
+baal:
+  see_also:
+    - other/elijah
+    - kt/yahweh
+    - other/ahab
+    - kt/falsegod
+baasha:
+  see_also:
+    - other/asa
+    - other/idol
+balaam:
+  see_also:
+    - other/midian
+    - other/euphrates
+    - other/jordanriver
+    - other/canaan
+    - other/donkey
+    - kt/curse
+    - kt/bless
+barnabas:
+  see_also:
+    - kt/christian
+bartholomew:
+  see_also:
+    - kt/apostle
+    - other/pentecost
+beelzebul:
+  see_also:
+    - kt/demon
+    - kt/satan
+beersheba:
+  see_also:
+    - other/abraham
+benaiah:
+  see_also:
+    - other/solomon
+    - other/joab
+    - other/adonijah
+bethel:
+  see_also:
+    - other/abraham
+bethshemesh:
+  see_also:
+    - other/philistines
+    - other/arkofthecovenant
+    - other/canaan
+    - other/levite
+    - other/jerusalem
+    - other/joshua
+bethuel:
+  see_also:
+    - other/rebekah
+    - other/laban
+    - other/beersheba
+biblicaldistance:
+  aliases:
+    - cubit
+    - span
+biblicalmoney:
+  aliases:
+    - 'talent (money)'
+bloodshed:
+  see_also:
+    - kt/blood
+    - other/slaughter
+boaz:
+  see_also:
+    - kt/redeem
+bold:
+  see_also:
+    - kt/redeem
+    - kt/goodnews
+bookoflife:
+  see_also:
+    - kt/lamb
+breastplate:
+  see_also:
+    - kt/priest
+    - kt/temple
+  aliases:
+    - breatplate
+bride:
+  see_also:
+    - kt/church
+bronze:
+  see_also:
+    - other/armor
+    - kt/tabernacle
+    - kt/temple
+burntoffering:
+  see_also:
+    - other/altar
+    - kt/priest
+    - other/sacrifice
+bury:
+  see_also:
+    - other/tomb
+caiaphas:
+  see_also:
+    - kt/highpriest
+camel:
+  see_also:
+    - kt/unclean
+canaan:
+  aliases:
+    - Canaanite
+captive:
+  see_also:
+    - other/exile
+    - other/babylon
+    - other/prison
+carmel:
+  see_also:
+    - other/elijah
+    - other/baal
+castout:
+  aliases:
+    - 'drive out'
+cedar:
+  see_also:
+    - other/fir
+census:
+  see_also:
+    - other/rome
+chaff:
+  see_also:
+    - other/wheat
+    - other/grain
+    - other/winnow
+chariot:
+  aliases:
+    - chariots
+chronicles:
+  see_also:
+    - other/exile
+    - other/babylon
+    - other/kingdomofisrael
+    - other/kingdomofjudah
+    - other/david
+    - other/solomon
+clan:
+  see_also:
+    - other/family
+    - other/tribe
+comfort:
+  see_also:
+    - kt/holyspirit
+command:
+  aliases:
+    - commandment
+commander:
+  see_also:
+    - other/command
+    - other/ruler
+    - other/centurion
+confirm:
+  see_also:
+    - kt/trust
+    - other/oath
+    - kt/covenant
+contempt:
+  see_also:
+    - other/dishonor
+courtyard:
+  see_also:
+    - kt/temple
+    - kt/tabernacle
+    - other/gentile
+cow:
+  aliases:
+    - calf
+creature:
+  see_also:
+    - other/creation
+crown:
+  see_also:
+    - other/king
+    - other/olive
+cupbearer:
+  see_also:
+    - other/pharaoh
+    - other/artaxerxes
+    - other/persia
+    - other/babylon
+    - other/captive
+curtain:
+  see_also:
+    - kt/tabernacle
+    - kt/temple
+    - kt/holyplace
+cyrus:
+  see_also:
+    - other/persia
+    - other/darius
+    - other/daniel
+    - other/ezra
+    - other/nehemiah
+daniel:
+  see_also:
+    - other/babylon
+    - other/nebuchadnezzar
+darius:
+  see_also:
+    - other/persia
+    - other/babylon
+    - other/daniel
+    - other/ezra
+    - other/nehemiah
+declare:
+  see_also:
+    - other/proclaim
+decree:
+  see_also:
+    - other/law
+    - other/command
+    - other/proclaim
+    - other/declare
+defile:
+  see_also:
+    - kt/unclean
+    - kt/clean
+  aliases:
+    - 'be defiled'
+delilah:
+  see_also:
+    - other/philistines
+    - other/samson
+desert:
+  aliases:
+    - wilderness
+destiny:
+  see_also:
+    - other/johnthebaptist
+    - kt/repent
+    - kt/eternity
+    - other/captive
+destroyer:
+  see_also:
+    - other/egypt
+    - kt/passover
+    - kt/angel
+    - kt/son
+    - kt/firstborn
+devastated:
+  aliases:
+    - devastate
+discernment:
+  see_also:
+    - kt/wise
+dishonor:
+  see_also:
+    - other/honor
+disobey:
+  aliases:
+    - disobedience
+disperse:
+  see_also:
+    - other/persecute
+    - kt/believer
+dove:
+  see_also:
+    - other/olive
+dung:
+  see_also:
+    - kt/gate
+earth:
+  see_also:
+    - kt/world
+  aliases:
+    - earthly
+edom:
+  see_also:
+    - other/esau
+egypt:
+  aliases:
+    - Egyptian
+ekron:
+  see_also:
+    - other/philistines
+    - other/beelzebul
+    - other/arkofthecovenant
+    - kt/falsegod
+eliakim:
+  see_also:
+    - other/jehoiakim
+    - other/josiah
+    - other/hezekiah
+    - other/pharaoh
+elijah:
+  see_also:
+    - kt/prophet
+    - kt/miracle
+    - kt/yahweh
+elisha:
+  see_also:
+    - kt/prophet
+encourage:
+  see_also:
+    - kt/exhort
+ephod:
+  see_also:
+    - kt/priest
+esau:
+  see_also:
+    - other/isaac
+    - other/rebekah
+    - other/jacob
+    - other/edom
+esther:
+  see_also:
+    - other/ahasuerus
+    - other/mordecai
+    - other/persia
+    - other/babylon
+evildoer:
+  see_also:
+    - kt/evil
+exile:
+  see_also:
+    - other/babylon
+ezekiel:
+  see_also:
+    - other/babylon
+    - kt/christ
+ezra:
+  see_also:
+    - other/nehemiah
+    - other/jerusalem
+    - kt/temple
+    - kt/lawofmoses
+falseprophet:
+  see_also:
+    - kt/prophet
+falsewitness:
+  aliases:
+    - 'false report'
+family:
+  see_also:
+    - other/clan
+father:
+  see_also:
+    - kt/godthefather
+    - kt/son
+    - kt/sonofgod
+  aliases:
+    - fathers
+feast:
+  see_also:
+    - other/festival
+fellowshipoffering:
+  see_also:
+    - other/guiltoffering
+    - other/burntoffering
+    - other/grainoffering
+festival:
+  see_also:
+    - other/feast
+flock:
+  see_also:
+    - other/sheep
+    - other/goat
+    - other/ox
+    - other/pig
+foreigner:
+  aliases:
+    - stranger
+    - foreign
+foundation:
+  see_also:
+    - kt/cornerstone
+    - other/creation
+frankincense:
+  see_also:
+    - other/bethlehem
+    - other/learnedmen
+freewilloffering:
+  see_also:
+    - other/burntoffering
+    - other/sinoffering
+    - other/guiltoffering
+    - other/grainoffering
+gabriel:
+  see_also:
+    - kt/angel
+gad:
+  see_also:
+    - other/12tribesofisrael
+galatia:
+  see_also:
+    - kt/circumcise
+gath:
+  see_also:
+    - other/philistines
+    - other/gaza
+    - other/ashkelon
+    - other/ashdod
+    - other/goliath
+gilead:
+  see_also:
+    - other/manasseh
+gilgal:
+  see_also:
+    - other/jordanriver
+    - other/jericho
+    - other/elisha
+    - other/elijah
+glean:
+  see_also:
+    - kt/harvest
+goat:
+  see_also:
+    - other/sheep
+golgotha:
+  see_also:
+    - other/mountofolives
+goliath:
+  see_also:
+    - other/philistines
+    - other/david
+gomorrah:
+  see_also:
+    - other/babylon
+    - other/sodom
+    - other/lot
+    - other/abraham
+gossip:
+  see_also:
+    - other/slander
+grainoffering:
+  see_also:
+    - other/burntoffering
+    - other/guiltoffering
+    - other/sinoffering
+    - other/sacrifice
+guiltoffering:
+  see_also:
+    - other/sinoffering
+    - other/burntoffering
+    - other/grainoffering
+hades:
+  see_also:
+    - kt/hell
+hagar:
+  see_also:
+    - other/abraham
+haggai:
+  see_also:
+    - other/uzziah
+    - other/kingdomofjudah
+    - other/babylon
+hamath:
+  see_also:
+    - other/nebuchadnezzar
+    - other/babylon
+    - other/canaan
+    - other/syria
+    - other/hittite
+hananiah:
+  see_also:
+    - other/azariah
+    - mishael
+    - other/daniel
+    - other/babylon
+    - other/jeremiah
+    - other/falseprophet
+hard:
+  see_also:
+    - other/heart
+    - other/disobey
+    - kt/evil
+harp:
+  see_also:
+    - other/fir
+    - other/psalm
+    - other/david
+haughty:
+  see_also:
+    - kt/boast
+heal:
+  see_also:
+    - kt/miracle
+heir:
+  see_also:
+    - kt/inherit
+herodias:
+  see_also:
+    - other/johnthebaptist
+    - other/herodantipas
+hezekiah:
+  see_also:
+    - other/ahaz
+    - other/judah
+    - other/idol
+highplaces:
+  see_also:
+    - other/idol
+    - kt/worship
+    - other/altar
+hivite:
+  see_also:
+    - other/canaan
+    - other/noah
+    - other/ham
+holycity:
+  see_also:
+    - kt/heaven
+honey:
+  see_also:
+    - other/jonathan
+    - other/samson
+    - other/philistines
+    - other/johnthebaptist
+honor:
+  see_also:
+    - other/dishonor
+    - kt/glory
+    - kt/glorify
+hooves:
+  see_also:
+    - other/cow
+    - other/ox
+    - other/donkey
+    - other/pig
+    - other/sheep
+    - other/goat
+    - other/camel
+horeb:
+  see_also:
+    - other/sinai
+horse:
+  see_also:
+    - other/chariot
+    - other/solomon
+    - other/donkey
+hoshea:
+  see_also:
+    - other/ahaz
+    - other/canaan
+    - other/ephraim
+    - other/hezekiah
+    - other/joshua
+    - other/moses
+house:
+  see_also:
+    - other/descendant
+    - kt/temple
+    - other/kingdomofisrael
+idol:
+  see_also:
+    - kt/falsegod
+    - kt/worship
+    - other/image
+image:
+  see_also:
+    - other/idol
+    - kt/falsegod
+    - kt/god
+  aliases:
+    - 'carved figure'
+integrity:
+  see_also:
+    - other/josephot
+    - other/daniel
+isaac:
+  see_also:
+    - other/abraham
+isaiah:
+  see_also:
+    - kt/prophet
+    - kt/christ
+ishmael:
+  see_also:
+    - other/abraham
+    - other/sarah
+    - other/isaac
+israel:
+  aliases:
+    - Israelites
+issachar:
+  see_also:
+    - other/12tribesofisrael
+jamesbrotherofjesus:
+  see_also:
+    - kt/apostle
+jamessonofalphaeus:
+  see_also:
+    - kt/apostle
+jamessonofzebedee:
+  see_also:
+    - kt/apostle
+jehoiachin:
+  see_also:
+    - other/manasseh
+jehoiakim:
+  see_also:
+    - other/babylon
+    - other/eliakim
+    - other/jeremiah
+    - other/kingdomofjudah
+    - other/nebuchadnezzar
+jehoshaphat:
+  see_also:
+    - kt/priest
+    - other/altar
+    - other/david
+    - other/solomon
+    - other/judah
+    - other/israel
+    - kt/falsegod
+jehu:
+  see_also:
+    - other/ahab
+    - other/ahaziah
+    - other/jehoshaphat
+    - other/jehu
+    - other/jezebel
+    - other/joram
+    - other/judah
+jeremiah:
+  see_also:
+    - kt/prophet
+jerusalem:
+  see_also:
+    - other/david
+    - other/solomon
+    - kt/christ
+    - kt/jesus
+    - other/jebusites
+    - other/zion
+jesse:
+  see_also:
+    - kt/jesus
+jethro:
+  see_also:
+    - other/desert
+    - other/moses
+jewishleaders:
+  see_also:
+    - kt/priest
+jezebel:
+  see_also:
+    - other/ahab
+    - other/elijah
+    - other/idol
+joash:
+  see_also:
+    - other/gideon
+job:
+  see_also:
+    - other/abraham
+    - other/noah
+    - other/flood
+johntheapostle:
+  see_also:
+    - kt/apostle
+johnthebaptist:
+  see_also:
+    - kt/baptize
+jonathan:
+  see_also:
+    - other/saul
+    - other/david
+    - other/jeremiah
+joshua:
+  see_also:
+    - other/moses
+    - kt/promisedland
+    - other/jericho
+    - other/canaan
+josiah:
+  see_also:
+    - other/idol
+    - other/judah
+    - other/law
+    - kt/passover
+    - kt/temple
+jotham:
+  see_also:
+    - other/gideon
+    - other/uzziah
+    - other/ahaz
+    - other/abimelech
+judah:
+  see_also:
+    - other/kingdomofjudah
+    - other/jew
+    - other/judea
+    - other/jacob
+judasiscariot:
+  see_also:
+    - kt/apostle
+    - kt/betray
+judgeposition:
+  see_also:
+    - kt/judge
+kadesh:
+  see_also:
+    - other/syria
+kedesh:
+  see_also:
+    - other/canaan
+    - kt/priest
+    - other/hebron
+    - other/shechem
+kingdom:
+  see_also:
+    - other/king
+    - kt/kingdomofgod
+    - other/kingdomofisrael
+    - other/kingdomofjudah
+    - other/judah
+    - kt/priest
+kingdomofjudah:
+  aliases:
+    - 'kingdom of Judah'
+    - Judah
+know:
+  aliases:
+    - knowledge
+laban:
+  see_also:
+    - other/jacob
+    - other/nahor
+    - other/leah
+    - other/rachel
+laborpains:
+  aliases:
+    - 'birth pains'
+lampstand:
+  aliases:
+    - lamps
+law:
+  see_also:
+    - other/law
+    - kt/lawofmoses
+lawful:
+  see_also:
+    - kt/lawofmoses
+lazarus:
+  see_also:
+    - kt/raise
+leah:
+  see_also:
+    - other/jacob
+    - other/laban
+    - other/rebekah
+    - other/rachel
+    - other/12tribesofisrael
+lebanon:
+  see_also:
+    - other/phonecia
+    - other/cedar
+levite:
+  see_also:
+    - kt/priest
+    - kt/temple
+    - other/12tribesofisrael
+like:
+  see_also:
+    - kt/imageofgod
+    - other/image
+lot:
+  see_also:
+    - other/abraham
+lowly:
+  see_also:
+    - other/humble
+    - other/proud
+lute:
+  see_also:
+    - other/harp
+magistrate:
+  see_also:
+    - other/judgeposition
+malachi:
+  see_also:
+    - other/nehemiah
+    - other/ezra
+    - other/babylon
+    - kt/prophet
+    - other/captive
+manasseh:
+  see_also:
+    - other/ephraim
+    - other/altar
+    - other/12tribesofisrael
+mary:
+  see_also:
+    - kt/jesus
+    - kt/sonofgod
+matthew:
+  see_also:
+    - kt/apostle
+mealoffering:
+  see_also:
+    - other/grain
+    - other/burntoffering
+    - other/sacrifice
+mede:
+  see_also:
+    - other/babylon
+    - other/persia
+    - other/cyrus
+    - other/darius
+mediator:
+  see_also:
+    - kt/priest
+messenger:
+  see_also:
+    - kt/prophet
+    - kt/apostle
+    - kt/angel
+mind:
+  see_also:
+    - other/heart
+    - kt/soul
+    - kt/believe
+    - kt/believer
+mizpah:
+  see_also:
+    - other/kingdomofjudah
+    - other/kingdomofisrael
+    - other/moab
+    - other/judah
+    - other/david
+    - other/saul
+mold:
+  see_also:
+    - kt/falsegod
+    - other/idol
+mordecai:
+  see_also:
+    - other/esther
+    - other/babylon
+    - other/ahasuerus
+    - other/persia
+moses:
+  see_also:
+    - kt/promisedland
+mystery:
+  aliases:
+    - 'hidden things'
+nahum:
+  see_also:
+    - kt/prophet
+    - other/manasseh
+naphtali:
+  see_also:
+    - other/12tribesofisrael
+    - other/jacob
+nazareth:
+  see_also:
+    - kt/christ
+negev:
+  see_also:
+    - other/abraham
+nehemiah:
+  see_also:
+    - other/babylon
+newmoon:
+  see_also:
+    - other/earth
+oak:
+  see_also:
+    - kt/holy
+oath:
+  see_also:
+    - kt/vow
+  aliases:
+    - swore
+obadiah:
+  see_also:
+    - other/edom
+    - other/esau
+    - other/ezekiel
+    - other/daniel
+    - zedekiah
+obey:
+  aliases:
+    - obedience
+offspring:
+  see_also:
+    - other/descendant
+    - kt/seed
+oil:
+  see_also:
+    - other/olive
+ordinance:
+  see_also:
+    - other/command
+    - other/decree
+    - kt/lawofmoses
+    - other/ordinance
+    - other/statute
+ox:
+  see_also:
+    - other/yoke
+    - other/cow
+paddanaram:
+  see_also:
+    - other/haran
+    - other/rebekah
+    - other/abraham
+    - other/canaan
+pardon:
+  see_also:
+    - kt/forgive
+partial:
+  see_also:
+    - kt/favor
+patient:
+  see_also:
+    - kt/forgive
+    - other/perseverance
+    - kt/endure
+peoplegroup:
+  aliases:
+    - people
+persecute:
+  see_also:
+    - kt/christian
+    - kt/church
+persia:
+  see_also:
+    - other/esther
+peter:
+  see_also:
+    - kt/disciple
+    - kt/apostle
+pharaoh:
+  aliases:
+    - 'King of Egypt'
+pharisee:
+  see_also:
+    - other/jewishleaders
+    - kt/lawofmoses
+    - other/sadducee
+    - other/council
+philippi:
+  see_also:
+    - kt/christian
+philistia:
+  see_also:
+    - other/philistines
+    - other/gaza
+    - other/joppa
+pillar:
+  see_also:
+    - other/foundation
+pit:
+  see_also:
+    - other/abyss
+    - other/prison
+    - kt/hell
+pledge:
+  see_also:
+    - kt/promise
+    - kt/vow
+possess:
+  see_also:
+    - other/canaan
+potiphar:
+  see_also:
+    - other/josephot
+    - other/jacob
+    - other/egypt
+    - other/pharaoh
+praise:
+  see_also:
+    - kt/worship
+preach:
+  see_also:
+    - kt/jesus
+    - kt/kingdomofgod
+proclaim:
+  aliases:
+    - proclamation
+profane:
+  see_also:
+    - kt/holy
+proud:
+  see_also:
+    - other/humble
+proverb:
+  see_also:
+    - kt/wise
+    - kt/true
+rabbah:
+  see_also:
+    - other/david
+    - other/ammon
+reap:
+  see_also:
+    - kt/harvest
+rebekah:
+  see_also:
+    - other/abraham
+redsea:
+  see_also:
+    - kt/promisedland
+rejoice:
+  see_also:
+    - kt/joy
+reuben:
+  see_also:
+    - other/12tribesofisrael
+    - other/jacob
+    - other/josephot
+reverence:
+  see_also:
+    - kt/fear
+    - other/obey
+robe:
+  see_also:
+    - other/tunic
+rome:
+  see_also:
+    - kt/goodnews
+royal:
+  see_also:
+    - other/king
+    - other/queen
+ruler:
+  see_also:
+    - other/king
+    - other/governor
+    - other/synagogue
+  aliases:
+    - rule
+sackcloth:
+  aliases:
+    - 'sackcloth and ashes'
+sacred:
+  see_also:
+    - kt/holy
+    - kt/consecrate
+sacrifice:
+  see_also:
+    - other/burntoffering
+    - other/sinoffering
+    - other/drinkoffering
+  aliases:
+    - sacrificing
+sadducee:
+  see_also:
+    - other/jewishleaders
+    - other/pharisee
+    - kt/priest
+    - other/council
+samaria:
+  see_also:
+    - other/assyria
+samson:
+  see_also:
+    - kt/deliverer
+samuel:
+  see_also:
+    - kt/judge
+    - kt/prophet
+sarah:
+  see_also:
+    - other/abraham
+scribe:
+  see_also:
+    - kt/lawofmoses
+scroll:
+  see_also:
+    - kt/wordofgod
+seal:
+  see_also:
+    - kt/holyspirit
+  aliases:
+    - 'keep secret'
+servant:
+  aliases:
+    - slave
+    - slavery
+sex:
+  aliases:
+    - 'have relations with'
+    - 'sleep with'
+shame:
+  aliases:
+    - disgrace
+    - shameful
+    - ashamed
+    - disgraceful
+sheep:
+  aliases:
+    - ram
+shiloh:
+  see_also:
+    - other/samuel
+    - other/bethel
+    - other/jerusalem
+  aliases:
+    - Shilonite
+sidon:
+  see_also:
+    - other/canaan
+    - other/noah
+    - other/tyre
+  aliases:
+    - Sidonian
+simeon:
+  see_also:
+    - other/jacob
+    - other/canaan
+    - other/judah
+sinai:
+  see_also:
+    - kt/promisedland
+sinoffering:
+  see_also:
+    - kt/sin
+sister:
+  see_also:
+    - kt/brother
+    - kt/inchrist
+skull:
+  see_also:
+    - other/golgotha
+slain:
+  see_also:
+    - other/slaughter
+slaughter:
+  see_also:
+    - other/slain
+solomon:
+  see_also:
+    - other/david
+    - other/bathsheba
+    - kt/temple
+    - other/israel
+    - other/judah
+splendor:
+  see_also:
+    - kt/glory
+    - kt/majesty
+    - other/king
+staff:
+  see_also:
+    - other/sheep
+    - other/shepherd
+statute:
+  see_also:
+    - other/command
+    - other/decree
+    - kt/lawofmoses
+    - other/ordinance
+  aliases:
+    - statutes
+stiffnecked:
+  aliases:
+    - stiff-necked
+strongdrink:
+  see_also:
+    - other/wine
+stronghold:
+  see_also:
+    - other/idol
+    - kt/refuge
+    - kt/falsegod
+  aliases:
+    - fortified
+stumble:
+  see_also:
+    - other/stumblingblock
+subject:
+  see_also:
+    - other/submit
+submit:
+  see_also:
+    - other/subject
+synagogue:
+  see_also:
+    - kt/temple
+tamar:
+  see_also:
+    - other/amnon
+    - other/david
+    - other/judah
+tax:
+  see_also:
+    - other/taxcollector
+tencommandments:
+  see_also:
+    - kt/lawofmoses
+tent:
+  see_also:
+    - kt/tabernacle
+    - other/abraham
+    - other/sinai
+tentofmeeting:
+  see_also:
+    - kt/priest
+    - kt/highpriest
+  aliases:
+    - 'Tent of Meeting'
+terah:
+  see_also:
+    - other/abraham
+tomb:
+  see_also:
+    - kt/death
+    - other/bury
+tongue:
+  aliases:
+    - language
+tradition:
+  see_also:
+    - kt/lawofmoses
+trance:
+  see_also:
+    - other/vision
+trial:
+  see_also:
+    - kt/tempt
+    - kt/test
+    - kt/innocent
+    - kt/guilt
+tribe:
+  see_also:
+    - other/clan
+    - other/peoplegroup
+    - other/12tribesofisrael
+tribulation:
+  see_also:
+    - kt/wrath
+tribute:
+  see_also:
+    - other/tax
+trouble:
+  see_also:
+    - kt/afflict
+    - other/persecute
+uzziah:
+  see_also:
+    - other/kingdomofjudah
+    - other/king
+virgin:
+  see_also:
+    - kt/christ
+    - kt/jesus
+water:
+  see_also:
+    - kt/life
+    - kt/spirit
+    - kt/holyspirit
+    - kt/power
+winepress:
+  see_also:
+    - other/grape
+written:
+  see_also:
+    - kt/lawofmoses
+    - kt/prophet
+    - kt/wordofgod
+zadok:
+  see_also:
+    - other/david
+    - other/solomon
+    - other/jotham
+    - other/nehemiah
+    - other/arkofthecovenant
+zebulun:
+  see_also:
+    - other/12tribesofisrael
+zion:
+  see_also:
+    - other/abraham
+    - other/david
+    - other/jerusalem
+    - other/bethlehem
+    - other/jebusites
+zoar:
+  see_also:
+    - other/lot
+    - other/sodom
+    - other/gomorrah
