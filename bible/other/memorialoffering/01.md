@@ -11,8 +11,8 @@ The term "memorial" refers to an action or object that causes someone or somethi
 
 ## Translation Suggestions: ##
 
-* This could also be translated as, "lasting reminder."
-* A "memorial stone" could be translated as, a "stone to remind them (of something)."
+* This could also be translated as "lasting reminder."
+* A "memorial stone" could be translated as a "stone to remind them (of something)."
 
 ## Bible References: ##
 

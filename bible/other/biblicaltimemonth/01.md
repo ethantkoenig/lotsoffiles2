@@ -1,4 +1,4 @@
-# biblical time: month #
+# month #
 
 ## Definition: ##
 

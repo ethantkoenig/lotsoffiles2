@@ -1,4 +1,4 @@
-# biblical time: hour #
+# hour #
 
 ## Definition: ##
 

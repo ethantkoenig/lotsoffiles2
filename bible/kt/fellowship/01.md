@@ -6,12 +6,12 @@ In general, the term "fellowship" refers to friendly interactions between member
 
 * In the Bible, the term "fellowship" usually refers to the unity of believers in Christ.
 * Christian fellowship is a shared relationship that believers have with one another through their relationship with Christ and the Holy Spirit.
-* The early Christians expressed their fellowship through listening to the teaching of God's Word and praying together, through the sharing of their belongings, and eating meals together.
+* The early Christians expressed their fellowship through listening to the teaching of God's Word and praying together, through the sharing of their belongings, and through eating meals together.
 * Christians also have fellowship with God through their faith in Jesus and his sacrificial death on the cross which removed the barrier between God and people.
 
 ## Translation Suggestions: ##
 
-* Ways to translate "fellowship" could include, "a sharing together" or  "relationship" or "companionship" or "Christian community."
+* Ways to translate "fellowship" could include "a sharing together" or  "relationship" or "companionship" or "Christian community."
 
 ## Bible References: ##
 

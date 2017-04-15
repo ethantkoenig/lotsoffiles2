@@ -6,7 +6,7 @@ When used figuratively in the Bible, "clothed with" means to be endowed or equip
 
 * In the same way that clothing is external to your body and is visible to all, when you are "clothed" with a certain character quality, others can readily see it. To "clothe yourself with kindness" means to let your actions be so characterized by kindness that it is easily seen by everyone.
 * To be "clothed with power from on high" means to have power given to you.
-* This term is also used to express negative experiences, such as "clothed with shame" or "clothed with terror"
+* This term is also used to express negative experiences, such as "clothed with shame" or "clothed with terror."
 
 ## Translation Suggestions: ##
 
