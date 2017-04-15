@@ -8,7 +8,7 @@ dublin_core:
     description: 'Definitions of words to help translators of the Bible and Open Bible Stories'
     format: 'text/markdown'
     identifier: 'tw'
-    issued: '2015-08-26'
+    issued: '2016-09-30'
     language:
         identifier: 'en'
         title: 'English'
@@ -26,11 +26,11 @@ dublin_core:
         -
             identifier: 'tw'
             language: 'en'
-            version: '2'
+            version: '3'
     subject: 'Translation Words'
     title: 'translationWords'
     type: 'dict'
-    version: '3'
+    version: '4'
 
 checking:
     checking_entity:

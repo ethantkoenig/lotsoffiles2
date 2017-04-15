@@ -15,7 +15,6 @@ adoption:
   see_also:
     - other/heir
     - kt/inherit
-    - kt/inherit
     - kt/spirit
 adultery:
   def_title: adultery
@@ -1997,7 +1996,8 @@ savior:
     - kt/save
 seed:
   def_title: seed
-  aliases: []
+  aliases:
+    - semen
   see_also:
     - other/descendant
     - other/offspring
@@ -2540,17 +2540,9 @@ aaron:
     - 13-09
     - 13-11
     - 14-07
-  see_also:
-    - kt/priest
-    - other/moses
-    - other/israel
 abel:
   def_title: Abel
   aliases: []
-  see_also:
-    - other/cain
-    - other/sacrifice
-    - other/shepherd
 abiathar:
   def_title: Abiathar
   aliases: []
@@ -4138,9 +4130,9 @@ doorpost:
     - other/egypt
     - kt/passover
 dove:
-  def_title: "dove"
+  def_title: dove
   aliases:
-    - 'pigeon'
+    - pigeon
   see_also:
     - other/olive
     - kt/innocent
@@ -5462,12 +5454,6 @@ jacob:
 jamesbrotherofjesus:
   def_title: 'James (brother of Jesus)'
   aliases: []
-  see_also:
-    - kt/apostle
-    - kt/christ
-    - kt/church
-    - other/judassonofjames
-    - other/persecute
 jamessonofalphaeus:
   def_title: 'James (son of Alphaeus)'
   aliases: []
@@ -7199,7 +7185,7 @@ peor:
   def_title: Peor
   aliases:
     - 'mount peor'
-    - "baal peor"
+    - 'baal peor'
   see_also:
     - other/baal
     - kt/falsegod
@@ -8835,7 +8821,7 @@ tentofmeeting:
     - kt/tabernacle
     - other/tent
 terah:
-  def_title: "Terah​"
+  def_title: "Terah"
   aliases: []
   see_also:
     - other/abraham
