@@ -26,11 +26,11 @@ dublin_core:
         -
             identifier: 'tw'
             language: 'en'
-            version: '3'
+            version: '4'
     subject: 'Translation Words'
     title: 'translationWords'
     type: 'dict'
-    version: '4'
+    version: '5'
 
 checking:
     checking_entity:

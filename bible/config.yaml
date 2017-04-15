@@ -4,7 +4,6 @@ abomination:
     - abominable
   see_also:
     - kt/adultery
-    - other/daniel
     - other/desecrate
     - other/desolate
     - other/idol
@@ -361,6 +360,9 @@ children:
     - other/descendant
     - kt/promise
     - kt/son
+    - kt/spirit
+    - kt/believer
+    - kt/beloved
 christ:
   def_title: Christ
   aliases:
@@ -668,6 +670,7 @@ divine:
   aliases: []
   see_also:
     - kt/authority
+    - kt/falsegod
     - kt/glory
     - kt/god
     - kt/judge
@@ -738,11 +741,6 @@ evil:
     - 29-08
     - 45-02
     - 50-17
-  see_also:
-    - other/disobey
-    - kt/sin
-    - kt/good
-    - kt/righteous
 exalt:
   def_title: exalt
   aliases:
@@ -2084,6 +2082,7 @@ sonofgod:
     - kt/god
     - kt/godthefather
     - kt/holyspirit
+    - kt/jesus
     - kt/son
     - kt/sonsofgod
 sonofman:
@@ -2185,6 +2184,11 @@ tempt:
     - 25-01
     - 25-08
     - 38-11
+  see_also:
+    - other/disobey
+    - kt/satan
+    - kt/sin
+    - kt/test
 test:
   def_title: test
   aliases: []
@@ -4893,7 +4897,7 @@ habakkuk:
     - other/jehoiakim
     - other/jeremiah
 hades:
-  def_title: hades
+  def_title: Hades
   aliases:
     - sheol
   see_also:
@@ -5454,6 +5458,12 @@ jacob:
 jamesbrotherofjesus:
   def_title: 'James (brother of Jesus)'
   aliases: []
+  see_also:
+    - kt/apostle
+    - kt/christ
+    - kt/church
+    - other/judassonofjames
+    - other/persecute
 jamessonofalphaeus:
   def_title: 'James (son of Alphaeus)'
   aliases: []
@@ -5811,7 +5821,8 @@ joram:
     - kt/prophet
 jordanriver:
   def_title: 'Jordan River'
-  aliases: []
+  aliases:
+    - jordan
   examples:
     - 15-02
     - 15-03
@@ -8821,7 +8832,7 @@ tentofmeeting:
     - kt/tabernacle
     - other/tent
 terah:
-  def_title: "Terah"
+  def_title: "Terah​"
   aliases: []
   see_also:
     - other/abraham
