@@ -6,12 +6,12 @@ In the Bible, the term "perfect" means to be mature in our Christian life. To pe
 
 * Being perfect and mature means that a Christian is obedient, not sinless.
 * The term "perfect" also has the meaning of being "complete" or "whole."
-* The New Testament book of James states that persevering through trials will produce completeness and maturity in the believer.
+* The New Testament Book of James states that persevering through trials will produce completeness and maturity in the believer.
 * When Christians study the Bible and obey it, they will become more spiritually perfect and mature because they will be more like Christ in their character.
 
 ## Translation Suggestions: ##
 
-* This term could be translated as "without flaw" or "without error" or "flawless" or "without fault." ir "not having any faults."
+* This term could be translated as "without flaw" or "without error" or "flawless" or "without fault" or "not having any faults."
 
 ## Bible References: ##
 

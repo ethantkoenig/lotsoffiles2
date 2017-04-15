@@ -7,9 +7,9 @@ The term "perverse" is used to describe a person or action that is morally crook
 * Someone or something that is perverse has deviated from what is good and right.
 * In the Bible, the Israelites acted perversely when they disobeyed God. They often did this by worshiping false gods.
 * Any action which is against God's standards or behavior is considered perverse.
-* Ways to translate "perverse" could include, "morally twisted" or "immoral" or "turning away from God's straight path," depending on the context.
-* "perverse speech" could be translated as, "speaking in an evil way" or "deceitful talk" or "immoral way of talking."
-* "perverse people" could be described as "immoral people" or "people who are morally deviant" or "people who continually disobey God."
+* Ways to translate "perverse" could include "morally twisted" or "immoral" or "turning away from God's straight path," depending on the context.
+* "Perverse speech" could be translated as "speaking in an evil way" or "deceitful talk" or "immoral way of talking."
+* "Perverse people" could be described as "immoral people" or "people who are morally deviant" or "people who continually disobey God."
 * The phrase "acting perversely" could be translated as "behaving in an evil way" or "doing things against God's commands" or "living in a way that rejects God's teachings."
 * The term "pervert" could also be translated as "cause to be corrupt" or "turn into something evil."
 

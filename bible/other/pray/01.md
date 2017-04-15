@@ -2,10 +2,10 @@
 
 ## Definition: ##
 
-The terms "pray" and "prayer" refer to talking with God. This term is also used to refer to people trying to talk to a false god.
+The terms "pray" and "prayer" refer to talking with God. These terms are used to refer to people trying to talk to a false god.
 
-* People can pray silently, talking to God with their thoughts or they can pray aloud, speaking to God with their voice. Sometimes prayers are written down, such as when David wrote his prayers in the book of Psalms.
-* Prayer can include asking God for mercy, for help with a problem, for wisdom in making decisions.
+* People can pray silently, talking to God with their thoughts, or they can pray aloud, speaking to God with their voice. Sometimes prayers are written down, such as when David wrote his prayers in the Book of Psalms.
+* Prayer can include asking God for mercy, for help with a problem, and for wisdom in making decisions.
 * Often people ask God to heal people who are sick or who need his help in other ways. 
 * People also thank and praise God when they are praying to him.
 * Praying includes confessing our sins to God and asking him to forgive us.

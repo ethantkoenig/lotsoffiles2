@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-To speak to a group of people, teaching them about God and urging them to obey him.
+To "preach" means to speak to a  group of people, teaching them about God and urging them to obey him.
 
  * Often preaching is done by one person to a large group of people. It is usually spoken, not written.
  * "Preaching" and "teaching" are similar, but are not exactly the same.
