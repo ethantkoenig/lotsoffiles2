@@ -30,7 +30,7 @@ dublin_core:
     subject: 'Translation Words'
     title: 'translationWords'
     type: 'dict'
-    version: '1'
+    version: '2'
 
 checking:
     checking_entity:

@@ -1,34 +1,36 @@
 abomination:
   see_also:
     - kt/adultery
+    - other/daniel
+    - other/desecrate
+    - other/desolate
     - other/idol
     - other/sacrifice
-    - other/daniel
-    - other/defile
 adultery:
   see_also:
-    - kt/fornication
-    - kt/covenant
-    - other/sex
-    - kt/unfaithful
+    - other/commit
   aliases:
     - adulterer
 almighty:
   see_also:
+    - kt/god
+    - kt/lord
     - kt/power
-anoint:
-  see_also:
-    - kt/prophet
-    - kt/kingofthejews
-    - kt/priest
-    - kt/highpriest
 apostle:
   see_also:
+    - kt/authority
+    - kt/disciple
+    - other/jamessonofzebedee
+    - other/paul
     - kt/thetwelve
+assembly:
+  aliases:
+    - assemble
 atonement:
   see_also:
-    - kt/propitiation
+    - kt/atonementlid
     - kt/forgive
+    - kt/propitiation
     - kt/reconcile
     - kt/redeem
 atonementlid:
@@ -36,7 +38,11 @@ atonementlid:
     - other/arkofthecovenant
     - kt/atonement
     - other/cherubim
+    - kt/propitiation
     - kt/redeem
+believer:
+  see_also:
+    - kt/apostle
 beloved:
   see_also:
     - kt/love
@@ -45,14 +51,23 @@ birthright:
     - kt/firstborn
     - kt/inherit
     - other/descendant
+blameless:
+  aliases:
+    - yahweh
+    - Yahweh
 blasphemy:
+  see_also:
+    - other/dishonor
+    - other/slander
   aliases:
     - insult
 bless:
   aliases:
+    - blessing
     - blessed
 body:
   see_also:
+    - other/head
     - kt/spirit
 bond:
   aliases:
@@ -60,6 +75,7 @@ bond:
     - bound
 bornagain:
   see_also:
+    - kt/holyspirit
     - kt/salvation
 bow:
   see_also:
@@ -68,6 +84,10 @@ bow:
 brother:
   see_also:
     - other/sister
+    - kt/spirit
+call:
+  aliases:
+    - calling
 children:
   aliases:
     - child
@@ -77,11 +97,20 @@ christ:
     - other/david
     - kt/jesus
     - kt/anoint
+christian:
+  see_also:
+    - other/antioch
+    - kt/christ
+    - kt/church
+    - kt/disciple
+    - kt/believer
+    - kt/jesus
+    - kt/sonofgod
 church:
   see_also:
-    - kt/christian
-    - kt/believer
     - kt/assembly
+    - kt/believer
+    - kt/christian
 circumcise:
   see_also:
     - kt/uncircumcised
@@ -95,42 +124,52 @@ clean:
     - other/sacrifice
   aliases:
     - wash
+    - cleanness
 condemn:
   see_also:
     - kt/judge
     - other/punish
 confidence:
   see_also:
-    - kt/trust
-    - kt/hope
     - kt/believe
+    - kt/hope
+    - kt/trust
 consecrate:
   see_also:
     - kt/holy
-    - kt/sanctify
     - kt/purify
+    - kt/sanctify
+corrupt:
+  see_also:
+    - kt/evil
+covenantfaith:
+  see_also:
+    - kt/covenant
+    - kt/faithful
+    - kt/grace
+    - other/israel
+    - kt/peopleofgod
+    - kt/promise
+  aliases:
+    - 'covenant faithfulness'
 crucify:
   see_also:
     - kt/cross
     - other/rome
 darkness:
-  see_also:
-    - kt/light
-    - kt/righteous
-    - kt/redeem
-    - kt/dominion
-    - other/kingdom
-    - kt/corrupt
+  aliases:
+    - dark
 death:
   see_also:
     - kt/life
     - kt/faith
     - kt/spirit
   aliases:
-    - lethal
-    - dead
-    - mortal
     - die
+    - dead
+    - lethal
+    - died
+    - mortal
 deceive:
   aliases:
     - lie
@@ -138,6 +177,11 @@ deceive:
     - deceived
     - deceiver
     - deception
+    - deceitful
+    - deceptive
+deliverer:
+  aliases:
+    - rescue
 demon:
   see_also:
     - kt/demonpossessed
@@ -153,9 +197,19 @@ disciple:
     - kt/believer
     - kt/jesus
     - other/johnthebaptist
+    - kt/thetwelve
 divine:
   see_also:
-    - other/divination
+    - kt/authority
+    - kt/falsegod
+    - kt/glory
+    - kt/god
+    - kt/judge
+    - kt/power
+enslave:
+  see_also:
+    - kt/free
+    - kt/righteous
 eternity:
   see_also:
     - kt/forever
@@ -168,8 +222,9 @@ evangelism:
 evil:
   aliases:
     - prophet
-    - 'Yahweh of Hosts'
     - wicked
+    - 'Yahweh of Hosts'
+    - wickedness
 exalt:
   see_also:
     - other/praise
@@ -177,24 +232,46 @@ exalt:
     - kt/glorify
     - kt/boast
     - other/proud
+face:
+  aliases:
+    - faces
 faithless:
   see_also:
     - kt/unbeliever
     - kt/unfaithful
     - other/disobey
 falsegod:
+  see_also:
+    - kt/god
+    - asherah
+    - other/baal
+    - other/molech
+    - other/idol
+    - kt/demon
+    - other/image
   aliases:
     - 'false god'
     - god
+    - goddess
+    - 'other god'
 fear:
   aliases:
-    - troubled
     - afraid
     - rest
+    - 'fear of God'
+    - 'fear of Yahweh'
+    - dread
+    - troubled
 firstfruit:
   aliases:
     - firstfruits
     - 'first converts'
+flesh:
+  aliases:
+    - Yahweh
+    - Jerusalem
+    - people
+    - peoplegroup
 foolish:
   see_also:
     - kt/wise
@@ -205,12 +282,24 @@ foreordain:
     - kt/predestine
 forever:
   see_also:
-    - kt/eternity
+    - other/david
+    - other/reign
+  aliases:
+    - covenant
+    - decrees
 free:
   see_also:
+    - kt/bond
     - kt/enslave
     - other/servant
-    - kt/bond
+fruit:
+  see_also:
+    - other/descendant
+    - other/grain
+    - other/grape
+    - kt/holyspirit
+    - other/vine
+    - other/womb
 fulfill:
   see_also:
     - kt/prophet
@@ -221,6 +310,8 @@ gift:
   see_also:
     - kt/spirit
     - kt/holyspirit
+  aliases:
+    - presents
 glorify:
   see_also:
     - kt/glory
@@ -231,20 +322,29 @@ glorify:
 glory:
   see_also:
     - kt/glorify
+  aliases:
+    - glorify
+godly:
+  see_also:
+    - kt/ungodly
+    - kt/unrighteous
 godthefather:
   see_also:
-    - kt/god
-    - kt/holyspirit
-    - kt/sonofgod
     - other/father
-    - kt/jesus
+    - kt/god
     - kt/heaven
+    - kt/holyspirit
+    - kt/jesus
+    - kt/sonofgod
+  aliases:
+    - 'God the Father'
+    - 'Heavenly Father'
 good:
   see_also:
+    - kt/evil
     - kt/holy
     - other/profit
     - kt/righteous
-    - kt/evil
 guilt:
   aliases:
     - convict
@@ -259,24 +359,29 @@ hell:
     - other/abyss
 highpriest:
   see_also:
-    - other/chiefpriests
+    - other/annas
+    - other/caiaphas
 holy:
   see_also:
-    - kt/sanctify
     - kt/holyspirit
+    - kt/consecrate
+    - kt/sanctify
     - kt/setapart
+  aliases:
+    - 'holy place'
 holyone:
   see_also:
     - kt/holy
     - kt/god
 holyplace:
   see_also:
+    - other/arkofthecovenant
     - kt/holy
     - kt/setapart
-    - kt/temple
     - kt/tabernacle
-    - other/arkofthecovenant
+    - kt/temple
   aliases:
+    - 'holy places'
     - 'holy place'
 holyspirit:
   see_also:
@@ -287,29 +392,38 @@ holyspirit:
     - kt/godthefather
     - kt/sonofgod
     - kt/gift
+  aliases:
+    - 'Holy Spirit'
+    - 'Spirit of God'
+    - 'Spirit of the Lord'
+    - 'Spirit of Yahweh'
 hope:
   aliases:
     - confidence
+houseofgod:
+  aliases:
+    - 'house of God'
+    - 'Yahweh''s house'
+    - 'house of Yahweh'
 imageofgod:
   see_also:
     - other/image
     - kt/sonofgod
     - kt/sonofgod
-inchrist:
-  see_also:
-    - kt/christ
-    - kt/lordgod
-    - kt/jesus
-    - kt/believe
-    - kt/faith
 inherit:
   see_also:
     - other/heir
+  aliases:
+    - heritage
+    - inheritance
 iniquity:
   see_also:
     - kt/sin
     - kt/transgression
     - kt/trespass
+  aliases:
+    - i
+    - niquity
 intercede:
   see_also:
     - other/pray
@@ -324,32 +438,79 @@ jesus:
     - 'Jesus Christ'
 judge:
   see_also:
-    - kt/justice
+    - other/decree
     - other/judgeposition
+    - kt/justice
     - other/law
     - kt/lawofmoses
+justice:
+  see_also:
+    - kt/righteous
+    - kt/upright
+  aliases:
+    - just
+justify:
+  see_also:
+    - kt/forgive
+    - kt/guilt
+kingdomofgod:
+  see_also:
+    - kt/heaven
+    - kt/kingofthejews
+kingofthejews:
+  see_also:
+    - other/descendant
+    - kt/jesus
+    - other/wisemen
 lamb:
   see_also:
     - other/sheep
     - other/shepherd
+lawofmoses:
+  see_also:
+    - other/instruct
+    - other/moses
+    - other/tencommandments
+    - other/lawful
+    - kt/yahweh
+  aliases:
+    - Law
+    - 'Law of Moses'
+    - 'God''s Law'
+    - 'Law of Yahweh'
+    - 'Book of Moses'
 life:
   see_also:
     - kt/death
     - kt/eternity
   aliases:
     - live
-lord:
+    - lived
+    - alive
+light:
   see_also:
-    - kt/lordgod
+    - kt/darkness
+lord:
+  aliases:
+    - master
 lordgod:
   see_also:
-    - kt/lord
     - kt/god
+    - kt/jesus
+    - kt/lord
+    - other/ruler
     - kt/yahweh
+  aliases:
+    - lord
+    - master
+    - sir
 lordyahweh:
   see_also:
+    - kt/god
     - kt/lordgod
     - kt/yahweh
+  aliases:
+    - 'Lord Yahweh'
 love:
   aliases:
     - affection
@@ -357,9 +518,14 @@ love:
 majesty:
   see_also:
     - other/king
+maker:
+  see_also:
+    - other/creation
+    - kt/yahweh
 minister:
   see_also:
     - other/serve
+    - other/sacrifice
 miracle:
   see_also:
     - kt/power
@@ -374,48 +540,71 @@ mosthigh:
   see_also:
     - kt/god
 newcovenant:
-  aliases:
-    - 'new covenant'
+  see_also:
+    - atone
 oppress:
   see_also:
+    - bind
     - kt/enslave
+    - other/persecute
+  aliases:
+    - oppressed
+    - oppression
 pastor:
   see_also:
     - other/shepherd
     - other/sheep
 peopleofgod:
   see_also:
+    - other/israel
     - other/peoplegroup
   aliases:
     - people
+perfect:
+  aliases:
+    - perfection
 perish:
   see_also:
     - kt/death
+    - everlasting
 predestine:
   see_also:
     - kt/foreordain
 priest:
   see_also:
     - other/aaron
-    - other/sacrifice
     - other/chiefpriests
     - kt/highpriest
     - other/mediator
+    - other/sacrifice
+  aliases:
+    - priests
 promise:
+  aliases:
+    - oath
+    - promised
+promisedland:
   see_also:
-    - kt/covenant
-    - other/oath
-    - kt/vow
+    - kt/promise
+  aliases:
+    - land
+    - 'Promised Land'
 prophet:
+  see_also:
+    - other/divination
+    - other/falseprophet
+    - kt/fulfill
   aliases:
     - prophecy
     - prophesy
+    - seer
     - see
 propitiation:
   see_also:
     - kt/atonement
-    - other/sacrifice
     - kt/eternity
+    - kt/forgive
+    - other/sacrifice
 purify:
   aliases:
     - pure
@@ -426,15 +615,24 @@ raise:
   aliases:
     - rise
     - arisen
+ransom:
+  see_also:
+    - kt/atonement
 receive:
   see_also:
     - kt/holyspirit
-    - kt/lord
     - kt/jesus
+    - kt/lord
     - kt/save
 reconcile:
   see_also:
     - other/peace
+    - other/sacrifice
+redeem:
+  see_also:
+    - kt/free
+  aliases:
+    - redemption
 repent:
   see_also:
     - kt/forgive
@@ -460,6 +658,13 @@ righteous:
     - kt/evil
     - kt/justice
     - kt/faithful
+righthand:
+  see_also:
+    - other/accuse
+    - other/honor
+    - other/punish
+    - other/rebel
+    - kt/evil
 salvation:
   see_also:
     - kt/save
@@ -495,6 +700,8 @@ save:
     - other/punish
     - kt/cross
     - kt/deliverer
+  aliases:
+    - saves
 savior:
   see_also:
     - kt/save
@@ -510,8 +717,10 @@ setapart:
     - kt/appoint
 sign:
   aliases:
-    - reminder
     - reminders
+    - reminder
+    - 'sign (proof'
+    - reminder)
 sin:
   see_also:
     - kt/evil
@@ -530,18 +739,33 @@ sonofgod:
     - kt/god
     - kt/godthefather
     - other/father
+sonofman:
+  aliases:
+    - 'Son of Man'
 sonsofgod:
   see_also:
     - kt/sonofgod
     - kt/angel
     - kt/demon
     - other/ruler
+spirit:
+  see_also:
+    - kt/angel
+    - kt/satan
+    - kt/demon
+    - kt/holyspirit
 tabernacle:
   see_also:
     - other/altarofincense
     - kt/temple
     - other/altar
     - other/arkofthecovenant
+  aliases:
+    - tabernacles
+teacher:
+  see_also:
+    - kt/disciple
+    - other/preach
 temple:
   see_also:
     - other/sacrifice
@@ -565,6 +789,9 @@ trespass:
     - kt/sin
     - kt/transgression
     - kt/iniquity
+'true':
+  aliases:
+    - truth
 trust:
   see_also:
     - kt/faith
@@ -574,7 +801,6 @@ trust:
 turn:
   aliases:
     - 'turn away'
-    - return
 unbeliever:
   see_also:
     - kt/believer
@@ -583,10 +809,17 @@ unfaithful:
   see_also:
     - kt/faithful
     - kt/adultery
+ungodly:
+  aliases:
+    - godless
 unholy:
   see_also:
     - other/profane
     - kt/holy
+unjust:
+  see_also:
+    - kt/justice
+    - kt/unrighteous
 unlawful:
   see_also:
     - other/lawful
@@ -600,6 +833,13 @@ unrighteous:
     - kt/righteous
     - kt/unlawful
     - kt/sin
+upright:
+  see_also:
+    - kt/righteous
+    - other/obey
+    - kt/lawofmoses
+    - other/law
+    - kt/purify
 veil:
   see_also:
     - other/moses
@@ -618,13 +858,19 @@ witness:
     - kt/judge
     - kt/true
     - kt/testimony
+word:
+  aliases:
+    - words
 wordofgod:
   aliases:
     - 'word of yahweh'
-    - 'word of god'
 wordoftruth:
   see_also:
     - kt/wordofgod
+works:
+  aliases:
+    - deeds
+    - work
 world:
   see_also:
     - other/rome
@@ -636,6 +882,13 @@ worship:
     - other/sacrifice
     - other/praise
     - other/honor
+  aliases:
+    - Jerusalem
+worthy:
+  aliases:
+    - worthless
+    - worth
+    - unworthy
 yahweh:
   see_also:
     - other/moses
@@ -646,11 +899,19 @@ yahwehofhosts:
     - kt/authority
   aliases:
     - 'Yahweh of Hosts'
+    - 'Yahweh of hosts'
     - 'God of Hosts'
 zealous:
   aliases:
     - zeal
     - 'earnest desire'
+12tribesofisrael:
+  see_also:
+    - kt/inherit
+    - other/israel
+    - other/jacob
+    - kt/priest
+    - other/tribe
 aaron:
   see_also:
     - kt/priest
@@ -665,6 +926,11 @@ acacia:
   see_also:
     - kt/tabernacle
     - other/arkofthecovenant
+acknowledge:
+  see_also:
+    - other/obey
+    - kt/glory
+    - kt/salvation
 acquit:
   see_also:
     - kt/forgive
@@ -676,8 +942,11 @@ administration:
     - kt/gift
     - other/governor
     - other/hananiah
-    - mishael
+    - other/mishael
     - other/azariah
+adversary:
+  aliases:
+    - enemy
 ahasuerus:
   see_also:
     - other/esther
@@ -698,6 +967,10 @@ ahijah:
   see_also:
     - other/baasha
     - other/shiloh
+alarm:
+  see_also:
+    - other/jehoshaphat
+    - other/moab
 amalekite:
   see_also:
     - other/negev
@@ -705,6 +978,12 @@ amalekite:
     - other/saul
     - other/david
     - other/esau
+amazed:
+  aliases:
+    - marvel
+    - wonder
+    - 'be amazed'
+    - 'be astonished'
 amaziah:
   see_also:
     - other/joash
@@ -712,6 +991,8 @@ amaziah:
 ammon:
   see_also:
     - kt/curse
+  aliases:
+    - Ammonites
 amnon:
   see_also:
     - other/david
@@ -731,7 +1012,7 @@ arabah:
     - other/redsea
     - other/jordanriver
     - other/canaan
-    - saltsea
+    - other/saltsea
     - other/egypt
 aram:
   see_also:
@@ -748,6 +1029,8 @@ arkofthecovenant:
     - kt/testimony
   aliases:
     - ark
+    - 'ark of the covenant'
+    - 'ark of the covenant decrees'
 armor:
   see_also:
     - other/peace
@@ -772,6 +1055,9 @@ asaph:
     - other/descendant
     - other/lute
     - other/harp
+ash:
+  see_also:
+    - other/sackcloth
 asherim:
   see_also:
     - other/idol
@@ -788,10 +1074,21 @@ ashkelon:
     - other/gath
     - other/gaza
     - other/samson
+assign:
+  see_also:
+    - kt/appoint
+    - other/samuel
+    - other/saul
 assyria:
   aliases:
     - Assyrian
     - 'Assyrian Empire'
+athaliah:
+  see_also:
+    - other/ahaziah
+    - other/jehoram
+    - other/joash
+    - other/omri
 awe:
   see_also:
     - kt/fear
@@ -821,6 +1118,11 @@ balaam:
     - other/donkey
     - kt/curse
     - kt/bless
+barley:
+  see_also:
+    - other/grain
+    - other/thresh
+    - other/wheat
 barnabas:
   see_also:
     - kt/christian
@@ -828,6 +1130,21 @@ bartholomew:
   see_also:
     - kt/apostle
     - other/pentecost
+baruch:
+  see_also:
+    - kt/disciple
+    - other/companion
+    - other/jeremiah
+    - kt/prophet
+    - other/babylon
+    - other/israel
+bear:
+  see_also:
+    - other/elisha
+beast:
+  see_also:
+    - other/daniel
+    - other/livestock
 beelzebul:
   see_also:
     - kt/demon
@@ -840,9 +1157,20 @@ benaiah:
     - other/solomon
     - other/joab
     - other/adonijah
+benjamin:
+  aliases:
+    - Benjamite
 bethel:
   see_also:
     - other/abraham
+    - other/jacob
+    - other/jerusalem
+    - other/altar
+bethlehem:
+  see_also:
+    - other/caleb
+    - other/david
+    - other/micah
 bethshemesh:
   see_also:
     - other/philistines
@@ -863,10 +1191,47 @@ biblicaldistance:
 biblicalmoney:
   aliases:
     - 'talent (money)'
+biblicaltimeday:
+  see_also:
+    - kt/dayofthelord
+    - other/biblicaltime
+    - kt/judgmentday
+    - kt/lastday
+  aliases:
+    - day
+biblicaltimehour:
+  see_also:
+    - other/biblicaltime
+biblicaltimemonth:
+  see_also:
+    - other/biblicaltime
+biblicaltimewatch:
+  see_also:
+    - other/biblicaltime
+biblicaltimeweek:
+  see_also:
+    - other/biblicaltime
+    - other/pentecost
+biblicaltimeyear:
+  see_also:
+    - other/biblicaltime
+    - other/biblicaltimemonth
+biblicalvolume:
+  aliases:
+    - ephah
+biblicalweight:
+  aliases:
+    - shekels
+blemish:
+  see_also:
+    - kt/sin
+    - other/sacrifice
 bloodshed:
   see_also:
     - kt/blood
     - other/slaughter
+  aliases:
+    - 'shed blood'
 boaz:
   see_also:
     - kt/redeem
@@ -877,6 +1242,9 @@ bold:
 bookoflife:
   see_also:
     - kt/lamb
+bread:
+  aliases:
+    - 'bread of the presence'
 breastplate:
   see_also:
     - kt/priest
@@ -891,6 +1259,8 @@ bronze:
     - other/armor
     - kt/tabernacle
     - kt/temple
+  aliases:
+    - bronz
 burntoffering:
   see_also:
     - other/altar
@@ -899,6 +1269,9 @@ burntoffering:
 bury:
   see_also:
     - other/tomb
+  aliases:
+    - buried
+    - 'burial place'
 caiaphas:
   see_also:
     - kt/highpriest
@@ -917,6 +1290,8 @@ carmel:
   see_also:
     - other/elijah
     - other/baal
+  aliases:
+    - Carmelitess
 castout:
   aliases:
     - 'drive out'
@@ -934,6 +1309,14 @@ chaff:
 chariot:
   aliases:
     - chariots
+cherethites:
+  see_also:
+    - other/benaiah
+    - other/philistines
+    - other/david
+chief:
+  see_also:
+    - kt/priest
 chronicles:
   see_also:
     - other/exile
@@ -946,17 +1329,33 @@ clan:
   see_also:
     - other/family
     - other/tribe
+  aliases:
+    - clans
 comfort:
   see_also:
     - kt/holyspirit
+    - other/encourage
 command:
   aliases:
+    - Yahweh
     - commandment
+    - commandments
 commander:
   see_also:
     - other/command
     - other/ruler
     - other/centurion
+commit:
+  see_also:
+    - kt/adultery
+    - kt/promise
+    - other/oath
+    - kt/sin
+    - kt/faithful
+conceive:
+  see_also:
+    - other/creation
+    - other/womb
 confirm:
   see_also:
     - kt/trust
@@ -965,6 +1364,12 @@ confirm:
 contempt:
   see_also:
     - other/dishonor
+counselor:
+  aliases:
+    - advise
+    - advice
+    - advised
+    - counsel
 courtyard:
   see_also:
     - kt/temple
@@ -973,6 +1378,8 @@ courtyard:
 cow:
   aliases:
     - calf
+    - bul
+    - bull
 creature:
   see_also:
     - other/creation
@@ -1010,9 +1417,16 @@ darius:
     - other/daniel
     - other/ezra
     - other/nehemiah
+david:
+  see_also:
+    - other/goliath
+    - other/philistines
+    - other/saul
 declare:
   see_also:
     - other/proclaim
+  aliases:
+    - declaration
 decree:
   see_also:
     - other/law
@@ -1025,13 +1439,24 @@ defile:
     - kt/clean
   aliases:
     - 'be defiled'
+    - desecrate
 delilah:
   see_also:
     - other/philistines
     - other/samson
+descendant:
+  aliases:
+    - decendants
+    - descend
+    - descendants
 desert:
   aliases:
     - wilderness
+desolate:
+  see_also:
+    - other/desert
+    - other/ruin
+    - other/waste
 destiny:
   see_also:
     - other/johnthebaptist
@@ -1045,12 +1470,20 @@ destroyer:
     - kt/angel
     - kt/son
     - kt/firstborn
+detestable:
+  see_also:
+    - other/divination
 devastated:
   aliases:
     - devastate
 discernment:
   see_also:
     - kt/wise
+disgrace:
+  see_also:
+    - other/dishonor
+    - other/honor
+    - other/shame
 dishonor:
   see_also:
     - other/honor
@@ -1061,12 +1494,17 @@ disperse:
   see_also:
     - other/persecute
     - kt/believer
+divination:
+  aliases:
+    - diviner
 dove:
   see_also:
     - other/olive
 dung:
   see_also:
     - kt/gate
+  aliases:
+    - feces
 earth:
   see_also:
     - kt/world
@@ -1077,6 +1515,7 @@ edom:
     - other/esau
 egypt:
   aliases:
+    - Egyptia
     - Egyptian
 ekron:
   see_also:
@@ -1084,6 +1523,12 @@ ekron:
     - other/beelzebul
     - other/arkofthecovenant
     - kt/falsegod
+eleazar:
+  see_also:
+    - other/aaron
+    - kt/highpriest
+    - other/david
+    - other/mighty
 eliakim:
   see_also:
     - other/jehoiakim
@@ -1101,9 +1546,23 @@ elisha:
 encourage:
   see_also:
     - kt/exhort
+engedi:
+  see_also:
+    - other/fountain
+    - kt/rest
+    - other/desert
+    - other/judah
+    - other/saltsea
+    - other/david
+    - other/saul
+    - other/stronghold
+    - other/vineyard
 ephod:
   see_also:
     - kt/priest
+ephraim:
+  aliases:
+    - Ephraimites
 esau:
   see_also:
     - other/isaac
@@ -1116,6 +1575,12 @@ esther:
     - other/mordecai
     - other/persia
     - other/babylon
+ethiopia:
+  see_also:
+    - other/cush
+    - other/egypt
+    - other/eunuch
+    - other/philip
 evildoer:
   see_also:
     - kt/evil
@@ -1137,6 +1602,8 @@ falseprophet:
     - kt/prophet
 falsewitness:
   aliases:
+    - 'false witness'
+    - 'false testimony'
     - 'false report'
 family:
   see_also:
@@ -1148,6 +1615,8 @@ father:
     - kt/sonofgod
   aliases:
     - fathers
+    - forefather
+    - ancestor
 feast:
   see_also:
     - other/festival
@@ -1156,6 +1625,9 @@ fellowshipoffering:
     - other/guiltoffering
     - other/burntoffering
     - other/grainoffering
+  aliases:
+    - 'fellowshipoffering -fellowship offering'
+    - 'peace offering'
 festival:
   see_also:
     - other/feast
@@ -1168,6 +1640,7 @@ flock:
 foreigner:
   aliases:
     - stranger
+    - foreigners
     - foreign
 foundation:
   see_also:
@@ -1183,6 +1656,12 @@ freewilloffering:
     - other/sinoffering
     - other/guiltoffering
     - other/grainoffering
+  aliases:
+    - 'freewilloffering -freewill offering'
+furnace:
+  see_also:
+    - other/idol
+    - other/image
 gabriel:
   see_also:
     - kt/angel
@@ -1199,6 +1678,14 @@ gath:
     - other/ashkelon
     - other/ashdod
     - other/goliath
+geshur:
+  aliases:
+    - Geshurites
+gibeah:
+  see_also:
+    - other/benjamin
+    - other/bethel
+    - other/jerusalem
 gilead:
   see_also:
     - other/manasseh
@@ -1208,11 +1695,15 @@ gilgal:
     - other/jericho
     - other/elisha
     - other/elijah
+gird:
+  see_also:
+    - other/loins
 glean:
   see_also:
     - kt/harvest
 goat:
   see_also:
+    - other/sacrifice
     - other/sheep
 golgotha:
   see_also:
@@ -1236,6 +1727,12 @@ grainoffering:
     - other/guiltoffering
     - other/sinoffering
     - other/sacrifice
+grape:
+  aliases:
+    - raisin
+groan:
+  see_also:
+    - other/cry
 guiltoffering:
   see_also:
     - other/sinoffering
@@ -1243,7 +1740,9 @@ guiltoffering:
     - other/grainoffering
 hades:
   see_also:
+    - kt/heaven
     - kt/hell
+    - other/tomb
 hagar:
   see_also:
     - other/abraham
@@ -1253,20 +1752,19 @@ haggai:
     - other/kingdomofjudah
     - other/babylon
 hamath:
-  see_also:
-    - other/nebuchadnezzar
-    - other/babylon
-    - other/canaan
-    - other/syria
-    - other/hittite
+  aliases:
+    - Lebo-Hamath
 hananiah:
   see_also:
     - other/azariah
-    - mishael
+    - other/mishael
     - other/daniel
     - other/babylon
     - other/jeremiah
     - other/falseprophet
+hand:
+  aliases:
+    - hands
 hard:
   see_also:
     - other/heart
@@ -1283,6 +1781,9 @@ haughty:
 heal:
   see_also:
     - kt/miracle
+hebrew:
+  aliases:
+    - 'Jews'' language'
 heir:
   see_also:
     - kt/inherit
@@ -1300,6 +1801,16 @@ highplaces:
     - other/idol
     - kt/worship
     - other/altar
+hilkiah:
+  see_also:
+    - other/eliakim
+    - other/hezekiah
+    - kt/highpriest
+    - other/josiah
+    - other/kingdomofjudah
+    - other/law
+    - kt/worship
+    - kt/yahweh
 hivite:
   see_also:
     - other/canaan
@@ -1308,17 +1819,13 @@ hivite:
 holycity:
   see_also:
     - kt/heaven
-honey:
-  see_also:
-    - other/jonathan
-    - other/samson
-    - other/philistines
-    - other/johnthebaptist
 honor:
   see_also:
     - other/dishonor
     - kt/glory
     - kt/glorify
+  aliases:
+    - respect
 hooves:
   see_also:
     - other/cow
@@ -1331,6 +1838,19 @@ hooves:
 horeb:
   see_also:
     - other/sinai
+horn:
+  see_also:
+    - other/cow
+    - other/sheep
+    - other/goat
+    - other/trumpet
+    - kt/power
+    - kt/authority
+    - other/royal
+horror:
+  see_also:
+    - kt/fear
+    - other/terror
 horse:
   see_also:
     - other/chariot
@@ -1347,8 +1867,20 @@ hoshea:
 house:
   see_also:
     - other/descendant
+    - other/household
     - kt/temple
     - other/kingdomofisrael
+houseofdavid:
+  see_also:
+    - other/house
+humble:
+  aliases:
+    - humbles
+humiliate:
+  see_also:
+    - other/disgrace
+    - other/humble
+    - other/shame
 idol:
   see_also:
     - kt/falsegod
@@ -1359,12 +1891,27 @@ image:
     - other/idol
     - kt/falsegod
     - kt/god
+    - kt/imageofgod
   aliases:
+    - 'carved idols'
     - 'carved figure'
+    - 'cast metal figure'
+instruct:
+  see_also:
+    - other/command
+    - other/decree
+    - other/teach
+  aliases:
+    - instruction
 integrity:
   see_also:
     - other/josephot
     - other/daniel
+interpret:
+  see_also:
+    - other/babylon
+    - other/daniel
+    - kt/prophet
 isaac:
   see_also:
     - other/abraham
@@ -1382,6 +1929,10 @@ israel:
     - Israelites
 issachar:
   see_also:
+    - other/12tribesofisrael
+jacob:
+  see_also:
+    - kt/covenant
     - other/12tribesofisrael
 jamesbrotherofjesus:
   see_also:
@@ -1402,6 +1953,13 @@ jehoiakim:
     - other/jeremiah
     - other/kingdomofjudah
     - other/nebuchadnezzar
+jehoram:
+  see_also:
+    - other/jehoshaphat
+    - other/joram
+    - other/judah
+    - other/ahab
+    - other/kingdomofisrael
 jehoshaphat:
   see_also:
     - kt/priest
@@ -1423,6 +1981,10 @@ jehu:
 jeremiah:
   see_also:
     - kt/prophet
+jeroboam:
+  see_also:
+    - other/kingdomofisrael
+    - other/kingdomofjudah
 jerusalem:
   see_also:
     - other/david
@@ -1446,6 +2008,20 @@ jezebel:
     - other/ahab
     - other/elijah
     - other/idol
+jezreel:
+  see_also:
+    - other/ahab
+    - other/elijah
+    - other/issachar
+    - other/jezebel
+    - other/palace
+    - other/saltsea
+  aliases:
+    - Jezreelitess
+joab:
+  see_also:
+    - other/absalom
+    - other/david
 joash:
   see_also:
     - other/gideon
@@ -1465,6 +2041,15 @@ jonathan:
     - other/saul
     - other/david
     - other/jeremiah
+joram:
+  see_also:
+    - other/ahab
+    - other/jehoram
+    - other/jezebel
+    - other/kingdomofjudah
+jordanriver:
+  aliases:
+    - Jordan
 joshua:
   see_also:
     - other/moses
@@ -1490,16 +2075,33 @@ judah:
     - other/jew
     - other/judea
     - other/jacob
+  aliases:
+    - terror
+    - favor
+    - horse
+    - silver
+    - declaration
 judasiscariot:
   see_also:
-    - kt/apostle
-    - kt/betray
+    - other/judassonofjames
+judassonofjames:
+  see_also:
+    - james
+    - other/judasiscariot
+    - james
+    - kt/thetwelve
 judgeposition:
   see_also:
     - kt/judge
 kadesh:
   see_also:
     - other/syria
+kedar:
+  see_also:
+    - other/arabia
+    - other/goat
+    - other/ishmael
+    - other/sacrifice
 kedesh:
   see_also:
     - other/canaan
@@ -1514,19 +2116,37 @@ kingdom:
     - other/kingdomofjudah
     - other/judah
     - kt/priest
+kingdomofisrael:
+  aliases:
+    - 'Kingdom of Israel'
 kingdomofjudah:
   aliases:
-    - 'kingdom of Judah'
     - Judah
+    - 'Kingdom of Judah'
+    - 'kingdom of Judah'
 know:
+  see_also:
+    - kt/reveal
   aliases:
+    - known
     - knowledge
+korah:
+  see_also:
+    - other/aaron
+    - kt/authority
+    - other/caleb
+    - other/descendant
+    - other/esau
+    - kt/priest
 laban:
   see_also:
     - other/jacob
     - other/nahor
     - other/leah
     - other/rachel
+labor:
+  aliases:
+    - labored
 laborpains:
   aliases:
     - 'birth pains'
@@ -1554,18 +2174,39 @@ lebanon:
   see_also:
     - other/phonecia
     - other/cedar
+leopard:
+  see_also:
+    - other/beast
+leviathan:
+  see_also:
+    - other/isaiah
+    - other/job
+    - other/serpent
 levite:
   see_also:
     - kt/priest
     - kt/temple
     - other/12tribesofisrael
-like:
+locust:
   see_also:
-    - kt/imageofgod
-    - other/image
+    - other/plague
+    - other/israel
+    - other/captive
+    - other/egypt
+    - other/johnthebaptist
+loins:
+  see_also:
+    - other/descendant
+    - other/gird
 lot:
   see_also:
     - other/abraham
+lover:
+  see_also:
+    - kt/adultery
+    - other/idol
+    - kt/falsegod
+    - kt/love
 lowly:
   see_also:
     - other/humble
@@ -1576,6 +2217,10 @@ lute:
 magistrate:
   see_also:
     - other/judgeposition
+magnify:
+  see_also:
+    - kt/exalt
+    - kt/glorify
 malachi:
   see_also:
     - other/nehemiah
@@ -1585,9 +2230,18 @@ malachi:
     - other/captive
 manasseh:
   see_also:
-    - other/ephraim
     - other/altar
+    - other/dan
+    - other/ephraim
+    - other/ezra
     - other/12tribesofisrael
+    - other/idol
+    - other/jacob
+    - other/judah
+manofgod:
+  see_also:
+    - kt/prophet
+    - other/honor
 mary:
   see_also:
     - kt/jesus
@@ -1609,17 +2263,35 @@ mede:
 mediator:
   see_also:
     - kt/priest
+melt:
+  see_also:
+    - other/heart
+memphis:
+  see_also:
+    - other/egypt
+    - other/nileriver
 messenger:
   see_also:
     - kt/prophet
     - kt/apostle
     - kt/angel
+michael:
+  see_also:
+    - kt/angel
+    - other/messenger
 mind:
   see_also:
     - other/heart
     - kt/soul
     - kt/believe
     - kt/believer
+mishael:
+  see_also:
+    - other/aaron
+    - other/azariah
+    - other/babylon
+    - other/daniel
+    - other/hananiah
 mizpah:
   see_also:
     - other/kingdomofjudah
@@ -1628,6 +2300,10 @@ mizpah:
     - other/judah
     - other/david
     - other/saul
+mock:
+  aliases:
+    - ridicule
+    - insult
 mold:
   see_also:
     - kt/falsegod
@@ -1641,6 +2317,10 @@ mordecai:
 moses:
   see_also:
     - kt/promisedland
+mounthermon:
+  see_also:
+    - other/israel
+    - other/seaofgalilee
 mystery:
   aliases:
     - 'hidden things'
@@ -1652,9 +2332,17 @@ naphtali:
   see_also:
     - other/12tribesofisrael
     - other/jacob
+nation:
+  aliases:
+    - nations
 nazareth:
   see_also:
     - kt/christ
+nazirite:
+  see_also:
+    - other/samson
+    - other/sacrifice
+    - kt/vow
 negev:
   see_also:
     - other/abraham
@@ -1664,6 +2352,9 @@ nehemiah:
 newmoon:
   see_also:
     - other/earth
+nileriver:
+  aliases:
+    - 'Nile River'
 oak:
   see_also:
     - kt/holy
@@ -1671,6 +2362,7 @@ oath:
   see_also:
     - kt/vow
   aliases:
+    - swear
     - swore
 obadiah:
   see_also:
@@ -1678,7 +2370,7 @@ obadiah:
     - other/esau
     - other/ezekiel
     - other/daniel
-    - zedekiah
+    - other/zedekiah
 obey:
   aliases:
     - obedience
@@ -1689,6 +2381,15 @@ offspring:
 oil:
   see_also:
     - other/olive
+omri:
+  see_also:
+    - other/ahab
+    - other/israel
+    - other/jeroboam
+    - other/tirzah
+onhigh:
+  aliases:
+    - 'on high'
 ordinance:
   see_also:
     - other/command
@@ -1696,16 +2397,25 @@ ordinance:
     - kt/lawofmoses
     - other/ordinance
     - other/statute
+overtake:
+  see_also:
+    - other/prey
 ox:
   see_also:
     - other/yoke
     - other/cow
+  aliases:
+    - oxen
 paddanaram:
   see_also:
     - other/haran
     - other/rebekah
     - other/abraham
     - other/canaan
+pagan:
+  see_also:
+    - kt/falsegod
+    - other/sacrifice
 pardon:
   see_also:
     - kt/forgive
@@ -1719,7 +2429,18 @@ patient:
     - kt/endure
 peoplegroup:
   aliases:
+    - 'burnt offering'
+    - 'people group'
     - people
+    - 'poor (the poor)'
+    - 'people of Israel'
+peor:
+  see_also:
+    - other/saltsea
+    - other/moab
+    - other/baal
+    - kt/falsegod
+    - kt/worship
 persecute:
   see_also:
     - kt/christian
@@ -1727,6 +2448,10 @@ persecute:
 persia:
   see_also:
     - other/esther
+perverse:
+  see_also:
+    - kt/evil
+    - kt/turn
 peter:
   see_also:
     - kt/disciple
@@ -1748,21 +2473,47 @@ philistia:
     - other/philistines
     - other/gaza
     - other/joppa
+phinehas:
+  see_also:
+    - other/arkofthecovenant
+    - other/jordanriver
+    - other/midian
+    - other/philistines
+    - other/samuel
+pierce:
+  see_also:
+    - kt/cross
+    - kt/jesus
+    - other/servant
 pillar:
   see_also:
     - other/foundation
+    - other/idol
+    - other/image
 pit:
   see_also:
     - other/abyss
     - other/prison
     - kt/hell
+plead:
+  aliases:
+    - pleading
+    - petition
 pledge:
   see_also:
     - kt/promise
     - kt/vow
+plow:
+  see_also:
+    - other/ox
+pomegranate:
+  see_also:
+    - other/egypt
 possess:
   see_also:
     - other/canaan
+  aliases:
+    - possessions
 potiphar:
   see_also:
     - other/josephot
@@ -1772,16 +2523,44 @@ potiphar:
 praise:
   see_also:
     - kt/worship
+  aliases:
+    - Asaph
+pray:
+  aliases:
+    - prayer
 preach:
   see_also:
     - kt/jesus
     - kt/kingdomofgod
+prey:
+  see_also:
+    - kt/oppress
+prince:
+  see_also:
+    - kt/angel
+    - kt/authority
+    - kt/christ
+    - kt/demon
+    - kt/lord
+    - kt/power
+    - other/ruler
+    - kt/savior
+    - kt/spirit
 proclaim:
   aliases:
     - proclamation
 profane:
   see_also:
     - kt/holy
+prosper:
+  see_also:
+    - kt/bless
+    - kt/spirit
+  aliases:
+    - prosperity
+prostrate:
+  see_also:
+    - kt/bow
 proud:
   see_also:
     - other/humble
@@ -1789,10 +2568,25 @@ proverb:
   see_also:
     - kt/wise
     - kt/true
+prudent:
+  see_also:
+    - kt/wise
+purple:
+  see_also:
+    - other/philippi
+    - other/royal
+push:
+  see_also:
+    - kt/oppress
+    - other/persecute
+    - other/reject
 rabbah:
   see_also:
     - other/david
     - other/ammon
+rage:
+  aliases:
+    - raged
 reap:
   see_also:
     - kt/harvest
@@ -1802,9 +2596,25 @@ rebekah:
 redsea:
   see_also:
     - kt/promisedland
+reed:
+  see_also:
+    - other/egypt
+    - other/moses
+    - other/nileriver
+reject:
+  see_also:
+    - other/command
+    - other/disobey
+    - other/obey
+  aliases:
+    - rejection
+    - 'push away'
 rejoice:
   see_also:
     - kt/joy
+  aliases:
+    - rejoices
+    - exult
 reuben:
   see_also:
     - other/12tribesofisrael
@@ -1814,6 +2624,10 @@ reverence:
   see_also:
     - kt/fear
     - other/obey
+rimmon:
+  see_also:
+    - other/judea
+    - other/zebulun
 robe:
   see_also:
     - other/tunic
@@ -1824,13 +2638,18 @@ royal:
   see_also:
     - other/king
     - other/queen
+ruin:
+  aliases:
+    - rubble
 ruler:
   see_also:
     - other/king
     - other/governor
     - other/synagogue
+    - kt/authority
   aliases:
     - rule
+    - rulers
 sackcloth:
   aliases:
     - 'sackcloth and ashes'
@@ -1844,6 +2663,8 @@ sacrifice:
     - other/sinoffering
     - other/drinkoffering
   aliases:
+    - 'sacrifice -sacrifice'
+    - offering
     - sacrificing
 sadducee:
   see_also:
@@ -1851,9 +2672,20 @@ sadducee:
     - other/pharisee
     - kt/priest
     - other/council
+saltsea:
+  see_also:
+    - other/ammon
+    - other/arabah
+    - other/jordanriver
+    - other/moab
+    - other/negev
 samaria:
   see_also:
     - other/assyria
+    - other/galilee
+    - other/judea
+    - other/sharon
+    - other/kingdomofisrael
 samson:
   see_also:
     - kt/deliverer
@@ -1864,19 +2696,42 @@ samuel:
 sarah:
   see_also:
     - other/abraham
+scepter:
+  see_also:
+    - kt/righteous
 scribe:
   see_also:
     - kt/lawofmoses
 scroll:
   see_also:
     - kt/wordofgod
+seacow:
+  see_also:
+    - other/cow
+    - other/ox
+  aliases:
+    - 'Sea cow'
 seal:
   see_also:
     - kt/holyspirit
   aliases:
     - 'keep secret'
+seek:
+  see_also:
+    - kt/justice
+    - kt/true
+send:
+  aliases:
+    - 'sent out'
+sennacherib:
+  see_also:
+    - other/assyria
+    - other/babylon
+    - other/kingdomofjudah
+    - other/nineveh
 servant:
   aliases:
+    - Yahweh
     - slave
     - slavery
 sex:
@@ -1885,10 +2740,15 @@ sex:
     - 'sleep with'
 shame:
   aliases:
+    - ashamed
     - disgrace
     - shameful
-    - ashamed
     - disgraceful
+sheba:
+  see_also:
+    - other/arabia
+    - other/ethiopia
+    - other/solomon
 sheep:
   aliases:
     - ram
@@ -1899,6 +2759,11 @@ shiloh:
     - other/jerusalem
   aliases:
     - Shilonite
+shimei:
+  see_also:
+    - other/absalom
+    - other/benjamin
+    - other/levite
 sidon:
   see_also:
     - other/canaan
@@ -1911,6 +2776,11 @@ simeon:
     - other/jacob
     - other/canaan
     - other/judah
+simonthezealot:
+  see_also:
+    - kt/apostle
+    - kt/disciple
+    - kt/thetwelve
 sinai:
   see_also:
     - kt/promisedland
@@ -1919,8 +2789,7 @@ sinoffering:
     - kt/sin
 sister:
   see_also:
-    - kt/brother
-    - kt/inchrist
+    - kt/spirit
 skull:
   see_also:
     - other/golgotha
@@ -1930,6 +2799,15 @@ slain:
 slaughter:
   see_also:
     - other/slain
+  aliases:
+    - slaughtered
+snare:
+  see_also:
+    - kt/tempt
+    - kt/satan
+snow:
+  see_also:
+    - kt/purify
 solomon:
   see_also:
     - other/david
@@ -1937,6 +2815,13 @@ solomon:
     - kt/temple
     - other/israel
     - other/judah
+sorcery:
+  see_also:
+    - kt/adultery
+    - kt/demon
+    - other/divination
+    - other/magic
+    - other/sacrifice
 splendor:
   see_also:
     - kt/glory
@@ -1955,8 +2840,20 @@ statute:
   aliases:
     - statutes
 stiffnecked:
+  see_also:
+    - other/proud
   aliases:
     - stiff-necked
+storehouse:
+  see_also:
+    - kt/consecrate
+    - other/dedicate
+    - other/famine
+    - other/grain
+    - kt/temple
+strength:
+  see_also:
+    - kt/faithful
 strongdrink:
   see_also:
     - other/wine
@@ -1966,7 +2863,9 @@ stronghold:
     - kt/refuge
     - kt/falsegod
   aliases:
+    - fortress
     - fortified
+    - 'fortified city'
 stumble:
   see_also:
     - other/stumblingblock
@@ -1976,6 +2875,11 @@ subject:
 submit:
   see_also:
     - other/subject
+sweep:
+  see_also:
+    - other/assyria
+    - other/isaiah
+    - other/judah
 synagogue:
   see_also:
     - kt/temple
@@ -1987,14 +2891,22 @@ tamar:
 tax:
   see_also:
     - other/taxcollector
+teach:
+  see_also:
+    - kt/teacher
+    - kt/wordofgod
+    - other/instruct
 tencommandments:
   see_also:
     - kt/lawofmoses
 tent:
   see_also:
+    - other/curtain
     - kt/tabernacle
     - other/abraham
     - other/sinai
+  aliases:
+    - 'tent of meeting'
 tentofmeeting:
   see_also:
     - kt/priest
@@ -2004,6 +2916,30 @@ tentofmeeting:
 terah:
   see_also:
     - other/abraham
+terror:
+  aliases:
+    - terrors
+thief:
+  see_also:
+    - kt/satan
+thorn:
+  see_also:
+    - other/crown
+thresh:
+  aliases:
+    - 'threshing floor'
+time:
+  see_also:
+    - other/age
+    - other/biblicaltime
+    - other/tribulation
+tirzah:
+  see_also:
+    - other/canaan
+    - kt/inherit
+    - other/kingdomofisrael
+    - other/manasseh
+    - other/shechem
 tomb:
   see_also:
     - kt/death
@@ -2011,12 +2947,22 @@ tomb:
 tongue:
   aliases:
     - language
+torment:
+  see_also:
+    - other/beast
 tradition:
   see_also:
     - kt/lawofmoses
+trample:
+  see_also:
+    - other/humiliate
+    - other/thresh
 trance:
   see_also:
     - other/vision
+tremble:
+  see_also:
+    - kt/fear
 trial:
   see_also:
     - kt/tempt
@@ -2026,6 +2972,7 @@ trial:
 tribe:
   see_also:
     - other/clan
+    - other/nation
     - other/peoplegroup
     - other/12tribesofisrael
 tribulation:
@@ -2038,23 +2985,52 @@ trouble:
   see_also:
     - kt/afflict
     - other/persecute
+trumpet:
+  see_also:
+    - other/horn
+  aliases:
+    - horn
+understand:
+  see_also:
+    - other/know
+    - kt/wise
+    - kt/believe
 uzziah:
   see_also:
     - other/kingdomofjudah
     - other/king
+  aliases:
+    - Amaziah
+vain:
+  see_also:
+    - other/idol
+    - kt/worthy
+vashti:
+  see_also:
+    - other/ahasuerus
+    - other/esther
+    - other/persia
 virgin:
   see_also:
     - kt/christ
     - kt/jesus
-water:
+watchtower:
+  aliases:
+    - tower
+wheat:
   see_also:
-    - kt/life
-    - kt/spirit
-    - kt/holyspirit
-    - kt/power
+    - other/barley
+    - other/grain
+    - other/thresh
 winepress:
   see_also:
     - other/grape
+wisemen:
+  see_also:
+    - other/babylon
+    - other/daniel
+    - other/mediterranean
+    - other/nebuchadnezzar
 written:
   see_also:
     - kt/lawofmoses
@@ -2070,13 +3046,34 @@ zadok:
 zebulun:
   see_also:
     - other/12tribesofisrael
-zion:
+zechariahot:
   see_also:
-    - other/abraham
-    - other/david
-    - other/jerusalem
-    - other/bethlehem
-    - other/jebusites
+    - other/darius
+    - other/ezra
+    - other/jehoshaphat
+    - other/nehemiah
+    - other/zerubbabel
+zedekiah:
+  see_also:
+    - other/nebuchadnezzar
+    - other/jeremiah
+    - other/ezekiel
+zephaniah:
+  see_also:
+    - other/josiah
+zerubbabel:
+  see_also:
+    - other/judah
+    - other/babylon
+    - other/captive
+    - other/cyrus
+    - other/ezra
+    - other/persia
+    - kt/highpriest
+    - other/jehoiakim
+    - other/joshua
+    - other/nehemiah
+    - other/zedekiah
 zoar:
   see_also:
     - other/lot
