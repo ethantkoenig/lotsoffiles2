@@ -10,9 +10,9 @@ The terms "repent" and "repentance" refer to turning away from sin and turning b
 
 ## Translation Suggestions: ##
 
-* The term, "repent" can be translated with a word or phrase that means, "turn back (to God)" or "turn away from sin and toward God" or "turn toward God, away from sin."
-* Often the term, "repentance" can be translated using the verb "repent." For example, "God has given repentance to Israel" could be translated as, "God has enabled Israel to repent."
-* Other ways to translate "repentance" could include "to turn away from sin" or "turning to God and away from sin."
+* The term "repent" can be translated with a word or phrase that means "turn back (to God)" or "turn away from sin and toward God" or "turn toward God, away from sin."
+* Often the term "repentance" can be translated using the verb "repent." For example, "God has given repentance to Israel" could be translated as "God has enabled Israel to repent."
+* Other ways to translate "repentance" could include "turning away from sin" or "turning to God and away from sin."
 
 (See also: [forgive](../kt/forgive.md) **·** [sin](../kt/sin.md) **·** [turn](../kt/turn.md))
 
