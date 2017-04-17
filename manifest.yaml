@@ -1,0 +1,45 @@
+dublin_core:
+    conformsto: 'rc0.2b1'
+    contributor:
+        - 'Wycliffe Associates'
+    creator: 'Wycliffe Associates'
+    description: 'Definitions of words to help translators of the Bible and Open Bible Stories'
+    format: 'text/markdown'
+    identifier: 'tw'
+    issued: '2016-09-30'
+    language:
+        identifier: 'en'
+        title: 'English'
+        direction: 'ltr'
+    modified: '2017-04-11'
+    publisher: 'Door43'
+    relation:
+        - 'en/ulb'
+        - 'en/udb'
+        - 'en/obs'
+        - 'en/tn'
+        - 'en/tq'
+    rights: 'CC BY-SA 4.0'
+    source:
+        -
+            identifier: 'tw'
+            language: 'en'
+            version: '4'
+    subject: 'Translation Words'
+    title: 'translationWords'
+    type: 'dict'
+    version: '5'
+
+checking:
+    checking_entity:
+        - 'Wycliffe Associates'
+    checking_level: '3'
+
+projects:
+    -
+        categories:
+        identifier: 'bible'
+        path: './bible'
+        sort: 0
+        title: 'translationWords'
+        versification: ufw
