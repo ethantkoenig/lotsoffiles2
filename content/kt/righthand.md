@@ -14,10 +14,10 @@ The figurative expression "right hand" refers to the place of honor or strength 
 * Sometimes the term "right hand" literally refers to a person's right hand, as when Roman soldiers put a staff into Jesus' right hand to mock him. This should be translated using the term that the language uses to refer to this hand. 
 * Regarding figurative uses, if an expression that includes the term "right hand" does not have the same meaning in the project language, then consider whether that language has a different expression with the same meaning.
 * The expression "at the right hand of" could be translated as "on the right side of" or "in the place of honor beside" or "in the position of strength" or "ready to help."
-* Ways to translate "with his right hand" could include, "with authority" or "using power" or "with his amazing strength."
-* The figurative expression "his right hand and his mighty arm" uses two ways of emphasizing God's power and great strength. One way to translate this expression could be, "his amazing strength and mighty power." (See: [parallelism](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_parallelism.md))
-* The expression "their right hand is falsehood" could be translated by, "even the most honorable thing about them is corrupted by lies" or "their place of honor is corrupted by deception" or "they use lies to make themselves powerful." 
-* In Psalm 105:9, God calls for an accuser to be at the "right hand" of a wicked leader sent to punish his rebellious people. This could be translated as, "appoint an accuser to have the place of honor beside that wicked leader" or "appoint an accuser to help that wicked leader punish them."
+* Ways to translate "with his right hand" could include "with authority" or "using power" or "with his amazing strength."
+* The figurative expression "his right hand and his mighty arm" uses two ways of emphasizing God's power and great strength. One way to translate this expression could be "his amazing strength and mighty power." (See: [parallelism](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_parallelism.md))
+* The expression "their right hand is falsehood" could be translated as, "even the most honorable thing about them is corrupted by lies" or "their place of honor is corrupted by deception" or "they use lies to make themselves powerful." 
+* In Psalm 109.6, God calls for an accuser to be at the "right hand" of a wicked leader sent to punish his rebellious people. This could be translated as, "appoint an accuser to have the place of honor beside that wicked leader" or "appoint an accuser to help that wicked leader punish them."
 
 (See also: [accuse](../other/accuse.md) **·** [evil](../kt/evil.md) **·** [honor](../other/honor.md) **·** [mighty](../other/mighty.md) **·** [punish](../other/punish.md) **·** [rebel](../other/rebel.md))
 
