@@ -5,15 +5,15 @@
 The terms "restore" and "restoration" refer to causing something to return to its original and better condition.
 
 * When a diseased body part is restored, this means it has been "healed."
-* A broken relationship that is restored, has been "reconciled." God restores sinful people and brings them back to himself.
-* If people are restored to their home country it means they have been "brought back" or "returned" to that country.
+* A broken relationship that is restored has been "reconciled." God restores sinful people and brings them back to himself.
+* If people have been restored to their home country, they have been "brought back" or "returned" to that country.
 
 ## Translation Suggestions: ##
 
-* Depending on the context, ways to translate "restore" could include: "renew" or "repay" or "return" or "heal" or "bring back."
-* An expression for this term could be "make new" or "make like new again."
-* When property is "restored," it means it has been "repaired" or "replaced" or "given back" to its owner.
-* Depending on the context, "restoration," could be translated as, "renewal" or "healing" or "reconciliation."
+* Depending on the context, ways to translate "restore" could include "renew" or "repay" or "return" or "heal" or "bring back."
+* Other expressions for this term could be "make new" or "make like new again."
+* When property is "restored," it has been "repaired" or "replaced" or "given back" to its owner.
+* Depending on the context, "restoration" could be translated as "renewal" or "healing" or "reconciliation."
 
 ## Bible References: ##
 
