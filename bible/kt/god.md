@@ -53,7 +53,7 @@ In the Bible, the term "God" refers to the eternal being who created the univers
 * __[05:03](en/tn/obs/help/05/03)__ "I am __God__  Almighty. I will make a covenant with you."
 * __[09:14](en/tn/obs/help/09/14)__ __God__  said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am Yahweh, the __God__  of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
 * __[10:02](en/tn/obs/help/10/02)__ Through these plagues, __God__  showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's gods.
-* __[16:01](en/tn/obs/help/16/01)__ The Israelites began to worship the Canaanite gods instead of Yahweh, the true __God.__
+* __[16:01](en/tn/obs/help/16/01)__ The Israelites began to worship the Canaanite gods instead of Yahweh, the true __God__.
 * __[22:07](en/tn/obs/help/22/07)__ You, my son, will be called the prophet of the __Most High God__  who will prepare the people to receive the Messiah!"
 * __[24:09](en/tn/obs/help/24/09)__ There is only one __God__. But John heard __God__  the Father speak, and saw Jesus the Son and the Holy Spirit when he baptized Jesus.
 * __[25:07](en/tn/obs/help/25/07)__ "Worship only the Lord your __God__  and only serve him."

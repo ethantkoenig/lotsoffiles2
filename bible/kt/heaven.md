@@ -34,7 +34,7 @@ The term that is translated as "heaven" usually refers to where God lives. The s
 
 ## Examples from the Bible stories: ##
 
-* __[04:02](en/tn/obs/help/04/02)__ They even began building a tall tower to reach __heaven.__
+* __[04:02](en/tn/obs/help/04/02)__ They even began building a tall tower to reach __heaven__.
 * __[14:11](en/tn/obs/help/14/11)__ He (God) gave them bread from __heaven__, called "manna."
 * __[23:07](en/tn/obs/help/23/07)__ Suddenly, the skies were filled with angels praising God, saying, "Glory to God in __heaven__  and peace on earth to the people he favors!"
 * __[29:09](en/tn/obs/help/29/09)__ Then Jesus said, "This is what my __heavenly__  Father will do to every one of you if you do not forgive your brother from your heart."
