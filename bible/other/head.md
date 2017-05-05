@@ -30,7 +30,3 @@ In the Bible, the word "head" is used with several figurative meanings.
 * [Colossians 02:10-12](en/tn/col/help/02/10)
 * [Colossians 02:18-19](en/tn/col/help/02/18)
 * [Numbers 01:4-6](en/tn/num/help/01/04)
-
-* [[../other/haughty.md]]: [[other/haughty?do=diff&rev2[0]=1422634235&rev2[1]=&difftype=sidebyside]]
-* [[../other/head.md]]: [[other/head?do=diff&rev2[0]=1427910570&rev2[1]=1427916683&difftype=sidebyside]] | [[other/head?do=diff&rev2[0]=1427916683&rev2[1]=&difftype=sidebyside]]
-* [[../other/heal.md]]: [[other/heal?do=diff&rev2[0]=1412189656&rev2[1]=&difftype=sidebyside]]

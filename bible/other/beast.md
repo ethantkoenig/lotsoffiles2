@@ -10,10 +10,7 @@ In the Bible, the term "beast" is often just another way of saying "animal."
 * Some of these beasts are described as having strange features, such as several heads and many horns. They often have power and authority, indicating that they may represent countries, nations, or other political powers.
 * Ways to translate this could include "creature" or "created thing" or "animal" or "wild animal," depending on the context.
 
-(See also: [[../kt/authority.md]], [[../other/daniel.md]], [[../other/livestock.md]], [[../other/nation.md]], [[../kt/power.md]], [[../kt/reveal.md]])
-
-* [[../other/bathsheba.md]]: [[other/bathsheba?do=diff&rev2[0]=1412187431&rev2[1]=&difftype=sidebyside]]
-* [[../other/beelzebul.md]]: [[other/beelzebul?do=diff&rev2[0]=1414961608&rev2[1]=1415116965&difftype=sidebyside]] | [[other/beelzebul?do=diff&rev2[0]=1415116965&rev2[1]=&difftype=sidebyside]]
+(See also: [[../kt/authority.md]], [[../other/daniel.md]], [[../other/livestock.md]], [[../other/nation.md]], [[../kt/power.md]], [[../kt/reveal.md]], [[../other/beelzebul.md]])
 
 ## Bible References: ##
 

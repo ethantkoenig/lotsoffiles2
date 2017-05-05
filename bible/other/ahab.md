@@ -21,6 +21,6 @@ Ahab was a very evil king who reigned over the northern kingdom of Israel from 8
 
 ## Examples from the Bible stories: ##
 
-* __[[19:02](en/tn/obs/help/19/02)__ Elijah was a prophet when __Ahab__  was king over the kingdom of Israel. __Ahab__  was an evil man who encouraged people to worship a false god named Baal.
-* __[[19:03](en/tn/obs/help/19/03)____Ahab__  and his army looked for Elijah, but they could not find him.
-* __[[19:05](en/tn/obs/help/19/05)__ After three and a half years, God told Elijah to return to the kingdom of Israel and speak with __Ahab__  because he was going to send rain again.
+* __[19:02](en/tn/obs/help/19/02)__ Elijah was a prophet when __Ahab__  was king over the kingdom of Israel. __Ahab__  was an evil man who encouraged people to worship a false god named Baal.
+* __[19:03](en/tn/obs/help/19/03)__ __Ahab__  and his army looked for Elijah, but they could not find him.
+* __[19:05](en/tn/obs/help/19/05)__ After three and a half years, God told Elijah to return to the kingdom of Israel and speak with __Ahab__  because he was going to send rain again.
