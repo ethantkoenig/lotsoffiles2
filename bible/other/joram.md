@@ -11,7 +11,7 @@ Joram son of Ahab was a king of Israel. He was also sometimes referred to as "Je
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [Ahab](../other/ahab.md), [David](../other/david.md), [Elijah](../other/elijah.md), [Hamath](../other/hamath.md), [Jehoram](../other/jehoram.md), [kingdom of Israel](../other/kingdomofisrael.md),[Judah](../other/kingdomofjudah.md), [Obadiah](../other/obadiah.md),[prophet](../kt/prophet.md))
+(See also: [Ahab](../other/ahab.md), [David](../other/david.md), [Elijah](../other/elijah.md), [Hamath](../other/hamath.md), [Jehoram](../other/jehoram.md), [kingdom of Israel](../other/kingdomofisrael.md), [Judah](../other/kingdomofjudah.md), [Obadiah](../other/obadiah.md), [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

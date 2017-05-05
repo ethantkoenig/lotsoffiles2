@@ -11,7 +11,7 @@ The expression "house of David" refers to the family or descendants of King Davi
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [David](../other/david.md), [descendant](../other/descendant.md),[house](../other/house.md), [Jesus](../kt/jesus.md), [king](../other/king.md))
+(See also: [David](../other/david.md), [descendant](../other/descendant.md), [house](../other/house.md), [Jesus](../kt/jesus.md), [king](../other/king.md))
 
 ## Bible References: ##
 

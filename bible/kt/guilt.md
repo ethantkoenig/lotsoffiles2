@@ -12,7 +12,7 @@ The term "guilt" refers to the fact of having sinned or committed a crime.
 * Some languages might translate "guilt" as "the weight of sin" or "the counting of sins."
 * Ways to translate "to be guilty" could include a word or phrase that means, "to be at fault" or "having done something morally wrong" or "having committed a sin."
 
-(See also: [innocent](../kt/innocent.md), [iniquity](../kt/iniquity.md), [punish](../other/punish.md), [sin](../kt/sin.md),)
+(See also: [innocent](../kt/innocent.md), [iniquity](../kt/iniquity.md), [punish](../other/punish.md), [sin](../kt/sin.md))
 
 ## Bible References: ##
 

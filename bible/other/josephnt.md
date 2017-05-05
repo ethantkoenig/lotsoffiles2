@@ -11,7 +11,7 @@ Joseph was Jesus' earthly father and raised him as his son. He was a righteous m
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [Christ](../kt/christ.md), [Galilee](../other/galilee.md),[Jesus](../kt/jesus.md), [Nazareth](../other/nazareth.md), [Son of God](../kt/sonofgod.md), [virgin](../other/virgin.md))
+(See also: [Christ](../kt/christ.md), [Galilee](../other/galilee.md), [Jesus](../kt/jesus.md), [Nazareth](../other/nazareth.md), [Son of God](../kt/sonofgod.md), [virgin](../other/virgin.md))
 
 ## Bible References: ##
 

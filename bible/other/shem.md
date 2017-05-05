@@ -10,7 +10,7 @@ Shem was one of Noah's three sons who went with him into the ark during the worl
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [Abraham](../other/abraham.md), [Arabia](../other/arabia.md), [ark](../other/ark.md), [flood](../other/flood.md),[Noah](../other/noah.md))
+(See also: [Abraham](../other/abraham.md), [Arabia](../other/arabia.md), [ark](../other/ark.md), [flood](../other/flood.md), [Noah](../other/noah.md))
 
 ## Bible References: ##
 

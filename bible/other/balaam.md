@@ -12,7 +12,7 @@ Balaam was a pagan prophet whom King Balek hired to curse Israel while they were
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [bless](../kt/bless.md), [Canaan](../other/canaan.md), [curse](../kt/curse.md), [donkey](../other/donkey.md), [Euphrates River](../other/euphrates.md), [Jordan River](../other/jordanriver.md),[Midian](../other/midian.md), [Moab](../other/moab.md), [Peor](../other/peor.md))
+(See also: [bless](../kt/bless.md), [Canaan](../other/canaan.md), [curse](../kt/curse.md), [donkey](../other/donkey.md), [Euphrates River](../other/euphrates.md), [Jordan River](../other/jordanriver.md), [Midian](../other/midian.md), [Moab](../other/moab.md), [Peor](../other/peor.md))
 
 ## Bible References: ##
 

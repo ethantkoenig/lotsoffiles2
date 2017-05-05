@@ -12,7 +12,7 @@ Nebuchadnezzar was a king of the Babylonian Empire whose powerful army conquered
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [arrogant](../other/arrogant.md),[Azariah](../other/azariah.md), [Babylon](../other/babylon.md), [Hananiah](../other/hananiah.md), [Mishael](../other/mishael.md))
+(See also: [arrogant](../other/arrogant.md), [Azariah](../other/azariah.md), [Babylon](../other/babylon.md), [Hananiah](../other/hananiah.md), [Mishael](../other/mishael.md))
 
 ## Bible References: ##
 
