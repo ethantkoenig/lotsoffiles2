@@ -11,7 +11,7 @@ James, a son of Zebedee, was one of Jesus' twelve apostles. He had a younger bro
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/apostle.md]], [[../other/elijah.md]], [[../other/jamesbrotherofjesus.md]], [jamessonofalphaeus], [[other/jamessonofalphaeus], [[..//en:obe:other:mosese].md]])
+(See also: [[../kt/apostle.md]], [[../other/elijah.md]], [[../other/jamesbrotherofjesus.md]], [[../other/jamessonofalphaeus.md]], [[../other/moses.md]])
 
 ## Bible References: ##
 
