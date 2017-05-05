@@ -11,7 +11,7 @@ Luke wrote two books of the New Testament: the gospel of Luke and the book of Ac
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/Antioch.md]], [[../other/paul.md]], [[../other/syria.md]])
+(See also: [[../other/antioch.md]], [[../other/paul.md]], [[../other/syria.md]])
 
 ## Bible References: ##
 

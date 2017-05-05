@@ -17,7 +17,7 @@ There were five men by the name of Manasseh in the Old Testament:
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/altar.md]], [[../other/dan.md]], [[../other/ephraim.md]], [[../other/ezra.md]], [[../other/idol.md]],[[../other/jacob.md]], [[../other/judah.md]], [[../other/pagan.md]], [[../other/12tribesofIsrael.md]])
+(See also: [[../other/altar.md]], [[../other/dan.md]], [[../other/ephraim.md]], [[../other/ezra.md]], [[../other/idol.md]],[[../other/jacob.md]], [[../other/judah.md]], [[../other/pagan.md]], [[../other/12tribesofisrael.md]])
 
 ## Bible References: ##
 

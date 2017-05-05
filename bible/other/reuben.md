@@ -10,7 +10,7 @@ Reuben was the firstborn son of Jacob. His mother was Leah.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/jacob.md]], [[../other/josephot.md]], [[../other/leah.md]], [[../other/12tribesofIsrael.md]])
+(See also: [[../other/jacob.md]], [[../other/josephot.md]], [[../other/leah.md]], [[../other/12tribesofisrael.md]])
 
 ## Bible References: ##
 
