@@ -11,7 +11,7 @@ These terms refer to the hard material covering the bottom of the feet of certai
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See also: [[../other/camel.md]], [[../other/cow.md]], [[../other/donkey.md]], [[../other/goat.md]], [[../other/ox.md]], [[../other/pig.md]], [[../other/sheep.md]])
+(See also: [camel](../other/camel.md), [cow](../other/cow.md), [donkey](../other/donkey.md), [goat](../other/goat.md), [ox](../other/ox.md), [pig](../other/pig.md), [sheep](../other/sheep.md))
 
 ## Bible References: ##
 

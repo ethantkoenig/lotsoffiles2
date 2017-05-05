@@ -11,7 +11,7 @@ A harp is a stringed musical instrument, that usually consists of a large open f
 * He also played a harp for King Saul, to soothe the king's troubled spirit. 
  
 
-(See also: [[../other/david.md]], [[../other/fir.md]], [[../other/psalm.md]], [[../other/saul.md]])
+(See also: [David](../other/david.md), [fir](../other/fir.md), [psalm](../other/psalm.md), [Saul (OT)](../other/saul.md))
 
 ## Bible References: ##
 

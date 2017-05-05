@@ -14,7 +14,7 @@ The term "acknowledge" means to give proper recognition to something or someone.
 * When referring to acknowledging a person, this term could be translated as "accept" or "recognize the value of" or "tell others that (the person) is faithful."
 * In the context of acknowledging God, this could be translated as "believe and obey God" or "declare who God is" or "tell other people about how great God is" or "confess that what God says and does is true."
 
-(See also: [[../other/obey.md]], [[../kt/glory.md]], [[../kt/salvation.md]])
+(See also: [obey](../other/obey.md), [glory](../kt/glory.md), [salvation](../kt/salvation.md))
 
 ## Bible References: ##
 

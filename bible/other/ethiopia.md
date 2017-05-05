@@ -11,7 +11,7 @@ Ethiopia is a country in Africa located just south of Egypt, bordered by the Nil
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/cush.md]], [[../other/egypt.md]], [[../other/eunuch.md]], [[../other/philip.md]])
+(See also: [Cush](../other/cush.md), [Egypt](../other/egypt.md), [eunuch](../other/eunuch.md), [Philip](../other/philip.md))
 
 ## Bible References: ##
 

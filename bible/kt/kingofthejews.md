@@ -14,7 +14,7 @@ The term "King of the Jews" is a title that refers to Jesus, the Messiah.
 * The term "King of the Jews" could also be translated as "king over the Jews" or "king who rules over the Jews" or "supreme ruler of the Jews."
 * Check to see how the phrase "king of" is translated in other places in the translation.
 
-(See also: [[../other/descendant.md]], [[../other/jew.md]], [[../kt/jesus.md]], [[../other/king.md]], [[../other/kingdom.md]], [[../kt/kingdomofgod.md]], [[../other/wisemen.md]])
+(See also: [descendant](../other/descendant.md), [Jew](../other/jew.md), [Jesus](../kt/jesus.md), [king](../other/king.md), [kingdom](../other/kingdom.md), [kingdom of God](../kt/kingdomofgod.md), [wise men](../other/wisemen.md))
 
 ## Bible References: ##
 

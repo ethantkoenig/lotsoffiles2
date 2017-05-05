@@ -9,7 +9,7 @@ A queen is either the female ruler of a country or the wife of a king.
 * The Queen of Sheba was a famous ruler who came to visit King Solomon.
 * A term such as "queen mothAthaliaher" usually referred to the mother or grandmother of a ruling king or the widow of the previous king. A queen mother had much influence, as was seen in the case of Athaliah who influenced the people to worship idols.
 
-(See also: [[../other/ahasuerus.md]], [[../other/athaliah.md]], [[../other/esther.md]], [[../other/king.md]]. [[../other/persia.md]] [[../other/ruler.md]], [[../other/sheba.md]])
+(See also: [Ahasuerus](../other/ahasuerus.md), [Athaliah](../other/athaliah.md), [Esther](../other/esther.md), [king](../other/king.md). [Persia](../other/persia.md) [ruler](../other/ruler.md), [Sheba](../other/sheba.md))
 
 ## Bible References: ##
 

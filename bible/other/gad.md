@@ -10,7 +10,7 @@ Gad was one of the sons of Jacob. Jacob was also named Isreal.
 
 (Translation suggestions:[How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/census.md]], [[../kt/prophet.md]], [[../other/12tribesofisrael.md]])
+(See also: [census](../other/census.md), [prophet](../kt/prophet.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

@@ -15,7 +15,7 @@ The term "unfaithful" describes people who do not do what God has commanded them
  * The term "unfaithfulness" could be translated as, "disobedience" or "disloyalty" or "not believing or obeying."
  * In some languages, the term "unfaithful" is related to the word for "unbelief."
 
-(See also: [[../kt/adultery.md]], [[../other/disobey.md]], [[../kt/faithful.md]], [[../kt/unbeliever.md]])
+(See also: [adultery](../kt/adultery.md), [disobey](../other/disobey.md), [faithful](../kt/faithful.md), [unbeliever](../kt/unbeliever.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The Jordan River is a river that flows from north to south, and forms the easter
 * When Joshua led the Israelites into Canaan, they had to cross the Jordan River. It was too deep, but God miraculously stopped the river from flowing so they could go across.
 * Often in the Bible the Jordan River is referred to as "the Jordan."
 
-(See also: [[../other/canaan.md]], [[../other/saltsea.md]], [[../other/seaofgalilee.md]])
+(See also: [Canaan](../other/canaan.md), [Salt Sea](../other/saltsea.md), [Sea of Galilee](../other/seaofgalilee.md))
 
 ## Bible References: ##
 

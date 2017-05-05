@@ -8,7 +8,7 @@ Mount Sinai is the name of a mountain that was probably located in the southern 
 * The Israelites came to Mount Sinai as they were traveling from Egypt to the Promised Land.
 * God gave Moses the Ten Commandments on Mount Sinai.
 
-(See also: [[../other/desert.md]], [[../other/egypt.md]], [[../other/horeb.md]], [[../kt/promisedland.md]], [[../other/tencommandments.md]])
+(See also: [desert](../other/desert.md), [Egypt](../other/egypt.md), [Horeb](../other/horeb.md), [Promised Land](../kt/promisedland.md), [Ten Commandments](../other/tencommandments.md))
 
 ## Bible References: ##
 

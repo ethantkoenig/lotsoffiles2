@@ -12,7 +12,7 @@ John was the son of Zechariah and Elizabeth. Since "John" was a common name, he 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/baptize.md]], [[../other/zechariahnt.md]])
+(See also: [baptize](../kt/baptize.md), [Zechariah (NT)](../other/zechariahnt.md))
 
  
 ## Bible References: ##

@@ -9,7 +9,7 @@ A freewill offering was a type of sacrifice to God that was not required by the 
 * When a freewill offering could be given, this was a cause of rejoicing for Israel since it showed that the harvest had been good so that the people had plenty of food.
 * The book of Ezra describes a different type of freewill offering that was brought for rebuilding the temple. This offering consisted of gold and silver money, as well as bowls and other objects made of gold and silver.
 
-(See also: [[../other/burntoffering.md]], [[../other/ezra.md]], [[../other/feast.md]], [[../other/grainoffering.md]], [[../other/guiltoffering.md]], [[../kt/lawofmoses.md]], [[../other/sinoffering.md]])
+(See also: [burnt offering](../other/burntoffering.md), [Ezra](../other/ezra.md), [feast](../other/feast.md), [grain offering](../other/grainoffering.md), [guilt offering](../other/guiltoffering.md), [law](../kt/lawofmoses.md), [sin offering](../other/sinoffering.md))
 
 ## Bible References: ##
 

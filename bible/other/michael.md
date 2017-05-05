@@ -11,7 +11,7 @@ Michael is the chief of all God's holy, obedient angels. He is the only angel wh
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/angel.md]], [[../other/daniel.md]], [[../other/messenger.md]], [[../other/persia.md]])
+(See also: [angel](../kt/angel.md), [Daniel](../other/daniel.md), [messenger](../other/messenger.md), [Persia](../other/persia.md))
 
 ## Bible References: ##
 

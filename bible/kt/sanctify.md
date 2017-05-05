@@ -15,7 +15,7 @@ To sanctify is to set apart or to make holy. Sanctification is the process of be
 * With the meaning of "consecrate" this term could be translated as "dedicate someone (or something) to God's service."
 * Depending on the context, the phrase, "your sanctification" could be translated as "making you holy" or "setting you apart (for God)" or "what makes you holy."
 
-(See also: [[../kt/consecrate.md]], [[../kt/holy.md]], [[../kt/setapart.md]])
+(See also: [consecrate](../kt/consecrate.md), [holy](../kt/holy.md), [set apart](../kt/setapart.md))
 
 ## Bible References: ##
 

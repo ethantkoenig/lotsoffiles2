@@ -19,7 +19,7 @@ The devil is a spirit being that God created, but he rebelled against God and be
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/demon.md]], [[../kt/evil.md]], [[../kt/kingdomofgod.md]], [[../kt/tempt.md]])
+(See also: [demon](../kt/demon.md), [evil](../kt/evil.md), [kingdom of God](../kt/kingdomofgod.md), [tempt](../kt/tempt.md))
 
 ## Bible References: ##
 

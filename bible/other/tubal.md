@@ -10,7 +10,7 @@ There are several men in the Old Testament who had the name "Tubal."
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/cain.md]], [[../other/descendant.md]], [[../other/ezekiel.md]], [[../other/isaiah.md]], [[../other/japheth.md]], [[../other/lamech.md]], [[../other/peoplegroup.md]], [[../kt/prophet.md]])
+(See also: [Cain](../other/cain.md), [descendant](../other/descendant.md), [Ezekiel](../other/ezekiel.md), [Isaiah](../other/isaiah.md), [Japheth](../other/japheth.md), [Lamech](../other/lamech.md), [people group](../other/peoplegroup.md), [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

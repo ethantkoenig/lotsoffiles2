@@ -10,7 +10,7 @@ Zerubbabel was the name of two Israelite men in the Old Testament.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/babylon.md]], [[../other/captive.md]], [[../other/cyrus.md]], [[../other/ezra.md]], [[../kt/highpriest.md]], [[../other/jehoiakim.md]], [[../other/joshua.md]], [[../other/judah.md]], [[../other/nehemiah.md]], [[../other/persia.md]], [[../other/zedekiah.md]])
+(See also: [Babylon](../other/babylon.md), [captive](../other/captive.md), [Cyrus](../other/cyrus.md), [Ezra](../other/ezra.md), [high priest](../kt/highpriest.md), [Jehoiakim](../other/jehoiakim.md), [Joshua](../other/joshua.md), [Judah](../other/judah.md), [Nehemiah](../other/nehemiah.md), [Persia](../other/persia.md), [Zedekiah](../other/zedekiah.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ The Hittites were descendants of Ham through his son Canaan. They became a large
 * Some of the foreign women that Solomon married were Hittites. These foreign women turned Solomon's heart away from God because of the false gods they worshiped.
 * The Hittites were often a threat to the Israelites, both physically and spiritually.
 
-(See also: [[../other/descendant.md]], [[../other/esau.md]], [[../other/foreigner.md]], [[../other/ham.md]], [[../other/mighty.md]], [[../other/solomon.md]], [[../other/uriah.md]])
+(See also: [descendant](../other/descendant.md), [Esau](../other/esau.md), [foreigner](../other/foreigner.md), [Ham](../other/ham.md), [mighty](../other/mighty.md), [Solomon](../other/solomon.md), [Uriah](../other/uriah.md))
 
 ## Bible References: ##
 

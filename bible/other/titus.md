@@ -10,7 +10,7 @@ Titus was a Gentile who became a believer through the ministry of the apostle Pa
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/appoint.md]], [[../kt/believer.md]], [[../kt/church.md]], [[../kt/circumcise.md]], [[../other/crete.md]], [[../other/elder.md]], [[../other/encourage.md]], [[../other/instruct.md]], [[../kt/minister.md]])
+(See also: [appoint](../kt/appoint.md), [believer](../kt/believer.md), [church](../kt/church.md), [circumcise](../kt/circumcise.md), [Crete](../other/crete.md), [elder](../other/elder.md), [encourage](../other/encourage.md), [instruct](../other/instruct.md), [minister](../kt/minister.md))
 
 ## Bible References: ##
 

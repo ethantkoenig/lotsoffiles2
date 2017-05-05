@@ -8,7 +8,7 @@ These terms all refer to having courage and confidence to speak the truth and do
 * In the New Testament, the disciples continued to "boldly" preach about Christ in public places, in spite of the danger of being put in jail or killed. This could be translated as "confidently" or "with strong courage" or "courageously."
 * The "boldness" of these early disciples in speaking the good news of Christ's redeeming death on the cross resulted in the gospel being spread throughout Israel and nearby countries and finally, to the rest of the world. "Boldness" could also be translated as "confident courage."
 
-(See also: [[../kt/confidence.md]], [[../kt/goodnews.md]], [[../kt/redeem.md]])
+(See also: [confidence](../kt/confidence.md), [good news](../kt/goodnews.md), [redeem](../kt/redeem.md))
 
 ## Bible References: ##
 

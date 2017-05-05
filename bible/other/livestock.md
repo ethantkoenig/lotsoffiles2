@@ -11,7 +11,7 @@ The term "livestock" refers to animals which are raised to provide food and othe
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/cow.md]], [[../other/donkey.md]], [[../other/goat.md]], [[../other/horse.md]], [[../other/ox.md]], [[../other/sheep.md]]) 
+(See also: [cow](../other/cow.md), [donkey](../other/donkey.md), [goat](../other/goat.md), [horse](../other/horse.md), [ox](../other/ox.md), [sheep](../other/sheep.md)) 
 
 ## Bible References: ##
 

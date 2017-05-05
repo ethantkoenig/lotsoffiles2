@@ -11,7 +11,7 @@ The term "rod" refers to a narrow, solid, stick-like tool that was used in sever
 * In ancient times, measuring rods made of metal, wood, or stone were used to measure the length of a building or object.
 * In the Bible, a wooden rod was also referred to as an instrument to discipline children.
 
-(See also: [[../other/staff.md]], [[../other/sheep.md]], [[../other/shepherd.md]])
+(See also: [staff](../other/staff.md), [sheep](../other/sheep.md), [shepherd](../other/shepherd.md))
 
 ## Bible References: ##
 

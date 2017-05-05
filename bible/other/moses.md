@@ -11,7 +11,7 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/miriam.md]], [[../kt/promisedland.md]], [[../other/tencommandments.md]])
+(See also: [Miriam](../other/miriam.md), [Promised Land](../kt/promisedland.md), [Ten Commandments](../other/tencommandments.md))
 
 ## Bible References: ##
 

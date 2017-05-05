@@ -12,7 +12,7 @@ Priscilla and her husband Aquila were Jewish Christians who worked with the apos
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/believe.md]], [[../kt/christian.md]], [[../other/corinth.md]], [[../other/ephesus.md]], [[../other/paul.md]], [[../other/rome.md]], [[../other/syria.md]])
+(See also: [believe](../kt/believe.md), [Christian](../kt/christian.md), [Corinth](../other/corinth.md), [Ephesus](../other/ephesus.md), [Paul](../other/paul.md), [Rome](../other/rome.md), [Syria](../other/syria.md))
 
 ## Bible References: ##
 

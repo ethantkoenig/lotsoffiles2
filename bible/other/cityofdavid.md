@@ -9,7 +9,7 @@ The term "city of David" is another name for both Jerusalem and Bethlehem.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/david.md]], [[../other/bethlehem.md]], [[../other/jerusalem.md]])
+(See also: [David](../other/david.md), [Bethlehem](../other/bethlehem.md), [Jerusalem](../other/jerusalem.md))
 
 ## Bible References: ##
 

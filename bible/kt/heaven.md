@@ -16,7 +16,7 @@ The term that is translated as "heaven" usually refers to where God lives. The s
 * The terms "heavens" or "heavenly bodies" could also be translated as, "sun, moon, and stars" or "all the stars in the universe."
 * The phrase, "stars of heaven" could be translated as "stars in the sky" or "stars in the galaxy" or "stars in the universe."
 
-(See also: [[../kt/kingdomofgod.md]])
+(See also: [kingdom of God](../kt/kingdomofgod.md))
 
 ## Bible References: ##
 

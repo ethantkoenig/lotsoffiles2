@@ -10,7 +10,7 @@ Jeremiah was a prophet of God in the kingdom of Judah. The Old Testament book of
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/babylon.md]], [[../other/kingdomofjudah.md]], [[../kt/prophet.md]], [[../other/rebel.md]], [[../kt/suffer.md]], [[../other/well.md]])
+(See also: [Babylon](../other/babylon.md), [Judah](../other/kingdomofjudah.md), [prophet](../kt/prophet.md), [rebel](../other/rebel.md), [suffer](../kt/suffer.md), [well](../other/well.md))
 
 ## Bible References: ##
 

@@ -19,7 +19,7 @@ The terms "captive" and "captivity" refer to capturing people and forcing them t
 * The term "captives" could also be translated as, "people who were captured" or "enslaved people."
 * Depending on the context, "captivity" could also be translated as, "imprisonment" or "exile" or "forced stay in a foreign country."
 
-(See also: [[../other/babylon.md]], [[../other/exile.md]], [[../other/prison.md]], [[../other/seize.md]])
+(See also: [Babylon](../other/babylon.md), [exile](../other/exile.md), [prison](../other/prison.md), [seize](../other/seize.md))
 
 ## Bible References: ##
 

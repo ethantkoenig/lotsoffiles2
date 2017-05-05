@@ -15,7 +15,7 @@ To "enslave" someone means to force that person to serve a master or a ruling co
 * The term "enslave" could be translated as "cause to not be free" or "force to serve others" or "put under the control of others."
 * The phrase "enslaved to" or "in bondage to" could be translated as "forced to be a slave of" or "forced to serve" or "under the control of."
 
-(See also: [[../kt/free.md]], [[../kt/righteous.md]], [[../other/servant.md]])
+(See also: [free](../kt/free.md), [righteous](../kt/righteous.md), [servant](../other/servant.md))
 
 ## Bible References: ##
 

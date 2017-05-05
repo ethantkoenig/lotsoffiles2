@@ -10,7 +10,7 @@ Pontus was a Roman province during the time of the Roman Empire and the early Ch
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aquila.md]], [[../other/pentecost.md]]) 
+(See also: [Aquila](../other/aquila.md), [Pentecost](../other/pentecost.md)) 
 
 ## Bible References: ##
 

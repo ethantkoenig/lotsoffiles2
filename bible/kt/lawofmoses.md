@@ -20,7 +20,7 @@ All these terms refer to the commandments and instructions that God gave Moses f
 * Ways to translate "the law" or "law of God" or "God's laws" could include "laws from God" or "God's commands" or "laws that God gave" or "everything that God commands" or "all of God's instructions."
 * The phrase "law of Yahweh" could also be translated as "Yahweh's laws" or "laws that Yahweh said to obey" or "laws from Yahweh" or "things Yahweh commanded."
 
-(See also: [[../other/instruct.md]], [[../other/moses.md]], [[../other/tencommandments.md]], [[../other/lawful.md]], [[../kt/yahweh.md]])
+(See also: [instruct](../other/instruct.md), [Moses](../other/moses.md), [Ten Commandments](../other/tencommandments.md), [lawful](../other/lawful.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

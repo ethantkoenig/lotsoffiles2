@@ -11,7 +11,7 @@ Judas son of James was one of Jesus' twelve apostles. Note that he was not the s
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/jamessonofzebedee.md]], [[../other/judasiscariot.md]], [[../kt/son.md]], [[../kt/thetwelve.md]])
+(See also: [James (son of Zebedee)](../other/jamessonofzebedee.md), [Judas Iscariot](../other/judasiscariot.md), [son](../kt/son.md), [the twelve](../kt/thetwelve.md))
 
 ## Bible References: ##
 

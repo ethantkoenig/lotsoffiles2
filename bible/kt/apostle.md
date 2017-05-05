@@ -14,7 +14,7 @@ The "apostles" were men sent by Jesus to preach about God and his kingdom. The t
 * It is important to translate the terms "apostle" and "disciple" in different ways.
 * Also consider how this term was translated in a Bible translation in a local or national language. (See [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See also: [[../kt/authority.md]], [[../kt/disciple.md]], [[../other/jamessonofzebedee.md]], [[../other/paul.md]], [[../kt/thetwelve.md]])
+(See also: [authority](../kt/authority.md), [disciple](../kt/disciple.md), [James (son of Zebedee)](../other/jamessonofzebedee.md), [Paul](../other/paul.md), [the twelve](../kt/thetwelve.md))
 
 ## Bible References: ##
 

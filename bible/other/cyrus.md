@@ -10,7 +10,7 @@ Cyrus was a Persian king who founded the Persian empire in about 550 BC, through
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/daniel.md]], [[../other/darius.md]], [[../other/ezra.md]], [[../other/nehemiah.md]], [[../other/persia.md]])
+(See also: [Daniel](../other/daniel.md), [Darius](../other/darius.md), [Ezra](../other/ezra.md), [Nehemiah](../other/nehemiah.md), [Persia](../other/persia.md))
 
 ## Bible References: ##
 

@@ -14,7 +14,7 @@ Paul was a leader of the early church who was sent by Jesus to take the good new
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/christian.md]], [[../other/jewishleaders.md]], [[../other/rome.md]])
+(See also: [Christian](../kt/christian.md), [Jewish leaders](../other/jewishleaders.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

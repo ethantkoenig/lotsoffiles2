@@ -15,7 +15,7 @@ The term "prison" refers to a place where criminals are kept as a punishment for
  * The term "prisoners" can also refer in general to people who have been captured by an enemy and kept somewhere against their will. Another way to translate this meaning would be "captives."
  * Other ways to translate "imprisoned" could be, "kept as a prisoner" or "kept in captivity" or "held captive."
 
-(See also: [[../other/captive.md]])
+(See also: [captive](../other/captive.md))
 
 ## Bible References: ##
 

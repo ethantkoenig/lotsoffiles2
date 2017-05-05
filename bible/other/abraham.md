@@ -12,7 +12,7 @@ Abram was a Chaldean man from the city of Ur who was chosen by God to be the for
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../other/chaldeans.md]], [[../other/sarah.md]], [[../other/isaac.md]])
+(See also: [Canaan](../other/canaan.md), [Chaldea](../other/chaldeans.md), [Sarah](../other/sarah.md), [Isaac](../other/isaac.md))
 
 ## Bible References: ##
 

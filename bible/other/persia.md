@@ -9,7 +9,7 @@ Persia was a country that also became a powerful empire founded by Cyrus the Gre
 * King Artaxerxes was the ruler of the Persian Empire when Ezra and Nehemiah went back to Jerusalem to rebuild the walls of Jerusalem.
 * Esther became a queen of the Persian empire when she married King Ahasuerus.
 
-(See also: [[../other/ahasuerus.md]], [[../other/artaxerxes.md]], [[../other/assyria.md]], [[../other/babylon.md]], [[../other/cyrus.md]], [[../other/esther.md]], [[../other/ezra.md]], [[../other/nehemiah.md]])
+(See also: [Ahasuerus](../other/ahasuerus.md), [Artaxerxes](../other/artaxerxes.md), [Assyria](../other/assyria.md), [Babylon](../other/babylon.md), [Cyrus](../other/cyrus.md), [Esther](../other/esther.md), [Ezra](../other/ezra.md), [Nehemiah](../other/nehemiah.md))
 
 ## Bible References: ##
 

@@ -19,7 +19,7 @@ To "bless" someone or something means to cause good and beneficial things to hap
 * Expressions like "blessed be the Lord" could be translated as "May the Lord be praised" or "Praise the Lord" or "I praise the Lord."
 * In the context of blessing food, this could be translated as "thanked God for the food" or "praised God for giving them food" or "consecrated the food by praising God for it."
 
-(See also: [[../other/praise.md]])
+(See also: [praise](../other/praise.md))
 
 ## Bible References: ##
 

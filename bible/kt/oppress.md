@@ -15,7 +15,7 @@ The terms "oppress" and "oppression" refer to treating people harshly. An "oppre
  * The phrase "the oppressed" could be translated as "oppressed people" or "people in terrible bondage" or "those who are treated harshly."
  * The term "oppressor" could be translated as "person who oppresses" or "nation who controls and rules harshly" or "persecutor."
 
-(See also: [[../kt/bond.md]], [[../kt/enslave.md]], [[../other/persecute.md]])
+(See also: [bind](../kt/bond.md), [enslave](../kt/enslave.md), [persecute](../other/persecute.md))
 
 ## Bible References: ##
 

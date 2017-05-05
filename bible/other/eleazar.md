@@ -10,7 +10,7 @@ Eleazar was the name of several men in the Bible.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aaron.md]], [[../kt/highpriest.md]], [[../other/david.md]], [[../other/mighty.md]])
+(See also: [Aaron](../other/aaron.md), [high priest](../kt/highpriest.md), [David](../other/david.md), [mighty](../other/mighty.md))
 
 ## Bible References: ##
 

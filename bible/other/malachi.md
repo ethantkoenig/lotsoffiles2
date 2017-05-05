@@ -11,7 +11,7 @@ Malachi was one of God's prophets to the kingdom of Judah. He lived around 500 y
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/babylon.md]], [[../other/captive.md]], [[../other/ezra.md]], [[../other/kingdomofjudah.md]],[[../other/nehemiah.md]], [[../kt/prophet.md]], [[../kt/repent.md]], [[../kt/turn.md]])
+(See also: [Babylon](../other/babylon.md), [captive](../other/captive.md), [Ezra](../other/ezra.md), [Judah](../other/kingdomofjudah.md),[Nehemiah](../other/nehemiah.md), [prophet](../kt/prophet.md), [repent](../kt/repent.md), [turn](../kt/turn.md))
 
 ## Bible References: ##
 

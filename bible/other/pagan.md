@@ -8,7 +8,7 @@ In Bible times, the term "pagan" was used to describe people who worshiped false
 * Pagan belief systems often included the worship of false gods and the worship of nature.
 * Some pagan religions included sexually immoral rituals or the killing of human beings as part of their worship.
 
-(See also: [[../other/altar.md]], [[../kt/falsegod.md]], [[../other/sacrifice.md]], [[../kt/worship.md]], [[../kt/yahweh.md]])
+(See also: [altar](../other/altar.md), [false god](../kt/falsegod.md), [sacrifice](../other/sacrifice.md), [worship](../kt/worship.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

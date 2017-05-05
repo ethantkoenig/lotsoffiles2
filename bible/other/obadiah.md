@@ -12,7 +12,7 @@ Obadiah was an Old Testament prophet who prophesied against the people of Edom, 
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahab.md]], [[../other/babylon.md]], [[../other/david.md]], [[../other/edom.md]], [[../other/esau.md]], [[../other/ezekiel.md]], [[../other/daniel.md]], [[../other/gad.md]], [[../other/jehoshaphat.md]], [[../other/josiah.md]], [[../other/levite.md]], [[../other/saul.md]], [[../other/zedekiah.md]])
+(See also: [Ahab](../other/ahab.md), [Babylon](../other/babylon.md), [David](../other/david.md), [Edom](../other/edom.md), [Esau](../other/esau.md), [Ezekiel](../other/ezekiel.md), [Daniel](../other/daniel.md), [Gad](../other/gad.md), [Jehoshaphat](../other/jehoshaphat.md), [Josiah](../other/josiah.md), [Levite](../other/levite.md), [Saul (OT)](../other/saul.md), [Zedekiah](../other/zedekiah.md))
 
 ## Bible References: ##
 

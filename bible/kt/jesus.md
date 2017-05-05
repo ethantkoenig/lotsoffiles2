@@ -16,7 +16,7 @@ Jesus is God's Son. The name "Jesus" means "Yahweh saves." The term "Christ" is 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/christ.md]], [[../kt/god.md]], [[../kt/godthefather.md]], [[../kt/highpriest.md]], [[../kt/kingdomofgod.md]], [[../other/mary.md]], [[../kt/savior.md]], [[../kt/sonofgod.md]])
+(See also: [Christ](../kt/christ.md), [God](../kt/god.md), [God the Father](../kt/godthefather.md), [high priest](../kt/highpriest.md), [kingdom of God](../kt/kingdomofgod.md), [Mary](../other/mary.md), [Savior](../kt/savior.md), [Son of God](../kt/sonofgod.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ To ordain means to formally appoint a person for a special task or role. It also
 * It can also mean to institute or establish something, such as a religious feast or covenant.
 * Depending on the context, "to ordain" could be translated as "to assign" or "to appoint" or "to command" or "to make a rule" or "to institute."
 
-(See also: [[../other/command.md]], [[../kt/covenant.md]], [[../other/decree.md]], [[../other/law.md]], [[../kt/lawofmoses.md]], [[../kt/priest.md]])
+(See also: [command](../other/command.md), [covenant](../kt/covenant.md), [decree](../other/decree.md), [law](../other/law.md), [law](../kt/lawofmoses.md), [priest](../kt/priest.md))
 
 ## Bible References: ##
 

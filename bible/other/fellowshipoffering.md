@@ -9,7 +9,7 @@ In the Old Testament, the "fellowship offering" was a kind of sacrifice that was
 * There was a meal associated with this offering which included unleavened bread.
 * This is sometimes called the "peace offering."
 
-(See also: [[../other/burntoffering.md]], [[../kt/fulfill.md]], [[../other/grainoffering.md]], [[../other/guiltoffering.md]], [[../other/peaceoffering.md]], [[../kt/priest.md]], [[../other/sacrifice.md]], [[../kt/unleavenedbread.md]], [[../kt/vow.md]])
+(See also: [burnt offering](../other/burntoffering.md), [fulfill](../kt/fulfill.md), [grain offering](../other/grainoffering.md), [guilt offering](../other/guiltoffering.md), [peace offering](../other/peaceoffering.md), [priest](../kt/priest.md), [sacrifice](../other/sacrifice.md), [unleavened bread](../kt/unleavenedbread.md), [vow](../kt/vow.md))
 
 ## Bible References: ##
 

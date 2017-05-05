@@ -10,7 +10,7 @@ Asherah was the name of a goddess that was worshiped by Canaanite people groups 
 * Some Israelite leaders such as Gideon, King Asa, and King Josiah obeyed God and led the people in destroying these idols.
 * But other Israelite leaders such as King Solomon, King Manasseh, and King Ahab did not get rid of the Asherah poles and influenced the people to worship these idols.
 
-(See also: [[../other/idol.md]], [[../other/baal.md]], [[../other/gideon.md]], [[../other/image.md]], [[../other/solomon.md]])
+(See also: [idol](../other/idol.md), [Baal](../other/baal.md), [Gideon](../other/gideon.md), [image](../other/image.md), [Solomon](../other/solomon.md))
 
 ## Bible References: ##
 

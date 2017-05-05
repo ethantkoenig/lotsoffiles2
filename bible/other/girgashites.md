@@ -10,7 +10,7 @@ The Girgashites were a people group living near the Sea of Galilee in the land o
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]] , [[../other/ham.md]], [[../other/noah.md]])
+(See also: [Canaan](../other/canaan.md) , [Ham](../other/ham.md), [Noah](../other/noah.md))
 
 ## Bible References: ##
 

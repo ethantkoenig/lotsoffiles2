@@ -17,7 +17,7 @@ In the New Testament, the terms "baptize" and "baptism" usually refer to rituall
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See also: [[../other/johnthebaptist.md]], [[../kt/repent.md]], [[../kt/holyspirit.md]])
+(See also: [John (the Baptist)](../other/johnthebaptist.md), [repent](../kt/repent.md), [Holy Spirit](../kt/holyspirit.md))
 
 ## Bible References: ##
 

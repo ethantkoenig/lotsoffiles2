@@ -9,7 +9,7 @@ Memphis was an ancient capital city in Egypt, along the Nile River.
 
 (Translation suggestions: [Translating Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/egypt.md]], [[../other/nileriver.md]])
+(See also: [Egypt](../other/egypt.md), [Nile River](../other/nileriver.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The term "stiff-necked" is an idiom used in the Bible to describe people who kee
 * If a neck is "stiff" it means that it does not bend easily. The project language may have a different idiom that communicates that a person is "unbending" that is, refusing to change his ways. 
 * Other ways to translate this term could include, "pridefully stubborn" or "arrogant and unyielding" or "refusing to change."
 
-(See also: [[../other/arrogant.md]], [[../other/proud.md]], [[../kt/repent.md]])
+(See also: [arrogant](../other/arrogant.md), [proud](../other/proud.md), [repent](../kt/repent.md))
 
 ## Bible References: ##
 

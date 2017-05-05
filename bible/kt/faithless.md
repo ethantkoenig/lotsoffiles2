@@ -15,7 +15,7 @@ The term "faithless" means to not have faith or to not believe.
 
 (See also: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/unbeliever.md]], [[../kt/unfaithful.md]], [[../other/disobey.md]])
+(See also: [unbeliever](../kt/unbeliever.md), [unfaithful](../kt/unfaithful.md), [disobey](../other/disobey.md))
 
 ## Bible References: ##
 

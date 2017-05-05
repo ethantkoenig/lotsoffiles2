@@ -15,7 +15,7 @@ A crown is a decorative, circular headpiece worn on the head of rulers such as k
 * If a person is "crowned" this could be translated as "a crown was put on his head."
 * The expression, "he was crowned with glory and honor" could be translated as, "glory and honor were bestowed on him" or "he was given glory and honor" or "he was endowed with glory and honor."
 
-(See also: [[../kt/glory.md]], [[../other/king.md]], [[../other/olive.md]])
+(See also: [glory](../kt/glory.md), [king](../other/king.md), [olive](../other/olive.md))
 
 ## Bible References: ##
 

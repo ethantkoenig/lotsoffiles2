@@ -11,7 +11,7 @@ These terms all refer to a kind of reptile that has a long, thin body and large,
 
 (Translation suggestions:  [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/curse.md]], [[../kt/deceive.md]], [[../other/disobey.md]], [[../other/eden.md]], [[../kt/evil.md]], [[../other/offspring.md]], [[../other/prey.md]], [[../kt/satan.md]], [[../kt/sin.md]], [[../kt/tempt.md]])
+(See also: [curse](../kt/curse.md), [deceive](../kt/deceive.md), [disobey](../other/disobey.md), [Eden](../other/eden.md), [evil](../kt/evil.md), [offspring](../other/offspring.md), [prey](../other/prey.md), [Satan](../kt/satan.md), [sin](../kt/sin.md), [tempt](../kt/tempt.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ Ezra was an Israelite priest and expert in Jewish law who recorded the history o
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/babylon.md]], [[../other/exile.md]], [[../other/jerusalem.md]], [[../kt/lawofmoses.md]], [[../other/nehemiah.md]], [[../kt/temple.md]])
+(See also: [Babylon](../other/babylon.md), [exile](../other/exile.md), [Jerusalem](../other/jerusalem.md), [law](../kt/lawofmoses.md), [Nehemiah](../other/nehemiah.md), [temple](../kt/temple.md))
 
 ## Bible References: ##
 

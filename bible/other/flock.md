@@ -10,7 +10,7 @@ In the Bible, "flock" refers to a group of sheep or goats and "herd" refers to a
  * Consider what terms are used in your language to refer to different groups of animals.
  * For verses that refer to "flocks and herds" it may be better to add "of sheep" or "of cattle" for example, if the language does not have different words to refer to different kinds of animal groups.
 
-(See also: [[../other/goat.md]], [[../other/ox.md]], [[../other/pig.md]], [[../other/sheep.md]], )
+(See also: [goat](../other/goat.md), [ox](../other/ox.md), [pig](../other/pig.md), [sheep](../other/sheep.md), )
 
 ## Bible References: ##
 

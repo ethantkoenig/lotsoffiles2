@@ -10,7 +10,7 @@ The Cherethites were a people group who were probably part of the Philistines. A
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/absalom.md]], [[../other/benaiah.md]], [[../other/david.md]], [[../other/philistines.md]])
+(See also: [Absalom](../other/absalom.md), [Benaiah](../other/benaiah.md), [David](../other/david.md), [Philistines](../other/philistines.md))
 
 ## Bible References: ##
 

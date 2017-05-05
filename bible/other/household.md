@@ -7,7 +7,7 @@ The term "household" refers to all the people who live together in a house, incl
 * Managing a household would involves directing the servants and also taking care of the property.
 * Sometimes "household" can refer figuratively to the whole family line of someone, especially his descendants.
 
-(See also: [[../other/house.md]])
+(See also: [house](../other/house.md))
 
 ## Bible References: ##
 

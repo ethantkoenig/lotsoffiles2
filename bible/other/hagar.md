@@ -10,7 +10,7 @@ Hagar was an Egyptian woman who was Sarai's personal slave.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abraham.md]], [[../other/descendant.md]], [[../other/ishmael.md]], [[../other/sarah.md]], [[../other/servant.md]])
+(See also: [Abraham](../other/abraham.md), [descendant](../other/descendant.md), [Ishmael](../other/ishmael.md), [Sarah](../other/sarah.md), [servant](../other/servant.md))
 
 ## Bible References: ##
 

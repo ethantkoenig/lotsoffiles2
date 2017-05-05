@@ -10,7 +10,7 @@ The term "terror" refers to a feeling of extreme fear. To "terrify" someone mean
 * The "terror of Yahweh" could be translated as, "the terrifying presence of Yahweh" or "the dreaded judgment of Yahweh" or "when Yahweh causes great fear."
 * Ways to translate "terror" could also include, "extreme fear" or "deep dread."
 
-(See also: [[../other/adversary.md]], [[../kt/fear.md]], [[../kt/judge.md]], [[../other/plague.md]], [[../kt/yahweh.md]])
+(See also: [adversary](../other/adversary.md), [fear](../kt/fear.md), [judge](../kt/judge.md), [plague](../other/plague.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

@@ -8,7 +8,7 @@ A virgin is a woman who has never had sexual relations.
  * Mary was a virgin when she was pregnant with Jesus. He did not have a human father.
  * Some languages may have a term that is a polite way of referring to a virgin. (See: [Euphemism](en/ta-vol1/translate/man/figs-euphemism))
 
-(See also: [[../kt/christ.md]], [[../other/isaiah.md]], [[../kt/jesus.md]], [[../other/mary.md]])
+(See also: [Christ](../kt/christ.md), [Isaiah](../other/isaiah.md), [Jesus](../kt/jesus.md), [Mary](../other/mary.md))
 
 ## Bible References: ##
 

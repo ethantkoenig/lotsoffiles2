@@ -9,7 +9,7 @@ The Jebusites were a people group living in the land of Canaan. They were descen
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../other/ham.md]], [[../other/jerusalem.md]], [[../other/melchizedek.md]])
+(See also: [Canaan](../other/canaan.md), [Ham](../other/ham.md), [Jerusalem](../other/jerusalem.md), [Melchizedek](../other/melchizedek.md))
 
 ## Bible References: ##
 

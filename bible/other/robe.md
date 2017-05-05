@@ -8,7 +8,7 @@ A robe is an outer garment with long sleeves that can be worn by both men and wo
 * They can be long or short.
 * Purple robes were worn by kings as a sign of royalty, wealth, and prestige.
 
-(See also: [[../other/royal.md]], [[../other/tunic.md]])
+(See also: [royal](../other/royal.md), [tunic](../other/tunic.md))
 
 ## Bible References: ##
 

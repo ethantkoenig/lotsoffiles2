@@ -9,7 +9,7 @@ Zebedee was a fisherman from Galilee who is known because of his sons, James and
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/disciple.md]], [[../other/fisherman.md]], [[../other/jamessonofzebedee.md]], [[../other/johntheapostle.md]])
+(See also: [disciple](../kt/disciple.md), [fishermen](../other/fisherman.md), [James (son of Zebedee)](../other/jamessonofzebedee.md), [John (the apostle)](../other/johntheapostle.md))
 
 ## Bible References: ##
 

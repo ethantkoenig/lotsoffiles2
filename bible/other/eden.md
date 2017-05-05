@@ -10,7 +10,7 @@ In ancient times, Eden was a region that had a garden where God placed the first
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/adam.md]], [[../other/euphrates.md]], [[../other/eve.md]])
+(See also: [Adam](../other/adam.md), [Euphrates River](../other/euphrates.md), [Eve](../other/eve.md))
 
 ## Bible References: ##
 

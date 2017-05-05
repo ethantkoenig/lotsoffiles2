@@ -12,7 +12,7 @@
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names)) 
 
-(See also: [[../other/ahab.md]], [[../other/asherim.md]], [[../other/elijah.md]], [[../kt/falsegod.md]], [[../other/prostitute.md]], [[../kt/yahweh.md]])
+(See also: [Ahab](../other/ahab.md), [Asherah](../other/asherim.md), [Elijah](../other/elijah.md), [false god](../kt/falsegod.md), [prostitute](../other/prostitute.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Beth Shemesh was the name of a Canaanite city approximately 30 kilometers west o
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/arkofthecovenant.md]], [[../other/canaan.md]], [[../other/jerusalem.md]], [[../other/joshua.md]], [[../other/levite.md]], [[../other/philistines.md]])
+(See also: [ark of the covenant](../other/arkofthecovenant.md), [Canaan](../other/canaan.md), [Jerusalem](../other/jerusalem.md), [Joshua](../other/joshua.md), [Levite](../other/levite.md), [Philistines](../other/philistines.md))
 
 ## Bible References: ##
 

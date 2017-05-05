@@ -10,7 +10,7 @@ Rehoboam was one of the sons of King Solomon, and he became the king of the nati
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/kingdomofisrael.md]], [[../other/kingdomofjudah.md]], [[../other/solomon.md]])
+(See also: [kingdom of Israel](../other/kingdomofisrael.md), [Judah](../other/kingdomofjudah.md), [Solomon](../other/solomon.md))
 
 ## Bible References: ##
 

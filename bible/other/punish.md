@@ -10,7 +10,7 @@ The term "punish" means to cause someone to suffer a negative consequence for do
 * Jesus was punished for all the evil things that every person has ever done. He received each person's punishment on himself even though he did nothing wrong and did not deserve that punishment.
 * The expressions "go unpunished" and "leave unpunished" mean to decide not to punish people for their wrongdoing. God often allows sin to go unpunished as he waits for people to repent.
 
-(See also: [[../kt/justice.md]], [[../kt/repent.md]], [[../kt/righteous.md]], [[../kt/sin.md]])
+(See also: [just](../kt/justice.md), [repent](../kt/repent.md), [righteous](../kt/righteous.md), [sin](../kt/sin.md))
 
 ## Bible References: ##
 

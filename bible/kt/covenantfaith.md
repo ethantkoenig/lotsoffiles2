@@ -14,7 +14,7 @@ This term is used to describe God's commitment to fulfill the promises that he m
 * The way this term is translated will also depend on how the terms "covenant" and "faithfulness" are translated.
 * Other ways to translate this term could include, "faithful love" or "loyal, committed love" or "loving dependability."
 
-(See also: [[../kt/covenant.md]], [[../kt/faithful.md]], [[../kt/grace.md]], [[../other/israel.md]], [[../kt/peopleofgod.md]], [[../kt/promise.md]])
+(See also: [covenant](../kt/covenant.md), [faithful](../kt/faithful.md), [grace](../kt/grace.md), [Israel](../other/israel.md), [people of God](../kt/peopleofgod.md), [promise](../kt/promise.md))
 
 ## Bible References: ##
 

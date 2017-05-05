@@ -19,7 +19,7 @@ There are several figurative meanings of "tongue" in the Bible.
 * The phrase, "tongue that lies" could be translated as, "person who tell lies" or "people who lie."
 * Phrases such as "with their tongues" could be translated as, "with what they say" or "by their words."
 
-(See also: [[../kt/gift.md]], [[../kt/holyspirit.md]], [[../kt/joy.md]], [[../other/praise.md]], [[../other/rejoice.md]], [[../kt/spirit.md]])
+(See also: [gift](../kt/gift.md), [Holy Spirit](../kt/holyspirit.md), [joy](../kt/joy.md), [praise](../other/praise.md), [rejoice](../other/rejoice.md), [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

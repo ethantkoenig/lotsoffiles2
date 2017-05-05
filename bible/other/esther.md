@@ -12,7 +12,7 @@ Esther was a Jewish woman who became queen of the Persian kingdom during the tim
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahasuerus.md]], [[../other/babylon.md]], [[../other/mordecai.md]], [[../other/persia.md]])
+(See also: [Ahasuerus](../other/ahasuerus.md), [Babylon](../other/babylon.md), [Mordecai](../other/mordecai.md), [Persia](../other/persia.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ The "sin offering" was one of several sacrifices that God required the Israelite
 * Animal sacrifices could not permanently bring about forgiveness of sin.
 * Jesus' death on the cross paid the penalty for sin, for all time. He was the perfect sin offering.
 
-(See also: [[../other/altar.md]], [[../other/cow.md]], [[../kt/forgive.md]], [[../other/sacrifice.md]], [[../kt/sin.md]])
+(See also: [altar](../other/altar.md), [cow](../other/cow.md), [forgive](../kt/forgive.md), [sacrifice](../other/sacrifice.md), [sin](../kt/sin.md))
 
 ## Bible References: ##
 

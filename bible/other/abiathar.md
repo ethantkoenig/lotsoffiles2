@@ -9,7 +9,7 @@ Abiathar was a high priest for the nation of Israel during the time of King Davi
 * After David's death, Abiathar helped Adonijah try to become king instead of Solomon. 
 * Because of this, King Solomon removed Abiathar from the priesthood.
   
-  (See also: [[../other/zadok.md]], [[../other/saul.md]], [[../other/david.md]], [[../other/solomon.md]], [[../other/adonijah.md]])
+  (See also: [Zadok](../other/zadok.md), [Saul (OT)](../other/saul.md), [David](../other/david.md), [Solomon](../other/solomon.md), [Adonijah](../other/adonijah.md))
 
 ## Bible References: ##
 

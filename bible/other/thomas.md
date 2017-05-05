@@ -9,7 +9,7 @@ Thomas was one of twelve men whom Jesus chose to be his disciples and later, apo
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/apostle.md]], [[../kt/disciple.md]], [[../kt/godthefather.md]], [[../kt/thetwelve.md]])
+(See also: [apostle](../kt/apostle.md), [disciple](../kt/disciple.md), [God the Father](../kt/godthefather.md), [the twelve](../kt/thetwelve.md))
 
 ## Bible References: ##
 

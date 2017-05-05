@@ -11,7 +11,7 @@ Gideon was an Israelite man whom God raised up to deliver the Israelites from th
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/baal.md]], [[../other/asherim.md]], [[../kt/deliverer.md]], [[../other/midian.md]], [[../kt/yahweh.md]]) 
+(See also: [Baal](../other/baal.md), [Asherah](../other/asherim.md), [deliver](../kt/deliverer.md), [Midian](../other/midian.md), [Yahweh](../kt/yahweh.md)) 
 
 ## Bible References: ##
 

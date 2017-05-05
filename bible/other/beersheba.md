@@ -9,7 +9,7 @@ In Old Testament times, Beersheba was a city located about 45 miles southwest of
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abimelech.md]], [[../other/abraham.md]], [[../other/hagar.md]], [[../other/ishmael.md]], [[../other/jerusalem.md]], [[../other/oath.md]])
+(See also: [Abimelech](../other/abimelech.md), [Abraham](../other/abraham.md), [Hagar](../other/hagar.md), [Ishmael](../other/ishmael.md), [Jerusalem](../other/jerusalem.md), [oath](../other/oath.md))
 
 ===== Bible References:=====
 

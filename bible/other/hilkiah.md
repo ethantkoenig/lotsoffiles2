@@ -10,7 +10,7 @@ Hilkiah was the high priest during the reign of King Josiah.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/eliakim.md]], [[../other/hezekiah.md]], [[../kt/highpriest.md]], [[../other/josiah.md]], [[../other/kingdomofjudah.md]], [[../other/law.md]], [[../kt/worship.md]], [[../kt/yahweh.md]])
+(See also: [Eliakim](../other/eliakim.md), [Hezekiah](../other/hezekiah.md), [high priest](../kt/highpriest.md), [Josiah](../other/josiah.md), [Judah](../other/kingdomofjudah.md), [law](../other/law.md), [worship](../kt/worship.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ In New Testament times, Thessalonica was the capital city of Macedonia in the an
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/macedonia.md]], [[../other/paul.md]], [[../other/rome.md]])
+(See also: [Macedonia](../other/macedonia.md), [Paul](../other/paul.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

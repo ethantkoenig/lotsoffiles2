@@ -10,7 +10,7 @@ The term "understand" means to hear or receive information and know what it mean
 * Depending on the context, the term "understand" could be translated by "know" or "believe" or "comprehend" or "know what (something) means."
 * Often the term "understanding" can be translated by "knowledge" or "wisdom" or "insight."
 
-(See also: [[../kt/believe.md]], [[../other/know.md]], [[../kt/wise.md]])
+(See also: [believe](../kt/believe.md), [know](../other/know.md), [wise](../kt/wise.md))
 
 ## Bible References: ##
 

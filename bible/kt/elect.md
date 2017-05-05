@@ -18,7 +18,7 @@ The term "the elect" literally means "chosen ones" or "chosen people" and refers
 * "I chose you" could be translated as "I appointed you" or "I selected you."
 * In reference to Jesus, "Chosen One" could also be translated as "God's chosen One" or "God's specially appointed Messiah" or "the One God appointed (to save people)."
 
-(See also: [[../kt/appoint.md]], [[../kt/christ.md]])
+(See also: [appoint](../kt/appoint.md), [Christ](../kt/christ.md))
 
 ## Bible References: ##
 

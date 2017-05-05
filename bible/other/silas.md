@@ -10,7 +10,7 @@ Silas was a leader among the believers in Jerusalem.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/antioch.md]], [[../other/barnabas.md]], [[../other/jerusalem.md]], [[../other/paul.md]], [[../other/philippi.md]], [[../other/prison.md]], [[../kt/testimony.md]])
+(See also: [Antioch](../other/antioch.md), [Barnabas](../other/barnabas.md), [Jerusalem](../other/jerusalem.md), [Paul](../other/paul.md), [Philippi](../other/philippi.md), [prison](../other/prison.md), [testimony](../kt/testimony.md))
 
 ## Bible References: ##
 

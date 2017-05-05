@@ -12,7 +12,7 @@ Phineas was the name of two men in the Old Testament.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/arkofthecovenant.md]], [[../other/jordanriver.md]], [[../other/midian.md]], [[../other/philistines.md]], [[../other/samuel.md]])
+(See also: [ark of the covenant](../other/arkofthecovenant.md), [Jordan River](../other/jordanriver.md), [Midian](../other/midian.md), [Philistines](../other/philistines.md), [Samuel](../other/samuel.md))
 
 ## Bible References: ##
 

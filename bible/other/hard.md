@@ -21,7 +21,7 @@ The term "hard" has several different meanings, depending on the context. It usu
 * To "oppress people with hard labor" could be translated as "force people to work so hard that they suffer" or "cause people to suffer by forcing them to do very difficult work."
 * A different kind of "hard labor" is experienced by a woman who is about to deliver a baby.
 
-(See also: [[../other/disobey.md]], [[../kt/evil.md]], [[../other/heart.md]], [[../other/laborpains.md]], [[../other/stiffnecked.md]])
+(See also: [disobey](../other/disobey.md), [evil](../kt/evil.md), [heart](../other/heart.md), [labor pains](../other/laborpains.md), [stiff-necked](../other/stiffnecked.md))
 
 ## Bible References: ##
 

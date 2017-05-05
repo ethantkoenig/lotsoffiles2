@@ -10,7 +10,7 @@ Kedesh was a Canaanite city that was taken over by the Israelites when they ente
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../other/hebron.md]], [[../other/levite.md]], [[../other/naphtali.md]], [[../kt/priest.md]], [[../kt/refuge.md]], [[../other/shechem.md]], [[../other/12tribesofisrael.md]])
+(See also: [Canaan](../other/canaan.md), [Hebron](../other/hebron.md), [Levite](../other/levite.md), [Naphtali](../other/naphtali.md), [priest](../kt/priest.md), [refuge](../kt/refuge.md), [Shechem](../other/shechem.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

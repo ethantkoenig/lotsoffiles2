@@ -12,7 +12,7 @@ Syria is a country located northeast of Israel. During the time of the New Testa
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aram.md]], [[../other/commander.md]], [[../other/damascus.md]], [[../other/descendant.md]], [[../other/elisha.md]], [[../other/leprosy.md]], [[../other/naaman.md]], [[../other/persecute.md]], [[../kt/prophet.md]])
+(See also: [Aram](../other/aram.md), [commander](../other/commander.md), [Damascus](../other/damascus.md), [descendant](../other/descendant.md), [Elisha](../other/elisha.md), [leprosy](../other/leprosy.md), [Naaman](../other/naaman.md), [persecute](../other/persecute.md), [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

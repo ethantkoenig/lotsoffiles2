@@ -16,7 +16,7 @@ The term "renown" refers to being well known and having a praiseworthy reputatio
    * The phrase "men of renown" could be translated as "men well known for their courage" or "famous warriors" or "highly esteemed men."
    * The expression "your renown endures through all generations" could be translated as "throughout the years people will hear about how great you are" or "your greatness is seen and heard by people in every generation."
 
-(See also: [[../other/honor.md]])
+(See also: [honor](../other/honor.md))
 
 ## Bible References: ##
 

@@ -8,7 +8,7 @@ A grain offering was a gift of wheat or barley flour offered to God, often after
 * Oil and salt were added to the grain flour, but no yeast or honey was permitted.
 * Part of the grain offering was burned up and part of it was eaten by the priests.
 
-(See also: [[../other/burntoffering.md]], [[../other/guiltoffering.md]] , [[../other/sacrifice.md]], [[../other/sinoffering.md]])
+(See also: [burnt offering](../other/burntoffering.md), [guilt offering](../other/guiltoffering.md) , [sacrifice](../other/sacrifice.md), [sin offering](../other/sinoffering.md))
 
 ## Bible References: ##
 

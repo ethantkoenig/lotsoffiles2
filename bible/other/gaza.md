@@ -11,7 +11,7 @@ During Bible times, Gaza was a prosperous Philistine city located on the coast o
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ashdod.md]], [[../other/philip.md]], [[../other/philistines.md]], [[../other/ethiopia.md]], [[../other/gath.md]])
+(See also: [Ashdod](../other/ashdod.md), [Philip](../other/philip.md), [Philistines](../other/philistines.md), [Ethiopia](../other/ethiopia.md), [Gath](../other/gath.md))
 
 ## Bible References: ##
 

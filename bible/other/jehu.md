@@ -13,7 +13,7 @@ Jehu was the name of two men in the Old Testament.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahab.md]], [[../other/ahaziah.md]], [[../other/baal.md]], [[../other/elisha.md]], [[../other/jehoshaphat.md]], [[../other/jehu.md]], [[../other/jezebel.md]], [[../other/joram.md]], [[../other/kingdomofjudah.md]], [[../other/samaria.md]])
+(See also: [Ahab](../other/ahab.md), [Ahaziah](../other/ahaziah.md), [Baal](../other/baal.md), [Elisha](../other/elisha.md), [Jehoshaphat](../other/jehoshaphat.md), [Jehu](../other/jehu.md), [Jezebel](../other/jezebel.md), [Joram](../other/joram.md), [Judah](../other/kingdomofjudah.md), [Samaria](../other/samaria.md))
 
 ## Bible References: ##
 

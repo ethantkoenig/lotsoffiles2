@@ -13,7 +13,7 @@ The term "tribute" refers to a gift from one ruler to another ruler, for the pur
 * Depending on the context, "tribute" could be translated as "official gifts" or "special tax" or "required payment."
  
 
-(See also: [[../other/gold.md]], [[../other/king.md]], [[../other/ruler.md]], [[../other/tax.md]])
+(See also: [gold](../other/gold.md), [king](../other/king.md), [ruler](../other/ruler.md), [tax](../other/tax.md))
 
 ## Bible References: ##
 

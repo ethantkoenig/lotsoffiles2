@@ -17,7 +17,7 @@ The term "mind" refers to the part of a person that thinks and makes decisions.
 * The expression "call to mind" could be translated as "remember" or "think about."
 * The expression "changed his mind and went" could also be translated as "decided differently and went" or "decided to go after all" or "changed his opinion and went."
 
-(See also: [[../kt/believe.md]], [[../other/heart.md]], [[../kt/soul.md]])
+(See also: [believe](../kt/believe.md), [heart](../other/heart.md), [soul](../kt/soul.md))
 
 ## Bible References: ##
 

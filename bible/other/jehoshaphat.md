@@ -10,7 +10,7 @@ Jehoshaphat was the name of at least two men in the Old Testament.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/altar.md]], [[../other/david.md]], [[../kt/falsegod.md]], [[../other/israel.md]], [[../other/judah.md]], [[../kt/priest.md]], [[../other/solomon.md]])
+(See also: [altar](../other/altar.md), [David](../other/david.md), [false god](../kt/falsegod.md), [Israel](../other/israel.md), [Judah](../other/judah.md), [priest](../kt/priest.md), [Solomon](../other/solomon.md))
 
 ## Bible References: ##
 

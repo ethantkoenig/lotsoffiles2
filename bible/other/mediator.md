@@ -12,7 +12,7 @@ A mediator is a person who helps two or more people to resolve their disagreemen
 * Ways to translate "mediator" could be "go-between person" or "reconciler" or "person who brings peace."
 * Compare this term with how the term "priest" is translated. It is best if the term "mediator" is translated differently.
 
-(See also: [[../kt/priest.md]], [[../kt/reconcile.md]])
+(See also: [priest](../kt/priest.md), [reconcile](../kt/reconcile.md))
 
 ## Bible References: ##
 

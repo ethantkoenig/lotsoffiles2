@@ -10,7 +10,7 @@ In the Old Testament, Laban was the uncle and father-in-law of Jacob.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/jacob.md]], [[../other/nahor.md]], [[../other/leah.md]], [[../other/rachel.md]])
+(See also: [Jacob](../other/jacob.md), [Nahor](../other/nahor.md), [Leah](../other/leah.md), [Rachel](../other/rachel.md))
 
 ## Bible References: ##
 

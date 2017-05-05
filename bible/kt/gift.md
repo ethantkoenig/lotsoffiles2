@@ -14,7 +14,7 @@ The term "gift" refers to anything that is given or offered to someone. A gift i
 * The general term for "gift" could be translated with a word or phrase that means "something that is given."
 * In the context of someone having a gift or special ability that comes from God, the term "gift from the Spirit" could be translated as "spiritual ability" or "special ability from the Holy Spirit" or "special spiritual skill that God gave."
 
-(See also: [[../kt/spirit.md]], [[../kt/holyspirit.md]])
+(See also: [spirit](../kt/spirit.md), [Holy Spirit](../kt/holyspirit.md))
 
 ## Bible References: ##
 

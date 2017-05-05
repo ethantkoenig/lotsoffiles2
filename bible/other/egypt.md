@@ -12,7 +12,7 @@ Egypt is a country in the northeast part of Africa, to the southwest of the land
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/herodthegreat.md]], [[../other/josephnt.md]], [[../other/nileriver.md]], [[../other/patriarchs.md]])
+(See also: [Herod the Great](../other/herodthegreat.md), [Joseph (NT)](../other/josephnt.md), [Nile River](../other/nileriver.md), [patriarchs](../other/patriarchs.md))
 
 ## Bible References: ##
 

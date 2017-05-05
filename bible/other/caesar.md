@@ -13,7 +13,7 @@ The term "Caesar" was the name or title used by many of the rulers of the Roman 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/king.md]], [[../other/paul.md]], [[../other/rome.md]])
+(See also: [king](../other/king.md), [Paul](../other/paul.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

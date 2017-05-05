@@ -11,7 +11,7 @@ Gabriel is the name of one of God's angels. He is mentioned by name several time
 	
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/angel.md]], [[../other/daniel.md]], [[../other/elizabeth.md]], [[../other/johnthebaptist.md]], [[../other/mary.md]], [[../kt/prophet.md]], [[../kt/sonofgod.md]], [[../other/zechariahnt.md]])
+(See also: [angel](../kt/angel.md), [Daniel](../other/daniel.md), [Elizabeth](../other/elizabeth.md), [John (the Baptist)](../other/johnthebaptist.md), [Mary](../other/mary.md), [prophet](../kt/prophet.md), [Son of God](../kt/sonofgod.md), [Zechariah (NT)](../other/zechariahnt.md))
 
 ## Bible References: ##
 

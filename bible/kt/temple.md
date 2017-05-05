@@ -17,7 +17,7 @@ The temple was a building surrounded by walled courtyards where the Israelites c
 * Ways to translate "temple" could include, "God's holy house" or "sacred worship place."
 * Often in the Bible, the temple is referred to as "the house of Yahweh" or "the house of God."
 
-(See also: [[../other/sacrifice.md]], [[../other/solomon.md]], [[../other/babylon.md]], [[../kt/holyspirit.md]], [[../kt/tabernacle.md]], [[../other/courtyard.md]], [[../other/zion.md]], [[../other/house.md]])
+(See also: [sacrifice](../other/sacrifice.md), [Solomon](../other/solomon.md), [Babylon](../other/babylon.md), [Holy Spirit](../kt/holyspirit.md), [tabernacle](../kt/tabernacle.md), [courtyard](../other/courtyard.md), [Zion](../other/zion.md), [house](../other/house.md))
 
 ## Bible References: ##
 

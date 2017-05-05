@@ -11,7 +11,7 @@ A lute and a lyre are small, stringed, musical instruments that were used by the
 * The number of strings varied, but the Old Testament specifically mentions instruments that had ten strings.
  
 
-(See also: [[../other/harp.md]])
+(See also: [harp](../other/harp.md))
 
 ## Bible References: ##
 

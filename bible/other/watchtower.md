@@ -9,7 +9,7 @@ The term "watchtower" refers to a tall structure built as a place from which gua
 * Watchtowers for cities were built higher than the city walls so that watchmen could see if any enemies were coming to attack the city.
 * The term "watchtower" is also used as a symbol of protection from enemies. (See: [Metaphor](en/ta-vol1/translate/man/figs-metaphor))
 
-(See also: [[../other/adversary.md]], [[../other/watch.md]])
+(See also: [adversary](../other/adversary.md), [watch](../other/watch.md))
 
 ## Bible References: ##
 

@@ -16,7 +16,7 @@ The terms "God the Father" and "heavenly Father" refer to Yahweh, the one true G
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/father.md]], [[../kt/god.md]], [[../kt/heaven.md]], [[../kt/holyspirit.md]], [[../kt/jesus.md]],[[../kt/sonofgod.md]])
+(See also: [ancestor](../other/father.md), [God](../kt/god.md), [heaven](../kt/heaven.md), [Holy Spirit](../kt/holyspirit.md), [Jesus](../kt/jesus.md),[Son of God](../kt/sonofgod.md))
 
 ## Bible References: ##
 

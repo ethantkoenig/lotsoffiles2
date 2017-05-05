@@ -9,7 +9,7 @@ Nahor was the name of two relatives of Abraham, his grandfather and his brother.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abraham.md]], [[../other/rebekah.md]])
+(See also: [Abraham](../other/abraham.md), [Rebekah](../other/rebekah.md))
 
 ## Bible References: ##
 

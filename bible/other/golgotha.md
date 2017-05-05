@@ -10,7 +10,7 @@
 
 (Translation Suggestion: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aram.md]], [[../other/mountofolives.md]])
+(See also: [Aram](../other/aram.md), [Mount of Olives](../other/mountofolives.md))
 
 ## Bible References: ##
 

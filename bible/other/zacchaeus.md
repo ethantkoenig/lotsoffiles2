@@ -10,7 +10,7 @@ Zacchaeus was a tax collector from Jericho who climbed a tree in order to be abl
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/believe.md]], [[../kt/promise.md]], [[../kt/repent.md]], [[../kt/sin.md]], [[../other/tax.md]], [[../other/taxcollector.md]])
+(See also: [believe](../kt/believe.md), [promise](../kt/promise.md), [repent](../kt/repent.md), [sin](../kt/sin.md), [tax](../other/tax.md), [tax collector](../other/taxcollector.md))
 
 ## Bible References: ##
 

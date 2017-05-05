@@ -8,7 +8,7 @@ The term "pierce" means to stab something with a sharp, pointed object. It is al
 * In Bible times, a slave who was set free would have his ear pierced as a sign that he was choosing to continue working for his master.
 * Simeon spoke figuratively when he told Mary that a sword would pierce her heart, meaning that she would experience deep grief because of what would happen to her son Jesus.
 
-(See also: [[../kt/cross.md]], [[../kt/jesus.md]], [[../other/servant.md]], [[../other/simeon.md]])
+(See also: [cross](../kt/cross.md), [Jesus](../kt/jesus.md), [servant](../other/servant.md), [Simeon](../other/simeon.md))
 
 ## Bible References: ##
 

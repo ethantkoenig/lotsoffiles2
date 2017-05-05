@@ -10,7 +10,7 @@ The term "kingdom of Israel" refers to the northern part of the nation of Israel
 * God sent the Assyrians to attack the kingdom of Israel. Many Israelites were captured and taken away to live in Assyria.
 * The Assyrians brought foreigners to live among the remaining people of the kingdom of Israel. These foreigners intermarried with the Israelites, and their descendants became the Samaritan people.
 
-(See also: [[../other/assyria.md]], [[../other/israel.md]], [[../other/kingdomofjudah.md]], [[../other/jerusalem.md]], [[../other/kingdom.md]], [[../other/samaria.md]])
+(See also: [Assyria](../other/assyria.md), [Israel](../other/israel.md), [Judah](../other/kingdomofjudah.md), [Jerusalem](../other/jerusalem.md), [kingdom](../other/kingdom.md), [Samaria](../other/samaria.md))
 
 ## Bible References: ##
 

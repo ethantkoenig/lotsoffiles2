@@ -21,7 +21,7 @@ An angel is a powerful spirit being whom God created. Angels exist to serve God 
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See also: [[../other/chief.md]], [[../other/head.md]], [[../other/messenger.md]], [[../other/michael.md]], [[../other/ruler.md]], [[../other/servant.md]])
+(See also: [chief](../other/chief.md), [head](../other/head.md), [messenger](../other/messenger.md), [Michael](../other/michael.md), [ruler](../other/ruler.md), [servant](../other/servant.md))
 
 ## Bible References: ##
 

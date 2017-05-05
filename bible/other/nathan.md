@@ -10,7 +10,7 @@ Nathan was a faithful prophet of God who lived while David was king over Israel.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/david.md]], [[../kt/faithful.md]], [[../kt/prophet.md]], [[../other/uriah.md]])
+(See also: [David](../other/david.md), [faithful](../kt/faithful.md), [prophet](../kt/prophet.md), [Uriah](../other/uriah.md))
 
 ## Bible References: ##
 

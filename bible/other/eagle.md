@@ -8,7 +8,7 @@ An eagle is a very large, powerful bird of prey that eats small animals such as 
 * Isaiah states that those who trust in the Lord will soar as an eagle does. This is figurative language used to describe the freedom and strength that comes from trusting and obeying God.
 * In the book of Daniel, King Nebuchadnezzar's hair length was compared to the length of an eagle's feathers, which can be more than 50 centimeters long.
 
-(See also: [[../other/daniel.md]], [[../kt/free.md]], [[../other/nebuchadnezzar.md]], [[../kt/power.md]])
+(See also: [Daniel](../other/daniel.md), [free](../kt/free.md), [Nebuchadnezzar](../other/nebuchadnezzar.md), [power](../kt/power.md))
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 

@@ -13,7 +13,7 @@ The term "iniquity" is a word that is very similar in meaning to the term "sin,"
 * The term "iniquity" could be translated as "wickedness" or "perverse actions" or "harmful acts."
 * Often, "iniquity" occurs in the same text as the word "sin" and "transgression" so it is important to have different ways of translating these terms.
 
-(See also: [[../kt/sin.md]], [[../kt/transgression.md]], [[../kt/trespass.md]])
+(See also: [sin](../kt/sin.md), [transgress](../kt/transgression.md), [trespass](../kt/trespass.md))
 
 ## Bible References: ##
 

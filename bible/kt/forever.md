@@ -15,7 +15,7 @@ In the Bible, the term "forever" refers to never-ending time. Sometimes it is us
 * The emphatic phrase "forever and ever" could also be translated as "for always and always" or "not ever ending" or "which never, ever ends."
 * David's throne lasting forever could be translated as "David's descendant will reign forever" or "a descendant of David will always be reigning."
 
-(See also: [[../other/david.md]], [[../kt/eternity.md]], [[../other/reign.md]])
+(See also: [David](../other/david.md), [everlasting](../kt/eternity.md), [reign](../other/reign.md))
 
 ## Bible References: ##
 

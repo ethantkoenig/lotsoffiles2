@@ -11,7 +11,7 @@ The term "Jewish leaders" or "Jewish authorities" refers to religious leaders su
 * Often the phrase "the Jews" referred to the Jewish leaders, especially in contexts where they were angry at Jesus and were trying to trick or harm him.
 * These terms could also be translated as "Jewish rulers" or "men who ruled over the Jewish people" or "Jewish religious leaders."
 
-(See also: [[../other/jew.md]], [[../other/chiefpriests.md]], [[../other/council.md]], [[../kt/highpriest.md]], [[../other/pharisee.md]], [[../kt/priest.md]], [[../other/sadducee.md]], [[../other/scribe.md]])
+(See also: [Jew](../other/jew.md), [chief priests](../other/chiefpriests.md), [council](../other/council.md), [high priest](../kt/highpriest.md), [Pharisee](../other/pharisee.md), [priest](../kt/priest.md), [Sadducee](../other/sadducee.md), [scribe](../other/scribe.md))
 
 ## Bible References: ##
 

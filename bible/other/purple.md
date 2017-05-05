@@ -13,7 +13,7 @@ The term "purple" is the name of a color that is a mixture of blue and red.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ephod.md]], [[../other/philippi.md]], [[../other/royal.md]], [[../kt/tabernacle.md]], [[../kt/temple.md]])
+(See also: [ephod](../other/ephod.md), [Philippi](../other/philippi.md), [royal](../other/royal.md), [tabernacle](../kt/tabernacle.md), [temple](../kt/temple.md))
 
 ## Bible References: ##
 

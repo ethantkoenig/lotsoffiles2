@@ -9,7 +9,7 @@ Ham was the second of Noah's three sons.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ark.md]], [[../other/canaan.md]], [[../other/dishonor.md]], [[../other/noah.md]])
+(See also: [ark](../other/ark.md), [Canaan](../other/canaan.md), [dishonor](../other/dishonor.md), [Noah](../other/noah.md))
 
 ## Bible References: ##
 

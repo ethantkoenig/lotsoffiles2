@@ -13,7 +13,7 @@ The Amalekites were a nomadic people group who lived throughout the southern par
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/arabia.md]], [[../other/david.md]], [[../other/esau.md]], [[../other/negev.md]], [[../other/saul.md]])
+(See also: [Arabia](../other/arabia.md), [David](../other/david.md), [Esau](../other/esau.md), [Negev](../other/negev.md), [Saul (OT)](../other/saul.md))
 
 
 

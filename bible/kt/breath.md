@@ -20,7 +20,7 @@ In the Bible, the terms "breathe" and "breath" are often used figuratively to re
 * The expression "is only a breath" means "lasts a very short time."
 * Similarly the expression "man is a single breath" means "people live a very short time" or "the lives of human beings are very short, like a single breath" or "compared to God, the life of a person seems as short as the time it takes to breathe in one breath of air."
 
-(See also: [[../other/adam.md]], [[../other/paul.md]], [[../kt/wordofgod.md]], [[../kt/life.md]])
+(See also: [Adam](../other/adam.md), [Paul](../other/paul.md), [word of God](../kt/wordofgod.md), [life](../kt/life.md))
 
 ## Bible References: ##
 

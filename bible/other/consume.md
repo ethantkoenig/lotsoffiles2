@@ -19,7 +19,7 @@ The term "consume" literally means to use up something. It has several figurativ
 * If someone's strength is "consumed," it means his strength is "used up" or "gone."
 * The expression, "God is a consuming fire" could be translated as, "God is like a fire that burns things up" or "God is angry against sin and will destroy sinners like a fire."
 
-(See also: [[../other/devour.md]], [[../kt/wrath.md]])
+(See also: [devour](../other/devour.md), [wrath](../kt/wrath.md))
 
 ## Bible References: ##
 

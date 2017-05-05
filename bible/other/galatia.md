@@ -11,7 +11,7 @@ In New Testament times, Galatia was a large Roman province located in the centra
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/asia.md]], [[../kt/believer.md]], [[../other/cilicia.md]], [[../kt/goodnews.md]], [[../other/paul.md]], [[../kt/works.md]])
+(See also: [Asia](../other/asia.md), [believer](../kt/believer.md), [Cilicia](../other/cilicia.md), [good news](../kt/goodnews.md), [Paul](../other/paul.md), [works](../kt/works.md))
 
 ## Bible References: ##
 

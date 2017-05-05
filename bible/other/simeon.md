@@ -10,7 +10,7 @@ In the Bible, there are several men named Simeon.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../kt/christ.md]], [[../other/dedicate.md]], [[../other/jacob.md]], [[../other/judah.md]], [[../kt/temple.md]])
+(See also: [Canaan](../other/canaan.md), [Christ](../kt/christ.md), [dedicate](../other/dedicate.md), [Jacob](../other/jacob.md), [Judah](../other/judah.md), [temple](../kt/temple.md))
 
 ## Bible References: ##
 

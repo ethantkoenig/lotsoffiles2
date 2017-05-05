@@ -13,7 +13,7 @@
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahab.md]], [[../other/jehoshaphat.md]], [[../other/joram.md]], [[../other/judah.md]], [[../other/kingdomofisrael.md]], [[../other/obadiah.md]])
+(See also: [Ahab](../other/ahab.md), [Jehoshaphat](../other/jehoshaphat.md), [Joram](../other/joram.md), [Judah](../other/judah.md), [kingdom of Israel](../other/kingdomofisrael.md), [Obadiah](../other/obadiah.md))
 
 ## Bible References: ##
 

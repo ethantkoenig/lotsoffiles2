@@ -9,7 +9,7 @@ A false prophet is a person who wrongly claims that his message comes from God.
 * This term could also be translated as "person who falsely claims to be God's spokesman" or "someone who falsely claims to speak God's words."
 * The New Testament teaches that in the end times there will be many false prophets who will try to deceive people into thinking that they come from God.
 
-(See also: [[../kt/fulfill.md]], [[../kt/prophet.md]], [[../kt/true.md]])
+(See also: [fulfill](../kt/fulfill.md), [prophet](../kt/prophet.md), [true](../kt/true.md))
 
 ## Bible References: ##
 

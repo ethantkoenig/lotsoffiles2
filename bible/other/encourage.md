@@ -12,7 +12,7 @@ The terms "encourage" and encouragement" refer to saying and doing things to cau
 * Depending on the context, ways to translate "encourage" could include "urge" or "comfort" or "say kind things" or "help and support."
 * The phrase "give words of encouragement" means "say things that cause other people to feel loved, accepted, and empowered."
 
-(See also: [[../kt/exhort.md]])
+(See also: [exhort](../kt/exhort.md))
 
 ## Bible References: ##
 

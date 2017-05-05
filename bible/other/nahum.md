@@ -9,7 +9,7 @@ Nahum was a prophet who preached during the time when the evil King Manasseh was
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/assyria.md]], [[../other/manasseh.md]], [[../kt/prophet.md]], [[../other/nineveh.md]])
+(See also: [Assyria](../other/assyria.md), [Manasseh](../other/manasseh.md), [prophet](../kt/prophet.md), [Nineveh](../other/nineveh.md))
 
 ## Bible References: ##
 

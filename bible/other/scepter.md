@@ -10,7 +10,7 @@ The term "scepter" refers to an ornamental rod or staff held by a ruler, such as
 * An Old Testament prophecy refers to the Messiah as a symbolic scepter that would come from Israel to rule over all nations.
 * This could also be translated as, "ruling rod" or "king's rod."
 
-(See also: [[../kt/authority.md]], [[../kt/christ.md]], [[../other/king.md]], [[../kt/righteous.md]])
+(See also: [authority](../kt/authority.md), [Christ](../kt/christ.md), [king](../other/king.md), [righteous](../kt/righteous.md))
 
 ## Bible References: ##
 

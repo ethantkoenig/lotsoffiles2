@@ -8,7 +8,7 @@ A vineyard is a large garden area where grapevines are grown and grapes are cult
  * God compared the people of Israel to a vineyard that did not bear good fruit. (See: [Metaphor](en/ta-vol1/translate/man/figs-metaphor))
  * Vineyard could be also translated as "grapevine garden" or "grape plantation."
 
-(See also: [[../other/grape.md]], [[../other/israel.md]], [[../other/vine.md]])
+(See also: [grape](../other/grape.md), [Israel](../other/israel.md), [vine](../other/vine.md))
 
 ## Bible References: ##
 

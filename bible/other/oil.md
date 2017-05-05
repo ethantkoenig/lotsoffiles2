@@ -8,7 +8,7 @@ Oil is a thick, clear liquid that can be taken from certain plants or fruits. In
 * In ancient times, olive oil was highly prized, and the possession of oil was considered a measurement of wealth.
 * Make sure the translation of this term refers to the kind of oil that can be used in cooking, not motor oil. Some languages have different words for these different kinds of oil.
 
-(See also: [[../other/olive.md]], [[../other/sacrifice.md]])
+(See also: [olive](../other/olive.md), [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

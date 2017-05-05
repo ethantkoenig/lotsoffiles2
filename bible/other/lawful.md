@@ -10,7 +10,7 @@ The term "lawful" refers to something that is permitted to be done according to 
 * Depending on the context, ways to translate "lawful" could include "permitted" or "according to God's law" or "following our laws" or "proper" or "fitting."
 * The phrase "Is it lawful?" could also be translated as "Do our laws allow?" or "Is that something our laws permit?"
 
-(See also: [[../kt/lawofmoses.md]])
+(See also: [law](../kt/lawofmoses.md))
 
 ## Bible References: ##
 

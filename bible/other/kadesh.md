@@ -13,7 +13,7 @@ The names Kadesh, Kadesh-Barnea, and Meribah Kadesh all refer to an important ci
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/desert.md]], [[../other/edom.md]], [[../kt/holy.md]])
+(See also: [desert](../other/desert.md), [Edom](../other/edom.md), [holy](../kt/holy.md))
 
 ## Bible References: ##
 

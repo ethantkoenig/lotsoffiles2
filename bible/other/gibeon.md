@@ -8,7 +8,7 @@ Gibeon was a city that was located about 13 kilometers northwest of Jerusalem. T
 * So the Gibeonites came to the leaders of Israel at Gilgal and pretended to be people from a far-away country. 
 * The Israelite leaders were deceived and made an agreement with the Gibeonites that they would protect them and not destroy them.
 
-(See also: [[../other/gilgal.md]], [[../other/jericho.md]], [[../other/jerusalem.md]])
+(See also: [Gilgal](../other/gilgal.md), [Jericho](../other/jericho.md), [Jerusalem](../other/jerusalem.md))
 
 ## Bible References: ##
 

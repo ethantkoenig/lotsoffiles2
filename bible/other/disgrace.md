@@ -11,7 +11,7 @@ The term "disgrace" refers to a loss of honor and respect.
 * Ways to translate "disgrace" could include "shame" or "dishonor."
 * Ways to translate "disgraceful" could include "shameful" or dishonoring."
 
-(See also: [[../other/dishonor.md]], [[../other/honor.md]], [[../other/shame.md]])
+(See also: [dishonor](../other/dishonor.md), [honor](../other/honor.md), [shame](../other/shame.md))
 
 ## Bible References: ##
 

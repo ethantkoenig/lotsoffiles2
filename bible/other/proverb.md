@@ -11,7 +11,7 @@ A proverb is a short statement that expresses some wisdom or truth.
 * Jesus often used proverbs or parables when he taught people.
 * Ways to translate "proverb" could include "wise saying" or "true word." 
 
-(See also: [[../other/solomon.md]], [[../kt/true.md]], [[../kt/wise.md]])
+(See also: [Solomon](../other/solomon.md), [true](../kt/true.md), [wise](../kt/wise.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Jephthah was a warrior from Gilead who served as a judge over Israel.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ammon.md]], [[../kt/deliverer.md]], [[../other/ephraim.md]], [[../other/judgeposition.md]], [[../kt/vow.md]])
+(See also: [Ammon](../other/ammon.md), [deliver](../kt/deliverer.md), [Ephraim](../other/ephraim.md), [judge](../other/judgeposition.md), [vow](../kt/vow.md))
 
 ## Bible References: ##
 

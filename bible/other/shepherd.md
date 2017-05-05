@@ -20,7 +20,7 @@ A shepherd is a person who takes care of sheep. The verb "to shepherd" means to 
 * The expression, "to shepherd (a flock)" could be translated as, "to take care of" or "to spiritually nourish" or "to guide and teach" or "to lead and take care of (like a shepherd cares for sheep)"
 * In figurative uses, it is best to use or include the literal word for "shepherd" in the translation of this term.
 
-(See also: [[../kt/believer.md]], [[../other/canaan.md]], [[../kt/church.md]], [[../other/moses.md]], [[../kt/pastor.md]], [[../other/sheep.md]], [[../kt/spirit.md]])
+(See also: [believer](../kt/believer.md), [Canaan](../other/canaan.md), [church](../kt/church.md), [Moses](../other/moses.md), [pastor](../kt/pastor.md), [sheep](../other/sheep.md), [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

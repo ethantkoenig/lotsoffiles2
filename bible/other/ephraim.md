@@ -10,7 +10,7 @@ Ephraim was the second son of Joseph. His descendants, the Ephraimites, formed o
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/kingdomofisrael.md]], [[../other/12tribesofisrael.md]])
+(See also: [kingdom of Israel](../other/kingdomofisrael.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

@@ -12,7 +12,7 @@ The Nile is a very long and wide river in northeastern Africa. It is especially 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/egypt.md]], [[../other/goshen.md]], [[../other/moses.md]])
+(See also: [Egypt](../other/egypt.md), [Goshen](../other/goshen.md), [Moses](../other/moses.md))
 
 ## Bible References: ##
 

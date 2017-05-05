@@ -9,7 +9,7 @@ The term "splendor" refers to extreme beauty and elegance that is often associat
 * Certain cities are said to have splendor, referring to their natural resources, elaborate buildings and roads, and the wealth of the people, including rich clothing, gold and silver.
 * Depending on the context, this word could be translated as, "magnificent beauty" or "amazing majesty" or "kingly greatness."
 
-(See also: [[../kt/glory.md]], [[../other/king.md]], [[../kt/majesty.md]])
+(See also: [glory](../kt/glory.md), [king](../other/king.md), [majesty](../kt/majesty.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Hamor was a Canaanite man living in the city of Shechem when Jacob and his famil
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../other/hivite.md]], [[../other/jacob.md]], [[../other/shechem.md]], [[../other/succoth.md]])
+(See also: [Canaan](../other/canaan.md), [Hivite](../other/hivite.md), [Jacob](../other/jacob.md), [Shechem](../other/shechem.md), [Succoth](../other/succoth.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ In the Bible, the term "tunic" refers to a garment that was worn next to the ski
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See Also: [[../other/robe.md]])
+(See Also: [robe](../other/robe.md))
 
 ## Bible References: ##
 

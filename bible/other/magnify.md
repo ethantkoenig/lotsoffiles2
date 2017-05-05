@@ -14,7 +14,7 @@ The term "magnify" means to make something or someone greater or to draw attenti
 * This term is very similar in meaning to "exalt." In verses where both "exalt" and "magnify" are used, it is good to try to translate these terms in different ways, if possible.
 * Another word with a similar meaning is "glorify."
 
-(See also: [[../kt/exalt.md]], [[../kt/glorify.md]])
+(See also: [exalt](../kt/exalt.md), [glorify](../kt/glorify.md))
 
 ## Bible References: ##
 

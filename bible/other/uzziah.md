@@ -10,7 +10,7 @@ Uzziah became king of Judah at the age of 16 and reigned 52 years, which was an 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/kingdomofjudah.md]], [[../other/king.md]], [[../other/leprosy.md]], [[../other/reign.md]], [[../other/watchtower.md]])
+(See also: [Judah](../other/kingdomofjudah.md), [king](../other/king.md), [leprosy](../other/leprosy.md), [reign](../other/reign.md), [watchtower](../other/watchtower.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ To "preach" means to speak to a  group of people, teaching them about God and ur
  * The term "preach" is usually used with the word "gospel."
  * What a person has preached to others can also be referred to in general as his "teachings."
 
-(See also: [[../kt/goodnews.md]], [[../kt/jesus.md]], [[../kt/kingdomofgod.md]])
+(See also: [good news](../kt/goodnews.md), [Jesus](../kt/jesus.md), [kingdom of God](../kt/kingdomofgod.md))
 
 ## Bible References: ##
 

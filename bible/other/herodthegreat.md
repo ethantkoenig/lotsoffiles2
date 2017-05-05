@@ -12,7 +12,7 @@ Herod the Great was ruling over Judea at the time Jesus was born. He was the fir
 
 (See [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/herodantipas.md]], [[../other/judea.md]], [[../other/king.md]], [[../kt/temple.md]])
+(See also: [Herod Antipas](../other/herodantipas.md), [Judea](../other/judea.md), [king](../other/king.md), [temple](../kt/temple.md))
 
 ## Bible References: ##
 

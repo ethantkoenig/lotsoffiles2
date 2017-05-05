@@ -10,7 +10,7 @@ Media was an ancient empire located east of Assyria and Babylonia, and north of 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/assyria.md]], [[../other/babylon.md]], [[../other/cyrus.md]], [[../other/daniel.md]], [[../other/darius.md]], [[../other/elam.md]], [[../other/persia.md]])
+(See also: [Assyria](../other/assyria.md), [Babylon](../other/babylon.md), [Cyrus](../other/cyrus.md), [Daniel](../other/daniel.md), [Darius](../other/darius.md), [Elam](../other/elam.md), [Persia](../other/persia.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ Asaph was a Levite priest and gifted musician who composed the music for the psa
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/descendant.md]], [[../other/harp.md]], [[../other/lute.md]], [[../kt/prophet.md]], [[../other/psalm.md]], [[../other/trumpet.md]])
+(See also: [descendant](../other/descendant.md), [harp](../other/harp.md), [lute](../other/lute.md), [prophet](../kt/prophet.md), [psalm](../other/psalm.md), [trumpet](../other/trumpet.md))
 
 ## Bible References: ##
 

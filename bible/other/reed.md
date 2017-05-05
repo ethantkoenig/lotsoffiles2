@@ -10,7 +10,7 @@ The term "reed" refers to a plant with a long stalk that grows in the water, usu
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/egypt.md]], [[../other/moses.md]], [[../other/nileriver.md]])
+(See also: [Egypt](../other/egypt.md), [Moses](../other/moses.md), [Nile River](../other/nileriver.md))
 
 ## Bible References: ##
 

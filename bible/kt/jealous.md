@@ -16,7 +16,7 @@ The terms "jealous" and "jealousy" refer to a strong desire to protect the purit
 * When talking about God, make sure the translation of these terms does not give a negative meaning of being resentful of someone else.
 * In the context of people's wrong feelings of anger toward toward other people who are more successful, the terms "envious" and "envy" could be used. But these terms should not be used for God.
 
-(See also: [[../other/envy.md]])
+(See also: [envy](../other/envy.md))
 
 ## Bible References: ##
 

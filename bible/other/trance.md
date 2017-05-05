@@ -10,6 +10,6 @@ A trance is a state of mind in which a person is awake but is not aware of what 
 * The term "trance" is a different word from "vision" or "dream" and should be translated differently.
 * The expression "fell into a trance" means to "suddenly be in a sleeplike condition" while still awake.
 
-(See also: [[../other/dream.md]], [[../other/vision.md]])
+(See also: [dream](../other/dream.md), [vision](../other/vision.md))
 
 ## Bible References: ##

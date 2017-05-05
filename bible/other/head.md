@@ -20,7 +20,7 @@ In the Bible, the word "head" is used with several figurative meanings.
 * The expression "will be on his own head" could be translated as "will be on him" or "he will be punished for" or "he will be held responsible for" or "he will be considered guilty for."
 * Depending on the context, other ways to translate this term could include "beginning" or "source" or "ruler" or "leader" or "top."
 
-(See also: [[../other/grain.md]])
+(See also: [grain](../other/grain.md))
 
 ## Bible References: ##
 

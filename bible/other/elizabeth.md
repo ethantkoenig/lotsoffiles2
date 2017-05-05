@@ -10,7 +10,7 @@ Elizabeth was the mother of John the Baptist. Her husband's name was Zechariah.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/johnthebaptist.md]], [[../other/zechariahnt.md]])
+(See also: [John (the Baptist)](../other/johnthebaptist.md), [Zechariah (NT)](../other/zechariahnt.md))
 
 ## Bible References: ##
 

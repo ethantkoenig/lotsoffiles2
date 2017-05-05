@@ -12,7 +12,7 @@ A drink offering was a sacrifice to God that involved pouring wine on an altar. 
 * Another way to translate this term could be "offering of grape wine."
 * When Paul says he is being "poured out like an offering" this could also be translated as "I am completely committed to teaching God's message to people, just like an offering of wine is poured out completely on the altar."
 
-(See also: [[../other/burntoffering.md]], [[../other/grainoffering.md]])
+(See also: [burnt offering](../other/burntoffering.md), [grain offering](../other/grainoffering.md))
 
 ## Bible References: ##
 

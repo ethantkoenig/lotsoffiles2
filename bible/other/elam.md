@@ -9,7 +9,7 @@ Elam was a son of Shem and a grandson of Noah.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/noah.md]], [[../other/shem.md]])
+(See also: [Noah](../other/noah.md), [Shem](../other/shem.md))
 
 ## Bible References: ##
 

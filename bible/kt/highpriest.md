@@ -13,7 +13,7 @@ The term "high priest" refers to a special priest who was appointed to serve for
 * "High priest" could be translated as "supreme priest" or "highest ranking priest."
 * Make sure this term is translated differently from the term "chief priest."
 
-(See also: [[../other/annas.md]], [[../other/caiaphas.md]], [[../other/chiefpriests.md]], [[../kt/priest.md]], [[../kt/temple.md]])
+(See also: [Annas](../other/annas.md), [Caiaphas](../other/caiaphas.md), [chief priests](../other/chiefpriests.md), [priest](../kt/priest.md), [temple](../kt/temple.md))
 
 ## Bible References: ##
 

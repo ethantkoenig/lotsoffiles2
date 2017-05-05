@@ -8,7 +8,7 @@ The terms "fountain" and "spring" usually refer to a large amount of water that 
 * In modern times, a fountain is often a manmade object that has water flowing out of it, such as a drinking fountain. Make sure that the translation of this term refers to a natural source of flowing water.
 * Compare the translation of this term with how the term "flood" is translated.
 
-(See also: [[../other/flood.md]])
+(See also: [flood](../other/flood.md))
 
 ## Bible References: ##
 

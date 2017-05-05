@@ -14,7 +14,7 @@ The term "census" refers to a formal counting of the number of people in a natio
 * Possible ways to translate this term could include, "name counting" or "list of names" or "enrollment."
 * The phrase "take a census" could be translated as "register people's names" or "enroll people" or "write down people's names."
 
-(See also: [[../other/nation.md]], [[../other/rome.md]])
+(See also: [nation](../other/nation.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

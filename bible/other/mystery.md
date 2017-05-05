@@ -8,7 +8,7 @@ In the Bible, the term "mystery" refers to something unknown or difficult to und
 * One of the specific points described as a mystery is that Jews and Gentiles would be equal in Christ.
 * This term could also be translated as "secret" or "hidden things" or "something unknown."
 
-(See also: [[../kt/christ.md]], [[../other/gentile.md]], [[../kt/goodnews.md]], [[../other/jew.md]], [[../kt/true.md]])
+(See also: [Christ](../kt/christ.md), [Gentile](../other/gentile.md), [good news](../kt/goodnews.md), [Jew](../other/jew.md), [true](../kt/true.md))
 
 ## Bible References: ##
 

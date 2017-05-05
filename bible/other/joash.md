@@ -13,7 +13,7 @@ Joash was the name of several men in the Old Testament.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahaziah.md]], [[../other/altar.md]], [[../other/benjamin.md]], [[../kt/falsegod.md]], [[../other/gideon.md]], [[../other/highplaces.md]], [[../other/idol.md]])
+(See also: [Ahaziah](../other/ahaziah.md), [altar](../other/altar.md), [Benjamin](../other/benjamin.md), [false god](../kt/falsegod.md), [Gideon](../other/gideon.md), [high places](../other/highplaces.md), [idol](../other/idol.md))
 
 ## Bible References: ##
 

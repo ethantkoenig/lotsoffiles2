@@ -12,7 +12,7 @@ The term "perish" means to die or be destroyed, usually as the result of violenc
 * Depending on the context, ways to translate this term could include, "die eternally" or "be punished in hell" or "be destroyed."
 * Make sure that the translation of "perish" can mean living eternally in hell and does not only mean "cease to exist."
 
-(See also: [[../kt/death.md]], [[../kt/eternity.md]])
+(See also: [death](../kt/death.md), [everlasting](../kt/eternity.md))
 
 ## Bible References: ##
 

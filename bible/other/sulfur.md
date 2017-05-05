@@ -13,7 +13,7 @@ Sulfur is a yellow-colored substance that becomes a burning liquid when it is se
 
 * Possible translations of this term could include, "yellow stone that burns" or "burning yellowish rock."
 
-(See also: [[../other/gomorrah.md]], [[../kt/judge.md]], [[../other/lot.md]], [[../other/rebel.md]], [[../other/sodom.md]], [[../kt/ungodly.md]])
+(See also: [Gomorrah](../other/gomorrah.md), [judge](../kt/judge.md), [Lot](../other/lot.md), [rebel](../other/rebel.md), [Sodom](../other/sodom.md), [ungodly](../kt/ungodly.md))
 
 ## Bible References: ##
 

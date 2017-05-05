@@ -11,7 +11,7 @@ Abel was Adam and Eve's second son. He was Cain's younger brother.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names)) 
 
-(See also: [[../other/cain.md]], [[../other/sacrifice.md]], [[../other/shepherd.md]])
+(See also: [Cain](../other/cain.md), [sacrifice](../other/sacrifice.md), [shepherd](../other/shepherd.md))
 
 ## Bible References: ##
 

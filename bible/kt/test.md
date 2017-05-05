@@ -19,7 +19,7 @@ The term "test" refers to a difficult or painful experience that reveals a perso
 * In the context of testing God, this could be translated as, "trying to force God to prove his love."
 * In some contexts, when God is not the subject, the term "test" can mean "tempt."
 
-(See also: [[../kt/tempt.md]])
+(See also: [tempt](../kt/tempt.md))
 
 ## Bible References: ##
 

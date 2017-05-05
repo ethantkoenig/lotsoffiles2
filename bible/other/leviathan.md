@@ -10,7 +10,7 @@ The term "Leviathan" refers to a very large, extinct animal mentioned in the ear
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/isaiah.md]], [[../other/job.md]], [[../other/serpent.md]])
+(See also: [Isaiah](../other/isaiah.md), [Job](../other/job.md), [serpent](../other/serpent.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Jerusalem was originally an ancient Canaanite city that later became the most im
 * Because the temple was in Jerusalem, the major Jewish festivals were celebrated there.
 * People normally referred to going "up" to Jerusalem since it is located in the mountains.
 
-(See also: [[../other/babylon.md]], [[../kt/christ.md]], [[../other/david.md]], [[../other/jebusites.md]], [[../kt/jesus.md]], [[../other/solomon.md]], [[../kt/temple.md]], [[../other/zion.md]])
+(See also: [Babylon](../other/babylon.md), [Christ](../kt/christ.md), [David](../other/david.md), [Jebusites](../other/jebusites.md), [Jesus](../kt/jesus.md), [Solomon](../other/solomon.md), [temple](../kt/temple.md), [Zion](../other/zion.md))
 
 ## Bible References: ##
 

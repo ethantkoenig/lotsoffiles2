@@ -11,7 +11,7 @@ The Mount of Olives is a mountain or large hill located near the east side of th
 
 (See also: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/gethsemane.md]], [[../other/olive.md]])
+(See also: [Gethsemane](../other/gethsemane.md), [olive](../other/olive.md))
 
 ## Bible References: ##
 

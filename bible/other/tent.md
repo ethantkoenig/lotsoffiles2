@@ -11,7 +11,7 @@ A tent is a portable shelter made of sturdy fabric that is draped over a structu
 * When the apostle Paul traveled to different cities to share the gospel, he made tents to earn money to support himself.
 * The term "tents" is sometimes used figuratively to refer generally to where people live. This could also be translated as "homes" or "dwellings" or "houses." (See: [synecdoche](en/ta-vol1/translate/man/figs-synecdoche))
 
-(See also: [[../other/abraham.md]], [[../other/canaan.md]], [[../other/curtain.md]], [[../other/paul.md]], [[../other/sinai.md]], [[../kt/tabernacle.md]], [[../other/tentofmeeting.md]])
+(See also: [Abraham](../other/abraham.md), [Canaan](../other/canaan.md), [curtain](../other/curtain.md), [Paul](../other/paul.md), [Sinai](../other/sinai.md), [tabernacle](../kt/tabernacle.md), [tent of meeting](../other/tentofmeeting.md))
 
 ## Bible References: ##
 

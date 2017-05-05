@@ -10,7 +10,7 @@ The "people of Ammon" or the "Ammonites" were a people group in Canaan. They wer
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/curse.md]], [[../other/jordanriver.md]], [[../other/lot.md]])
+(See also: [curse](../kt/curse.md), [Jordan River](../other/jordanriver.md), [Lot](../other/lot.md))
 
 ## Bible References: ##
 

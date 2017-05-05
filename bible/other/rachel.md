@@ -10,7 +10,7 @@ Rachel was one of Jacob's wives. She and her sister Leah were the daughters of L
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/bethlehem.md]], [[../other/jacob.md]], [[../other/laban.md]], [[../other/leah.md]], [[../other/josephot.md]], [[../other/12tribesofisrael.md]])
+(See also: [Bethlehem](../other/bethlehem.md), [Jacob](../other/jacob.md), [Laban](../other/laban.md), [Leah](../other/leah.md), [Joseph (OT)](../other/josephot.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

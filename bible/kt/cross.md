@@ -14,7 +14,7 @@ In Bible times, a cross was an upright wooden post stuck into the ground, with a
 * Consider describing the cross as something on which people were killed, using phrases such as "execution post" or "tree of death."
 * Also consider how this word is translated in a Bible translation in a local or national language. (See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See also: [[../kt/crucify.md]], [[../other/rome.md]])
+(See also: [crucify](../kt/crucify.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ Hosea was a prophet of Israel who lived and prophesied about 750 years before th
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahaz.md]], [[../other/hezekiah.md]], [[../other/hoshea.md]], [[../other/jeroboam.md]], [[../other/jotham.md]], [[../other/uzziah.md]], [[../other/zechariahot.md]])
+(See also: [Ahaz](../other/ahaz.md), [Hezekiah](../other/hezekiah.md), [Hoshea](../other/hoshea.md), [Jeroboam](../other/jeroboam.md), [Jotham](../other/jotham.md), [Uzziah](../other/uzziah.md), [Zechariah (OT)](../other/zechariahot.md))
 
 ## Bible References: ##
 

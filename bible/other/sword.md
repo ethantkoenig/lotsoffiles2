@@ -19,7 +19,7 @@ A sword is a flat-bladed metal weapon used to cut or stab. It has a handle and a
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See also: [[../other/jamesbrotherofjesus.md]], [[../other/johnthebaptist.md]], [[../other/tongue.md]], [[../kt/wordofgod.md]])
+(See also: [James (brother of Jesus)](../other/jamesbrotherofjesus.md), [John (the Baptist)](../other/johnthebaptist.md), [tongue](../other/tongue.md), [word of God](../kt/wordofgod.md))
 
 ## Bible References: ##
 

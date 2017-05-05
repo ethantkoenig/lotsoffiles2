@@ -10,7 +10,7 @@ The term "Judea" refers to an area of land in ancient Israel. It is sometimes us
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/galilee.md]], [[../other/edom.md]], [[../other/judah.md]], [[../other/kingdomofjudah.md]], [[../other/samaria.md]])
+(See also: [Galilee](../other/galilee.md), [Edom](../other/edom.md), [Judah](../other/judah.md), [Judah](../other/kingdomofjudah.md), [Samaria](../other/samaria.md))
 
 ## Bible References: ##
 

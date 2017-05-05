@@ -16,7 +16,7 @@ The terms "fear" and "afraid" refer to the unpleasant feeling a person has when 
 * The phrase "fear not" could also be translated as "do not be afraid" or "stop being afraid."
 * Note that the phrase "fear of Yahweh" does not occur in the New Testament. The phrase "fear of the Lord" or "fear of the Lord God" is used instead.
 
-(See also: [[../other/amazed.md]], [[../other/awe.md]], [[../kt/lordgod.md]], [[../kt/power.md]], [[../kt/yahweh.md]])
+(See also: [marvel](../other/amazed.md), [awe](../other/awe.md), [Lord](../kt/lordgod.md), [power](../kt/power.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

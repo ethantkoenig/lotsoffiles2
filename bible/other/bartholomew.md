@@ -10,7 +10,7 @@ Bartholomew was one of Jesus' twelve apostles.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/apostle.md]], [[../kt/goodnews.md]], [[../kt/holyspirit.md]], [[../kt/miracle.md]], [[../other/pentecost.md]], [[../kt/thetwelve.md]])
+(See also: [apostle](../kt/apostle.md), [good news](../kt/goodnews.md), [Holy Spirit](../kt/holyspirit.md), [miracle](../kt/miracle.md), [Pentecost](../other/pentecost.md), [the twelve](../kt/thetwelve.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ The term "Israel" is the name that God gave to Jacob. It means "he struggles wit
 * Soon after King Solomon died, Israel was divided into two kingdoms: the southern kingdom, called "Judah," and the northern kingdom, called "Israel."
 * Often the term "Israel" can be translated as "the people of Israel" or "the nation of Israel," depending on the context.
 
-(See also: [[../other/jacob.md]], [[../other/kingdomofisrael.md]], [[../other/kingdomofjudah.md]], [[../other/nation.md]], [[../other/12tribesofisrael.md]])
+(See also: [Jacob](../other/jacob.md), [kingdom of Israel](../other/kingdomofisrael.md), [Judah](../other/kingdomofjudah.md), [nation](../other/nation.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

@@ -8,7 +8,7 @@ An altar was a raised structure on which the Israelites burned animals and grain
 * Some special box-shaped altars were made of wood overlaid with metals such as gold, brass, or bronze.
 * Other people groups living near the Israelites also built altars to offer sacrifices to their gods.
 
-(See also: [[../other/altarofincense.md]], [[../kt/falsegod.md]], [[../other/grainoffering.md]], [[../other/sacrifice.md]])
+(See also: [altar of incense](../other/altarofincense.md), [false god](../kt/falsegod.md), [grain offering](../other/grainoffering.md), [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

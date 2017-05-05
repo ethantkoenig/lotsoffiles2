@@ -12,7 +12,7 @@ Caesarea was an important city on the coast of the Mediterranean Sea, about 39 k
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/caesar.md]], [[../other/gentile.md]], [[../other/mediterranean.md]], [[../other/carmel.md]], [[../other/mounthermon.md]], [[../other/rome.md]], [[../other/tarsus.md]])
+(See also: [Caesar](../other/caesar.md), [Gentile](../other/gentile.md), [the sea](../other/mediterranean.md), [Carmel](../other/carmel.md), [Mount Hermon](../other/mounthermon.md), [Rome](../other/rome.md), [Tarsus](../other/tarsus.md))
 
 ## Bible References: ##
 

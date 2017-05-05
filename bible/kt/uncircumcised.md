@@ -14,7 +14,7 @@ The terms "uncircumcised" and "uncircumcision" refer to a male who has not been 
 * Other ways to translate figurative senses of this term could include, "not God's people" or "rebellious like those who don't belong to God" or "people who have no sign of belonging to God."
 * The expression "uncircumcised in heart" could be translated as, "stubbornly rebellious" or "refusing to believe." However, if possible it is best to keep the expression or a similar one since spiritual circumcision is an important concept.
 
-(See also: [[../other/abraham.md]], [[../kt/circumcise.md]])
+(See also: [Abraham](../other/abraham.md), [circumcise](../kt/circumcise.md))
 
 ## Bible References: ##
 

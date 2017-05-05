@@ -11,7 +11,7 @@ During New Testament times, Greece was a province in the Roman Empire.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/corinth.md]], [[../other/gentile.md]], [[../other/greek.md]], [[../other/hebrew.md]], [[../other/philippi.md]], [[../other/thessalonica.md]])
+(See also: [Corinth](../other/corinth.md), [Gentile](../other/gentile.md), [Greek](../other/greek.md), [Hebrew](../other/hebrew.md), [Philippi](../other/philippi.md), [Thessalonica](../other/thessalonica.md))
 
 ## Bible References: ##
 

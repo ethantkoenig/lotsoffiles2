@@ -9,7 +9,7 @@
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../kt/falsegod.md]])
+(See also: [Canaan](../other/canaan.md), [false god](../kt/falsegod.md))
 
 ## Bible References: ##
 

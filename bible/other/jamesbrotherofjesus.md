@@ -11,7 +11,7 @@ James was a son of Mary and Joseph. He was one of Jesus' younger half-brothers.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/apostle.md]], [[../kt/christ.md]], [[../kt/church.md]], [[../other/judassonofjames.md]], [[../other/persecute.md]])
+(See also: [apostle](../kt/apostle.md), [Christ](../kt/christ.md), [church](../kt/church.md), [Judas the son of James](../other/judassonofjames.md), [persecute](../other/persecute.md))
 
 ## Bible References: ##
 

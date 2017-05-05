@@ -15,7 +15,7 @@ These terms all refer to the Holy Spirit, who is God. The one true God exists et
 * This term could simply be translated with the words used to translate "holy" and "spirit."
 * Ways to translate this term could also include "Pure Spirit" or "Spirit who is Holy" or "God the Spirit."
 
-(See also: [[../kt/holy.md]], [[../kt/spirit.md]], [[../kt/god.md]], [[../kt/lordgod.md]], [[../kt/godthefather.md]], [[../kt/sonofgod.md]], [[../kt/gift.md]])
+(See also: [holy](../kt/holy.md), [spirit](../kt/spirit.md), [God](../kt/god.md), [Lord](../kt/lordgod.md), [God the Father](../kt/godthefather.md), [Son of God](../kt/sonofgod.md), [gift](../kt/gift.md))
 
 ## Bible References: ##
 

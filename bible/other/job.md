@@ -12,7 +12,7 @@ Job was a man who is described in the Bible as blameless and righteous before Go
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abraham.md]], [[../other/esau.md]], [[../other/flood.md]], [[../other/jacob.md]][[../other/noah.md]], [[../other/peoplegroup.md]])
+(See also: [Abraham](../other/abraham.md), [Esau](../other/esau.md), [flood](../other/flood.md), [Jacob](../other/jacob.md)[Noah](../other/noah.md), [people group](../other/peoplegroup.md))
 
 ## Bible References: ##
 

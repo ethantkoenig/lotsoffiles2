@@ -14,7 +14,7 @@ To forgive someone means to not hold a grudge against that person even though th
 * Depending on the context, "forgive" could be translated as "pardon" or "cancel" or "release" or "not hold against" (someone).
 * The term "forgiveness" could be translated by a word or phrase that means "practice of not resenting" or "declaring (someone) as not guilty" or "the act of pardoning."
 
-(See also: [[../kt/guilt.md]])
+(See also: [guilt](../kt/guilt.md))
 
 ## Bible References: ##
 

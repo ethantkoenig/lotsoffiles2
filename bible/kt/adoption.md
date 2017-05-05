@@ -14,7 +14,7 @@ The terms "adopt" and "adoption" refer to the process of someone legally becomin
 * To "wait for the adoption of sons" could be translated as "look forward to becoming God's children" or "wait expectantly for God to receive as children."
 * The phrase "adopt them" could be translated as "receive them as his own children" or "make them his own (spiritual) children."
 
-(See also: [[../other/heir.md]], [[../kt/inherit.md]], [[../kt/spirit.md]])
+(See also: [heir](../other/heir.md), [inherit](../kt/inherit.md), [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

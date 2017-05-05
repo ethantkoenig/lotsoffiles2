@@ -12,7 +12,7 @@ The terms "persecute" and "persecution" refer to continually treating a person o
  * The term "persecute" could also be translated as "keep oppressing" or "treat harshly" or "continually mistreat."
  * Ways to translate "persecution" could include,  "harsh mistreatment" or "oppression" or "persistent hurtful treatment"
 
-(See also: [[../kt/christian.md]], [[../kt/church.md]], [[../kt/oppress.md]], [[../other/rome.md]])
+(See also: [Christian](../kt/christian.md), [church](../kt/church.md), [oppress](../kt/oppress.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ A throne is a specially-designed chair where a king sits to decide important mat
 * In the Bible, God is often portrayed as a king who sits on his throne. Jesus is described as sitting on a throne at the right hand of God the Father.
 * Jesus said that heaven is God's throne. One way to translate this could be, "where God reigns as king."
 
-(See also: [[../kt/authority.md]], [[../kt/power.md]], [[../other/king.md]], [[../other/reign.md]])
+(See also: [authority](../kt/authority.md), [power](../kt/power.md), [king](../other/king.md), [reign](../other/reign.md))
 
 ## Bible References: ##
 

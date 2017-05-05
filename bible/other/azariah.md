@@ -11,7 +11,7 @@ Azariah was the name of several men in the Old Testament.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/babylon.md]], [[../other/daniel.md]], [[../other/hananiah.md]], [[../other/mishael.md]], [[../other/jeremiah.md]], [[../other/uzziah.md]])
+(See also: [Babylon](../other/babylon.md), [Daniel](../other/daniel.md), [Hananiah](../other/hananiah.md), [Mishael](../other/mishael.md), [Jeremiah](../other/jeremiah.md), [Uzziah](../other/uzziah.md))
 
 ## Bible References: ##
 

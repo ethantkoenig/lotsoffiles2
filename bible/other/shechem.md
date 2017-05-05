@@ -8,9 +8,9 @@ Shechem is a town in Canaan located about 40 miles north of Jerusalem. Shechem i
 * Jacob bought land from the sons of Hamor the Hivite in Shechem, which later became his family burial ground and where Jacob's sons buried him.
 * Hamor's son Shechem raped Jacob's daughter Dinah, which resulted in Jacob's sons killing all the men in the town of Shechem.
 
-(Translation suggestions: [[../other/hamor.md]]
+(Translation suggestions: [Hamor](../other/hamor.md)
 
-(See also: [[../other/canaan.md]], [[../other/esau.md]], [[../other/hamor.md]], [[../other/hivite.md]], [[../other/jacob.md]])
+(See also: [Canaan](../other/canaan.md), [Esau](../other/esau.md), [Hamor](../other/hamor.md), [Hivite](../other/hivite.md), [Jacob](../other/jacob.md))
 
 ## Bible References: ##
 

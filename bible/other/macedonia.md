@@ -11,7 +11,7 @@ In New Testament times, Macedonia was a Roman province located just north of anc
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/believer.md]], [[../other/berea.md]], [[../kt/faith.md]], [[../kt/goodnews.md]], [[../other/greece.md]], [[../other/philippi.md]], [[../other/thessalonica.md]])
+(See also: [believer](../kt/believer.md), [Berea](../other/berea.md), [faith](../kt/faith.md), [good news](../kt/goodnews.md), [Greece](../other/greece.md), [Philippi](../other/philippi.md), [Thessalonica](../other/thessalonica.md))
 
 ## Bible References: ##
 

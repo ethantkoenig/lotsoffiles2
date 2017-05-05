@@ -12,7 +12,7 @@ Tyre was an ancient Canaanite city located on the coast of the Mediterranean Sea
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../other/cedar.md]], [[../other/israel.md]], [[../other/mediterranean.md]], [[../other/phonecia.md]], [[../other/sidon.md]])
+(See also: [Canaan](../other/canaan.md), [cedar](../other/cedar.md), [Israel](../other/israel.md), [the sea](../other/mediterranean.md), [Phoenicia](../other/phonecia.md), [Sidon](../other/sidon.md))
 
 ## Bible References: ##
 

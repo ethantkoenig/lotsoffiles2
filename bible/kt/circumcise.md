@@ -19,7 +19,7 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
-(See also: [[../kt/uncircumcised.md]], [[../kt/covenant.md]])
+(See also: [uncircumcised](../kt/uncircumcised.md), [covenant](../kt/covenant.md))
 
 ## Bible References: ##
 

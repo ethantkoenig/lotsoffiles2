@@ -9,7 +9,7 @@ A "peace offering" was one of several sacrificial offerings that God commanded t
 * The priest and offerer of the sacrifice were permitted to share in eating the food that was offered.
 * This offering symbolizes the fellowship of God with his people.
 
-(See also: [[../other/burntoffering.md]], [[../kt/fellowship.md]], [[../other/fellowshipoffering.md]], [[../other/grainoffering.md]], [[../kt/priest.md]], [[../other/sacrifice.md]], [[../kt/unleavenedbread.md]])
+(See also: [burnt offering](../other/burntoffering.md), [fellowship](../kt/fellowship.md), [fellowship offering](../other/fellowshipoffering.md), [grain offering](../other/grainoffering.md), [priest](../kt/priest.md), [sacrifice](../other/sacrifice.md), [unleavened bread](../kt/unleavenedbread.md))
 
 ## Bible References: ##
 

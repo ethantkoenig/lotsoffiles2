@@ -11,7 +11,7 @@ Samson was one of the judges, or deliverers, of Israel. He was from the tribe of
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/deliverer.md]], [[../other/philistines.md]], [[../other/12tribesofisrael.md]])
+(See also: [deliver](../kt/deliverer.md), [Philistines](../other/philistines.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

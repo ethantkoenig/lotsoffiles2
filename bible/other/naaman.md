@@ -12,7 +12,7 @@ In the Old Testament, Naaman was the commander of the army of the king of Aram.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aram.md]], [[../other/jordanriver.md]], [[../other/leprosy.md]], [[../kt/prophet.md]])
+(See also: [Aram](../other/aram.md), [Jordan River](../other/jordanriver.md), [leprosy](../other/leprosy.md), [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

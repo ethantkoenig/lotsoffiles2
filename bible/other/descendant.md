@@ -8,7 +8,7 @@ A "descendant" is someone who is a direct blood relative of someone else further
 * A person's descendants are his children, grandchildren, great-great-grandchildren, and so on. Jacob's descendants were the twelve tribes of Israel.
 * The phrase "descended from" is another way of saying "a descendant of" as in "Abraham was descended from Noah." This could also be translated as "from the family line of." 
 
-(See also: [[../other/abraham.md]], [[../other/father.md]], [[../other/jacob.md]], [[../other/noah.md]], [[../other/12tribesofisrael.md]])
+(See also: [Abraham](../other/abraham.md), [ancestor](../other/father.md), [Jacob](../other/jacob.md), [Noah](../other/noah.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

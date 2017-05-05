@@ -15,7 +15,7 @@ The term "king" refers to a man who is the supreme ruler of a city, state, or co
 * This term could also be translated as "supreme chief" or "absolute leader" or "sovereign ruler."
 * The phrase "king of kings" could be translated as  "king who rules over all other kings" or "supreme ruler who has authority over all other rulers."
 
-(See also: [[../kt/authority.md]], [[../other/herodantipas.md]], [[../other/kingdom.md]], [[../kt/kingdomofgod.md]])
+(See also: [authority](../kt/authority.md), [Herod Antipas](../other/herodantipas.md), [kingdom](../other/kingdom.md), [kingdom of God](../kt/kingdomofgod.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Rahab was a woman who lived in Jericho when Israel attacked the city. She was a 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/israel.md]], [[../other/jericho.md]], [[../other/prostitute.md]])
+(See also: [Israel](../other/israel.md), [Jericho](../other/jericho.md), [prostitute](../other/prostitute.md))
 
 ## Bible References: ##
 

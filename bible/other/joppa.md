@@ -10,7 +10,7 @@ In Bible times, the city of Joppa was an important commercial seaport located on
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/mediterranean.md]], [[../other/jerusalem.md]], [[../other/sharon.md]], [[../other/tarshish.md]]) 
+(See also: [the sea](../other/mediterranean.md), [Jerusalem](../other/jerusalem.md), [Sharon](../other/sharon.md), [Tarshish](../other/tarshish.md)) 
 
 ## Bible References: ##
 

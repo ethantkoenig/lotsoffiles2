@@ -17,7 +17,7 @@ In the Bible, the terms "minister" and "ministry" refer to serving others by tea
 * In the context of ministering to God, this could be translated as "to serve" or "to work for God."
 * The phrase "ministered to" could also be translated as "took care of" or "provided for" or "helped."
 
-(See also: [[../other/serve.md]], [[../other/sacrifice.md]])
+(See also: [serve](../other/serve.md), [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

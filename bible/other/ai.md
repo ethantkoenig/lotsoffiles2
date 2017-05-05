@@ -9,7 +9,7 @@ In Old Testament times, Ai was the name of a Canaanite town located just south o
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/bethel.md]], [[../other/jericho.md]])
+(See also: [Bethel](../other/bethel.md), [Jericho](../other/jericho.md))
 
 ## Bible References: ##
 

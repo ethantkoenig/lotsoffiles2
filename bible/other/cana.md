@@ -8,7 +8,7 @@ Cana was a village or town in the province of Galilee, located about nine miles 
 * Jesus attended a wedding feast in Cana and performed his first miracle there when he turned water into wine.
 * Some time after that, Jesus came back to Cana and met an official there from Capernaum who requested healing for his son.
 
-(See also: [[../other/capernaum.md]], [[../other/galilee.md]], [[../kt/thetwelve.md]])
+(See also: [Capernaum](../other/capernaum.md), [Galilee](../other/galilee.md), [the twelve](../kt/thetwelve.md))
 
 ## Bible References: ##
 

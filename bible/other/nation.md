@@ -17,7 +17,7 @@ A nation is a large group of people ruled by some form of government. The people
 * The plural term "nations" can often be translated as "people groups."
 * In certain contexts, this term could also be translated as "Gentiles" or "nonJews."
 
-(See also: [[../other/assyria.md]], [[../other/babylon.md]], [[../other/canaan.md]], [[../other/gentile.md]], [[../other/greek.md]], [[../other/peoplegroup.md]], [[../other/philistines.md]], [[../other/rome.md]])
+(See also: [Assyria](../other/assyria.md), [Babylon](../other/babylon.md), [Canaan](../other/canaan.md), [Gentile](../other/gentile.md), [Greek](../other/greek.md), [people group](../other/peoplegroup.md), [Philistines](../other/philistines.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

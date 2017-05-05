@@ -10,7 +10,7 @@ The Hivites were one of seven major people groups living in the land of Canaan.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../other/hamor.md]], [[../other/noah.md]], [[../other/shechem.md]])
+(See also: [Canaan](../other/canaan.md), [Hamor](../other/hamor.md), [Noah](../other/noah.md), [Shechem](../other/shechem.md))
 
 ## Bible References: ##
 

@@ -16,7 +16,7 @@ The term "endure" means to last a long time or to bear something difficult with 
 * With the meaning of lasting for a long time, the term "endure" could also be tranlsated as "last" or "continue." The phrase "will not endure" could be translated as "will not last" or "will not continue to survive."
 * Ways to translate "endurance" could include "perseverance" or "continuing to believe" or "remaining faithful."
 
-(See also: [[../other/perseverance.md]])
+(See also: [persevere](../other/perseverance.md))
 
 ## Bible References: ##
 

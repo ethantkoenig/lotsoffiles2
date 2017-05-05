@@ -11,7 +11,7 @@ Cornelius was a Gentile, or non-Jewish man, who was a military officer in the Ro
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/apostle.md]], [[../kt/believer.md]], [[../other/gentile.md]], [[../kt/goodnews.md]], [[../other/greek.md]], [[../other/centurion.md]])
+(See also: [apostle](../kt/apostle.md), [believer](../kt/believer.md), [Gentile](../other/gentile.md), [good news](../kt/goodnews.md), [Greek](../other/greek.md), [centurion](../other/centurion.md))
 
 ## Bible References: ##
 

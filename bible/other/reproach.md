@@ -8,7 +8,7 @@ To reproach someone means to criticize or disapprove of that person's character 
 * The word "reproach" could also be translated as "accusation" or "shame" or "disgrace."
 * "To reproach" could also be translated as "to rebuke" or "to accuse" or "to criticize," depending on the context.
 
-(See also: [[../other/accuse.md]], [[../other/rebuke.md]], [[../other/shame.md]])
+(See also: [accuse](../other/accuse.md), [rebuke](../other/rebuke.md), [shame](../other/shame.md))
 
 ## Bible References: ##
 

@@ -15,7 +15,7 @@ The term "new covenant" refers to the commitment or agreement God made with his 
 * The term "new covenant" could be translated as "new formal agreement" or "new pact" or "new contract."
 * The word "new" in these expressions has the meaning of "fresh" or "new kind of" or "another."
 
-(See also: [[../kt/atonement.md]], [[../kt/covenant.md]], [[../other/israel.md]], [[../kt/jesus.md]], [[../other/moses.md]], [[../kt/sonofgod.md]])
+(See also: [atonement](../kt/atonement.md), [covenant](../kt/covenant.md), [Israel](../other/israel.md), [Jesus](../kt/jesus.md), [Moses](../other/moses.md), [Son of God](../kt/sonofgod.md))
 
 ## Bible References: ##
 

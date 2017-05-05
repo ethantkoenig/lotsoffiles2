@@ -10,7 +10,7 @@ Sidon was the oldest son of Canaan. There is also a Canaanite city called Sidon,
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../other/noah.md]], [[../other/phonecia.md]], [[../other/mediterranean.md]], [[../other/tyre.md]])
+(See also: [Canaan](../other/canaan.md), [Noah](../other/noah.md), [Phoenicia](../other/phonecia.md), [the sea](../other/mediterranean.md), [Tyre](../other/tyre.md))
 
 ## Bible References: ##
 

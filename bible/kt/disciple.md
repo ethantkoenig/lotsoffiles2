@@ -18,7 +18,7 @@ The term "disciple" refers to a person who spends much time with a teacher, lear
 * Make sure that the translation of this term does not refer only to a student who learns in a classroom.
 * The translation of this term should also be different from the translation of "apostle."
 
-(See also: [[../kt/apostle.md]], [[../kt/believer.md]], [[../kt/jesus.md]], [[../other/johnthebaptist.md]], [[../kt/thetwelve.md]])
+(See also: [apostle](../kt/apostle.md), [believer](../kt/believer.md), [Jesus](../kt/jesus.md), [John (the Baptist)](../other/johnthebaptist.md), [the twelve](../kt/thetwelve.md))
 
 ## Bible References: ##
 

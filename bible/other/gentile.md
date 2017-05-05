@@ -10,7 +10,7 @@ The term "Gentile" refers to anyone who is not a Jew. Gentiles are people who ar
 * Gentile could also be translated as "not a Jew" or "non-Jewish" or "not an Israelite" (Old Testament) or "non-Jew.".
 * Traditionally, Jews would neither eat with nor associate with Gentiles, which at first caused problems within the early church.
 
-(See also: [[../other/israel.md]],[[../other/jacob.md]], [[../other/jew.md]])
+(See also: [Israel](../other/israel.md),[Jacob](../other/jacob.md), [Jew](../other/jew.md))
 
 ## Bible References: ##
 

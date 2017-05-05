@@ -10,7 +10,7 @@ Tychicus was one of Paul's fellow ministers of the gospel.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/asia.md]], [[../kt/beloved.md]], [[../other/colossae.md]], [[../other/ephesus.md]], [[../kt/faithful.md]], [[../kt/goodnews.md]], [[../kt/minister.md]])
+(See also: [Asia](../other/asia.md), [beloved](../kt/beloved.md), [Colossae](../other/colossae.md), [Ephesus](../other/ephesus.md), [faithful](../kt/faithful.md), [good news](../kt/goodnews.md), [minister](../kt/minister.md))
 
 ## Bible References: ##
 

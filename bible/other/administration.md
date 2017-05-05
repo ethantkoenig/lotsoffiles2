@@ -14,7 +14,7 @@ The terms "administration" and "administrator" refer to managing or governing of
 * The term "administration" could be translated as "governing" or "management" or "leadership." or "organization."
 * Expressions such as "in charge of" or "taking care of" or "keeping order" could possibly be part of the translation of these terms.
 
-(See also: [[../other/babylon.md]], [[../other/daniel.md]], [[../kt/gift.md]], [[../other/governor.md]], [[../other/hananiah.md]], [[../other/mishael.md]], [[../other/azariah.md]])
+(See also: [Babylon](../other/babylon.md), [Daniel](../other/daniel.md), [gift](../kt/gift.md), [governor](../other/governor.md), [Hananiah](../other/hananiah.md), [Mishael](../other/mishael.md), [Azariah](../other/azariah.md))
 
 ## Bible References: ##
 

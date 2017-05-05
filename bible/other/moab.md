@@ -10,7 +10,7 @@ Moab was the son of Lot's elder daughter. It also became the name of the land wh
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/bethlehem.md]], [[../other/judea.md]], [[../other/lot.md]], [[../other/ruth.md]], [[../other/saltsea.md]])
+(See also: [Bethlehem](../other/bethlehem.md), [Judea](../other/judea.md), [Lot](../other/lot.md), [Ruth](../other/ruth.md), [Salt Sea](../other/saltsea.md))
 
 ## Bible References: ##
 

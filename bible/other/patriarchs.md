@@ -7,7 +7,7 @@ The term "patriarchs" in the OT refers to the founding fathers of the Jewish peo
 * It also can refer to the twelve sons of Jacob who became the 12 patriarchs of the 12 tribes of Israel.
 * The term "patriarch" has a similar meaning to "forefather," but more specifically refers to the most well-known male ancestral leaders of a people group.
 
-(See also: [[../other/ancestor.md]], [[../other/father.md]])
+(See also: [[../other/ancestor.md]], [ancestor](../other/father.md))
 
 ## Bible References: ##
 

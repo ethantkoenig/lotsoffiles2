@@ -8,7 +8,7 @@ The term "unprofitable" means to not be useful.
 * Something that is unprofitable is not worth doing because it does not give any benefit.
 * This could be translated as "useless" or "worthless" or "not useful" or "unworthy" or "not beneficial" or "giving no benefit."
 
-(See also: [[../other/profit.md]], [[../kt/worthy.md]])
+(See also: [profit](../other/profit.md), [worthy](../kt/worthy.md))
 
 ## Bible References: ##
 

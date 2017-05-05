@@ -19,7 +19,7 @@ The term "world" usually refers to the part of the universe where people live: t
 * The phrase "saying these things in the world" can be translated as "saying these things to the people of the world."
 * In other contexts, "in the world" could also be translated as "living among the people of the world" or "living among ungodly people."
 
-(See also: [[../kt/corrupt.md]], [[../kt/heaven.md]], [[../other/rome.md]], [[../kt/ungodly.md]])
+(See also: [corrupt](../kt/corrupt.md), [heaven](../kt/heaven.md), [Rome](../other/rome.md), [ungodly](../kt/ungodly.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ A synagogue is a building where Jewish people meet together to worship God.
  * Jesus often taught in synagogues and healed people there.
  * The word "synagogue" can be used figuratively to refer to the group of people meeting there. 
 
-(See also: [[../other/heal.md]], [[../other/jerusalem.md]], [[../other/jew.md]], [[../other/pray.md]], [[../kt/temple.md]], [[../kt/wordofgod.md]], [[../kt/worship.md]])
+(See also: [heal](../other/heal.md), [Jerusalem](../other/jerusalem.md), [Jew](../other/jew.md), [pray](../other/pray.md), [temple](../kt/temple.md), [word of God](../kt/wordofgod.md), [worship](../kt/worship.md))
 
 ## Bible References: ##
 

@@ -8,7 +8,7 @@ En Gedi was the name of a city in the wilderness of Judah southeast of Jerusalem
 * En Gedi was known for having beautiful vineyards and other fertile land, probably due to the continual watering by the fountain of water.
 * There were strongholds in En Gedi which David fled to when he was being chased by King Saul.
 
-(See also: [[../other/david.md]], [[../other/desert.md]], [[../other/fountain.md]], [[../other/judah.md]], [[../kt/rest.md]], [[../other/saltsea.md]], [[../other/saul.md]], [[../other/stronghold.md]], [[../other/vineyard.md]])
+(See also: [David](../other/david.md), [desert](../other/desert.md), [fountain](../other/fountain.md), [Judah](../other/judah.md), [rest](../kt/rest.md), [Salt Sea](../other/saltsea.md), [Saul (OT)](../other/saul.md), [stronghold](../other/stronghold.md), [vineyard](../other/vineyard.md))
 
 ## Bible References: ##
 

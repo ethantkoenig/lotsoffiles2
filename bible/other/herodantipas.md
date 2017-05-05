@@ -12,7 +12,7 @@
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/crucify.md]], [[../other/herodthegreat.md]], [[../other/johnthebaptist.md]], [[../other/king.md]], [[../other/rome.md]])
+(See also: [crucify](../kt/crucify.md), [Herod the Great](../other/herodthegreat.md), [John (the Baptist)](../other/johnthebaptist.md), [king](../other/king.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

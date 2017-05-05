@@ -11,7 +11,7 @@ Joel is the name of a prophet who probably lived during the reign of King Joash 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/joash.md]], [[../other/kingdomofjudah.md]], [[../other/pentecost.md]])
+(See also: [Joash](../other/joash.md), [Judah](../other/kingdomofjudah.md), [Pentecost](../other/pentecost.md))
 
 ## Bible References: ##
 

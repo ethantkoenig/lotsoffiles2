@@ -15,7 +15,7 @@ The term "lawless" describes a person who does not obey laws or rules. When a co
 * It is important to keep the concept of "law" in this term, if possible.
 * Note that the term "unlawful" has a different meaning from this term.
 
-(See also: [[../other/law.md]], [[../other/lawful.md]], [[../kt/lawofmoses.md]])
+(See also: [law](../other/law.md), [lawful](../other/lawful.md), [law](../kt/lawofmoses.md))
 
 ## Bible References: ##
 

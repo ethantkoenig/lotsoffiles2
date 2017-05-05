@@ -9,7 +9,7 @@ The terms "thresh" and "threshing" refer to the first part of the process of sep
 * A "threshing cart" or "threshing wheel" was sometimes used to crush the grain and help separate it from the straw and chaff.
 * A "threshing sledge" or "threshing board" was also used for separating grain. It was made of wooden boards that had sharp metal spikes on the end.
 
-(See also: [[../other/chaff.md]], [[../other/grain.md]], [[../other/winnow.md]])
+(See also: [chaff](../other/chaff.md), [grain](../other/grain.md), [winnow](../other/winnow.md))
 
 ## Bible References: ##
 

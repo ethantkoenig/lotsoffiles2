@@ -11,7 +11,7 @@ The type of lamp that was used in Bible times is a small container with a fuel s
 * An oil lamp could be carried or placed on a stand so that its light could fill a room or house.
 * In scripture, lamps are used in several figurative ways as symbols of light and life.
 
-(See also: [[../other/lampstand.md]], [[../kt/life.md]], [[../kt/light.md]])
+(See also: [lampstand](../other/lampstand.md), [life](../kt/life.md), [light](../kt/light.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The term "abyss" refers to a very large, deep hole or chasm that has no bottom.
  * The word "abyss" could also be translated as "bottomless pit" or "deep chasm."
  * This term should be translated differently from "hades," "sheol,"  or "hell."
 
-(See Also: [[../other/hades.md]], [[../kt/hell.md]], [[../other/punish.md]])
+(See Also: [Hades](../other/hades.md), [hell](../kt/hell.md), [punish](../other/punish.md))
 
 ## Bible References: ##
 

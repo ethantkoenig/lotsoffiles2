@@ -11,7 +11,7 @@ Meshech is the name of two men in the Old Testament.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/japheth.md]], [[../other/noah.md]], [[../other/shem.md]])
+(See also: [Japheth](../other/japheth.md), [Noah](../other/noah.md), [Shem](../other/shem.md))
 
 ## Bible References: ##
 

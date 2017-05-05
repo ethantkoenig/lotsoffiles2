@@ -12,7 +12,7 @@ Joseph was the eleventh son of Jacob and the first son of his mother Rachel.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/egypt.md]], [[../other/jacob.md]])
+(See also: [Egypt](../other/egypt.md), [Jacob](../other/jacob.md))
 
 ## Bible References: ##
 

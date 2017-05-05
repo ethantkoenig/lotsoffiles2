@@ -12,7 +12,7 @@ Ephesus was an ancient Greek city on the west coast of what is now the present-d
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/asia.md]], [[../other/paul.md]], [[../other/timothy.md]])
+(See also: [Asia](../other/asia.md), [Paul](../other/paul.md), [Timothy](../other/timothy.md))
 
 ## Bible References: ##
 

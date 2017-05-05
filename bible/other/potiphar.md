@@ -9,7 +9,7 @@ Potiphar was an important official for the pharaoh of Egypt during the time that
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/egypt.md]], [[../other/josephot.md]], [[../other/pharaoh.md]])
+(See also: [Egypt](../other/egypt.md), [Joseph (OT)](../other/josephot.md), [Pharaoh](../other/pharaoh.md))
 
 ## Bible References: ##
 

@@ -7,7 +7,7 @@ Amnon was the oldest son of King David. His mother was King David's wife Ahinoam
 * Amnon raped his half-sister Tamar, who was also Absalom's sister.
 * Because of this, Absalom plotted against Amnon and had him killed.
 
-(See also: [[../other/david.md]], [[../other/absalom.md]])
+(See also: [David](../other/david.md), [Absalom](../other/absalom.md))
 
 ## Bible References: ##
 

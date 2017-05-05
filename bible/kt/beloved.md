@@ -14,7 +14,7 @@ The term "beloved" is an expression of affection that describes someone who is l
 * In the context of talking about a close friend, this could be translated as "my dear friend" or "my close friend." In English it is natural to say "my dear friend, Paul" or "Paul, who is my dear friend." Other languages may find it more natural to order this in a different way.
 * Note that the word "beloved" comes from the word for God's love, which is unconditional, unselfish, and sacrificial.
 
-(See also: [[../kt/love.md]])
+(See also: [love](../kt/love.md))
 
 ## Bible References: ##
 

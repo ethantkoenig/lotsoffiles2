@@ -8,7 +8,7 @@ A statute is a specific written law that provides guidance for people to live by
 * King David said that he delighted himself in Yahweh's statutes.
 * The term "statute" could also be translated as "specific command" or "special decree."
 
-(See also: [[../other/command.md]], [[../other/decree.md]], [[../kt/lawofmoses.md]], [[../other/ordinance.md]], [[../kt/yahweh.md]])
+(See also: [command](../other/command.md), [decree](../other/decree.md), [law](../kt/lawofmoses.md), [ordinance](../other/ordinance.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

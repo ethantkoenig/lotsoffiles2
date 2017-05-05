@@ -17,7 +17,7 @@ In the Old Testament, "Lord Yahweh" is frequently used to refer to the one true 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/god.md]], [[../kt/lord.md]], [[../kt/lordgod.md]], [[../kt/yahweh.md]])
+(See also: [God](../kt/god.md), [lord](../kt/lord.md), [Lord](../kt/lordgod.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

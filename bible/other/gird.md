@@ -9,7 +9,7 @@ The term "gird" means to fasten something around something else. It often refers
 * The expression "gird up the loins" could be translated using an expression in the target language that has the same meaning. Or it could be translated figuratively as "prepare yourself for action" or "get yourself ready."
 * The term "girded with" could be translated as "encircled by" or wrapped with" or "belted with."
 
-(See also: [[../other/loins.md]])
+(See also: [loins](../other/loins.md))
 
 ## Bible References: ##
 

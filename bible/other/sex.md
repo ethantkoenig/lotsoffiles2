@@ -15,7 +15,7 @@ In the Bible, these terms are euphemisms that refer to having sexual intercourse
 * The term "lovemaking" could also be translated as, "loving" or "intimacy." Or there may be an expression that is a natural way to translate this in the project language.
 * It is important to check that the terms used to translate this concept are acceptable to the people who will be using the Bible translation.
 
-(See also: [[../kt/fornication.md]])
+(See also: [sexual immorality](../kt/fornication.md))
 
 ## Bible References: ##
 

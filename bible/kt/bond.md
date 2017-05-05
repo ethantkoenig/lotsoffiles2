@@ -26,7 +26,7 @@ The term "bind" means to tie something or fasten it securely. Something that is 
 * To "bind" oneself with a vow could be translated as "promise to fulfill a vow" or "commit to fulfill a vow."
 * Depending on the context, the term "bound" could also be translated as "tied" or "tied up" or "chained" or "obligated (to fulfill)" or "required to do."
 
-(See also: [[../kt/fulfill.md]], [[../other/peace.md]], [[../other/prison.md]], [[../other/servant.md]], [[../kt/vow.md]])
+(See also: [fulfill](../kt/fulfill.md), [peace](../other/peace.md), [prison](../other/prison.md), [servant](../other/servant.md), [vow](../kt/vow.md))
 
 ## Bible References: ##
 

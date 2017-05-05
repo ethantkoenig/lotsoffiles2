@@ -9,7 +9,7 @@ The term "Judaism" refers to the religion practiced by the Jews. It is also refe
 * When translating, the term "Jewish religion" or "religion of the Jews" can be used in both the Old and New Testaments.
 * However, the term "Judaism" should only be used in the New Testament, since the term did not exist before that time.
 
-(See also: [[../other/jew.md]], [[../kt/lawofmoses.md]])
+(See also: [Jew](../other/jew.md), [law](../kt/lawofmoses.md))
 
 ## Bible References: ##
 

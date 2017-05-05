@@ -13,7 +13,7 @@ The term "filled with the Spirit" is a figurative expression that, when used to 
 * A sentence such as "he was filled with the Spirit" could be translated as "he was living fully by the Spirit's power" or "he was completely guided by the Holy Spirit" or "the Holy Spirit was guiding him completely."
 * This term is similar in meaning to the expression "live by the Spirit," but "filled with the Spirit" emphasizes the completeness with which a person allows the Holy Spirit to have control or influence over his life. So these two expressions should be translated differently, if possible.
 
-(See also: [[../kt/holyspirit.md]])
+(See also: [Holy Spirit](../kt/holyspirit.md))
 
 ## Bible References: ##
 

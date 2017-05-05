@@ -8,7 +8,7 @@ Jews are people who are descendants of Abraham's grandson Jacob. The word "Jew" 
 * Jesus the Messiah was Jewish. However, the Jewish religious leaders rejected Jesus and demanded that he be killed.
 * Often the phrase "the Jews" refers to the leaders of the Jews, not all the Jewish people. In those contexts, some translations add "leaders of" to make this clear.
 
-(See also: [[../other/abraham.md]], [[../other/jacob.md]], [[../other/israel.md]], [[../other/babylon.md]], [[../other/jewishleaders.md]])
+(See also: [Abraham](../other/abraham.md), [Jacob](../other/jacob.md), [Israel](../other/israel.md), [Babylon](../other/babylon.md), [Jewish leaders](../other/jewishleaders.md))
 
 ## Bible References: ##
 

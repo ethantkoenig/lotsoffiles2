@@ -14,7 +14,7 @@ A goat is a medium-sized, four-legged animal which is similar to a sheep and is 
 * In both the Old and New Testaments, the goat was used as a symbol for unrighteous people, perhaps because of its tendency to wander away from the one taking care of it.
 * The Israelites also used goats as symbolic sin bearers. When one goat was sacrificed, the priest would lay his hands on a second, live goat, and send it into the desert as a symbol that the animal was bearing the people's sins.
 
-(See also: [[../other/flock.md]], [[../other/sacrifice.md]], [[../other/sheep.md]], [[../kt/unrighteous.md]], [[../other/wine.md]])
+(See also: [flock](../other/flock.md), [sacrifice](../other/sacrifice.md), [sheep](../other/sheep.md), [unrighteous](../kt/unrighteous.md), [wine](../other/wine.md))
 
 ## Bible References: ##
 

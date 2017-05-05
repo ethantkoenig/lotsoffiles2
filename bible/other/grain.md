@@ -8,7 +8,7 @@ The term "grain" usually refers to the seed of a food plant such as wheat, barle
 * A head of grain is the part of the plant that holds the grain.
 * Note that some older Bible versions use the word "corn" to refer to grain in general. In modern English however, "corn" only refers to one type of grain.
 
-(See also: [[../other/head.md]], [[../other/wheat.md]])
+(See also: [head](../other/head.md), [wheat](../other/wheat.md))
 
 ## Bible References: ##
 

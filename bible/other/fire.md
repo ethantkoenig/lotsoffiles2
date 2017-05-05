@@ -10,7 +10,7 @@ Fire is the heat, light, and flames that are produced when something is burned.
 * Fire is used to refine gold and other metals. In the Bible, this process is used to explain how God refines people through difficult things that happen in their lives.
 * The phrase "baptize with fire" could also be translated as "cause to experience suffering in order to be purified."
 
-(See also: [[../kt/purify.md]])
+(See also: [pure](../kt/purify.md))
 
 ## Bible References: ##
 

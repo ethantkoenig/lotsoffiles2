@@ -10,7 +10,7 @@ Pilate was the governor of the Roman province of Judea who sentenced Jesus to de
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/crucify.md]], [[../other/governor.md]], [[../kt/guilt.md]], [[../other/judea.md]], [[../other/rome.md]])
+(See also: [crucify](../kt/crucify.md), [governor](../other/governor.md), [guilt](../kt/guilt.md), [Judea](../other/judea.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

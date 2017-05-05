@@ -14,7 +14,7 @@
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/mesopotamia.md]], [[../other/paddanaram.md]], [[../other/rebekah.md]], [[../other/shem.md]], [[../other/syria.md]])
+(See also: [Mesopotamia](../other/mesopotamia.md), [Paddan Aram](../other/paddanaram.md), [Rebekah](../other/rebekah.md), [Shem](../other/shem.md), [Syria](../other/syria.md))
 
 ## Bible References: ##
 

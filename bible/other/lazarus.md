@@ -10,7 +10,7 @@ Lazarus and his sisters, Mary and Martha, were special friends of Jesus. Jesus o
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/beg.md]], [[../other/jewishleaders.md]], [[../other/martha.md]], [[../other/mary.md]], [[../kt/raise.md]])
+(See also: [beg](../other/beg.md), [Jewish leaders](../other/jewishleaders.md), [Martha](../other/martha.md), [Mary](../other/mary.md), [raise](../kt/raise.md))
 
 ## Bible References: ##
 

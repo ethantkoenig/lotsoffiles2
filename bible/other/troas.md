@@ -10,7 +10,7 @@ The city of Troas was a seaport located on the northwest coast of the ancient Ro
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/asia.md]], [[../other/preach.md]], [[../other/province.md]], [[../kt/raise.md]], [[../other/rome.md]], [[../other/scroll.md]], [[../other/timothy.md]])
+(See also: [Asia](../other/asia.md), [preach](../other/preach.md), [province](../other/province.md), [raise](../kt/raise.md), [Rome](../other/rome.md), [scroll](../other/scroll.md), [Timothy](../other/timothy.md))
 
 ## Bible References: ##
 

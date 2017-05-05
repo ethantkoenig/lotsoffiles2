@@ -21,7 +21,7 @@ Many times in the Old Testament, when God is speaking about himself, he uses his
 * Another option would be to only add the pronoun occasionally, but not at every occurrence. 
 * The translation of this phrase should sound natural in the language and should make it clear that Yahweh is talking about himself.                     
 
-(See also: [[../kt/yahweh.md]])
+(See also: [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

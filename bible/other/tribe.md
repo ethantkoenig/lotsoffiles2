@@ -8,7 +8,7 @@ A tribe is a group of people who are descended from a common ancestor.
 * In the Old Testament, God divided the people of Israel into twelve tribes. Each tribe was descended from a son or grandson of Jacob.
 * A tribe is smaller than a nation, but larger than a clan.
 
-(See also: [[../other/clan.md]], [[../other/nation.md]], [[../other/peoplegroup.md]], [[../other/12tribesofisrael.md]])
+(See also: [clan](../other/clan.md), [nation](../other/nation.md), [people group](../other/peoplegroup.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

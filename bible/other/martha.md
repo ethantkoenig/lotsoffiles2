@@ -10,7 +10,7 @@ Martha was a woman from Bethany who followed Jesus.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/lazarus.md]], [[../other/marysisterofmartha.md]])
+(See also: [Lazarus](../other/lazarus.md), [Mary (sister of Martha)](../other/marysisterofmartha.md))
 
 ## Bible References: ##
 

@@ -14,7 +14,7 @@ The term "fulfill" means to complete or accomplish something that was expected.
 * The phrase "has been fulfilled" could also be translated as "has come true" or "has happened" or "has taken place."
 * Ways to translate "fulfill," as in "fulfill your ministry," could include "complete" or "perform" or "practice" or "serve other people as God has called you to do."
 
-(See also: [[../kt/prophet.md]], [[../kt/christ.md]], [[../kt/minister.md]], [[../kt/call.md]])
+(See also: [prophet](../kt/prophet.md), [Christ](../kt/christ.md), [minister](../kt/minister.md), [call](../kt/call.md))
 
 ## Bible References: ##
 

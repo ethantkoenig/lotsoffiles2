@@ -14,7 +14,7 @@ The term "to command" means to order someone to do something. A "command" or "co
 * Some translators may prefer to translate "command" and "commandment" with the same word in their language.
 * Others may prefer to use a special word for commandment that refers to lasting, formal commands that God has made.
 
-(See [[../other/decree.md]], [[../other/statute.md]], [[../other/law.md]], [[../other/tencommandments.md]])
+(See [decree](../other/decree.md), [statute](../other/statute.md), [law](../other/law.md), [Ten Commandments](../other/tencommandments.md))
 
 ## Bible References: ##
 

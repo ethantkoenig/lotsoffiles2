@@ -16,7 +16,7 @@ To "reject" someone or something means to refuse to accept that person or thing.
 * In the expression "stone that the builders rejected," the term "rejected" could be translated as "refused to use" or "did not accept" or "threw away" or "got rid of as worthless."
 * In the context of people who rejected God's commandments, rejected could be translated as "refused to obey" his commands or "stubbornly chose to not accept" God's laws.
 
-(See also: [[../other/command.md]], [[../other/disobey.md]], [[../other/obey.md]], [[../other/stiffnecked.md]])
+(See also: [command](../other/command.md), [disobey](../other/disobey.md), [obey](../other/obey.md), [stiff-necked](../other/stiffnecked.md))
 
 ## Bible References: ##
 

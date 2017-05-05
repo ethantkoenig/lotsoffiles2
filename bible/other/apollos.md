@@ -10,7 +10,7 @@ Apollos was a Jew from the city of Alexandria in Egypt who had a special ability
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aquila.md]], [[../other/ephesus.md]], [[../other/priscilla.md]], [[../kt/wordofgod.md]])
+(See also: [Aquila](../other/aquila.md), [Ephesus](../other/ephesus.md), [Priscilla](../other/priscilla.md), [word of God](../kt/wordofgod.md))
 
 ## Bible References: ##
 

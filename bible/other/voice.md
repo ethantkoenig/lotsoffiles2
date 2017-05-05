@@ -9,7 +9,7 @@ The term "voice" is often used figuratively to refer to speaking or communicatin
 * To "hear someone's voice" could also be translated as "hear someone speaking."
 * Sometimes the word "voice" may be used for objects that cannot literally speak, such as when David exclaims in the psalms that the "voice" of the heavens proclaims God's mighty works. This could also be translated as "their splendor shows clearly how great God is."
 
-(See also: [[../kt/call.md]], [[../other/proclaim.md]], [[../other/splendor.md]])
+(See also: [call](../kt/call.md), [proclaim](../other/proclaim.md), [splendor](../other/splendor.md))
 
 ## Bible References: ##
 

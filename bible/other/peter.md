@@ -11,7 +11,7 @@ Peter was one of Jesus' twelve apostles. He was an important leader of the early
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/disciple.md]], [[../kt/apostle.md]])
+(See also: [disciple](../kt/disciple.md), [apostle](../kt/apostle.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ An "adversary" is a person or group who is opposed to someone or something. The 
  * In the Bible, the devil is referred to as an "adversary" and an "enemy."
  * Adversary may be translated as "opponent" or "enemy," but it suggests a tronger form of opposition.
 
-(See also: [[../kt/satan.md]])
+(See also: [Satan](../kt/satan.md))
 
 ## Bible References: ##
 

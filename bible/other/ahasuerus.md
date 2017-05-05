@@ -10,7 +10,7 @@ Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty yea
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/babylon.md]], [[../other/esther.md]], [[../other/ethiopia.md]], [[../other/exile.md]], [[../other/persia.md]])
+(See also: [Babylon](../other/babylon.md), [Esther](../other/esther.md), [Ethiopia](../other/ethiopia.md), [exile](../other/exile.md), [Persia](../other/persia.md))
 
 ## Bible References: ##
 

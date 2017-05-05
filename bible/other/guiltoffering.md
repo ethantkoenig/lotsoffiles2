@@ -7,7 +7,7 @@ A guilt offering was an offering or sacrifice that God required an Israelite to 
 * This offering involved the sacrifice of an animal and the payment of a fine, with silver or gold money.
 * In addition, the person at fault was responsible to pay for any damage that was done.
 
-(See also: [[../other/burntoffering.md]], [[../other/grainoffering.md]], [[../other/sacrifice.md]], [[../other/sinoffering.md]])
+(See also: [burnt offering](../other/burntoffering.md), [grain offering](../other/grainoffering.md), [sacrifice](../other/sacrifice.md), [sin offering](../other/sinoffering.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ In the Bible, the "Great Sea" or "western sea" refers to what is now called the 
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/israel.md]], [[../other/peoplegroup.md]], [[../other/prosper.md]])
+(See also: [Israel](../other/israel.md), [people group](../other/peoplegroup.md), [prosper](../other/prosper.md))
 
 ## Bible References: ##
 

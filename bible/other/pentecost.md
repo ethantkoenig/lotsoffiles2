@@ -10,7 +10,7 @@ The "Festival of Weeks" was a Jewish festival that took place fifty days after P
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/festival.md]], [[../kt/firstfruit.md]], [[../kt/harvest.md]], [[../kt/holyspirit.md]], [[../kt/raise.md]])
+(See also: [festival](../other/festival.md), [firstfruits](../kt/firstfruit.md), [harvest](../kt/harvest.md), [Holy Spirit](../kt/holyspirit.md), [raise](../kt/raise.md))
 
 ## Bible References: ##
 

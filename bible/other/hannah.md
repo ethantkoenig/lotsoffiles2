@@ -11,7 +11,7 @@ Hannah was the mother of the prophet Samuel. She was one of two wives of Elkanah
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/conceive.md]], [[../other/samuel.md]])
+(See also: [conceive](../other/conceive.md), [Samuel](../other/samuel.md))
 
 ## Bible References: ##
 

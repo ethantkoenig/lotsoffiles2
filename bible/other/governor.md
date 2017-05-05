@@ -15,7 +15,7 @@ A "governor" is a person who rules over a state, region, or territory. To "gover
 * The term "governor" should be translated differently than the terms for "king" or "emperor", since a governor was a less powerful ruler who was under their authority.
 * The term "proconsul" could also be translated as, "Roman governor" or "Roman provincial ruler."
 
-(See also: [[../kt/authority.md]], [[../other/king.md]], [[../kt/power.md]], [[../other/province.md]], [[../other/rome.md]], [[../other/ruler.md]])
+(See also: [authority](../kt/authority.md), [king](../other/king.md), [power](../kt/power.md), [province](../other/province.md), [Rome](../other/rome.md), [ruler](../other/ruler.md))
 
 ## Bible References: ##
 

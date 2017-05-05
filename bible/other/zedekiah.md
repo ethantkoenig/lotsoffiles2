@@ -10,7 +10,7 @@ Zedekiah, son of Josiah, was the last king of Judah (597-587 B.C.). There are al
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahab.md]], [[../other/babylon.md]], [[../other/ezekiel.md]], [[../other/kingdomofisrael.md]], [[../other/jehoiachin.md]], [[../other/jeremiah.md]], [[../other/josiah.md]], [[../other/kingdomofjudah.md]], [[../other/nebuchadnezzar.md]], [[../other/nehemiah.md]])
+(See also: [Ahab](../other/ahab.md), [Babylon](../other/babylon.md), [Ezekiel](../other/ezekiel.md), [kingdom of Israel](../other/kingdomofisrael.md), [Jehoiachin](../other/jehoiachin.md), [Jeremiah](../other/jeremiah.md), [Josiah](../other/josiah.md), [Judah](../other/kingdomofjudah.md), [Nebuchadnezzar](../other/nebuchadnezzar.md), [Nehemiah](../other/nehemiah.md))
 
 ## Bible References: ##
 

@@ -26,7 +26,7 @@ The term "strength" refers to the state of being strong physically, emotionally,
    * "of little strength" means, "not very strong" or "weak."
    * "with all my strength" means, "using my best efforts" or "strongly and completely."
 
-(See also: [[../kt/faithful.md]], [[../other/perseverance.md]], [[../kt/righthand.md]], [[../kt/salvation.md]])
+(See also: [faithful](../kt/faithful.md), [persevere](../other/perseverance.md), [right hand](../kt/righthand.md), [salvation](../kt/salvation.md))
 
 ## Bible References: ##
 

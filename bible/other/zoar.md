@@ -9,7 +9,7 @@ Zoar was a small city where Lot fled when God destroyed Sodom and Gomorrah.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/lot.md]], [[../other/sodom.md]], [[../other/gomorrah.md]])
+(See also: [Lot](../other/lot.md), [Sodom](../other/sodom.md), [Gomorrah](../other/gomorrah.md))
 
 ## Bible References: ##
 

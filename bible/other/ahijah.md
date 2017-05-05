@@ -11,7 +11,7 @@ Ahijah was the name of several different men in the Old Testament. The following
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/baasha.md]], [[../other/shiloh.md]])
+(See also: [Baasha](../other/baasha.md), [Shiloh](../other/shiloh.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ Haran was a younger brother of Abram and the father of Lot.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abraham.md]], [[../other/caleb.md]], [[../other/canaan.md]], [[../other/levite.md]], [[../other/lot.md]], [[../other/terah.md]], [[../other/ur.md]])
+(See also: [Abraham](../other/abraham.md), [Caleb](../other/caleb.md), [Canaan](../other/canaan.md), [Levite](../other/levite.md), [Lot](../other/lot.md), [Terah](../other/terah.md), [Ur](../other/ur.md))
 
 ## Bible References: ##
 

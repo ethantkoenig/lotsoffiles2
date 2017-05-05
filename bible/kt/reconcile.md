@@ -13,7 +13,7 @@ To "reconcile" and "reconciliation" refer to "make peace" between people who wer
 * The term "reconcile" could be translated as "make peace" or "restore good relations" or "cause to be friends."
 * The term "reconciliation" could be translated as "restoring good relations" or "making peace" or "causing peaceful relating."
 
-(See also: [[../other/peace.md]], [[../other/sacrifice.md]])
+(See also: [peace](../other/peace.md), [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

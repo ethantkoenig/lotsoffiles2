@@ -12,7 +12,7 @@ Abimelech was a Philistine king over the region of Gerar during the time when Ab
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/beersheba.md]], [[../other/gerar.md]], [[../other/gideon.md]], [[../other/jotham.md]], [[../other/philistines.md]])
+(See also: [Beersheba](../other/beersheba.md), [Gerar](../other/gerar.md), [Gideon](../other/gideon.md), [Jotham](../other/jotham.md), [Philistines](../other/philistines.md))
 
 ## Bible References: ##
 

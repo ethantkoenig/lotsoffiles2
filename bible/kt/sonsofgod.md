@@ -16,7 +16,7 @@ The term, "sons of God" is a figurative expression that has several possible mea
 * Also see the link for "son."
  
 
-(See also: [[../kt/angel.md]], [[../kt/demon.md]], [[../kt/son.md]], [[../kt/sonofgod.md]], [[../other/ruler.md]], [[../kt/spirit.md]])
+(See also: [angel](../kt/angel.md), [demon](../kt/demon.md), [son](../kt/son.md), [Son of God](../kt/sonofgod.md), [ruler](../other/ruler.md), [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

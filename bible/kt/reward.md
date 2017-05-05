@@ -13,7 +13,7 @@ The term "reward" refers to what a person receives because of something he has d
 * "To reward" someone could be translated by "to repay" or "to punish" or "to give what is deserved."
 * Make sure the translation of this term does not refer to wages. A reward is not specifically about earning money as part of a job.
 
-(See also: [[../other/punish.md]])
+(See also: [punish](../other/punish.md))
 
 ## Bible References: ##
 

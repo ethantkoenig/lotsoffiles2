@@ -9,7 +9,7 @@ Herodias was the wife of Herod Antipas in Judea during the time of John the Bapt
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/herodantipas.md]], [[../other/johnthebaptist.md]])
+(See also: [Herod Antipas](../other/herodantipas.md), [John (the Baptist)](../other/johnthebaptist.md))
 
 ## Bible References: ##
 

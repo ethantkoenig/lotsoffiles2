@@ -20,7 +20,7 @@ The term "create" means to make something or to cause something to be. Whatever 
 * The term "the Creator" could be translated as "the One who created everything" or "God, who made the whole world."
 * Phrases like "your Creator" could be translated as "God, who created you."
 
-(See also: [[../kt/god.md]], [[../kt/goodnews.md]], [[../kt/world.md]])
+(See also: [God](../kt/god.md), [good news](../kt/goodnews.md), [world](../kt/world.md))
 
 ## Bible References: ##
 se, "since the creation of the world" means, "since the time when God created the world was created.

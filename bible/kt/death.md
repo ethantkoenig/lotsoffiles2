@@ -27,7 +27,7 @@ This term is used to refer to both physical and spiritual death. Physically, it 
 * The expression "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as "dead people" or "people who have died."  (See: [nominal adjective](en/ta-vol1/translate/man/figs-nominaladj))
 * The expression "put to death" could also be translated as "kill" or "murder" or "execute."
 
-(See also: [[../kt/believe.md]], [[../kt/faith.md]], [[../kt/life.md]], [[../kt/spirit.md]])
+(See also: [believe](../kt/believe.md), [faith](../kt/faith.md), [life](../kt/life.md), [spirit](../kt/spirit.md))
 
 ## Bible References: ##
 

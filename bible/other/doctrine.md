@@ -9,7 +9,7 @@ The word "doctrine" literally means "teaching." It usually refers to religious t
 * The word "doctrine" is sometimes also used to refer to false or worldly religious teachings that come from human beings. The context makes the meaning clear.
 * This term could also be translated as "teaching."
 
-(See also: [[../other/teach.md]])
+(See also: [teach](../other/teach.md))
 
 ## Bible References: ##
 

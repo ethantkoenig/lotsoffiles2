@@ -12,7 +12,7 @@ Adam was the first person whom God created. He and his wife Eve were made in the
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/death.md]], [[../other/descendant.md]], [[../other/eve.md]], [[../kt/imageofgod.md]], [[../kt/life.md]])
+(See also: [death](../kt/death.md), [descendant](../other/descendant.md), [Eve](../other/eve.md), [image of God](../kt/imageofgod.md), [life](../kt/life.md))
 
 ## Bible References: ##
 

@@ -9,7 +9,7 @@ The terms "warrior" and "soldier" both can refer to someone who fights in an arm
 * Roman soldiers in Jerusalem were there to keep order and to carry out duties such as executing prisoners. They guarded Jesus before crucifying him and some were ordered to stand guard at his tomb.
 * The translator should consider whether there are two words in the project language for "warrior" and "soldier" that also differ in meaning and use.
 
-(See also: [[../other/courage.md]], [[../kt/crucify.md]], [[../other/rome.md]], [[../other/tomb.md]])
+(See also: [courage](../other/courage.md), [crucify](../kt/crucify.md), [Rome](../other/rome.md), [tomb](../other/tomb.md))
 
 ## Bible References: ##
 

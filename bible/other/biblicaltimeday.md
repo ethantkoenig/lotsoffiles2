@@ -9,7 +9,7 @@ The term "day" literally refers to a period of time lasting 24 hours beginning a
 * Some languages will use a different expression to translate these figurative uses or will translate "day" nonfiguratively.
 * Other translations of "day" could include, "time" or "season" or "occasion" or "event," depending on the context.
 
-(See also: [[../kt/judgmentday.md]], [[../kt/lastday.md]])
+(See also: [judgment day](../kt/judgmentday.md), [last day](../kt/lastday.md))
 
 ## Bible References: ##
 

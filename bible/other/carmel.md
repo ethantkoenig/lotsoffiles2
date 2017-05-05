@@ -11,7 +11,7 @@
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/baal.md]], [[../other/elijah.md]], [[../other/judah.md]], [[../other/saltsea.md]])
+(See also: [Baal](../other/baal.md), [Elijah](../other/elijah.md), [Judah](../other/judah.md), [Salt Sea](../other/saltsea.md))
 
 ## Bible References: ##
 

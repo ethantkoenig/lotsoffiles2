@@ -14,7 +14,7 @@ The terms "Yahweh of hosts" and "God of hosts" are titles that express God's aut
 * The phrase "of hosts" in the terms "God of hosts" and "Lord of hosts" would be translated the same way as in the phrase "Yahweh of hosts" above.
 * Certain churches do not accept the literal term "Yahweh" and prefer to use the capitalized word, "LORD" instead, following the tradition of many Bible versions. For these churches, a translation of the term "LORD of hosts" would be used in the Old Testament for "Yahweh of hosts."
 
-(See also: [[../kt/angel.md]], [[../kt/authority.md]], [[../kt/god.md]], [[../kt/lord.md]], [[../kt/lordgod.md]], [[../kt/lordyahweh.md]] [[../kt/yahweh.md]])
+(See also: [angel](../kt/angel.md), [authority](../kt/authority.md), [God](../kt/god.md), [lord](../kt/lord.md), [Lord](../kt/lordgod.md), [Lord Yahweh](../kt/lordyahweh.md) [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

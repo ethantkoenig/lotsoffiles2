@@ -12,7 +12,7 @@ Isaiah was a prophet of God who prophesied during the reigns of four kings of Ju
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/ahaz.md]], [[../other/assyria.md]], [[../kt/christ.md]], [[../other/hezekiah.md]], [[../other/jotham.md]], [[../other/kingdomofjudah.md]], [[../kt/prophet.md]], [[../other/uzziah.md]])
+(See also: [Ahaz](../other/ahaz.md), [Assyria](../other/assyria.md), [Christ](../kt/christ.md), [Hezekiah](../other/hezekiah.md), [Jotham](../other/jotham.md), [Judah](../other/kingdomofjudah.md), [prophet](../kt/prophet.md), [Uzziah](../other/uzziah.md))
 
 ## Bible References: ##
 

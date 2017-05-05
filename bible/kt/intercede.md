@@ -14,7 +14,7 @@ The terms "intercede" and "intercession" refer to making requests to someone on 
 * The noun "intercessions" could be translated as "appeals" or "requests" or "urgent prayers."
 * The phrase "make intercession for" could be translated as "make requests for the benefit of" or "make an appeal on behalf of" or "ask God to help" or "appeal to God to bless (someone)."
 
-(See also: [[../other/pray.md]])
+(See also: [pray](../other/pray.md))
 
 ## Bible References: ##
 

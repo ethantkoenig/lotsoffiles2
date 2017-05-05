@@ -13,7 +13,7 @@ Jacob was the younger twin son of Isaac and Rebekah.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/canaan.md]], [[../kt/deceive.md]], [[../other/esau.md]], [[../other/isaac.md]], [[../other/israel.md]], [[../other/rebekah.md]], [[../other/12tribesofisrael.md]])
+(See also: [Canaan](../other/canaan.md), [deceive](../kt/deceive.md), [Esau](../other/esau.md), [Isaac](../other/isaac.md), [Israel](../other/israel.md), [Rebekah](../other/rebekah.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

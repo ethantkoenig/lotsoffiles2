@@ -12,7 +12,7 @@ Rimmon is the name of a man and of several places mentioned in the Bible. It was
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/benjamin.md]], [[../other/judea.md]], [[../other/naaman.md]], [[../other/syria.md]], [[../other/zebulun.md]])
+(See also: [Benjamin](../other/benjamin.md), [Judea](../other/judea.md), [Naaman](../other/naaman.md), [Syria](../other/syria.md), [Zebulun](../other/zebulun.md))
 
 ## Bible References: ##
 

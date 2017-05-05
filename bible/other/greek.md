@@ -11,7 +11,7 @@ The term "Greek" refers to the language spoken in the country of Greece, it is a
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aram.md]], [[../other/gentile.md]], [[../other/greece.md]], [[../other/hebrew.md]], [[../other/rome.md]])
+(See also: [Aram](../other/aram.md), [Gentile](../other/gentile.md), [Greece](../other/greece.md), [Hebrew](../other/hebrew.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

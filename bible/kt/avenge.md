@@ -16,7 +16,7 @@ To "avenge" or "take revenge" or "execute vengeance" is to punish someone in ord
 * When God says, "take my vengeance," this could be translated by "punish them for wrongs done against me" or "cause bad things to happen because they have sinned against me."
 * When referring to God's vengeance, make sure it is clear that God is right in his punishment of sin.
 
-(See also: [[../other/punish.md]], [[../kt/justice.md]], [[../kt/righteous.md]])
+(See also: [punish](../other/punish.md), [just](../kt/justice.md), [righteous](../kt/righteous.md))
 
 ## Bible References: ##
 

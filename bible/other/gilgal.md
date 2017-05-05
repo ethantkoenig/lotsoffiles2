@@ -12,7 +12,7 @@ Gilgal was a town north of Jericho and was the first place that the Israelites c
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/elijah.md]], , [[../other/elisha.md]], [[../other/jericho.md]], [[../other/jordanriver.md]])
+(See also: [Elijah](../other/elijah.md), , [Elisha](../other/elisha.md), [Jericho](../other/jericho.md), [Jordan River](../other/jordanriver.md))
 
 ## Bible References: ##
 

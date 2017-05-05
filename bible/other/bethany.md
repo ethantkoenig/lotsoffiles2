@@ -10,7 +10,7 @@ The town of Bethany was located at the base of the eastern slope of the Mount of
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/jericho.md]], [[../other/jerusalem.md]], [[../other/lazarus.md]], [[../other/martha.md]], [[../other/marysisterofmartha.md]], [[../other/mountofolives.md]])
+(See also: [Jericho](../other/jericho.md), [Jerusalem](../other/jerusalem.md), [Lazarus](../other/lazarus.md), [Martha](../other/martha.md), [Mary (sister of Martha)](../other/marysisterofmartha.md), [Mount of Olives](../other/mountofolives.md))
 
 ## Bible References: ##
 

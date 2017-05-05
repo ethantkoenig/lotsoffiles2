@@ -9,7 +9,7 @@ The term "caught up" often refers to God taking a person up to heaven in a sudde
 * Paul said that when Christ comes back, Christians will be "caught up" together to meet him in the air.
 * The figurative expression, "my sins have caught up with me" could be translated as, "I am receiving the consequences of my sin" or "because of my sin I am suffering" or "my sin is causing me trouble."
 
-(see: [[../kt/miracle.md]], [[../other/overtake.md]], [[../kt/suffer.md]], [[../other/trouble.md]])
+(see: [miracle](../kt/miracle.md), [overtake](../other/overtake.md), [suffer](../kt/suffer.md), [trouble](../other/trouble.md))
 
 ## Bible References: ##
 

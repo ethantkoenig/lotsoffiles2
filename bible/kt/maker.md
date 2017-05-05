@@ -15,7 +15,7 @@ In general, a "maker" is someone who creates or makes things.
 
 (See also: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/creation.md]], [[../kt/yahweh.md]])
+(See also: [create](../other/creation.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

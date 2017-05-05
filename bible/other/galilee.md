@@ -9,7 +9,7 @@ Galilee was the most northern region of Israel, just north of Samaria. A "Galile
 * Jesus grew up and lived in the town of Nazareth in Galilee.
 * Most of the miracles and teachings of Jesus took place in the region of Galilee.
 
-(See also: [[../other/nazareth.md]], [[../other/samaria.md]], [[../other/seaofgalilee.md]])
+(See also: [Nazareth](../other/nazareth.md), [Samaria](../other/samaria.md), [Sea of Galilee](../other/seaofgalilee.md))
 
 ## Bible References: ##
 

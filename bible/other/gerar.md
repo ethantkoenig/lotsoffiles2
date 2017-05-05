@@ -9,7 +9,7 @@
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abimelech.md]], [[../other/beersheba.md]], [[../other/hebron.md]], [[../other/philistines.md]])
+(See also: [Abimelech](../other/abimelech.md), [Beersheba](../other/beersheba.md), [Hebron](../other/hebron.md), [Philistines](../other/philistines.md))
 
 ## Bible References: ##
 

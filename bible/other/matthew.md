@@ -10,7 +10,7 @@ Matthew was one of the twelve men that Jesus chose to be his apostles. He was al
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/apostle.md]], [[../other/levite.md]], [[../other/taxcollector.md]])
+(See also: [apostle](../kt/apostle.md), [Levite](../other/levite.md), [tax collector](../other/taxcollector.md))
 
 ## Bible References: ##
 

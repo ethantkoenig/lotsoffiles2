@@ -23,7 +23,7 @@ The term "sin" refers to actions, thoughts, and words that are against God's wil
 * Make sure the translation of this term can include sinful behavior and thoughts, even those that other people don't see or know about.
 * The term "sin" should be general, and different from the terms for "wickedness" and "evil."
 
-(See also: [[../other/disobey.md]], [[../kt/evil.md]], [[../kt/flesh.md]], [[../other/taxcollector.md]])
+(See also: [disobey](../other/disobey.md), [evil](../kt/evil.md), [flesh](../kt/flesh.md), [tax collector](../other/taxcollector.md))
 
 ## Bible References: ##
 

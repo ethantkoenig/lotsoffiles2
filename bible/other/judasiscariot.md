@@ -12,7 +12,7 @@ Judas Iscariot was one of Jesus' apostles. He was the one who betrayed Jesus to 
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/apostle.md]], [[../kt/betray.md]], [[../other/jewishleaders.md]], [[../other/judassonofjames.md]])
+(See also: [apostle](../kt/apostle.md), [betray](../kt/betray.md), [Jewish leaders](../other/jewishleaders.md), [Judas the son of James](../other/judassonofjames.md))
 
 ## Bible References: ##
 

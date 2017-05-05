@@ -15,7 +15,7 @@ The Old Testament term "day of Yahweh" is used to refer to a specific time(s) wh
 * Depending on the context, other ways to translate "day of Yahweh" could include "time of Yahweh" or "time when Yahweh will punish his enemies" or "time of Yahweh's wrath."
 * Other ways to translate "day of the Lord" could include "time of the Lord's judgment" or "time when the Lord Jesus will return to judge people."
 
-(See also: [[../other/biblicaltimeday.md]], [[../kt/judgmentday.md]], [[../kt/lordgod.md]], [[../kt/resurrection.md]], [[../kt/yahweh.md]])
+(See also: [day](../other/biblicaltimeday.md), [judgment day](../kt/judgmentday.md), [Lord](../kt/lordgod.md), [resurrection](../kt/resurrection.md), [Yahweh](../kt/yahweh.md))
 
 ## Bible References: ##
 

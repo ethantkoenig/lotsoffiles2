@@ -9,7 +9,7 @@ Ur was an important city along the Euphrates River in the ancient region of Chal
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abraham.md]], [[../other/canaan.md]], [[../other/chaldeans.md]], [[../other/euphrates.md]], [[../other/haran.md]], [[../other/lot.md]], [[../other/mesopotamia.md]])
+(See also: [Abraham](../other/abraham.md), [Canaan](../other/canaan.md), [Chaldea](../other/chaldeans.md), [Euphrates River](../other/euphrates.md), [Haran](../other/haran.md), [Lot](../other/lot.md), [Mesopotamia](../other/mesopotamia.md))
 
 ## Bible References: ##
 

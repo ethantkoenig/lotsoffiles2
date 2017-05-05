@@ -9,7 +9,7 @@ The Sadducees were a political group of Jewish priests during the time of Jesus 
 * The Sadducees and the Pharisees strongly influenced the Roman leaders to crucify Jesus.
 * Jesus spoke against these two religious groups because of their selfishness and hypocrisy.
 
-(See also: [[../other/chiefpriests.md]], [[../other/council.md]], [[../kt/highpriest.md]], [[../kt/hypocrite.md]], [[../other/jewishleaders.md]], [[../other/pharisee.md]], [[../kt/priest.md]])
+(See also: [chief priests](../other/chiefpriests.md), [council](../other/council.md), [high priest](../kt/highpriest.md), [hypocrite](../kt/hypocrite.md), [Jewish leaders](../other/jewishleaders.md), [Pharisee](../other/pharisee.md), [priest](../kt/priest.md))
 
 ## Bible References: ##
 

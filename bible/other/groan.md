@@ -9,7 +9,7 @@ The term "to groan" refers to the uttering of a deep, low sound that is caused b
 * Other ways to translate "groan" could include, "give a low cry of pain" or "grieve deeply."
 * As a noun, this could be translated as, "a low cry of distress" or "a deep murmur of pain."
 
-(See also: [[../other/cry.md]])
+(See also: [cry](../other/cry.md))
 
 ## Bible References: ##
 

@@ -10,7 +10,7 @@ Tarsus was a prosperous city located in the Roman province of Cilicia, in what i
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/cilicia.md]], [[../other/paul.md]], [[../other/province.md]], [[../other/mediterranean.md]])
+(See also: [Cilicia](../other/cilicia.md), [Paul](../other/paul.md), [province](../other/province.md), [the sea](../other/mediterranean.md))
 
 ## Bible References: ##
 

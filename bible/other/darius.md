@@ -8,7 +8,7 @@ Darius was the name of several kings of Persia. It is possible that "Darius" was
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/persia.md]], [[../other/babylon.md]], [[../other/daniel.md]], [[../other/ezra.md]], [[../other/nehemiah.md]])
+(See also: [Persia](../other/persia.md), [Babylon](../other/babylon.md), [Daniel](../other/daniel.md), [Ezra](../other/ezra.md), [Nehemiah](../other/nehemiah.md))
 
 ## Bible References: ##
 

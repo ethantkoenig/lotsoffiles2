@@ -16,7 +16,7 @@ The term "adultery" refers to a sin that occurs when a married person has sexual
 * Some languages may have an indirect way of talking about adultery, such as "sleeping with someone else's spouse" or "being unfaithful to one's wife." (See: [euphemism](en/ta-vol1/translate/man/figs-euphemism))
 * When "adulterous" is used in a figurative sense, it is best to translate it literally in order to communicate God's view of his disobedient people as being compared to an unfaithful spouse. If this does not communicate accurately in the target language, the figurative use of "adulterous" could be translated as "unfaithful" or "immoral" or "like an unfaithful spouse." 
 
-(See also: [[../other/commit.md]], [[../kt/covenant.md]], [[../kt/fornication.md]], [[../other/sex.md]], [[../kt/unfaithful.md]])
+(See also: [commit](../other/commit.md), [covenant](../kt/covenant.md), [sexual immorality](../kt/fornication.md), [sleep with](../other/sex.md), [unfaithful](../kt/unfaithful.md))
 
 ## Bible References: ##
 

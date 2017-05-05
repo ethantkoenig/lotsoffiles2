@@ -12,7 +12,7 @@ Jeroboam son of Nebat was the first king of the northern kingdom of Israel aroun
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/idol.md]], [[../other/kingdomofisrael.md]], [[../other/kingdomofjudah.md]], [[../other/solomon.md]])
+(See also: [idol](../other/idol.md), [kingdom of Israel](../other/kingdomofisrael.md), [Judah](../other/kingdomofjudah.md), [Solomon](../other/solomon.md))
 
 ## Bible References: ##
 

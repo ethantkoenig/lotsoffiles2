@@ -15,7 +15,7 @@ The term "serve" means to do things to help other people. It can also mean to "w
 * Now they "serve" the new covenant, that is, because of Jesus' sacrifice on the cross, believers in Jesus are enabled by the Holy Spirit to please God and live holy lives.
 * Paul talks about this in terms of their "service" to either the old or new covenant. This could be translated as "serving" or "obeying" or "devotion to."
 
-(See also: [[../kt/covenant.md]], [[../kt/lawofmoses.md]], [[../other/servant.md]])
+(See also: [covenant](../kt/covenant.md), [law](../kt/lawofmoses.md), [servant](../other/servant.md))
 
 ## Bible References: ##
 

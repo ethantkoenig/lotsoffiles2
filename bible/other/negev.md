@@ -13,7 +13,7 @@ The Negev is a desert region in the southern part of Israel, southwest of the Sa
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abraham.md]], [[../other/beersheba.md]], [[../other/israel.md]], [[../other/judah.md]], [[../other/kadesh.md]], [[../other/saltsea.md]], [[../other/simeon.md]])
+(See also: [Abraham](../other/abraham.md), [Beersheba](../other/beersheba.md), [Israel](../other/israel.md), [Judah](../other/judah.md), [Kadesh](../other/kadesh.md), [Salt Sea](../other/saltsea.md), [Simeon](../other/simeon.md))
 
 ## Bible References: ##
 

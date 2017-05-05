@@ -9,7 +9,7 @@ The term "psalm" refers to a sacred song, often in the form of a poem that was w
 * Psalms can be used to express joy, faith, and reverence, as well as pain and sorrow.
 * In the New Testament, Christians are instructed to sing psalms to God as a way of worshiping him.
 
-(See also: [[../other/david.md]], [[../kt/faith.md]], [[../kt/joy.md]], [[../other/moses.md]], [[../other/sacred.md]])
+(See also: [David](../other/david.md), [faith](../kt/faith.md), [joy](../kt/joy.md), [Moses](../other/moses.md), [sacred](../other/sacred.md))
 
 ## Bible References: ##
 

@@ -15,7 +15,7 @@ The term "submit" usually means to voluntarily place oneself under the authority
 * The phrase "live in submission to" could be translated as, "be in obedience to" or "put oneself under the authority of."
 * The phrase, "be in submission" could be translated as "humbly accept authority."
 
-(See also: [[../other/subject.md]])
+(See also: [subject](../other/subject.md))
 
 ## Bible References: ##
 

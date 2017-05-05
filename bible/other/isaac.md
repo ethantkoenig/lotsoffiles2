@@ -12,7 +12,7 @@ Isaac was the only son of Abraham and Sarah. God had promised to give them a son
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/abraham.md]], [[../other/descendant.md]], [[../kt/forever.md]], [[../kt/fulfill.md]], [[../other/jacob.md]], [[../other/sarah.md]], [[../other/12tribesofisrael.md]])
+(See also: [Abraham](../other/abraham.md), [descendant](../other/descendant.md), [forever](../kt/forever.md), [fulfill](../kt/fulfill.md), [Jacob](../other/jacob.md), [Sarah](../other/sarah.md), [twelve tribes of Israel](../other/12tribesofisrael.md))
 
 ## Bible References: ##
 

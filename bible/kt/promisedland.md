@@ -13,7 +13,7 @@ The term "Promised Land" only occurs in the Bible stories, not the Bible text. I
 * The term "Promised Land" can be translated as the "land that God said he would give to Abraham" or "land that God promised to Abraham" or "land God promised to his people" or "land of Canaan."
 * In the Bible text, this term occurs as some form of "the land God promised."
 
-(See also: [[../other/canaan.md]], [[../kt/promise.md]])
+(See also: [Canaan](../other/canaan.md), [promise](../kt/promise.md))
 
 ## Bible References: ##
 

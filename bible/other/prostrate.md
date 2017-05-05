@@ -11,7 +11,7 @@ The term "prostrate" means to be lying face down, stretched out on the ground.
 * The phrase "will not prostrate ourselves" could be translated as "will not worship" or "will not lie face down in worship" or "will not bow down and worship."
 * "Prostrate himself to" could also be translated as "worship" or "bow down in front of."
 
-(See also: [[../other/awe.md]], [[../kt/bow.md]])
+(See also: [awe](../other/awe.md), [bow](../kt/bow.md))
 
 ## Bible References: ##
 

@@ -13,7 +13,7 @@ A promise is a pledge to do a certain thing. When someone promises something, it
 * The term "promise" could be translated as "commitment" or "assurance" or "guarantee."
 * To "promise to do something" could be translated as "assure someone that you will do something" or "commit to doing something."
 
-(See also: [[../kt/covenant.md]], [[../other/oath.md]], [[../kt/vow.md]])
+(See also: [covenant](../kt/covenant.md), [oath](../other/oath.md), [vow](../kt/vow.md))
 
 ## Bible References: ##
 

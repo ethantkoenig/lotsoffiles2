@@ -10,7 +10,7 @@ In the New Testament, Zechariah was a Jewish priest who became the father of Joh
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/christ.md]], [[../other/elizabeth.md]], [[../kt/prophet.md]])
+(See also: [Christ](../kt/christ.md), [Elizabeth](../other/elizabeth.md), [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

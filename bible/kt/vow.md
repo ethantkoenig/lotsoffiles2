@@ -14,7 +14,7 @@ A vow is a promise that a person makes to God. The person promises to do a certa
 * Depending on the context, "vow" could be translated as "solemn promise" or "promise made to God."
 * A vow is a special kind of oath that is made to God.
 
-(See also: [[../kt/promise.md]], [[../other/oath.md]])
+(See also: [promise](../kt/promise.md), [oath](../other/oath.md))
 
 ## Bible References: ##
 

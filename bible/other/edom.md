@@ -12,7 +12,7 @@ Edom was another name for Esau. The region where he lived also became known as "
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/adversary.md]], [[../kt/birthright.md]], [[../other/esau.md]], [[../other/obadiah.md]], [[../kt/prophet.md]])
+(See also: [adversary](../other/adversary.md), [birthright](../kt/birthright.md), [Esau](../other/esau.md), [Obadiah](../other/obadiah.md), [prophet](../kt/prophet.md))
 
 ## Bible References: ##
 

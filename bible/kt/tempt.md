@@ -16,7 +16,7 @@ To tempt someone is to try to get that person to do something wrong.
 * Ways to translate "temptations" could include, "things that tempt" or "things that entice someone to sin" or "things that cause desire to do something wrong.
 * In the context of tempting God, this could be translated as, "put God to the test" or "test God" or "try God's patience" or "cause God to have to punish" or "stubbornly keep disobeying God."
 
-(See also: [[../other/disobey.md]], [[../kt/satan.md]], [[../kt/sin.md]], [[../kt/test.md]]) 
+(See also: [disobey](../other/disobey.md), [Satan](../kt/satan.md), [sin](../kt/sin.md), [test](../kt/test.md)) 
 ## Bible References: ##
 
 * [1 Thessalonians 03:4-5](en/tn/1th/help/03/04)

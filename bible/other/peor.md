@@ -9,7 +9,7 @@ The terms "Peor" and "Mount Peor" refer to a mountain located northeast of the S
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/baal.md]], [[../kt/falsegod.md]], [[../other/moab.md]], [[../other/saltsea.md]], [[../kt/worship.md]])
+(See also: [Baal](../other/baal.md), [false god](../kt/falsegod.md), [Moab](../other/moab.md), [Salt Sea](../other/saltsea.md), [worship](../kt/worship.md))
 
 ## Bible References: ##
 

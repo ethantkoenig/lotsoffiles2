@@ -12,7 +12,7 @@ Bathsheba was the wife of Uriah, a soldier in King David's army. After Uriah's d
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/david.md]], [[../other/solomon.md]]. [[../other/uriah.md]])
+(See also: [David](../other/david.md), [Solomon](../other/solomon.md). [Uriah](../other/uriah.md))
 
 ## Bible References: ##
 

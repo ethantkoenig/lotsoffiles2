@@ -9,7 +9,7 @@ Gibeah was a city located north of Jerusalem and south of Bethel.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/benjamin.md]], [[../other/bethel.md]], [[../other/jerusalem.md]])
+(See also: [Benjamin](../other/benjamin.md), [Bethel](../other/bethel.md), [Jerusalem](../other/jerusalem.md))
 
 ## Bible References: ##
 

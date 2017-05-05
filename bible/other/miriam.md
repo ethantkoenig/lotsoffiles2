@@ -11,7 +11,7 @@ Miriam was the older sister of Aaron and Moses.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/aaron.md]], [[../other/cush.md]], [[../kt/intercede.md]], [[../other/moses.md]], [[../other/nileriver.md]], [[../other/pharaoh.md]], [[../other/rebel.md]])
+(See also: [Aaron](../other/aaron.md), [Cush](../other/cush.md), [intercede](../kt/intercede.md), [Moses](../other/moses.md), [Nile River](../other/nileriver.md), [Pharaoh](../other/pharaoh.md), [rebel](../other/rebel.md))
 
 ## Bible References: ##
 

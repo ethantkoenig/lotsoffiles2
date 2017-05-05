@@ -10,7 +10,7 @@ In the early Christian church in Jerusalem, Philip was one of seven leaders chos
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/philiptheapostle.md]])
+(See also: [Philip](../other/philiptheapostle.md))
 
 ## Bible References: ##
 

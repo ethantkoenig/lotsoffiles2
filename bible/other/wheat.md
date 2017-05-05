@@ -9,7 +9,7 @@ Wheat is a type of grain that people grow for food. When the Bible mentions "gra
 * After threshing, the chaff surrounding the grain seed is separated from the grain by winnowing and is thrown away.
  * People grind the wheat grain into flour, and use this for making bread.
 
-(See also: [[../other/barley.md]], [[../other/chaff.md]], [[../other/grain.md]], [[../kt/seed.md]], [[../other/thresh.md]], [[../other/winnow.md]])
+(See also: [barley](../other/barley.md), [chaff](../other/chaff.md), [grain](../other/grain.md), [seed](../kt/seed.md), [thresh](../other/thresh.md), [winnow](../other/winnow.md))
 
 ## Bible References: ##
 

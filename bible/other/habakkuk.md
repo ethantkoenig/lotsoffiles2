@@ -10,7 +10,7 @@ Habakkuk was an Old Testament prophet who lived around the time that King Jehoia
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/babylon.md]], [[../other/jehoiakim.md]], [[../other/jeremiah.md]])
+(See also: [Babylon](../other/babylon.md), [Jehoiakim](../other/jehoiakim.md), [Jeremiah](../other/jeremiah.md))
 
 ## Bible References: ##
 

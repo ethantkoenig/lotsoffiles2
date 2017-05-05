@@ -10,7 +10,7 @@ Enoch was the name of two men in the Old Testament.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/cain.md]], [[../other/seth.md]])
+(See also: [Cain](../other/cain.md), [Seth](../other/seth.md))
 
 ## Bible References: ##
 

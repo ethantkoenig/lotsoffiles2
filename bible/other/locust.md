@@ -11,7 +11,7 @@ The term "locust" refers to a kind of large, flying grasshopper that sometimes f
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/captive.md]], [[../other/egypt.md]], [[../other/israel.md]], [[../other/johnthebaptist.md]], [[../other/plague.md]])
+(See also: [captive](../other/captive.md), [Egypt](../other/egypt.md), [Israel](../other/israel.md), [John (the Baptist)](../other/johnthebaptist.md), [plague](../other/plague.md))
 
 ## Bible References: ##
 

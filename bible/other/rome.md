@@ -9,7 +9,7 @@ In New Testament times, the city of Rome was the center of the Roman Empire. It 
  * The apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
  * The New Testament book of "Romans" is a letter that Paul wrote to the Christians in Rome.
 
-(See also: [[../kt/goodnews.md]], [[../other/mediterranean.md]], [[../other/pilate.md]], [[../other/paul.md]])
+(See also: [good news](../kt/goodnews.md), [the sea](../other/mediterranean.md), [Pilate](../other/pilate.md), [Paul](../other/paul.md))
 
 ## Bible References: ##
 

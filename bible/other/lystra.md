@@ -10,7 +10,7 @@ Lystra was a city in ancient Asia Minor that Paul visited on one of his missiona
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/evangelism.md]], [[../other/iconium.md]], [[../other/timothy.md]])
+(See also: [evangelist](../kt/evangelism.md), [Iconium](../other/iconium.md), [Timothy](../other/timothy.md))
 
 ## Bible References: ##
 

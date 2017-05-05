@@ -12,7 +12,7 @@ The term "Nazirite" refers to a person who has taken a "Nazirite vow." Mostly me
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/johnthebaptist.md]], [[../other/sacrifice.md]], [[../other/samson.md]], [[../kt/vow.md]], [[../other/zechariahot.md]])
+(See also: [John (the Baptist)](../other/johnthebaptist.md), [sacrifice](../other/sacrifice.md), [Samson](../other/samson.md), [vow](../kt/vow.md), [Zechariah (OT)](../other/zechariahot.md))
 
 ## Bible References: ##
 

@@ -14,7 +14,7 @@ To exalt is to highly praise and honor someone. It can also mean to put someone 
 * "Do not exalt yourself" could also be translated as "Do not think of yourself too highly" or "Do not brag about yourself."
 * "Those that exalt themselves" could also be translated as "Those who think proudly about themselves" or "Those who boast about themselves."
 
-(See also: [[../other/praise.md]], [[../kt/worship.md]], [[../kt/glorify.md]], [[../kt/boast.md]], [[../other/proud.md]])
+(See also: [praise](../other/praise.md), [worship](../kt/worship.md), [glorify](../kt/glorify.md), [boast](../kt/boast.md), [proud](../other/proud.md))
 
 ## Bible References: ##
 

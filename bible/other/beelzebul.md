@@ -10,7 +10,7 @@ Beelzebul is another name for Satan, or the devil. It is also sometimes spelled,
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../kt/demon.md]], [[../other/ekron.md]], [[../kt/satan.md]])
+(See also: [demon](../kt/demon.md), [Ekron](../other/ekron.md), [Satan](../kt/satan.md))
 
 ## Bible References: ##
 

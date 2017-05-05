@@ -10,7 +10,7 @@ A yoke is a piece of wood or metal attached to two or more animals to connect th
    * In most contexts, it is best to translate this term literally, using the local term for a yoke that is used for farming.
    * Other ways to translate the figurative use of this term could be, "oppressive burden" or "heavy load" or "bond," depending on the context.
 
-(See also: [[../kt/bond.md]], [[../other/burden.md]], [[../kt/oppress.md]], [[../other/persecute.md]], [[../other/servant.md]])
+(See also: [bind](../kt/bond.md), [burden](../other/burden.md), [oppress](../kt/oppress.md), [persecute](../other/persecute.md), [servant](../other/servant.md))
 
 ## Bible References: ##
 

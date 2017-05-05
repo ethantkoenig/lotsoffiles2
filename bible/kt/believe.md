@@ -21,7 +21,7 @@ The terms "believe" and "believe in" are closely related, but have slightly diff
 * To "believe" could be translated as to "know to be true" or "know to be right."
 * To "believe in" could be translated as "trust completely" or "trust and obey" or "completely rely on and follow."
 
-(See also: [[../kt/faith.md]], [[../kt/believer.md]])
+(See also: [faith](../kt/faith.md), [believer](../kt/believer.md))
 
 ## Bible References: ##
 

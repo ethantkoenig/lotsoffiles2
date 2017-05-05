@@ -8,7 +8,7 @@ The term "member" refers to one part of a complex body or group.
 * Jesus Christ is the "head" of the body and individual believers function as the members of the body. The Holy Spirit gives each member of the body a special role to help the entire body to function well.
 * Individuals who participate in groups such as the Jewish Council and the Pharisees are also called "members" of these groups.
 
-(See also: [[../kt/body.md]], [[../other/pharisee.md]], [[../other/council.md]])
+(See also: [body](../kt/body.md), [Pharisee](../other/pharisee.md), [council](../other/council.md))
 
 ## Bible References: ##
 

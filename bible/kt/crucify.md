@@ -12,7 +12,7 @@ The term "crucify" means to execute someone by attaching him to a cross and leav
 
 * The term "crucify" could be translated as, "kill on a cross" or "execute by nailing to a cross."
 
-(See also: [[../kt/cross.md]], [[../other/rome.md]])
+(See also: [cross](../kt/cross.md), [Rome](../other/rome.md))
 
 ## Bible References: ##
 

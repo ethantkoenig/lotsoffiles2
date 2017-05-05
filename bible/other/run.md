@@ -15,7 +15,7 @@ Other figurative meanings of "run":
    * Rivers and streams can "run dry," which means that they no longer have water in them. This could be translated as "have dried up" or "have become dry."
    * The days of a feast can "run their course," which means they "have passed by" or "are finished" or "are over."
 
-(See also: [[../kt/falsegod.md]], [[../other/perseverance.md]], [[../kt/refuge.md]], [[../kt/turn.md]])
+(See also: [false god](../kt/falsegod.md), [persevere](../other/perseverance.md), [refuge](../kt/refuge.md), [turn](../kt/turn.md))
 
 ## Bible References: ##
 

@@ -11,7 +11,7 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/egypt.md]], [[../other/king.md]])
+(See also: [Egypt](../other/egypt.md), [king](../other/king.md))
 
 ## Bible References: ##
 

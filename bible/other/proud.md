@@ -18,7 +18,7 @@ The terms "proud" and "prideful" refer to a person thinking too highly of himsel
 * The phrase "take pride in your work" could be translated as, "find satisfaction in doing your work well."
 * The expression "take pride in Yahweh" could also be translated as "be delighted about all the wonderful things Yahweh has done" or "be happy about how amazing Yahweh is."
 
-(See also: [[../other/arrogant.md]], [[../other/humble.md]], [[../kt/joy.md]])
+(See also: [arrogant](../other/arrogant.md), [humble](../other/humble.md), [joy](../kt/joy.md))
 
 ## Bible References: ##
 

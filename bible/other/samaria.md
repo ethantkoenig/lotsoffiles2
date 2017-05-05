@@ -11,7 +11,7 @@ Samaria was the name of a city and its surrounding region in the northern part o
  * The Jews despised the Samaritans because they were only partly Jewish and because their ancestors had worshiped pagan gods.
  * In New Testament times, the region of Samaria was bordered by the region of Galilee on the north and the region of Judea on the south.
 
-(See also: [[../other/assyria.md]], [[../other/galilee.md]], [[../other/judea.md]], [[../other/sharon.md]], [[../other/kingdomofisrael.md]])
+(See also: [Assyria](../other/assyria.md), [Galilee](../other/galilee.md), [Judea](../other/judea.md), [Sharon](../other/sharon.md), [kingdom of Israel](../other/kingdomofisrael.md))
 
 ## Bible References: ##
 

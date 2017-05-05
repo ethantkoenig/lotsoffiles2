@@ -12,7 +12,7 @@ Kedar was Ishmael's second son. It was also an important city, which was probabl
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/arabia.md]], [[../other/goat.md]], [[../other/ishmael.md]], [[../other/sacrifice.md]])
+(See also: [Arabia](../other/arabia.md), [goat](../other/goat.md), [Ishmael](../other/ishmael.md), [sacrifice](../other/sacrifice.md))
 
 ## Bible References: ##
 

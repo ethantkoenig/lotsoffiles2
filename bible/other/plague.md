@@ -8,7 +8,7 @@ Plagues are events which cause suffering or death to a large number of people. O
 * In the time of Moses, God sent ten plagues against Egypt to force Pharaoh to let Israel leave Egypt. These plagues included water turning into blood, physical diseases, destruction of crops by insects and hail, three days of complete darkness, and death of the firstborn sons.
 * This could also be translated as "widespread disasters" or "widespread disease," depending on the context.
 
-(See also: [[../other/hail.md]], [[../other/israel.md]], [[../other/moses.md]], [[../other/pharaoh.md]])
+(See also: [hail](../other/hail.md), [Israel](../other/israel.md), [Moses](../other/moses.md), [Pharaoh](../other/pharaoh.md))
 
 ## Bible References: ##
 

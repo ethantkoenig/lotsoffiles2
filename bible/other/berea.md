@@ -9,7 +9,7 @@ In New Testament times, Berea (or Beroea) was a prosperous Greek city in southea
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [[../other/macedonia.md]], [[../other/paul.md]], [[../other/silas.md]], [[../other/thessalonica.md]])
+(See also: [Macedonia](../other/macedonia.md), [Paul](../other/paul.md), [Silas](../other/silas.md), [Thessalonica](../other/thessalonica.md))
 
 ## Bible References: ##
 

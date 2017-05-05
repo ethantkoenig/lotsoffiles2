@@ -16,7 +16,7 @@ In the Bible, the terms "the holy place" and "the most holy place" refer to the 
 * The term "most holy place" could be translated as "room that is the most set apart for God" or "most special room for meeting God."
 * Depending on the context, ways to translate the general expression "a holy place" could include "a consecrated place" or "a place that God has set apart" or "a place in the temple complex, which is holy" or "a courtyard of God's holy temple."
 
-(See also: [[../other/altarofincense.md]], [[../other/arkofthecovenant.md]], [[../other/bread.md]], [[../kt/consecrate.md]], [[../other/courtyard.md]], [[../other/curtain.md]], [[../kt/holy.md]], [[../kt/setapart.md]], [[../kt/tabernacle.md]], [[../kt/temple.md]])
+(See also: [altar of incense](../other/altarofincense.md), [ark of the covenant](../other/arkofthecovenant.md), [bread](../other/bread.md), [consecrate](../kt/consecrate.md), [courtyard](../other/courtyard.md), [curtain](../other/curtain.md), [holy](../kt/holy.md), [set apart](../kt/setapart.md), [tabernacle](../kt/tabernacle.md), [temple](../kt/temple.md))
 
 ## Bible References: ##
 
