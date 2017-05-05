@@ -33,8 +33,8 @@ The terms "holy" and "holiness" refer to the character of God that is totally se
 ## Examples from the Bible stories: ##
 
 * __[01:16](en/tn/obs/help/01/16)__ He (God) blessed the seventh day and made it __holy__, because on this day he rested from his work.
-* __[09:12](en/tn/obs/help/09/12)__"You are standing on __holy__  ground."
-* __[13:01](en/tn/obs/help/13/01)__"If you will obey me and keep my covenant, you will be my prized possession, a kingdom of priests, and a __holy__  nation."
-* __[13:05](en/tn/obs/help/13/05)__"Always be sure to keep the Sabbath day __holy__."
-* __[22:05](en/tn/obs/help/22/05)__"So the baby will be __holy__, the Son of God."
+* __[09:12](en/tn/obs/help/09/12)__ "You are standing on __holy__  ground."
+* __[13:01](en/tn/obs/help/13/01)__ "If you will obey me and keep my covenant, you will be my prized possession, a kingdom of priests, and a __holy__  nation."
+* __[13:05](en/tn/obs/help/13/05)__ "Always be sure to keep the Sabbath day __holy__."
+* __[22:05](en/tn/obs/help/22/05)__ "So the baby will be __holy__, the Son of God."
 * __[50:02](en/tn/obs/help/50/02)__ As we wait for Jesus to return, God wants us to live in a way that is __holy__  and that honors him.

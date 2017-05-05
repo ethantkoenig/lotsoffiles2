@@ -40,4 +40,4 @@ The terms "mercy" and "merciful" refer to helping people who are in need, especi
 * __[20:12](en/tn/obs/help/20/12)__ The Persian Empire was strong but __merciful__  to the people it conquered.
 * __[27:11](en/tn/obs/help/27/11)__ Then Jesus asked the law expert, "What do you think? Which one of the three men was a neighbor to the man who was robbed and beaten?" He replied, "The one who was __merciful__  to him."
 * __[32:11](en/tn/obs/help/32/11)__ But Jesus said to him, "No, I want you to go home and tell your friends and family about everything that God has done for you and how he has had __mercy__  on you."
-* __[34:09](en/tn/obs/help/34/09)__"But the tax collector stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be __merciful__  to me because I am a sinner.'"
+* __[34:09](en/tn/obs/help/34/09)__ "But the tax collector stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be __merciful__  to me because I am a sinner.'"

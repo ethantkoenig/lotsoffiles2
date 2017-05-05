@@ -34,7 +34,7 @@ In the Bible, the terms "sacrifice" and "offering" refer to special gifts given 
 ## Examples from the Bible stories: ##
 
 * __[03:14](en/tn/obs/help/03/14)__ After Noah got off the boat, he built an altar and __sacrificed__  some of each kind of animal which could be used for a __sacrifice__. God was happy with the __sacrifice__  and blessed Noah and his family.
-* __[05:06](en/tn/obs/help/05/06)__"Take Isaac, your only son, and kill him as a __sacrifice__  to me." Again Abraham obeyed God and prepared to __sacrifice__  his son.
+* __[05:06](en/tn/obs/help/05/06)__ "Take Isaac, your only son, and kill him as a __sacrifice__  to me." Again Abraham obeyed God and prepared to __sacrifice__  his son.
 * __[05:09](en/tn/obs/help/05/09)__ God had provided the ram to be the __sacrifice__  instead of Isaac.
 * __[13:09](en/tn/obs/help/13/09)__ Anyone who disobeyed God's law could bring an animal to the Tent of Meeting as a __sacrifice__  to God. A priest would kill the animal and burn it on the altar. The blood of the animal that was __sacrificed__  covered the person's sin and made that person clean in God's sight.
 * __[17:06](en/tn/obs/help/17/06)__ David wanted to build a temple where all the Israelites could worship God and offer him __sacrifices__.

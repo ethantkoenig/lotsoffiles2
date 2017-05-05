@@ -35,7 +35,7 @@ The term "curse" means to cause negative things to happen to the person or thing
 ## Examples from the Bible stories: ##
 
 * __[02:09](en/tn/obs/help/02/09)__ God said to the snake, "You are __cursed__!"
-* __[02:11](en/tn/obs/help/02/11)__"Now the ground is __cursed__, and you will need to work hard to grow food."
-* __[04:04](en/tn/obs/help/04/04)__"I will bless those who bless you and __curse__  those who __curse__  you."
+* __[02:11](en/tn/obs/help/02/11)__ "Now the ground is __cursed__, and you will need to work hard to grow food."
+* __[04:04](en/tn/obs/help/04/04)__ "I will bless those who bless you and __curse__  those who __curse__  you."
 * __[39:07](en/tn/obs/help/39/07)__ Then Peter vowed, saying, "May God __curse__  me if I know this man!"
 * __[50:16](en/tn/obs/help/50/16)__ Because Adam and Eve disobeyed God and brought sin into this world, God __cursed__  it and decided to destroy it.

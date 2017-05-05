@@ -29,7 +29,7 @@ Jacob was the younger twin son of Isaac and Rebekah.
 ## Examples from the Bible stories: ##
 
 * __[07:01](en/tn/obs/help/07/01)__ As the boys grew up, Rebekah loved __Jacob__, but Isaac loved Esau. __Jacob__  loved to stay at home, but Esau loved to hunt.
-* __[07:07](en/tn/obs/help/07/07)____Jacob__  lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
+* __[07:07](en/tn/obs/help/07/07)__ __Jacob__  lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
 * __[07:08](en/tn/obs/help/07/08)__ After twenty years away from his home in Canaan, __Jacob__  returned there with his family, his servants, and all his herds of animals.
 * __[07:10](en/tn/obs/help/07/10)__ The covenant promises God had promised to Abraham and then to Isaac now passed on to __Jacob__.
 * __[08:01](en/tn/obs/help/08/01)__ Many years later, when __Jacob__  was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.

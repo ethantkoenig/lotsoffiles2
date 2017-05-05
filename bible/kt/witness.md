@@ -35,5 +35,5 @@ The term "witness" refers to a person who has personally experienced something t
 
 * __[39:02](en/tn/obs/help/39/02)__ Inside the house, the Jewish leaders put Jesus on trial. They brought many __false witnesses__  who lied about him.
 * __[39:04](en/tn/obs/help/39/04)__ The high priest tore his clothes in anger and shouted, "We do not need any more __witnesses__. You have heard him say that he is the Son of God. What is your judgment?"
-* __[42:08](en/tn/obs/help/42/08)__"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are __witnesses__  of these things."
-* __[43:07](en/tn/obs/help/43/07)__"We are __witnesses__  to the fact that God raised Jesus to life again."
+* __[42:08](en/tn/obs/help/42/08)__ "It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are __witnesses__  of these things."
+* __[43:07](en/tn/obs/help/43/07)__ "We are __witnesses__  to the fact that God raised Jesus to life again."

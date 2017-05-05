@@ -45,4 +45,4 @@ The terms "inherit" and "inheritance" refer to receiving something valuable from
 
 * __[04:06](en/tn/obs/help/04/06)__ When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an __inheritance__."
 * __[27:01](en/tn/obs/help/27/01)__ One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to __inherit__  eternal life?"
-* __[35:03](en/tn/obs/help/35/03)__"There was a man who had two sons. The younger son told his father, 'Father, I want my __inheritance__  now!' So the father divided his property between the two sons."
+* __[35:03](en/tn/obs/help/35/03)__ "There was a man who had two sons. The younger son told his father, 'Father, I want my __inheritance__  now!' So the father divided his property between the two sons."

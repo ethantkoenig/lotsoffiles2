@@ -39,7 +39,7 @@ To "bless" someone or something means to cause good and beneficial things to hap
 * __[01:07](en/tn/obs/help/01/07)__ God saw that it was good and he __blessed__  them.
 * __[01:15](en/tn/obs/help/01/15)__ God made Adam and Eve in his own image. He __blessed__  them and told them, "Have many children and grandchildren and fill the earth."
 * __[01:16](en/tn/obs/help/01/16)__ So God rested from all he had been doing. He __blessed__  the seventh day and made it holy, because on this day he rested from his work.
-* __[04:04](en/tn/obs/help/04/04)__"I will make your name great. I will __bless__  those who __bless__  you and curse those who curse you. All families on earth will be __blessed__  because of you."
+* __[04:04](en/tn/obs/help/04/04)__ "I will make your name great. I will __bless__  those who __bless__  you and curse those who curse you. All families on earth will be __blessed__  because of you."
 * __[04:07](en/tn/obs/help/04/07)__ Melchizedek __blessed__  Abram and said, "May God Most High who owns heaven and earth __bless__  Abram."
 * __[07:03](en/tn/obs/help/07/03)__ Isaac wanted to give his __blessing__  to Esau.
 * __[08:05](en/tn/obs/help/08/05)__ Even in prison, Joseph remained faithful to God, and God __blessed__  him.

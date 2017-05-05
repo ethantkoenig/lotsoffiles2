@@ -23,9 +23,9 @@ Gideon was an Israelite man whom God raised up to deliver the Israelites from th
 ## Examples from the Bible stories: ##
 
 * __[16:05](en/tn/obs/help/16/05)__ The angel of Yahweh came to __Gideon__  and said, "God is with you, mighty warrior. Go and save Israel from the Midianites."
-* __[16:06](en/tn/obs/help/16/06)____Gideon's__  father had an altar dedicated to an idol. God told __Gideon__  to tear down that altar.
+* __[16:06](en/tn/obs/help/16/06)__ __Gideon's__  father had an altar dedicated to an idol. God told __Gideon__  to tear down that altar.
 * __[16:08](en/tn/obs/help/16/08)__ There were so many of them (Midianites) that they could not be counted. __Gideon__  called the Israelites together to fight them.
-* __[16:08](en/tn/obs/help/16/08)____Gideon__  called the Israelites together to fight them. __Gideon__  asked God for two signs so he could be sure that God would use him to save Israel.
+* __[16:08](en/tn/obs/help/16/08)__ __Gideon__  called the Israelites together to fight them. __Gideon__  asked God for two signs so he could be sure that God would use him to save Israel.
 * __[16:10](en/tn/obs/help/16/10)__ 32,000 Israelite soldiers came to __Gideon__, but God told him this was too many.
 * __[16:12](en/tn/obs/help/16/12)__ Then __Gideon__  returned to his soldiers and gave each of them a horn, a clay pot, and a torch.
 * __[16:15](en/tn/obs/help/16/15)__ The people wanted to make __Gideon__  their king.

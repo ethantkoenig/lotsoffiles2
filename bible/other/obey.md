@@ -29,6 +29,6 @@ The term "obey" means to do what is required or commanded. The term "obedient" d
 
 * __[03:04](en/tn/obs/help/03/04)__ Noah __obeyed__  God. He and his three sons built the boat just the way God had told them.
 * __[05:06](en/tn/obs/help/05/06)__ Again Abraham __obeyed__  God and prepared to sacrifice his son.
-* __[05:10](en/tn/obs/help/05/10)__"Because you (Abraham) have __obeyed __  me, all the families of the world will be blessed through your family"
+* __[05:10](en/tn/obs/help/05/10)__ "Because you (Abraham) have __obeyed __  me, all the families of the world will be blessed through your family"
 * __[05:10](en/tn/obs/help/05/10)__ But the Egyptians did not believe God or __obey__  his commands.
 * __[13:07](en/tn/obs/help/13/07)__ If the people __obeyed__  these laws, God promised that he would bless and protect them.

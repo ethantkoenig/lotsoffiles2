@@ -47,11 +47,11 @@ This term is used to refer to both physical and spiritual death. Physically, it 
 ## Examples from the Bible stories: ##
 
 * __[01:11](en/tn/obs/help/01/11)__ God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would __die__.
-* __[02:11](en/tn/obs/help/02/11)__"Then you will __die__, and your body will return to dirt."
+* __[02:11](en/tn/obs/help/02/11)__ "Then you will __die__, and your body will return to dirt."
 * __[07:10](en/tn/obs/help/07/10)__ Then Isaac __died__, and Jacob and Esau buried him.
-* __[37:05](en/tn/obs/help/37/05)__"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he __dies__. Everyone who believes in me will never __die__."
+* __[37:05](en/tn/obs/help/37/05)__ "Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he __dies__. Everyone who believes in me will never __die__."
 * __[40:08](en/tn/obs/help/40/08)__ Through his __death__, Jesus opened a way for people to come to God.
-* __[43:07](en/tn/obs/help/43/07)__"Although Jesus __died__, God raised him from the dead."
+* __[43:07](en/tn/obs/help/43/07)__ "Although Jesus __died__, God raised him from the dead."
 * __[48:02](en/tn/obs/help/48/02)__ Because they sinned, everyone on earth gets sick and everyone __dies__.
 * __[50:17](en/tn/obs/help/50/17)__ He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or __death__.
 *

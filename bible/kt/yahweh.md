@@ -48,6 +48,6 @@ The term "Yahweh" is God's personal name that he revealed when he spoke to Moses
 
 * __[09:14](en/tn/obs/help/09/14)__ God said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am __Yahweh__, the God of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
 * __[13:04](en/tn/obs/help/13/04)__ Then God gave them the covenant and said, "I am __Yahweh__, your God, who saved you from slavery in Egypt. Do not worship other gods."
-* __[13:05](en/tn/obs/help/13/05)__"Do not make idols or worship them, for I, __Yahweh__, am a jealous God."
+* __[13:05](en/tn/obs/help/13/05)__ "Do not make idols or worship them, for I, __Yahweh__, am a jealous God."
 * __[16:01](en/tn/obs/help/16/01)__ The Israelites began to worship the Canaanite gods instead of __Yahweh__, the true God.
 * __[19:10](en/tn/obs/help/19/10)__ Then Elijah prayed, "O __Yahweh__, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant."

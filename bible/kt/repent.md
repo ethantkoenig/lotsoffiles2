@@ -35,5 +35,5 @@ The terms "repent" and "repentance" refer to turning away from sin and turning b
 * __[17:13](en/tn/obs/help/17/13)__ David __repented__  of his sin and God forgave him.
 * __[19:18](en/tn/obs/help/19/18)__ They (prophets) warned people that God would destroy them if they did not __repent__.
 * __[24:02](en/tn/obs/help/24/02)__ Many people came out to the wilderness to listen to John. He preached to them, saying, "__Repent__, for the kingdom of God is near!"
-* __[42:08](en/tn/obs/help/42/08)__""It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to __receive__  forgiveness for their sins. "
-* __[44:05](en/tn/obs/help/44/05)__"So now, __repent__  and turn to God so that your sins will be washed away."
+* __[42:08](en/tn/obs/help/42/08)__ ""It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to __receive__  forgiveness for their sins. "
+* __[44:05](en/tn/obs/help/44/05)__ "So now, __repent__  and turn to God so that your sins will be washed away."

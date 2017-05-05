@@ -38,8 +38,8 @@ The word "good" has different meanings depending on the context. Many languages 
 * __[01:04](en/tn/obs/help/01/04)__ God saw that what he had created was __good__.
 * __[01:11](en/tn/obs/help/01/11)__ God plantedâ€¦the tree of the knowledge of __good__  and evil."
 * __[01:12](en/tn/obs/help/01/12)__ Then God said, "It is not __good__  for man to be alone."
-* __[02:04](en/tn/obs/help/02/04)__"God just knows that as soon as you eat it, you will be like God and will understand __good__  and evil like he does."
-* __[08:12](en/tn/obs/help/08/12)__"You tried to do evil when you sold me as a slave, but God used the evil for __good__!"
+* __[02:04](en/tn/obs/help/02/04)__ "God just knows that as soon as you eat it, you will be like God and will understand __good__  and evil like he does."
+* __[08:12](en/tn/obs/help/08/12)__ "You tried to do evil when you sold me as a slave, but God used the evil for __good__!"
 * __[14:15](en/tn/obs/help/14/15)__ Joshua was a __good__  leader because he tTable of Contentsrusted and obeyed God.
 * __[18:13](en/tn/obs/help/18/13)__ Some of these kings were __good__  men who ruled justly and worshiped God.
-* __[28:01](en/tn/obs/help/28/01)__"__Good__  teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me '__good__?' There is only one who is __good__, and that is God."
+* __[28:01](en/tn/obs/help/28/01)__ "__Good__  teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me '__good__?' There is only one who is __good__, and that is God."

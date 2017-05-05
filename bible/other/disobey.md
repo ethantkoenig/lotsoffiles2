@@ -26,4 +26,4 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 * __[02:11](en/tn/obs/help/02/11)__ God said to the man, "You listened to your wife and __disobeyed__  me."
 * __[13:07](en/tn/obs/help/13/07)__ If the people obeyed these laws, God promised that he would bless and protect them. If they __disobeyed__  them, God would punish them.
 * __[16:02](en/tn/obs/help/16/02)__ Because the Israelites kept __disobeying__  God, he punished them by allowing their enemies to defeat them.
-* __[35:12](en/tn/obs/help/35/12)__"The older son said to his father, 'All these years I have worked faithfully for you! I never __disobeyed__  you, and still you did not give me one small goat so I could celebrate with my friends.'"
+* __[35:12](en/tn/obs/help/35/12)__ "The older son said to his father, 'All these years I have worked faithfully for you! I never __disobeyed__  you, and still you did not give me one small goat so I could celebrate with my friends.'"

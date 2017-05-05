@@ -28,7 +28,7 @@ Some time after Jesus went back to heaven, people made up the name "Christian" w
 ## Examples from the Bible stories: ##
 
 * __[46:09](en/tn/obs/help/46/09)__ It was at Antioch that believers in Jesus were first called "__Christians__."
-* __[47:14](en/tn/obs/help/47/14)__] Paul and other __Christian__  leaders traveled to many cities, preaching and teaching people the good news about Jesus.
+* __[47:14](en/tn/obs/help/47/14)__ ] Paul and other __Christian__  leaders traveled to many cities, preaching and teaching people the good news about Jesus.
 * __[49:15](en/tn/obs/help/49/15)__ If you believe in Jesus and what he has done for you, you are a __Christian__!
 * __[49:16](en/tn/obs/help/49/16)__ If you are a __Christian__, God has forgiven your sins because of what Jesus did.
 * __[49:17](en/tn/obs/help/49/17)__ Even though you are a __Christian__, you will still be tempted to sin.

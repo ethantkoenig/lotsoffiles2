@@ -48,15 +48,15 @@ In the Bible, the term "God" refers to the eternal being who created the univers
 
 ## Examples from the Bible stories: ##
 
-* __[01:01](en/tn/obs/help/01/01)____God__  created the universe and everything in it in six days.
-* __[01:15](en/tn/obs/help/01/15)____God__  made man and woman in his own image.
-* __[05:03](en/tn/obs/help/05/03)__"I am __God__  Almighty. I will make a covenant with you."
-* __[09:14](en/tn/obs/help/09/14)____God__  said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am Yahweh, the __God__  of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
+* __[01:01](en/tn/obs/help/01/01)__ __God__  created the universe and everything in it in six days.
+* __[01:15](en/tn/obs/help/01/15)__ __God__  made man and woman in his own image.
+* __[05:03](en/tn/obs/help/05/03)__ "I am __God__  Almighty. I will make a covenant with you."
+* __[09:14](en/tn/obs/help/09/14)__ __God__  said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am Yahweh, the __God__  of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
 * __[10:02](en/tn/obs/help/10/02)__ Through these plagues, __God__  showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's gods.
 * __[16:01](en/tn/obs/help/16/01)__ The Israelites began to worship the Canaanite gods instead of Yahweh, the true __God.__
 * __[22:07](en/tn/obs/help/22/07)__ You, my son, will be called the prophet of the __Most High God__  who will prepare the people to receive the Messiah!"
 * __[24:09](en/tn/obs/help/24/09)__ There is only one __God__. But John heard __God__  the Father speak, and saw Jesus the Son and the Holy Spirit when he baptized Jesus.
-* __[25:07](en/tn/obs/help/25/07)__"Worship only the Lord your __God__  and only serve him."
-* __[28:01](en/tn/obs/help/28/01)__"There is only one who is good, and that is __God__."
+* __[25:07](en/tn/obs/help/25/07)__ "Worship only the Lord your __God__  and only serve him."
+* __[28:01](en/tn/obs/help/28/01)__ "There is only one who is good, and that is __God__."
 * __[49:09](en/tn/obs/help/49/09)__ But __God__  loved everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be punished for his sins, but will live with __God__  forever.
 * __[50:16](en/tn/obs/help/50/16)__ But some day __God__  will create a new heaven and a new earth that will be perfect.

@@ -36,8 +36,8 @@ These terms all refer to the Holy Spirit, who is God. The one true God exists et
 * __[24:08](en/tn/obs/help/24/08)__ When Jesus came up out of the water after being baptized, __the Spirit of God__  appeared in the form of a dove and came down and rested on him.
 * __[26:01](en/tn/obs/help/26/01)__ After overcoming Satan's temptations, Jesus returned in the power of __the Holy Spirit__  to the region of Galilee where he lived.
 * __[26:03](en/tn/obs/help/26/03)__ Jesus read, "God has given me __his Spirit__  so that I can proclaim good news to the poor, freedom to captives, recovery of sight for the blind, and release to the oppressed."
-* __[42:10](en/tn/obs/help/42/10)__"So go, make disciples of all people groups by baptizing them in the name of the Father, the Son, and __the Holy Spirit__  and by teaching them to obey everything I have commanded you."
+* __[42:10](en/tn/obs/help/42/10)__ "So go, make disciples of all people groups by baptizing them in the name of the Father, the Son, and __the Holy Spirit__  and by teaching them to obey everything I have commanded you."
 * __[43:03](en/tn/obs/help/43/03)__ They were all filled with the __Holy Spirit__  and they began to speak in other languages.
-* __[43:08](en/tn/obs/help/43/08)__"And Jesus has sent the __Holy Spirit__  just as he promised he would do. The __Holy Spirit__  is causing the things that you are are now seeing and hearing."
+* __[43:08](en/tn/obs/help/43/08)__ "And Jesus has sent the __Holy Spirit__  just as he promised he would do. The __Holy Spirit__  is causing the things that you are are now seeing and hearing."
 * __[43:11](en/tn/obs/help/43/11)__ Peter answered them, "Every one of you should repent and be baptized in the name of Jesus Christ so that God will forgive your sins. Then he will also give you the gift of the __Holy Spirit__."
 * __[45:01](en/tn/obs/help/45/01)__ He (Stephen) had a good reputation and was full of the __Holy Spirit__  and of wisdom.

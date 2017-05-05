@@ -25,7 +25,7 @@ Egypt is a country in the northeast part of Africa, to the southwest of the land
 
 ## Examples from the Bible stories: ##
 
-* __[08:04](en/tn/obs/help/08/04)__ The slave traders took Joseph to __Egypt.____Egypt__  was a large, powerful country located along the Nile River.
+* __[08:04](en/tn/obs/help/08/04)__ The slave traders took Joseph to __Egypt__. __Egypt__  was a large, powerful country located along the Nile River.
 * __[08:08](en/tn/obs/help/08/08)__ Pharaoh was so impressed with Joseph that he appointed him to be the second most powerful man in all of __Egypt__!
 * __[08:11](en/tn/obs/help/08/11)__ So Jacob sent his older sons to __Egypt __  to buy food.
 * __[08:14](en/tn/obs/help/08/14)__ Even though Jacob was an old man, he moved to __Egypt__  with all of his family, and they all lived there.

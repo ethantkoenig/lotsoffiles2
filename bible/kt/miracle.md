@@ -38,5 +38,5 @@ A "miracle" is something amazing that is not possible unless God causes it to ha
 * __[16:08](en/tn/obs/help/16/08)__ Gideon asked God for two __signs__  so he could be sure that God would use him to save Israel.
 * __[19:14](en/tn/obs/help/19/14)__ God did many __miracles__  through Elisha.
 * __[37:10](en/tn/obs/help/37/10)__ Many of the Jews believed in Jesus because of this __miracle__.
-* __[43:06](en/tn/obs/help/43/06)__"Men of Israel, Jesus was a man who did many mighty __signs__  and __wonders__  by the power of God, as you have seen and already know."
+* __[43:06](en/tn/obs/help/43/06)__ "Men of Israel, Jesus was a man who did many mighty __signs__  and __wonders__  by the power of God, as you have seen and already know."
 * __[49:02](en/tn/obs/help/49/02)__ Jesus did many __miracles__  that prove he is God. He walked on water, calmed storms, healed many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.

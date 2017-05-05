@@ -40,8 +40,8 @@ The terms "kingdom of God" and "kingdom of heaven" both refer to God's rule and 
 * __[29:02](en/tn/obs/help/29/02)__ Jesus said, "The __kingdom of God__  is like a king who wanted to settle accounts with his servants."
 * __[34:01](en/tn/obs/help/34/01)__ Jesus told many other stories about the __kingdom of God__. For example, he said, "The __kingdom of God__  is like a mustard seed that someone planted in his field."
 * __[34:03](en/tn/obs/help/34/03)__ Jesus told another story, "The __kingdom of God__  is like yeast that a woman mixes into some bread dough until it spreads throughout the dough."
-* __[34:04](en/tn/obs/help/34/04)__"The __kingdom of God__  is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again."
-* __[34:05](en/tn/obs/help/34/05)__"The __kingdom of God__  is also like a perfect pearl of great value."
+* __[34:04](en/tn/obs/help/34/04)__ "The __kingdom of God__  is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again."
+* __[34:05](en/tn/obs/help/34/05)__ "The __kingdom of God__  is also like a perfect pearl of great value."
 * __[42:09](en/tn/obs/help/42/09)__ He proved to his disciples in many ways that he was alive, and he taught them about the __kingdom of God__.
 * __[49:05](en/tn/obs/help/49/05)__ Jesus said that the __kingdom of God__  is more valuable than anything else in the world.
 * __[50:02](en/tn/obs/help/50/02)__ When Jesus was living on earth he said, "My disciples will preach the good news about the __kingdom of God__  to people everywhere in the world, and then the end will come."

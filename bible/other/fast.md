@@ -26,5 +26,5 @@ The term "to fast" means to stop eating food for a period of time, such as for a
 ## Examples from the Bible stories: ##
 
 * __[25:01](en/tn/obs/help/25/01)__ Immediately after Jesus was baptized, the Holy Spirit led him out into the wilderness, where he __fasted__  for forty days and forty nights.
-* __[34:08](en/tn/obs/help/34/08)__"'For example, I __fast__  two times every week and I give you ten percent of all the money and goods that I receive.'"
+* __[34:08](en/tn/obs/help/34/08)__ "'For example, I __fast__  two times every week and I give you ten percent of all the money and goods that I receive.'"
 * __[46:10](en/tn/obs/help/46/10)__ One day, while the Christians at Antioch were __fasting__  and praying, the Holy Spirit said to them, "Set apart for me Barnabas and Saul to do the work I have called them to do."

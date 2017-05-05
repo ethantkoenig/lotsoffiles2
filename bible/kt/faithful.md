@@ -37,6 +37,6 @@ To be "faithful" to God means to consistently live according to God's teachings.
 * __[15:13](en/tn/obs/help/15/13)__ The people promised to remain __faithful__  to God and follow his laws.
 * __[17:09](en/tn/obs/help/17/09)__ David ruled with justice and __faithfulness__  for many years, and God blessed him. However, toward the end of his life he sinned terribly against God.
 * __[18:04](en/tn/obs/help/18/04)__ God was angry with Solomon and, as a punishment for Solomon's __unfaithfulness__, he promised to divide the nation of Israel into two kingdoms after Solomon's death.
-* __[35:12](en/tn/obs/help/35/12)__"The older son said to his father, 'All these years I have worked __faithfully__  for you!"
+* __[35:12](en/tn/obs/help/35/12)__ "The older son said to his father, 'All these years I have worked __faithfully__  for you!"
 * __[49:17](en/tn/obs/help/49/17)__ But God is __faithful__  and says that if you confess your sins, he will forgive you.
 * __[50:04](en/tn/obs/help/50/04)__ If you remain __faithful__  to me to the end, then God will save you."

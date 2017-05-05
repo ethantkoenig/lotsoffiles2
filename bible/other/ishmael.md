@@ -27,4 +27,4 @@ Ishmael was the son of Abraham and the Egyptian slave Hagar. There were several 
 ## Examples from the Bible stories: ##
 
 * __[05:02](en/tn/obs/help/05/02)__ So Abram married Hagar. Hagar had a baby boy, and Abram named him __Ishmael__.
-* __[05:04](en/tn/obs/help/05/04)__"I will make __Ishmael__  a great nation, too, but my covenant will be with Isaac."
+* __[05:04](en/tn/obs/help/05/04)__ "I will make __Ishmael__  a great nation, too, but my covenant will be with Isaac."

@@ -43,7 +43,7 @@ The terms "Messiah" and "Christ" mean "Anointed One" and refer to Jesus, God's S
 * __[21:05](en/tn/obs/help/21/05)__ The __Messiah__  would start the New Covenant.
 * __[21:06](en/tn/obs/help/21/06)__ God's prophets also said that the __Messiah__  would be a prophet, a priest, and a king.
 * __[21:09](en/tn/obs/help/21/09)__ The prophet Isaiah prophesied that the __Messiah__  would be born from a virgin.
-* __[43:07](en/tn/obs/help/43/07)__"But God raised him to life again to fulfill the prophecy which says, 'You will not let your __Holy One__  rot in the grave.'"
-* __[43:09](en/tn/obs/help/43/09)__"But know for certain that God has caused Jesus to become both Lord and __Messiah__!"
+* __[43:07](en/tn/obs/help/43/07)__ "But God raised him to life again to fulfill the prophecy which says, 'You will not let your __Holy One__  rot in the grave.'"
+* __[43:09](en/tn/obs/help/43/09)__ "But know for certain that God has caused Jesus to become both Lord and __Messiah__!"
 * __[43:11](en/tn/obs/help/43/11)__ Peter answered them, "Every one of you should repent and be baptized in the name of Jesus __Christ__  so that God will forgive your sins."
 * __[46:06](en/tn/obs/help/46/06)__ Saul reasoned with the Jews, proving that Jesus was the __Messiah__.

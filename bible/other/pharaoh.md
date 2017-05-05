@@ -25,7 +25,7 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 ## Examples from the Bible stories: ##
 
 * __[08:06](en/tn/obs/help/08/06)__ One night, the __Pharaoh__, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-* __[08:08](en/tn/obs/help/08/08)____Pharaoh__  was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
+* __[08:08](en/tn/obs/help/08/08)__ __Pharaoh__  was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
 * __[09:02](en/tn/obs/help/09/02)__ So the __Pharaoh__  who was ruling over Egypt at that time made the Israelites slaves to the Egyptians.
-* __[09:13](en/tn/obs/help/09/13)__"I will send you to __Pharaoh__  so that you can bring the Israelites out of their slavery in Egypt."
+* __[09:13](en/tn/obs/help/09/13)__ "I will send you to __Pharaoh__  so that you can bring the Israelites out of their slavery in Egypt."
 * __[10:02](en/tn/obs/help/10/02)__ Through these plagues, God showed __Pharaoh __  that he is more powerful than __Pharaoh__  and all of Egypt's gods.

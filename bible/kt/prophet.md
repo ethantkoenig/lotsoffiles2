@@ -45,7 +45,7 @@ A "prophet" is a man who speaks God's messages to people. A woman who does this 
 * __[19:06](en/tn/obs/help/19/06)__ All the people of the entire kingdom of Israel, including the 450 __prophets__  of Baal, came to Mount Carmel.
 * __[19:17](en/tn/obs/help/19/17)__ Most of the time, the people did not obey God. They often mistreated the __prophets__  and sometimes even killed them.
 * __[21:09](en/tn/obs/help/21/09)__ The __prophet__  Isaiah __prophesied__  that the Messiah would be born from a virgin.
-* __[43:05](en/tn/obs/help/43/05)__"This fulfills the __prophecy__  made by the __prophet__  Joel in which God said, 'In the last days, I will pour out my Spirit.'"
-* __[43:07](en/tn/obs/help/43/07)__"This fulfills the __prophecy__  which says, 'You will not let your Holy One rot in the grave.'"
+* __[43:05](en/tn/obs/help/43/05)__ "This fulfills the __prophecy__  made by the __prophet__  Joel in which God said, 'In the last days, I will pour out my Spirit.'"
+* __[43:07](en/tn/obs/help/43/07)__ "This fulfills the __prophecy__  which says, 'You will not let your Holy One rot in the grave.'"
 * __[48:12](en/tn/obs/help/48/12)__ Moses was a great __prophet__  who proclaimed the word of God. But Jesus is the greatest __prophet__  of all. He is the Word of God.
 *

@@ -46,9 +46,9 @@ To "rise" or "arise" means to "go up" or "get up." The terms "risen," "rose," an
 ## Examples from the Bible stories: ##
 
 * __[21:14](en/tn/obs/help/21/14)__ The prophets foretold that the Messiah would die and that God would also __raise__  him from the dead.
-* __[41:05](en/tn/obs/help/41/05)__"Jesus is not here. He has __risen__  from the dead, just like he said he would!"
-* __[43:07](en/tn/obs/help/43/07)__"Although Jesus died, God __raised__  him from the dead. This fulfills the prophecy which says, 'You will not let your Holy One rot in the grave.' We are witnesses to the fact that God __raised__  Jesus to life again."
-* __[44:05](en/tn/obs/help/44/05)__" You killed the author of life, but God __raised__  him from the dead. "
+* __[41:05](en/tn/obs/help/41/05)__ "Jesus is not here. He has __risen__  from the dead, just like he said he would!"
+* __[43:07](en/tn/obs/help/43/07)__ "Although Jesus died, God __raised__  him from the dead. This fulfills the prophecy which says, 'You will not let your Holy One rot in the grave.' We are witnesses to the fact that God __raised__  Jesus to life again."
+* __[44:05](en/tn/obs/help/44/05)__ " You killed the author of life, but God __raised__  him from the dead. "
 * __[44:08](en/tn/obs/help/44/08)__ Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You crucified Jesus, but God __raised__  him to life again!"
 * __[48:04](en/tn/obs/help/48/04)__ This meant that Satan would kill the Messiah, but God would __raise__  him to life again, and then the Messiah will crush the power of Satan forever.
 * __[49:02](en/tn/obs/help/49/02)__ He (Jesus) walked on water, calmed storms, healed many sick people, drove out demons, __raised__  the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.

@@ -29,6 +29,6 @@ The term "adultery" refers to a sin that occurs when a married person has sexual
 
 ## Examples from the Bible stories: ##
 
-* __[13:06](en/tn/obs/help/13/06)__"Do not commit __adultery__."
+* __[13:06](en/tn/obs/help/13/06)__ "Do not commit __adultery__."
 * __[28:02](en/tn/obs/help/28/02)__ Do not commit __adultery__.
-* __[34:07](en/tn/obs/help/34/07)__"The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other menâ€”such as robbers, unjust men, __adulterers__, or even like that tax collector.'"
+* __[34:07](en/tn/obs/help/34/07)__ "The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other menâ€”such as robbers, unjust men, __adulterers__, or even like that tax collector.'"

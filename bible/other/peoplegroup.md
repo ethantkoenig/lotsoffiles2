@@ -33,7 +33,7 @@ The term "peoples" or "people groups" refers to groups of people who share a com
 
 * __[14:02](en/tn/obs/help/14/02)__ God had promised Abraham, Isaac, and Jacob that he would give the Promised Land to their descendants, but now there were many __people groups__  living there. what follows is
 * __[21:02](en/tn/obs/help/21/02)__ God promised Abraham that through him all __people groups__  of the world would receive a blessing. This blessing would be that the Messiah would come sometime in the future and provide the way of salvation for people from all the __people groups__  of the world.
-* __[42:08](en/tn/obs/help/42/08)__"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all __people groups__  everywhere."
-* __[42:10](en/tn/obs/help/42/10)__"So go, make disciples of all __people groups__  by baptizing them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
+* __[42:08](en/tn/obs/help/42/08)__ "It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all __people groups__  everywhere."
+* __[42:10](en/tn/obs/help/42/10)__ "So go, make disciples of all __people groups__  by baptizing them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
 * __[48:11](en/tn/obs/help/48/11)__ Because of this New Covenant, anyone from any __people group__  can become part of God's people by believing in Jesus.
 * __[50:03](en/tn/obs/help/50/03)__ He (Jesus) said, "Go and make disciples of all __people groups__!" and, "The fields are ripe for harvest!"

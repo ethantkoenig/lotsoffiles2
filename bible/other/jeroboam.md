@@ -25,4 +25,4 @@ Jeroboam son of Nebat was the first king of the northern kingdom of Israel aroun
 ## Examples from the Bible stories: ##
 
 * __[18:08](en/tn/obs/help/18/08)__ The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named __Jeroboam__  to be their king.
-* __[18:09](en/tn/obs/help/18/09)____Jeroboam__  rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
+* __[18:09](en/tn/obs/help/18/09)__ __Jeroboam__  rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.

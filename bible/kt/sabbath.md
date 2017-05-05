@@ -34,6 +34,6 @@ The term "Sabbath" refers to the seventh day of the week, which God commanded th
 
 ## Examples from the Bible stories: ##
 
-* __[13:05](en/tn/obs/help/13/05)__"Always be sure to keep the __Sabbath day__  holy. That is, do all your work in six days, for the seventh day is a day for you to rest and to honor me."
+* __[13:05](en/tn/obs/help/13/05)__ "Always be sure to keep the __Sabbath day__  holy. That is, do all your work in six days, for the seventh day is a day for you to rest and to honor me."
 * __[26:02](en/tn/obs/help/26/02)__ Jesus went to the town of Nazareth where he had lived during his childhood. On the __Sabbath__, he went to the place of worship.
 * __[41:03](en/tn/obs/help/41/03)__ The day after Jesus was buried was a __Sabbath__  day, and the Jews were not permitted to go to the tomb on that day.

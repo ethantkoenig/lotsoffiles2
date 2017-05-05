@@ -24,4 +24,4 @@ In the Old Testament, Naaman was the commander of the army of the king of Aram.
 
 * __[19:14](en/tn/obs/help/19/14)__ One of the miracles happened to __Naaman__, an enemy commander, who had a horrible skin disease.
 * __[19:15](en/tn/obs/help/19/15)__ At first __Naaman__  was angry and would not do it because it seemed foolish. But later he changed his mind and dipped himself seven times in the Jordan River.
-* __[26:06](en/tn/obs/help/26/06)__"He (Elisha) only healed the skin disease of __Naaman__, a commander of Israel's enemies."
+* __[26:06](en/tn/obs/help/26/06)__ "He (Elisha) only healed the skin disease of __Naaman__, a commander of Israel's enemies."

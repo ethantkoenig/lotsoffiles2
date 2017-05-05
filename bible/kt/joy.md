@@ -35,6 +35,6 @@ Joy is a feeling of delight or deep satisfaction that comes from God. The relate
 
 ## Examples from the Bible stories: ##
 
-* __[33:07](en/tn/obs/help/33/07)__"The rocky ground is a person who hears God's word and accepts it with __joy__."
-* __[34:04](en/tn/obs/help/34/04)__"The kingdom of God is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again. He was so filled with __joy__, that he went and sold everything he had and used the money to buy that field."
+* __[33:07](en/tn/obs/help/33/07)__ "The rocky ground is a person who hears God's word and accepts it with __joy__."
+* __[34:04](en/tn/obs/help/34/04)__ "The kingdom of God is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again. He was so filled with __joy__, that he went and sold everything he had and used the money to buy that field."
 * __[41:07](en/tn/obs/help/41/07)__ The women were full of fear and great __joy__. They ran to tell the disciples the good news.

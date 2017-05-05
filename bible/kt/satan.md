@@ -40,6 +40,6 @@ The devil is a spirit being that God created, but he rebelled against God and be
 * __[38:07](en/tn/obs/help/38/07)__ After Judas took the bread, __Satan__  entered into him.
 * __[48:04](en/tn/obs/help/48/04)__ God promised that one of Eve's descendants would crush __Satan's__  head, and __Satan__  would wound his heel. This meant that __Satan__  would kill the Messiah, but God would raise him to life again, and then the Messiah will crush the power of __Satan__  forever.
 * __[49:15](en/tn/obs/help/49/15)__ God has taken you out of __Satan's__  kingdom of darkness and put you into God's kingdom of light.
-* __[50:09](en/tn/obs/help/50/09)__"The weeds represent the people who belong to the __evil one__. The enemy who planted the weeds represents the __devil__."
-* __[50:10](en/tn/obs/help/50/10)__"When the world ends, the angels will gather together all the people who belong to the __devil__  and throw them into a raging fire, where they will cry and grind their teeth in terrible suffering."
+* __[50:09](en/tn/obs/help/50/09)__ "The weeds represent the people who belong to the __evil one__. The enemy who planted the weeds represents the __devil__."
+* __[50:10](en/tn/obs/help/50/10)__ "When the world ends, the angels will gather together all the people who belong to the __devil__  and throw them into a raging fire, where they will cry and grind their teeth in terrible suffering."
 * __[50:15](en/tn/obs/help/50/15)__ When Jesus returns, he will completely destroy __Satan__  and his kingdom. He will throw __Satan__  into hell where he will burn forever, along with everyone who chose to follow him rather than to obey God.

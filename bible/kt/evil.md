@@ -33,11 +33,11 @@ The terms "evil" and "wicked" both refer to anything that is opposed to God's ho
 
 ## Examples from the Bible stories: ##
 
-* __[02:04](en/tn/obs/help/02/04)__"God just knows that as soon as you eat it, you will be like God and will understand good and __evil__  like he does."
+* __[02:04](en/tn/obs/help/02/04)__ "God just knows that as soon as you eat it, you will be like God and will understand good and __evil__  like he does."
 * __[03:01](en/tn/obs/help/03/01)__ After a long time, many people were living in the world. They had become very __wicked__  and violent.
 * __[03:02](en/tn/obs/help/03/02)__ But Noah found favor with God. He was a righteous man living among __wicked__  people.
 * __[04:02](en/tn/obs/help/04/02)__ God saw that if they all kept working together to do __evil__, they could do many more sinful things.
-* __[08:12](en/tn/obs/help/08/12)__"You tried to do __evil__  when you sold me as a slave, but God used the __evil__  for good!"
+* __[08:12](en/tn/obs/help/08/12)__ "You tried to do __evil__  when you sold me as a slave, but God used the __evil__  for good!"
 * __[14:02](en/tn/obs/help/14/02)__ They (Canaanites) worshiped false gods and did many __evil__  things.
 * __[17:01](en/tn/obs/help/17/01)__ But then he (Saul) became a __wicked__  man who did not obey God, so God chose a different man who would one day be king in his place.
 * __[18:11](en/tn/obs/help/18/11)__ In the new kingdom of Israel, all the kings were __evil__.

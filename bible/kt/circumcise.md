@@ -36,5 +36,5 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
 
 ## Examples from the Bible stories: ##
 
-* __[05:03](en/tn/obs/help/05/03)__"You must __circumcise__  every male in your family."
+* __[05:03](en/tn/obs/help/05/03)__ "You must __circumcise__  every male in your family."
 * __[05:05](en/tn/obs/help/05/05)__ That day Abraham __circumcised__  all the males in his household.

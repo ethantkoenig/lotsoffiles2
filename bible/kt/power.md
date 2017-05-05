@@ -37,5 +37,5 @@ The term "power" refers to the ability to do things or make things happen, often
 * __[26:01](en/tn/obs/help/26/01)__ After overcoming Satan's temptations, Jesus returned in the __power__  of the Holy Spirit to the region of Galilee where he lived.
 * __[32:15](en/tn/obs/help/32/15)__ Immediately Jesus realized that __power__  had gone out from him.
 * __[42:11](en/tn/obs/help/42/11)__ Forty days after Jesus rose from the dead, he told his disciples, "Stay in Jerusalem until my Father gives you __power__  when the Holy Spirit comes on you."
-* __[43:06](en/tn/obs/help/43/06)__"Men of Israel, Jesus was a man who did many mighty signs and wonders by the __power__  of God, as you have seen and already know."
+* __[43:06](en/tn/obs/help/43/06)__ "Men of Israel, Jesus was a man who did many mighty signs and wonders by the __power__  of God, as you have seen and already know."
 * __[44:08](en/tn/obs/help/44/08)__ Peter answered them, "This man stands before you healed by the __power__  of Jesus the Messiah."

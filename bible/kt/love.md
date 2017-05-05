@@ -48,9 +48,9 @@ To love another person is to care for that person and do things that will benefi
 ## Examples from the Bible stories: ##
 
 * __[27:02](en/tn/obs/help/27/02)__ The law expert replied that God's law says, "__Love__  the Lord your God with all your heart, soul, strength, and mind. And __love__  your neighbor as yourself."
-* __[33:08](en/tn/obs/help/33/08)__"The thorny ground is a person who hears God's word, but, as time passes, the cares, riches, and pleasures of life choke out his __love__  for God."
+* __[33:08](en/tn/obs/help/33/08)__ "The thorny ground is a person who hears God's word, but, as time passes, the cares, riches, and pleasures of life choke out his __love__  for God."
 * __[36:05](en/tn/obs/help/36/05)__ As Peter was talking, a bright cloud came down on top of them and a voice from the cloud said, "This is my Son whom I __love__."
-* __[39:10](en/tn/obs/help/39/10)__"Everyone who __loves__  the truth listens to me."
+* __[39:10](en/tn/obs/help/39/10)__ "Everyone who __loves__  the truth listens to me."
 * __[47:01](en/tn/obs/help/47/01)__ She (Lydia) __loved__  and worshiped God.
 * __[48:01](en/tn/obs/help/48/01)__ When God created the world, everything was perfect. There was no sin. Adam and Eve __loved__  each other, and they __loved__  God.
 * __[49:03](en/tn/obs/help/49/03)__ He (Jesus) taught that you need to __love__  other people the same way you love yourself.

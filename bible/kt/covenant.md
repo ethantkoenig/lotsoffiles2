@@ -36,7 +36,7 @@ A covenant is a formal, binding agreement between two parties that one or both p
 ## Examples from the Bible stories: ##
 
 * __[04:09](en/tn/obs/help/04/09)__ Then God made a __covenant__  with Abram. A __covenant__  is an agreement between two parties.
-* __[05:04](en/tn/obs/help/05/04)__"I will make Ishmael a great nation, too, but my __covenant__  will be with Isaac."
+* __[05:04](en/tn/obs/help/05/04)__ "I will make Ishmael a great nation, too, but my __covenant__  will be with Isaac."
 * __[06:04](en/tn/obs/help/06/04)__ After a long time, Abraham died and all of the promises that God had made to him in the __covenant__  were passed on to Isaac.
 * __[07:10](en/tn/obs/help/07/10)__ The __covenant__  promises God had promised to Abraham and then to Isaac now passed on to Jacob."
 * __[13:02](en/tn/obs/help/13/02)__ God said to Moses and the people of Israel, "If you will obey my voice and keep my __covenant__, you will be my prized possession, a kingdom of priests, and a holy nation."

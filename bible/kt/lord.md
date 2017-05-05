@@ -33,7 +33,7 @@ The term "lord" refers to someone who has ownership or authority over other peop
 * __[26:03](en/tn/obs/help/26/03)__ This is the year of the __Lord's__  favor.
 * __[27:02](en/tn/obs/help/27/02)__ The law expert replied that God's law says, "Love the __Lord__  your God with all your heart, soul, strength, and mind."
 * __[31:05](en/tn/obs/help/31/05)__ Then Peter said to Jesus, "__Master__, if it is you, command me to come to you on the water"
-* __[43:09](en/tn/obs/help/43/09)__"But know for certain that God has caused Jesus to become both __Lord__  and Messiah!"
+* __[43:09](en/tn/obs/help/43/09)__ "But know for certain that God has caused Jesus to become both __Lord__  and Messiah!"
 * __[47:03](en/tn/obs/help/47/03)__ By means of this demon she predicted the future for people, she made a lot of money for her __masters__  as a fortuneteller.
 * __[47:11](en/tn/obs/help/47/11)__ Paul answered, "Believe in Jesus, the __Master__, and you and your family will be saved."
 *

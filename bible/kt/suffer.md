@@ -35,6 +35,6 @@ The terms "suffer" and "suffering" refer to experiencing something very unpleasa
 * __[38:12](en/tn/obs/help/38/12)__ Jesus prayed three times, "My Father, if it is possible, please let me not have to drink this cup of __suffering__."
 * __[42:03](en/tn/obs/help/42/03)__ He (Jesus) reminded them that the prophets said the Messiah would __suffer__  and be killed, but would rise again on the third day.
 * __[42:07](en/tn/obs/help/42/07)__ He (Jesus) said, "It was written long ago that the Messiah would __suffer__, die, and rise from the dead on the third day."
-* __[44:05](en/tn/obs/help/44/05)__"Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would __suffer__  and die."
+* __[44:05](en/tn/obs/help/44/05)__ "Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would __suffer__  and die."
 * __[46:04](en/tn/obs/help/46/04)__ God said, "I have chosen him (Saul) to declare my name to the unsaved. I will show him how much he must __suffer__  for my sake."
 * __[50:17](en/tn/obs/help/50/17)__ He (Jesus) will wipe away every tear and there will be no more __suffering__, sadness, crying, evil, pain, or death.

@@ -43,13 +43,13 @@ Jesus is God's Son. The name "Jesus" means "Yahweh saves." The term "Christ" is 
 ## Examples from the Bible stories: ##
 
 * __[22:04](en/tn/obs/help/22/04)__ The angel said, "You will become pregnant and give birth to a son. You are to name him __Jesus__  and he will be the Messiah."
-* __[23:02](en/tn/obs/help/23/02)__"Name him __Jesus__  (which means, 'Yahweh saves'), because he will save the people from their sins."
+* __[23:02](en/tn/obs/help/23/02)__ "Name him __Jesus__  (which means, 'Yahweh saves'), because he will save the people from their sins."
 * __[24:07](en/tn/obs/help/24/07)__ So John baptized him (Jesus), even though __Jesus__  had never sinned.
 * __[24:09](en/tn/obs/help/24/09)__ There is only one God. But John heard God the Father speak, and saw __Jesus__  the Son and the Holy Spirit when he baptized __Jesus__.
-* __[25:08](en/tn/obs/help/25/08)____Jesus__  did not give in to Satan's temptations, so Satan left him.
+* __[25:08](en/tn/obs/help/25/08)__ __Jesus__  did not give in to Satan's temptations, so Satan left him.
 * __[26:08](en/tn/obs/help/26/08)__ Then __Jesus__  went throughout the region of Galilee, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and __Jesus__  healed them.
 * __[31:03](en/tn/obs/help/31/03)__ Then __Jesus__  finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
 * __[38:02](en/tn/obs/help/38/02)__ He (Judas) knew that the Jewish leaders denied that __Jesus__  was the Messiah and that they were plotting to kill him.
 * __[40:08](en/tn/obs/help/40/08)__ Through his death, __Jesus__  opened a way for people to come to God.
 * __[42:11](en/tn/obs/help/42/11)__ Then __Jesus__  was taken up to heaven, and a cloud hid him from their sight. __Jesus__  sat down at the right hand of God to rule over all things.
-* __[50:17](en/tn/obs/help/50/17)____Jesus__  and his people will live on the new earth, and he will reign forever over everything that exists. He will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or death. __Jesus__  will rule his kingdom with peace and justice, and he will be with his people forever.
+* __[50:17](en/tn/obs/help/50/17)__ __Jesus__  and his people will live on the new earth, and he will reign forever over everything that exists. He will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or death. __Jesus__  will rule his kingdom with peace and justice, and he will be with his people forever.
