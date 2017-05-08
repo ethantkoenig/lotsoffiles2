@@ -5,13 +5,13 @@
 Jesus is God's Son. The name "Jesus" means "Yahweh saves." The term "Christ" is a title that means "anointed one" and is another word for  Messiah.
 
 * The two names are often combined as "Jesus Christ" or "Christ Jesus." These names emphasize that God's Son is the Messiah, who came to save people from being punished eternally for their sins.
-* In a miraculous way, the Holy Spirit caused the eternal Son of God to be born as a human being. His earthly parents were told by an angel to call him "Jesus" because he was destined to save people from their sins.
+* In a miraculous way, the Holy Spirit caused the eternal Son of God to be born as a human being. His mother was told by an angel to call him "Jesus" because he was destined to save people from their sins.
 * Jesus did many miracles that revealed that he is God and that he is the Christ, or the Messiah.
 
 ## Translation Suggestions: ##
 
-* Many languages spell "Jesus" and "Christ" in a way that keeps the sounds or spelling as close to the original as possible. For example, "Jesucristo," "Jezus Christus," "Yesus Kristus", and "Hesukristo" are some of the ways that these names are translated into different languages.
-* For the term "Christ," some languages may prefer to use only some form of the term "Messiah" throughout.
+* In many languages "Jesus" and "Christ" are spelled in a way that keeps the sounds or spelling as close to the original as possible. For example, "Jesucristo," "Jezus Christus," "Yesus Kristus", and "Hesukristo" are some of the ways that these names are translated into different languages.
+* For the term "Christ," some translators may prefer to use only some form of the term "Messiah" throughout.
 * Also consider how these names are spelled in a nearby local or national language.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
