@@ -6,7 +6,7 @@ Jephthah was a warrior from Gilead who served as a judge over Israel.
 
 * In Hebrews 11:32, Jephthah is praised as an important leader who delivered his people from their enemies.
 * He rescued the Israelites from the Ammonites and led his people to defeat the Ephraimites.
-* However, Jepthah made a foolish, hasty vow to God which resulted in him sacrificing his daughter.
+* Jepthah however, made a foolish, hasty vow to God which resulted in the sacrifice of his daughter.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
