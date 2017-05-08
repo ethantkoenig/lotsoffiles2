@@ -6,7 +6,7 @@ The term "Israel" is the name that God gave to Jacob. It means "he struggles wit
 
 * The descendants of Jacob became known as the "people of Israel"  or the "nation of Israel" or the "Israelites."
 * God formed his covenant with the people of Israel. They were his chosen people.
-* The nation of Israel was made up of twelve tribes.
+* The nation of Israel consisted of twelve tribes.
 * Soon after King Solomon died, Israel was divided into two kingdoms: the southern kingdom, called "Judah," and the northern kingdom, called "Israel."
 * Often the term "Israel" can be translated as "the people of Israel" or "the nation of Israel," depending on the context.
 
