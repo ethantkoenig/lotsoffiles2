@@ -6,13 +6,13 @@ The terms "jealous" and "jealousy" refer to a strong desire to protect the purit
 
 * These terms are often used to describe the angry feeling that a person has toward a spouse who has been unfaithful in their marriage.
 * When used in the Bible, these terms often refer to God's strong desire for his people to remain pure and unstained by sin.
-* God is also "jealous" for his name, that it be treated with honor and reverence.
-* Another meaning of jealous involves being angry that someone else is successful or more popular. This is close in meaning to the word "envy."
+* God is also "jealous" for his name, desiring that it be treated with honor and reverence.
+* Another meaning of jealous involves being angry that someone else is successful or more popular. This is close in meaning to the word "envious."
 
 ## Translation Suggestions: ##
 
-* Ways to translate "jealous" could include, "strong protective desire" or "possessive desire." 
-* The term "jealousy" could be translated as, "strong protective feeling" or "possessive feeling."
+* Ways to translate "jealous" could include "strong protective desire" or "possessive desire." 
+* The term "jealousy" could be translated as "strong protective feeling" or "possessive feeling."
 * When talking about God, make sure the translation of these terms does not give a negative meaning of being resentful of someone else.
 * In the context of people's wrong feelings of anger toward toward other people who are more successful, the terms "envious" and "envy" could be used. But these terms should not be used for God.
 
