@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The terms "inherit" and "inheritance" refer to receiving something valuable from a parent or other person because of a special relationship with that person. The "heir" is the person who receives the inheritance.
+The term "inherit" refers to receiving something valuable from a parent or other person because of a special relationship with that person. The "inheritance" is what is received.
 
 * A physical inheritance that is received may be money, land, or other kinds of property.
 * A spiritual inheritance is everything that God gives people who trust in Jesus, including blessings in the present life as well as eternal life with him.
