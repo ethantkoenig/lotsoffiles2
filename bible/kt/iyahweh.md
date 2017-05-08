@@ -2,9 +2,9 @@
 
 ## Definition: ##
 
-Many times in the Old Testament, when God is speaking about himself, he uses his name instead of a pronoun.
+In the Old Testament, when God spoke about himself, he would often use his name instead of a pronoun.
 
-* For example, instead of saying, "Honor me," he says, "Honor Yahweh." 
+* For example, instead of saying, "Honor me," he would say, "Honor Yahweh." 
 * To make it clear that God is the one talking about himself, the ULB often translates this by adding a pronoun such as in, "Honor me, Yahweh" or "I, Yahweh say."
 * By adding the pronoun "I" or "me," the ULB indicates to the reader that God is the speaker.
 
