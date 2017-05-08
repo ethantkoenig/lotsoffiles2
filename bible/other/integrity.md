@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The term "integrity" refers to being honest, with strong moral principles and behavior.
+The term "integrity" refers to being honest, with strong moral principles and behavior is said to have integrity.
 
 * Having integrity also means choosing to do what is honest and right even when nobody else is watching.
 * Certain characters in the Bible, such as Joseph and Daniel, showed integrity when they refused to do evil and chose to obey God.
