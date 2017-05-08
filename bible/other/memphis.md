@@ -1,0 +1,16 @@
+# Memphis #
+
+## Definition: ##
+
+Memphis was an ancient capital city in Egypt, along the Nile River.
+
+* Memphis was located in Lower Egypt, just south of the Nile River delta, where the soil was very fertile and crops were plentiful.
+* Its fertile soil and important location between Upper and Lower Egypt caused Memphis to become a major city of trade and commerce.
+
+(Translation suggestions: [Translating Names](en/ta-vol1/translate/man/translate-names))
+
+(See also: [Egypt](../other/egypt.md), [Nile River](../other/nileriver.md))
+
+## Bible References: ##
+
+* [Hosea 09:5-6](en/tn/hos/help/09/05)
