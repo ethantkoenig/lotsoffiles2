@@ -10,9 +10,9 @@ The term "unfaithful" describes people who do not do what God has commanded them
 
 ## Translation Suggestions: ##
 
- * Depending on the context, "unfaithful" could be translated as, "not faithful" or "unbelieving" or "not obedient" or "not loyal."
- * The phrase "the unfaithful" could be translated as, "people who are not faithful (to God)" or "unfaithful people" or "those who disobey God" or "people who rebel against God."
- * The term "unfaithfulness" could be translated as, "disobedience" or "disloyalty" or "not believing or obeying."
+ * Depending on the context, "unfaithful" could be translated as "not faithful" or "unbelieving" or "not obedient" or "not loyal."
+ * The phrase "the unfaithful" could be translated as "people who are not faithful (to God)" or "unfaithful people" or "those who disobey God" or "people who rebel against God."
+ * The term "unfaithfulness" could be translated as "disobedience" or "disloyalty" or "not believing or obeying."
  * In some languages, the term "unfaithful" is related to the word for "unbelief."
 
 (See also: [adultery](../kt/adultery.md), [disobey](../other/disobey.md), [faithful](../kt/faithful.md), [unbeliever](../kt/unbeliever.md))
