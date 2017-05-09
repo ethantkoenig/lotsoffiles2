@@ -2,16 +2,16 @@
 
 ## Definition: ##
 
-The terms "ungodly" and "godless" describe people who are in rebellion against God. Living in an evil way, without thought of God is called "ungodliness" or "godlessness."
+The terms "ungodly" and "godless" describe people who are in rebellion against God. Living in an evil way, without thought of God, is called "ungodliness" or "godlessness."
 
 * The meanings of these words are very similar. However, "godless" and "godlessness" may describe a more extreme condition in which people or nations do not even acknowledge God or his right to rule them.
 * God pronounces judgment and wrath on ungodly people, on everyone who rejects him and his ways.
 
 ## Translation Suggestions: ##
 
-* Depending on the context, the term "ungodly" could be translated as, "displeasing to God" or "immoral" or "disobeying God."
+* Depending on the context, the term "ungodly" could be translated as "displeasing to God" or "immoral" or "disobeying God."
 * The terms "godless" and "godlessness" literally mean that the people are "without God" or "having no thought of God" or "acting in a way that does not acknowledge God."
-* Other ways to translate "ungodliness" or "godlessness" could be, "wickedness" or "evil" or "rebellion against God".
+* Other ways to translate "ungodliness" or "godlessness" could be "wickedness" or "evil" or "rebellion against God".
 
 (See also: [godly](../kt/godly.md), [evil](../kt/evil.md))
 
