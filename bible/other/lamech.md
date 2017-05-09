@@ -9,7 +9,7 @@ Lamech was the name of two men mentioned in the book of Genesis.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
-(See also: [Cain](../other/cain.md), , [Noah](../other/noah.md), [Seth](../other/seth.md))
+(See also: [Cain](../other/cain.md), [Noah](../other/noah.md), [Seth](../other/seth.md))
 
 ## Bible References: ##
 
