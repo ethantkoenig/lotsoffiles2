@@ -2,11 +2,11 @@
 
 ## Facts: ##
 
-Leah was one of Jacob's wives. She was the mother of ten of Jacob's sons whose descendants were some of the twelve tribes of Israel.
+Leah was one of Jacob's wives. She was the mother of ten of Jacob's sons and their descendants were ten of the twelve tribes of Israel.
 
  * Leah's father was Laban, who was the brother of Jacob's mother Rebekah.
  * Jacob didn't love Leah as much as he loved his other wife, Rachel, but God abundantly blessed Leah by giving her many children.
- * One of Leah's sons, Judah, was an ancestor of King David and Jesus.
+ * Leah's son Judah was an ancestor of King David and Jesus.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
