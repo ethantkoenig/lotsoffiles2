@@ -8,7 +8,6 @@ John was the son of Zechariah and Elizabeth. Since "John" was a common name, he 
 * John told people to confess their sins, turn to God, and stop sinning, so that they would be ready to receive the Messiah. 
 * John baptized many people in water as a sign that they were sorry for their sins and were turning away from them.  
 * John was called "John the Baptist" because he baptized many people. 
-* Make sure people will understand that "the Baptist" does not refer to the church with this name. It may be necessary to say, instead, "John the Baptizer" or "John who baptizes."
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
