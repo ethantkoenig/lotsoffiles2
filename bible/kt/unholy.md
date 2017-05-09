@@ -9,7 +9,7 @@ Literally, the term "unholy" means "not holy." It describes someone or something
 
 ## Translation Suggestions: ##
 
-* Ways to translate this term could include, "not holy" or "not belonging to God" or "not honoring to God" or "not godly."
+* Ways to translate this term could include "not holy" or "not belonging to God" or "not honoring to God" or "not godly."
 * In some contexts, "unholy" could be translated as "unclean."
 
 (See also: [holy](../kt/holy.md), [honor](../other/honor.md), [profane](../other/profane.md), [unclean](../kt/unclean.md))
