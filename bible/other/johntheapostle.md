@@ -6,7 +6,7 @@ John was one of Jesus' twelve apostles and one of Jesus' closest friends.
 
 * John and his brother James were sons of a fisherman named Zebedee.
 * In the gospel that he wrote about Jesus' life, John referred to himself as "the disciple whom Jesus loved." This seems to indicate that John was an especially close friend of Jesus.
-* The apostle John wrote five of the books in the New Testament: the gospel of John, the Revelation of Jesus Christ, and three letters written to other believers.
+* The apostle John wrote five New Testament books: the gospel of John, the Revelation of Jesus Christ, and three letters written to other believers.
 * Note that the apostle John was a different person than John the Baptist.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
