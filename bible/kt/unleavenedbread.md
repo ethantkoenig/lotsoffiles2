@@ -9,7 +9,7 @@ The term "unleavened bread" refers to bread that is made without yeast or other 
 
 ## Translation Suggestions: ##
 
-* Other ways to translate this term could include, "bread with no yeast" or "flat bread that did not rise."
+* Other ways to translate this term could include "bread with no yeast" or "flat bread that did not rise."
 * Make sure the translation of this term is consistent with how you translate the term "yeast, leaven."
 * In some contexts, the term "unleavened bread" refers to the "Feast of Unleavened Bread" and can be translated that way.
 
