@@ -6,7 +6,7 @@ The term "Judea" refers to an area of land in ancient Israel. It is sometimes us
 
  * Sometimes "Judea" is used in a narrow sense to refer only to the province located in the southern part of ancient Israel just west of the Dead Sea. Some translations call this province "Judah."
  * Other times "Judea" has a broad sense and refers to all the provinces of ancient Israel, including Galilee, Samaria, Perea, Idumea and Judea (Judah).
- * If translators want to make the distinction clear, the broad sense of Judea (ex. Luke 1:5) could be translated as "Judea Country" and the narrow sense (ex. Luke 1:39) could be translated as "Judea Province," or "Judah Province" since this is the part of ancient Israel where the tribe of Judah had originally lived.
+ * If translators want to make the distinction clear, the broad sense of Judea could be translated as "Judea Country" and the narrow sense  could be translated as "Judea Province," or "Judah Province" since this is the part of ancient Israel where the tribe of Judah had originally lived.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
