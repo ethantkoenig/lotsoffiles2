@@ -6,7 +6,7 @@ The term "livestock" refers to animals which are raised to provide food and othe
 
 * Kinds of livestock include sheep, cattle, goats, horses, and donkeys.
 * In Biblical times, wealth was partly measured by how much livestock a person had.
-* Livestock are used for production of products such as wool, milk, cheese, housing materials, and clothing.
+* Livestock are used to produce items such as wool, milk, cheese, housing materials, and clothing.
 * This term could also be translated as "farm animals."
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
