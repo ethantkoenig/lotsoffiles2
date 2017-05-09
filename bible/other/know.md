@@ -15,7 +15,7 @@ To "know" means to understand something or to be aware of a fact. The expression
 ## Translation Suggestions ##
 
 * Depending on the context, ways to translate "know" could include "understand" or "be familiar with" or "be aware of" or "be acquainted with" or "be in relationship with."
-* Some languages have two different words for "know" depending on whether it refers to knowing facts or to knowing a person and having a relationship with him.
+* Some languages have two different words for "know," one for knowing facts and one for knowing a person and having a relationship with him.
 * The term "make known" could be translated as "cause people to know" or "reveal" or "tell about" or "explain."
 * To "know about" something could be translated as "be aware of" or "be familiar with."
 * The expression "know how to" means to understand the process or method of getting something done. It could also be translated as "be able to" or "have the skill to."
