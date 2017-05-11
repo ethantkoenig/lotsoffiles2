@@ -22,10 +22,10 @@ To "rise" or "arise" means to "go up" or "get up." The terms "risen," "rose," an
 ## Translation Suggestions: ##
 
 * The term "raise" or "raise up" could be translated as "lift up" or "make higher."
-* To "raise up" could also be translated as "to cause to appear" or "to appoint" or "to bring into existence."
+* To "raise up" could also be translated as to "cause to appear" or "to appoint" or "to bring into existence."
 * To "raise up the strength of your enemies" could be translated as, "cause your enemies to be very strong."
 * The phrase "raise someone from the dead" could be translated as "cause someone to return from death to life" or "cause someone to come back to life."
-* Depending on the context, "raise up" could also be translated as "provide" or "appoint" or "cause to have" or "build up" or "rebuild" or "repair."
+* Depending on the context, "raise up" could also be translated as "provide" or to "appoint" or to "cause to have" or "build up" or "rebuild" or "repair."
 * The phrase "arose and went" could be translated as "got up and went" or "went."
 * Depending on the context, the term "arose" could also be translated as "began" or "started up" or "got up" or "stood up."
 
