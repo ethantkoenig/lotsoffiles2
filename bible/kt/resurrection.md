@@ -10,7 +10,7 @@ The term "resurrection" refers to the act of becoming alive again after having d
 
 ## Translation Suggestions: ##
 
-* The word "resurrection" could also be translated as, "coming back to life" or, "becoming alive again after being dead."
+* A person's "resurrection" could be translated as his "coming back to life" or his "becoming alive again after being dead."
 * The literal meaning of this word is "a rising up" or "the act of being raised (from the dead)." These would be other possible ways to translate this term.
 
 (See also: [life](../kt/life.md), [death](../kt/death.md), [raise](../kt/raise.md))
