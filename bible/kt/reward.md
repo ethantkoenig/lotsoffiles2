@@ -4,8 +4,8 @@
 
 The term "reward" refers to what a person receives because of something he has done, either good or bad. "To reward" someone is to give someone something he deserves.
 
-* A reward can be a good or positive thing that a person receives because of doing something well or because he has obeyed God.
-* Sometimes a reward can refer to negative things that may result from bad behavior, such as the statement "the reward of the wicked." In this context "reward" refers to the punishment or negative consequences from sinful actions.
+* A reward can be a good or positive thing that a person receives because he has done something well or because he has obeyed God.
+* Sometimes a reward can refer to negative things that may result from bad behavior, such as the statement "the reward of the wicked." In this context "reward" refers to the punishment or negative consequences they receive because of their sinful actions.
 
 ## Translation Suggestions: ##
 
