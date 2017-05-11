@@ -8,13 +8,13 @@ To tempt someone is to try to get that person to do something wrong.
 * People are tempted by their own sinful nature and by other people.
 * Satan also tempts people to disobey God and to sin against God by doing wrong things.
 * Satan tempted Jesus and tried to get him to do something wrong, but Jesus resisted all of Satan's temptations and never sinned.
-* The term "tempt" is also used to refer to tempting God, which means to stubbornly keep disobeying him to the point that he must respond by punishing the disobedient ones. This is also called "testing" God.
+* Someone who is “tempting God” is not trying to get him to do something wrong, but rather, is continuing in stubborn disobedience of him to the point that God must respond by punishing him. This is also called "testing God.”
 
 ## Translation Suggestions: ##
 
 * The term "tempt" can be translated as, "try to cause to sin" or "entice" or "cause a desire to sin."
 * Ways to translate "temptations" could include, "things that tempt" or "things that entice someone to sin" or "things that cause desire to do something wrong.
-* In the context of tempting God, this could be translated as, "put God to the test" or "test God" or "try God's patience" or "cause God to have to punish" or "stubbornly keep disobeying God."
+* “To tempt God” could be translated as "to put God to the test" or "to test God" or "to try God's patience" or "to cause God to have to punish" or "to stubbornly keep disobeying God."
 
 (See also: [disobey](../other/disobey.md), [Satan](../kt/satan.md), [sin](../kt/sin.md), [test](../kt/test.md)) 
 ## Bible References: ##
