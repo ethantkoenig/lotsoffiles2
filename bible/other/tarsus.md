@@ -2,10 +2,10 @@
 
 ## Facts: ##
 
-Tarsus was a prosperous city located in the Roman province of Cilicia, in what is now south central Turkey.
+Tarsus was a prosperous city in the Roman province of Cilicia, in what is now south central Turkey.
 
-* Tarsus was located along a major river and near the Mediterranean Sea, which made it part of an important trade route.
-* At one point in history, it was the capital city of Cilicia.
+* Tarsus was located along a major river and near the Mediterranean Sea, so it was part of an important trade route.
+* At one time it was the capital of Cilicia.
 * In the New Testament, Tarsus was best known as the hometown of Paul the apostle.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
