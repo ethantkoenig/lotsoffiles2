@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The term "renown" refers to being well known and having a praiseworthy reputation.
+The term "renown" refers to the greatness associated with being well known and having a praiseworthy reputation. Something or someone is “renowned” if it has renown.
 
 * A "renowned" person is someone who is well known and highly esteemed.
 * "Renown" especially refers to a good reputation that is widely known over a long period of time.
