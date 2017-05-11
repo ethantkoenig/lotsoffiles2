@@ -4,7 +4,7 @@
 
 ## Facts: ##
 
-Terah was a descendant of Noah's son, Shem. He was the father of Abram, Nahor and Haran.
+Terah was a descendant of Noah's son Shem. He was the father of Abram, Nahor and Haran.
 
 * Terah left his home in Ur in order to go to the land of Canaan with his son Abram, his nephew Lot, and Abram's wife Sarai.
 * On the way to Canaan, Terah and his family lived for years in the city of Haran in Mesopotamia. Terah died in Haran at the age of 205.
