@@ -12,9 +12,9 @@ The term "receive" generally means to get or accept something that is given, off
 
 ## Translation Suggestions: ##
 
-* Depending on the context, "receive" can be translated as "accept" or "welcome" or "experience" or "be given."
+* Depending on the context, "receive" could be translated as "accept" or "welcome" or "experience" or "be given."
 * The expression "you will receive power" could be translated as "you will be given power" or "God will give you power" or "power will be given to you (by God)" or "God will cause the Holy Spirit to work powerfully in you."
-* The phrase "received his sight" could be translated as "was able to see" or "became able to see again" or "God healed him so that he was able to see."
+* The phrase "received his sight" could be translated as "was able to see" or "became able to see again" or "was healed by God so that he was able to see."
 
 (See also: [Holy Spirit](../kt/holyspirit.md), [Jesus](../kt/jesus.md), [lord](../kt/lord.md), [save](../kt/save.md))
 
