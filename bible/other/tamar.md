@@ -2,11 +2,11 @@
 
 ## Facts: ##
 
-Tamar is the name of several women in the Old Testament. It is also the name of several cities or other places in the Old Testament.
+Tamar was the name of several women in the Old Testament. It was also the name of several cities or other places in the Old Testament.
 * Tamar was the daughter-in-law of Judah. She gave birth to Perez who was an ancestor of Jesus Christ.
-* One of King David's daughters was also named Tamar; she was the sister of Absalom. Her half-brother Amnon raped her and left her desolate.
+* One of King David's daughters was named Tamar; she was the sister of Absalom. Her half-brother Amnon raped her and left her desolate.
 * Absalom also had a daughter named Tamar.
-* A city called "Hazezon Tamar" is the same as the city of Engedi on the western shore of the Salt Sea. There is also a "Baal Tamar." There are also general references to a place called "Tamar" which may be different from the cities.
+* A city called "Hazezon Tamar" was the same as the city of Engedi on the western shore of the Salt Sea. There is also a "Baal Tamar," and general references to a place called "Tamar" which may have been different from the cities.
 
 (See also: [Absalom](../other/absalom.md), [ancestor](../other/father.md), [Amnon](../other/amnon.md), [David](../other/david.md), [ancestor](../other/father.md), [Judah](../other/judah.md), [Salt Sea](../other/saltsea.md))
 
