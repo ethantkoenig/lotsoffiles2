@@ -1,4 +1,4 @@
-# Rabbi, Rabboni #
+# Rabbi #
 
 ## Definition: ##
 
@@ -12,7 +12,9 @@ The term "Rabbi" literally means "my master" or "my teacher."
 * Ways to translate this term could include "My Master" or "My Teacher" or "Honorable Teacher" or "Religious Teacher." Some languages may capitalize a greeting like this, while others may not.
 * The project language may also have a special way that teachers are normally addressed.
 * Make sure the translation of this term does not indicate that Jesus was a schoolteacher.
-* Also consider how "Rabbi" is translated in a Bible translation in a related language or a national language. (See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
+* Also consider how "Rabbi" is translated in a Bible translation in a related language or a national language. 
+
+See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
 (See also: [teacher](../kt/teacher.md))
 
