@@ -5,7 +5,7 @@
 The term "remnant" literally refers to people or things that are "remaining" or "left over" from a larger amount or group.
 
 * Often a "remnant" refers to people who survive a life-threatening situation or who remain faithful to God while undergoing persecution.
-* Isaiah referred to a group of Jews as being a remnant who survived attacks from outsiders and lived to return to the Promised Land in Canaan.
+* Isaiah referred to a group of Jews as being a remnant who would survive attacks from outsiders and live to return to the Promised Land in Canaan.
 * Paul talks about there being a "remnant" of people who were chosen by God to receive his grace.
 * The term "remnant" implies that there were other people who did not remain faithful or who did not survive or who were not chosen.
 
