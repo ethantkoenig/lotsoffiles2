@@ -11,8 +11,6 @@ Philippi was a major city and Roman colony located in Macedonia in the northern 
  
 (See also: [Caesarea](../other/caesarea.md), [Christian](../kt/christian.md), [church](../kt/church.md), [Macedonia](../other/macedonia.md), [Paul](../other/paul.md), [Silas](../other/silas.md))
 
-http://catholic-resources.org/Bible/NT-Statistics-Greek.htm
-
 ## Bible References: ##
 
 * [1 Thessalonians 02:1-2](en/tn/1th/help/02/01)
