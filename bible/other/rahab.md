@@ -6,7 +6,7 @@ Rahab was a woman who lived in Jericho when Israel attacked the city. She was a 
 
 * Rahab hid the two Israelites who came to spy on Jericho before the Israelites attacked it. She helped the spies escape back to the Israelite camp.
 * Rahab became a believer in Yahweh.
-* She and her family were spared when Jericho was destroyed and they all came to live with the Israelites.
+* She and her family were spared when, Jericho was destroyed and they all came to live with the Israelites.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
