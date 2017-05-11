@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-To "reconcile" and "reconciliation" refer to "make peace" between people who were formerly enemies of each other.
+To "reconcile" and "reconciliation" refer to "make peace" between people who were formerly enemies of each other. "Reconciliation” is that act of making peace
 
 * In the Bible, this term usually refer to Gods reconciling people to himself through the sacrifice of his Son, Jesus Christ.
 * Because of sin, all human beings are God's enemies. But because of his compassionate love, God provided a way for people to be reconciled to him through Jesus.
