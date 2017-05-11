@@ -12,7 +12,7 @@ The term "people of God" refers to people whom God has called out from the world
 ## Translation Suggestions: ##
 
 * The term "people of God" could be translated as "God's people" or "the people who worship God" or "people who serve God" or "people who belong to God."
-* Other ways to translate "my people" when God says it could include "the people I have chosen" or "the people who worship me" or "the people who belong to me."
+* When God says "my people" other ways to translate it could include "the people I have chosen" or "the people who worship me" or "the people who belong to me."
 * Similarly, "your people"  could be translated as "the people who belong to you" or "the people you chose to belong to you."
 * Also "his people" could be translated as "the people who belong to him" or "the people God chose to belong to himself."
 
