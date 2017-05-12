@@ -2,20 +2,22 @@
 
 ## Facts: ##
 
-The devil is a spirit being that God created, but he rebelled against God and became God's enemy. The devil is also called "Satan" and "the evil one."
+Although t devil is a spirit being that God created, he rebelled against God and became God's enemy. The devil is also called "Satan" and "the evil one."
 
-* The devil hates God and all that God created, because he wants to take the place of God and be worshiped as God.
+* The devil hates God and all that God created because he wants to take the place of God and be worshiped as God.
 * Satan tempts people to rebel against God.
-* God sent his Son, Jesus to rescue people from Satan's control.
+* God sent his Son, Jesus, to rescue people from Satan's control.
 * The name "Satan" means "adversary" or "enemy."
 * The word "devil" means "accuser."
 
 ## Translation Suggestions: ##
 
 * The word "devil" could also be translated as "the accuser" or "the evil one" or "the king of evil spirits" or "the chief evil spirit."
-* "Satan" can be translated as "Opponent" or "Adversary" or some other name that shows that he is the devil.
+* "Satan" could be translated as "Opponent" or "Adversary" or some other name that shows that he is the devil.
 * These terms should be translated differently from demon and evil spirit.
-* Consider how these terms are translated in a local or national language. (See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
+* Consider how these terms are translated in a local or national language.
+
+(See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
