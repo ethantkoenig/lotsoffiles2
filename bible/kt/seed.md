@@ -4,10 +4,10 @@
 
 A seed is the part of a plant that gets planted in the ground to reproduce more of the same kind of plant. It also has several figurative meanings.
 
-* The term "seed" is used figuratively and euphemistically to refer to the tiny cells inside a man or woman that combine to cause a baby to grow inside the woman, this is called semen.
+* The term "seed" is used figuratively and euphemistically to refer to the tiny cells inside a man that combine with cells of a woman to cause a baby to grow inside her. A collection of these  is called semen.
 * Related to this, "seed" is also used to refer to a person's offspring or descendants.
 * This word often has a plural meaning, referring to more than one seed grain or more than one descendant.
-* In the parable of the farmer planting seeds, Jesus compared seeds to the Word of God being planted in people's hearts in order to produce good spiritual fruit.
+* In the parable of the farmer planting seeds, Jesus compared his seeds to the Word of God, which is planted in people's hearts in order to produce good spiritual fruit.
 * The apostle Paul also uses the term "seed" to refer to the Word of God.
 
 ## Translation Suggestions: ##
