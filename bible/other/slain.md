@@ -2,10 +2,10 @@
 
 ## Definition: ##
 
-The term "slay" means to kill a person or animal. Often it means to kill in a forceful or violent way.
+To "slay" a person or animal means to kill it. Often it means to kill it in a forceful or violent way. If a man has killed an animal he has “slain” it.
 
-* When referring to an animal or to a large number of people, the term "slaughter" is another term that is often used.
-* The word "kill" could also be used to translated this term.
+* When referring to an animal or to a large number of people, the term "slaughter" is another term that is often used. 
+* An act of slaughtering is also called a “slaughter.”
 * The phrase "the slain" could also be translated as "the slain people" or "the people who were killed."
 
 (See also: [slaughter](../other/slaughter.md))
