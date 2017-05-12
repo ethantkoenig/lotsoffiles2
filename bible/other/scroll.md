@@ -4,9 +4,9 @@
 
 In ancient times, a scroll was a type of book made of one long, rolled-up sheet of papyrus or leather.
 
-* After writing on a scroll or reading it, people rolled it up using rods on the ends.
+* After writing on a scroll or reading from it, people rolled it up by using the rods attached to its ends.
 * Scrolls were used for legal documents and scripture.
-* Sometimes scrolls that were delivered by a messenger were sealed with wax. This would prevent anyone else from opening the scroll and writing on it.
+* Sometimes scrolls that were delivered by a messenger were sealed with wax. If the wax was still present when the scroll was received, then the receiver knew that no one had opened the scroll to read it or write on it since it had been sealed.
 * Scrolls containing the Hebrew Scriptures were read aloud in the synagogues.
 
 (See also: [seal](../other/seal.md), [synagogue](../other/synagogue.md), [word of God](../kt/wordofgod.md))
