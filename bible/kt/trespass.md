@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-To "trespass" means to break a law or to violate the rights of another person.
+To "trespass" means to break a law or to violate the rights of another person. A “trespass” is the action of “trespassing.”
 
 * A trespass can be a violation of moral or civil law or a sin committed against another person.
 * This term is related to the terms "sin," and "transgress," especially as it relates to disobeying God.
