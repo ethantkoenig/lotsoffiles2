@@ -2,21 +2,21 @@
 
 ## Definition: ##
 
-The term "son" refers to a boy or man in relation to his parents. It can refer either to someone's male offspring or to an adopted son.
+The male offspring of a man and a woman is called their "son" for his entire life.  He is also called a son of that man and a son of that woman. An "adopted son" is a male who has been legally placed into the position of being a son.
 
-* "Son" is often used figuratively in the Bible to refer to any male descendant, such as a grandson or great-grandson, or even more distant if the ancestor was an important person.
-* The term "son" can also be used as an affectionate form of address to a boy or man who is younger.
-* Sometimes "sons of God" is used in the New Testament to refer to believers in Christ.
-* God calls Israel his "firstborn son." This refers to God's choosing of the nation of Israel to be his special people. It is through them that God's message of redemption and salvation came, with the result that many other people have become his spiritual children.
-* The phrase "son of" often has the figurative meaning, "having the characteristics of." Examples of this include, "sons of the light," "sons of disobedience," "a son of peace," and "sons of thunder."
+* "Son" was often used figuratively in the Bible to refer to any male descendant, such as a grandson or great-grandson.
+* The term "son" can also be used as a polite form of address to a boy or man who is younger than the speaker.
+* Sometimes "sons of God" was used in the New Testament to refer to believers in Christ.
+* God called Israel his "firstborn son." This refers to God's choosing of the nation of Israel to be his special people. It is through them that God's message of redemption and salvation came, with the result that many other people have become his spiritual children.
+* The phrase "son of" often has the figurative meaning "person having the characteristics of." Examples of this include "sons of the light," "sons of disobedience," "a son of peace," and "sons of thunder."
 * The phrase "son of" is also used to tell who a person's father is. This phrase is used in genealogies and many other places.
-* Using "son of" to give the name of the father frequently helps distinguish people who have the same name. For example, "Azariah, son of Zadok" and  "Azariah, son of Nathan" in 1 Kings 4, and "Azariah, son of Amaziah in 2 Kings 15 are three different men.
+* Using "son of" to give the name of the father frequently helps distinguish people who have the same name. For example, "Azariah son of Zadok" and "Azariah son of Nathan" in 1 Kings 4, and "Azariah son of Amaziah” in 2 Kings 15 are three different men.
 
 ## Translation Suggestions: ##
 
-* It may be necessary to use different terms for each of the various uses of "son" in order to  communicate them accurately.
-* When translating the term "Son of God," however, your language's common term for "son" should be used.
-* When used to refer to a descendant who is more distant than a direct son, a term such as "descendant" could be used. For example, rather than referring to Jesus as the "son of David" it may be more clear to say "descendant of David," and in genealogies where "son" refers to a distant male descendant, the most natural term should be used.
+* In most occurrences of this term, it is best to translate "son" by the literal term in the language that is used to refer to a son.
+* When translating the term "Son of God," the project language's common term for "son" should be used.
+* When used to refer to a descendant rather than a direct son, the term "descendant" could be used, as in referring to Jesus as the "descendant of David" or in genealogies where sometimes "son" referred to a male descendant who was not an actual son.
 * Sometimes "sons" can be translated as "children," when both males and females are being referred to. For example, "sons of God" could be translated as "children of God" since this expression also includes girls and women.
 * The figurative expression "son of" could also be translated as "someone who has the characteristics of" or "someone who is like" or "someone who has" or "someone who acts like."
 
