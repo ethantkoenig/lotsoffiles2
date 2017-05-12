@@ -2,11 +2,11 @@
 
 ## Facts: ##
 
-Shechem is a town in Canaan located about 40 miles north of Jerusalem. Shechem is also the name of a man in the Old Testament.
+Shechem was a town in Canaan located about 40 miles north of Jerusalem. Shechem was also the name of a man in the Old Testament.
 
-* The town of Shechem is where Jacob settled after being reconciled to his brother Esau.
-* Jacob bought land from the sons of Hamor the Hivite in Shechem, which later became his family burial ground and where Jacob's sons buried him.
-* Hamor's son Shechem raped Jacob's daughter Dinah, which resulted in Jacob's sons killing all the men in the town of Shechem.
+* The town of Shechem was where Jacob settled after being reconciled to his brother Esau.
+* Jacob bought land from the sons of Hamor the Hivite in Shechem. This land later became his family burial ground and the place where his sons buried him.
+* Hamor's son Shechem raped Jacob's daughter Dinah, resulting in Jacob's sons killing all the men in the town of Shechem.
 
 (Translation suggestions: [Hamor](../other/hamor.md)
 
