@@ -6,15 +6,15 @@ The soul is the inner, invisible, and eternal part of a person. It refers to the
 
 * The terms "soul" and "spirit" may be two different concepts, or they may be two terms that refer to the same concept.
 * When a person dies, his soul leaves his body.
-* The word "soul" is sometimes used figuratively to refer to the whole person. For example, "the soul who sins" means, "the person who sins" and "my soul is tired" means,"I am tired."
+* The word "soul" is sometimes used figuratively to refer to the whole person. For example, "the soul who sins" means "the person who sins" and "my soul is tired" means,"I am tired."
 
 ## Translation Suggestions: ##
 
 * The term "soul" could also be translated as "inner self" or "inner person."
-* In some contexts, "my soul" could be translated as, "I" or "me."
+* In some contexts, "my soul" could be translated as "I" or "me."
 * Usually the phrase "the soul" can be translated as "the person" or "he" or "him," depending on the context.
-* Some languages might only have one word for translating the terms "soul" and "spirit."
-* In Hebrews 4:12, the figurative phrase, "dividing soul and spirit" could mean, "deeply discerning or exposing the inner person."
+* Some languages might only have one word for the concepts "soul" and "spirit."
+* In Hebrews 4:12, the figurative phrase "dividing soul and spirit" could mean "deeply discerning or exposing the inner person."
 
 (See also: [spirit](../kt/spirit.md))
 
