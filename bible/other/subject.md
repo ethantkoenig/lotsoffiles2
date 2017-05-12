@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-The term "subject" refers to being under the authority of someone. The phrase "be subject to" is a command that means "obey" or "submit to the authority of."
+A person is the “subject” of another person if the second person rules over the first. To "be subject to" is to "obey" or to "submit to the authority of."
 
 * The phrase "put in subjection to" refers to causing people to be under the authority of a leader or ruler.
 * To "subject someone to something" means to cause that person to experience something negative, such as punishment.
