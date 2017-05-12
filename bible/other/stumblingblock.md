@@ -4,7 +4,6 @@
 
 The term "stumbling block" or "stone of stumbling" refers to a physical object that causes a person to trip and fall.
 
-* In the New Testament, this word literally referred to a stick or other object that would trigger a trap or snare to snap shut on an animal that stumbled over it.
 * A figurative stumbling block is anything that causes a person to fail in a moral or spiritual sense.
 * Also figuratively, a "stumbling block" or "stone of stumbling" can be something that prevents someone from having faith in Jesus or that causes someone to not grow spiritually.
 * Often it is sin that is like a stumbling block to oneself or to others.
@@ -13,7 +12,7 @@ The term "stumbling block" or "stone of stumbling" refers to a physical object t
 ## Translation Suggestions: ##
 
 * If a language has a term for an object that triggers a trap, that word could be used to translate this term.
-* This term could also be translated as, "stone that causes stumbling" or "something that causes someone to not believe" or "obstacle that causes doubt" or "obstacle to faith" or "something that causes someone to sin."
+* This term could also be translated as "stone that causes stumbling" or "something that causes someone to not believe" or "obstacle that causes doubt" or "obstacle to faith" or "something that causes someone to sin."
 
 (See also: [stumble](../other/stumble.md), [sin](../kt/sin.md))
 
