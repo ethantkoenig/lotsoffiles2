@@ -2,20 +2,20 @@
 
 ## Facts: ##
 
-The term "Son of God" refers to Jesus, the Word of God who came into the world as a human being. He is also often referred to as "the Son."
+The term "Son of God" refers to Jesus, the Word of God, who came into the world as a human being. He is also often referred to as "the Son."
 
 * The Son of God has the same nature as God the Father, and is fully God.
 * God the Father, God the Son, and God the Holy Spirit are all of one essence.
 * Unlike human sons, the Son of God has always existed.
 * In the beginning, the Son of God was active in creating the world, along with the Father and the Holy Spirit.
-* Because Jesus is God's Son, he loves and obeys his Father, and his Father loves him.
+Because Jesus is God's Son, he loves and obeys his Father, and his Father loves him.
 
 ## Translation Suggestions: ##
 
-* For the term, "Son of God," it is best to translate "Son" with the same word the language would naturally use to refer to a human son.
+* For the term "Son of God," it is best to translate "Son" with the same word the language would naturally use to refer to a human son.
 * Make sure the word used to translate "son" fits with the word used to translate "father" and that these words are the most natural ones used to express a true father-son relationship in the project language.
-* Using capital letters to begin "Son" will help show that this is talking about God.
-* The phrase "the Son" is a shortened form of "the Son of God", especially when in the same context as "the Father."
+* Using a capital letter to begin "Son" may help show that this is talking about God.
+* The phrase "the Son" is a shortened form of "the Son of God,”, especially when it occurs in the same context as "the Father."
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
