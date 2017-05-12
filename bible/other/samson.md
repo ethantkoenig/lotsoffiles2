@@ -4,9 +4,9 @@
 
 Samson was one of the judges, or deliverers, of Israel. He was from the tribe of Dan.
 
-* God gave Samson superhuman strength which he used to fight against Israel's enemies, the Philistines.
+* God gave Samson superhuman strength, which he used to fight against Israel's enemies, the Philistines.
 * Samson was put under a vow to never cut his hair and to never drink wine or any other fermented drink. As long as he kept this vow, God continued to give him strength.
-* He finally broke his vow and allowed his hair to be cut, which enabled the Philistines to capture him.
+* He finally broke his vow and allowed his hair to be cut, enabling the Philistines to capture him.
 * While Samson was in captivity, God enabled him to regain his strength and gave him the opportunity to destroy the temple of the false god Dagon, along with many Philistines.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
