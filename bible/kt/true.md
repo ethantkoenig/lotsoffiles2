@@ -2,23 +2,25 @@
 
 ## Definition: ##
 
-The terms "true" and "truth" refer to concepts that are facts, events that actually happened, and statements that were actually said.
+The term "truth" refers to one or more concepts that are facts, events that actually happened, and statements that were actually said. Such concepts are said to be “true.”
 
 * True things are real, genuine, actual, rightful, legitimate, and factual.
 * The truth is an understanding, belief, fact, or statement that is true.
-* The expression "come true" or "came true" is an expression that means that a prophecy actually happened as it was predicted that it would.
+* To say that a prophecy “came true” or “will come true” mean that it actually happened as predicted or that it will happen that way.
 * Truth includes the concept of acting in a way that is reliable and faithful.
 * Jesus revealed God's truth in the words that he spoke.
 * God's word is truth. It tells about things that actually happened and teaches what is true about God and about everything he has made.
 
+
 ## Translation Suggestions: ##
 
 * Depending on the context and what is being described, the term "true" could also be translated by "real" or "factual" or "correct" or "right" or "certain" or "genuine."
-* Ways to translate the term "truth" could include, "what is true" or "fact" or "certainty" or "principle."
-* The expression "come true" could also be translated as, "actually happen" or "be fulfilled" or "happen as predicted." 
-* The expression "tell the truth" or "speak the truth" could also be translated as, "say what is true" or "tell what really happened" or "say things that are reliable."
-* To "accept the truth" could be translated as, "believe what is true about God."
-* In an expression such as, "worship God in spirit and in truth," the expression "in truth" could also be translated by, "faithfully obeying what God has taught us."
+* Ways to translate the term "truth" could include "what is true" or "fact" or "certainty" or "principle."
+* The expression "come true" could also be translated as "actually happen" or "be fulfilled" or "happen as predicted."
+* The expression "tell the truth" or "speak the truth" could also be translated as "say what is true" or "tell what really happened" or "say things that are reliable."
+* To "accept the truth" could be translated as "believe what is true about God."
+* In an expression such as "worship God in spirit and in truth," the expression "in truth" could also be translated by "faithfully obeying what God has taught us."
+
 
 (See also: [believe](../kt/believe.md), [faithful](../kt/faithful.md), [fulfill](../kt/fulfill.md), [obey](../other/obey.md), [prophet](../kt/prophet.md), [understand](../other/understand.md))
 
