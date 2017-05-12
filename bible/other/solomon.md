@@ -5,9 +5,9 @@
 Solomon was one of King David's sons. His mother was Bathsheba.
 
 * When Solomon became king, God told him to ask for anything he wanted. So Solomon asked for wisdom to rule the people justly and well. God was pleased with Solomon's request and gave him both wisdom and much wealth.
-* Solomon is also well-known for having a magnificent temple built in Jerusalem.
-* Although Solomon ruled wisely in the beginning years of his reign, later on he foolishly married many foreign women and started worshiping their gods. 
-* Because of Solomon's unfaithfulness, after his death God divided the Israelites into two kingdoms: Israel and Judah. These kingdoms often fought against each other.
+* Solomon is also well known for having a magnificent temple built in Jerusalem.
+* Although Solomon ruled wisely in the first years of his reign, later on he foolishly married many foreign women and started worshiping their gods. 
+* Because of Solomon's unfaithfulness, after his death God divided the Israelites into two kingdoms, Israel and Judah. These kingdoms often fought against each other.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
