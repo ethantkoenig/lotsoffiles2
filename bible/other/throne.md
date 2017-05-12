@@ -2,11 +2,11 @@
 
 ## Definition: ##
 
-A throne is a specially-designed chair where a king sits to decide important matters and to listen to requests from his people.
+A throne is a specially-designed chair where a ruler sits when he decides important matters and listens to requests from his people.
 
-* A throne is also a symbol of the authority and power that a king has.
-* The word "throne" is often used figuratively to refer to the king, his reign, or his power. (See: [metonymy](en/ta-vol1/translate/man/figs-metonymy)) 
-* In the Bible, God is often portrayed as a king who sits on his throne. Jesus is described as sitting on a throne at the right hand of God the Father.
+* A throne is also a symbol of the authority and power that a ruler has.
+* The word "throne" is often used figuratively to refer to the ruler, his reign, or his power. (See: [metonymy](en/ta-vol1/translate/man/figs-metonymy)) 
+* In the Bible, God was often portrayed as a king who sits on his throne. Jesus was described as sitting on a throne at the right hand of God the Father.
 * Jesus said that heaven is God's throne. One way to translate this could be, "where God reigns as king."
 
 (See also: [authority](../kt/authority.md), [power](../kt/power.md), [king](../other/king.md), [reign](../other/reign.md))
