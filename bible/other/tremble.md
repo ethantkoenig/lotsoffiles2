@@ -2,12 +2,13 @@
 
 ## Definition: ##
 
-The term "tremble" means to shake or quiver out of fear or extreme distress.
+To "tremble" means to shake or quiver out of fear or extreme distress.
 
 * This term is also used figuratively to mean "be very afraid."
-* Sometimes the word "tremble" refers to the ground shaking because of a very loud noise.
+* Sometimes when the ground shakes it is said to "tremble." It can do this during an earthquake or in response to  a very loud noise.
 * The Bible says that in the presence of the Lord the earth will tremble. This could mean that the people of the earth will shake out of fear of God or that the earth itself will shake.
 * This term could be translated as "be afraid" or "fear God" or "shake," depending on the context.
+
 
 (See also: [earth](../other/earth.md), [fear](../kt/fear.md), [Lord](../kt/lordgod.md))
 
