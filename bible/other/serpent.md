@@ -2,12 +2,12 @@
 
 ## Facts: ##
 
-These terms all refer to a kind of reptile that has a long, thin body and large, fanged jaws, and which moves by slithering back and forth across the ground. The term "serpent" usually refers to a large snake and "viper" refers to a type of snake that has venom which it uses to poison its prey.
+These terms all refer to a kind of reptile that has a long, thin body and large, fanged jaws, and that moves by slithering back and forth across the ground. The term "serpent" usually refers to a large snake and "viper" refers to a type of snake that has venom which it uses to poison its prey.
 
-* This animal is also used figuratively to refer to a person who is evil, especially deceitful.
-* Jesus called the religious leaders "offspring of vipers" because they pretended to be righteous, but they deceived people and treated them unfairly.
+* This animal is also used figuratively to refer to a person who is evil, especially someone who is deceitful.
+* Jesus called the religious leaders "offspring of vipers" because they pretended to be righteous but deceived people and treated them unfairly.
 * In the garden of Eden, Satan took the form of a serpent when he talked to Eve and tempted her to disobey God.
-* After the serpent tempted Eve to sin, God cursed the snake, saying that from then on, all snakes would slither along the ground, implying that before that they had legs.
+* After the serpent tempted Eve to sin, and both Eve and her husband Adam did sin, God cursed the snake, saying that from then on, all snakes would slither along the ground, implying that before then they had had legs.
 
 (Translation suggestions:  [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
