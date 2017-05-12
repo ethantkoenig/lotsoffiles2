@@ -9,9 +9,9 @@ The term "salvation" refers to being saved or rescued from evil and danger.
 
 ## Translation Suggestions: ##
 
-* This term could also be translated using the word "save" or "rescue" as in, "when God saves people (from being punished for their sins)" or "God will rescue his people (from their enemies)."
-* "God is my salvation" could be translated as, "God is the one who saves me."
-* "You will draw water from the wells of salvation" could be translated as, "You will be refreshed as with water because God is rescuing you."
+* This term could also be translated using words related to "save" or "rescue," as in "God’s saving people (from being punished for their sins)" or "God’s rescuing his people (from their enemies)."
+* "God is my salvation" could be translated as "God is the one who saves me."
+* "You will draw water from the wells of salvation" could be translated as "You will be refreshed as with water because God is rescuing you."
 
 (See also: [save](../kt/save.md), [Savior](../kt/savior.md))
 
