@@ -2,11 +2,11 @@
 
 ## Facts: ##
 
-Shem was one of Noah's three sons who went with him into the ark during the worldwide flood described in the book of Genesis.
+Shem was one of Noah's three sons, all of whom went with him into the ark during the worldwide flood described in the book of Genesis.
 
 * Shem was the ancestor of Abraham and his descendants.
-* The descendants of Shem are known as "Semites" who speak "Semitic" languages such as Hebrew and Arabic.
-* The Bible records the length of Shem's life to be nearly 600 years.
+* The descendants of Shem were known as "Semites"; they spoke "Semitic" languages such as Hebrew and Arabic.
+* The Bible indicates that Shem lived nearly 600 years.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 
