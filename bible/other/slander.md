@@ -2,10 +2,10 @@
 
 ## Definition: ##
 
-To slander means to say negative, defaming things about another person.
+A slander consists of  negative, defaming things spoken (not written) about another person. To say such things (not to write them) about someone is to slander that person. The person saying such things is a slanderer.
 
 * Slander may be a true report or a false accusation, but its effect is to cause others to think negatively of the person being slandered.
-* Some of the words translated as "slander" mean: "speak against" or "spread an evil report" or "defame."
+* To  "slander" could be translated as to "speak against" or to "spread an evil report" or to "defame."
 * A slanderer is also called an "informer" or a "tale-bearer."
 
 (See also: [blasphemy](../kt/blasphemy.md))
