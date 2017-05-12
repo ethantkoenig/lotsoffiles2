@@ -4,7 +4,7 @@
 
 The term "sanctuary" literally means "holy place" and refers to a place that God has made sacred and holy. It also can refer to a place that provides protection and safety.
 
-* In the Old Testament, the term "sanctuary" is often used to refer to the tabernacle or temple building where the "holy place" and "most holy place" were located.
+* In the Old Testament, the term "sanctuary" was often used to refer to the tabernacle or temple building where the "holy place" and "most holy place" were located.
 * God referred to the sanctuary as the place where he lived among his people, the Israelites.
 * He also called himself a "sanctuary" or safe place for his people where they can find protection.
 
@@ -12,8 +12,8 @@ The term "sanctuary" literally means "holy place" and refers to a place that God
 
 * This term has a basic meaning of "holy place" or "place that is set apart."
 * Depending on the context, the term "sanctuary" could be translated as "holy place" or "sacred building" or "God's holy dwelling place" or "holy place of protection" or "sacred place of safety."
-* The phrase "shekel of the sanctuary" could be translated as, "kind of shekel given for the tabernacle" or "shekel used as a tax to take care of the temple."
-* Note: Be careful that the translation of this term does not refer to a worship room in a modern day church.
+* The phrase "shekel of the sanctuary" could be translated as "kind of shekel given for the tabernacle" or "shekel used in paying the tax to take care of the temple."
+* Note: Be careful that the translation of this term does not refer to a worship room in a modern-day church.
 
 (See also: [holy](../kt/holy.md), [Holy Spirit](../kt/holyspirit.md), [sacred](../other/sacred.md), [set apart](../kt/setapart.md), [tabernacle](../kt/tabernacle.md), [tax](../other/tax.md), [temple](../kt/temple.md), )
 
