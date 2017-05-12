@@ -4,7 +4,7 @@
 
 A statute is a specific written law that provides guidance for people to live by.
 
-* The term "statute" is similar in meaning to "ordinance" or " command" or "law" or "decree." All these terms involve instructions and requirements that God gives to his people.
+* The term "statute" is similar in meaning to "ordinance" and " command" and "law" and "decree." All these terms involve instructions and requirements that God gives to his people or rulers give to their people.
 * King David said that he delighted himself in Yahweh's statutes.
 * The term "statute" could also be translated as "specific command" or "special decree."
 
