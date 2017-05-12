@@ -2,17 +2,17 @@
 
 ## Definition: ##
 
-The term "set apart" means to be separated from something to fulfill a certain purpose.
+The term "set apart" means separated from something to fulfill a certain purpose. Also, to “set apart” some person or thing means to make it “set apart.”
 
 * The Israelites were set apart for service to God.
 * The Holy Spirit commanded the Christians at Antioch to set apart Paul and Barnabas for the work God wanted them to do.
 * A believer who is "set apart" for service to God is "dedicated to" fulfilling God's will.
 * One meaning of the term "holy" is to be set apart as belonging to God and being separated from the sinful ways of the world.
-* The term "sanctify" means to set apart a person for God's service.
+* To "sanctify" someone means to set apart that person for God's service.
 
 ## Translation Suggestions: ##
 
-* Ways to translate "to set apart" could include, "to specially select" or "to separate from among you" or "to take aside to do a special task."
+* Ways to translate "to set apart" could include "to specially select" or "to separate from among you" or "to take aside to do a special task."
 * To "be set apart" could be translated as "be separated (from)" or "be specially appointed (for)."
 
 (See also: [holy](../kt/holy.md), [sanctify](../kt/sanctify.md), [appoint](../kt/appoint.md))
