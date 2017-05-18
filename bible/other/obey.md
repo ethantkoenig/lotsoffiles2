@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The term "obey" means to do what is required or commanded. The term "obedient" describes someone who obeys. Sometimes the command is about not doing something, as in "do not steal."
+The term "obey" means to do what is required or commanded. The term "obedient" describes someone who obeys. Obedience” is the characteristic that an obedient person has.Sometimes the command is about not doing something, as in "do not steal."
 
 * Usually the term "obey" is used in the context of obeying the commands or laws of a person in authority.
 * For example, people obey laws which are created by the leaders of a country, kingdom, or other organization.

@@ -9,9 +9,7 @@ Philippi was a major city and Roman colony located in Macedonia in the northern 
  * The New Testament book of Philippians is a letter that the apostle Paul wrote to the Christians in the church at Philippi.
  * Note that this is a different city from Caesarea Philippi which was located in northeastern Israel near Mount Hermon.
  
-(See also: [Caesarea](../other/caesarea.md), [Christian](../kt/christian.md), , [church](../kt/church.md), [Macedonia](../other/macedonia.md), [Paul](../other/paul.md), [Silas](../other/silas.md))
-
-http://catholic-resources.org/Bible/NT-Statistics-Greek.htm
+(See also: [Caesarea](../other/caesarea.md), [Christian](../kt/christian.md), [church](../kt/church.md), [Macedonia](../other/macedonia.md), [Paul](../other/paul.md), [Silas](../other/silas.md))
 
 ## Bible References: ##
 

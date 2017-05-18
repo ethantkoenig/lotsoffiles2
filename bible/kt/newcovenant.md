@@ -4,11 +4,11 @@
 
 The term "new covenant" refers to the commitment or agreement God made with his people through the sacrifice of his Son, Jesus. 
 
-* God's "new covenant" is explained in the part of the Bible called the "New Testament."
+* God's "new covenant" was explained in the part of the Bible called the "New Testament."
 * This new covenant is in contrast to the "old" or "former" covenant that God had made with the Israelites in Old Testament times.
 * The new covenant is better than the old one because it is based on the sacrifice of Jesus, which completely atoned for people's sins forever. The sacrifices made under the old covenant did not do this.
-* God writes the new covenant on the hearts of believers in Jesus. This causes them to want to obey God and they begin to live holy lives.
-* The new covenant will be completely fulfilled in the end times when God establishes his reign on earth. Everything will once again be very good, like it was when God first created the world.
+* God writes the new covenant on the hearts those who become believers in Jesus. This causes them to want to obey God and to begin to live holy lives.
+* The new covenant will be completely fulfilled in the end times when God establishes his reign on earth. Everything will once again be very good, as it was when God first created the world.
 
 ## Translation Suggestions: ##
 

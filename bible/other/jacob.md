@@ -4,10 +4,10 @@
 
 Jacob was the younger twin son of Isaac and Rebekah.
 
-* Jacob's name means "he grabs the heel" which is an expression meaning, "he deceives." As Jacob was being born, he was holding onto the heel of his twin brother Esau.
-* Many years later, God changed Jacob's name to "Israel," which means, "he struggles with God."
+* Jacob's name means "he grabs the heel" which is an expression meaning "he deceives." As Jacob was being born, he was holding onto the heel of his twin brother Esau.
+* Many years later, God changed Jacob's name to "Israel," which means "he struggles with God."
 * Jacob was clever and deceptive. He found ways to take the firstborn blessing and inheritance rights from his older brother, Esau.
-* Esau was angry and planned to kill him, so Jacob left his homeland. But years later Jacob returned with his wives and children to the land of Canaan where Esau was living, and their families lived peacefully near each other.
+* Esau was angry and planned to kill him so Jacob left his homeland. But years later Jacob returned with his wives and children to the land of Canaan where Esau was living, and their families lived peacefully near each other.
 * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
 * A different man named Jacob is listed as being Joseph's father in Matthew's genealogy.
 

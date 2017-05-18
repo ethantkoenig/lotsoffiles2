@@ -4,7 +4,7 @@
 
 A teacher is a person who gives other people new information. Teachers help others to obtain and use both knowledge and skills.
 
-* In the Bible, the word "teacher" is used in a special sense to refer to someone who teaches about God. It does not refer to a school teacher.
+* In the Bible, the word "teacher" is used in a special sense to refer to someone who teaches about God. 
 * People who learn from a teacher are called "students" or "disciples."
 * In some Bible translations, this term is capitalized ("Teacher") when it is used as a title for Jesus.
 

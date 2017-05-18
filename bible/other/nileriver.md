@@ -1,4 +1,4 @@
-# Nile River, River of Egypt #
+# Nile River, River of Egypt, the Nile #
 
 ## Facts: ##
 

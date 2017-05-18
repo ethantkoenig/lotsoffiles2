@@ -4,10 +4,10 @@
 
 Jonah was a Hebrew prophet in the Old Testament.
 
-* The book of Jonah tells the story of when God sent Jonah to preach to the people of Nineveh.
-* Jonah refused to go to Nineveh and instead got on a ship headed for a different city.
+* The book of Jonah tells the story of what happened when God sent Jonah to preach to the people of Nineveh.
+* Jonah refused to go to Nineveh and instead got on a ship headed for a Tarshish.
 * God caused a huge storm to overwhelm that ship.
-* When the men sailing the ship found out that Jonah was disobeying God, they threw him into the sea and the storm stopped.
+* He told the men sailing the ship that he wasrunning away from God, and he suggested that they throw him into the sea. When they did the storm stopped.
 * Jonah was swallowed by a huge fish, and he was inside the belly of that fish for three days and nights.
 * After that, Jonah went to Nineveh and preached to the people there, and they turned from their sins.
 

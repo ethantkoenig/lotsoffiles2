@@ -5,7 +5,7 @@
 Tychicus was one of Paul's fellow ministers of the gospel.
 
 * Tychicus accompanied Paul on at least one of his missionary journeys to Asia.
-* Paul described him as "beloved " and "faithful".
+* Paul described him as "beloved" and "faithful.”
 * Tychicus carried Paul's letters to Ephesus and Colosse.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))

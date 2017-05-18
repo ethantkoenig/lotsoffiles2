@@ -1,8 +1,8 @@
-# reverence #
+# reverence, revere #
 
 ## Definition: ##
 
-The term "reverence" refers to feelings of profound, deep respect for someone or something.
+The term "reverence" refers to feelings of profound, deep respect for someone or something. “Revere” someone or something is to show reverence towards that person or thing.
 
 * Feelings of reverence can be seen in actions that honor the person who is revered.
 * The fear of the Lord is an inner reverence that manifests itself in obedience to God's commandments.

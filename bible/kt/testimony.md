@@ -2,12 +2,12 @@
 
 ## Definition: ##
 
-The terms "testimony" and "testify" refer to making a statement about something that one knows to be true.
+When a person gives “testimony” he makes a statement about something he knows, claiming that the statement is true. To “testify” is to give “testimony.”
 
 * Often a person "testifies" about something he has experienced directly.
 * A witness who gives "false testimony" does not tell the truth about what happened.
 * Sometimes the term "testimony" refers to a prophecy that a prophet has stated.
-* In the New Testament, this term is often used to refer to how Jesus' followers testified about the events of Jesus' life, death, and resurrection.
+* In the New Testament, this term was often used to refer to how Jesus' followers testified about the events of Jesus' life, death, and resurrection.
 
 ## Translation Suggestions: ##
 

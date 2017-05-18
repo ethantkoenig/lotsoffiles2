@@ -6,13 +6,13 @@ An oak, or oak tree,  is a tall shade tree with a large trunk and wide spreading
 
 * Oak trees have strong, hard wood that was used to build ships and to make farming plows, oxen yokes and walking sticks.
 * The seed of an oak tree is called an acorn.
-* The trunks of certain oak trees could be as wide around as 6 meters.
+* The trunks of certain oak trees could bemeasured up to 6 meters around.
 * Oak trees were symbolic of long life and had other spiritual meanings. In the Bible, they were often associated with holy places.
 
 ## Translation Suggestions: ##
 
-* Many translations will have to say "oak tree" rather than just "oak."
-* If oak trees are not known in the receptor area, this could be translated as "an oak, which is a large shade tree like…," then give the name of a local tree that has similar characteristics.
+* Many translations will find it important to use the term "oak tree" rather than just the word "oak."
+* If oak trees are not known in the receptor area, "an oak" could be translated as "an oak, which is a large shade tree like…," then give the name of a local tree that has similar characteristics.
 * See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown)
 
 (See also: [holy](../kt/holy.md))

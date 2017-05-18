@@ -11,7 +11,7 @@ The term "unrighteous" means to be sinful and morally corrupt. "Unrighteousness"
 ## Translation Suggestions: ##
 
 * This term could simply be translated as "not righteous."
-* Depending on the context, other ways to translate this could include, "wicked" or "immoral" or "people who rebel against God" or "sinful."
+* Depending on the context, other ways to translate this could include "wicked" or "immoral" or "people who rebel against God" or "sinful."
 * The phrase "the unrighteous" could be translated as "unrighteous people."
 * The term "unrighteousness" could be translated as "sin" or "evil thoughts and actions" or "wickedness."
 * If possible, it is best to translate this in a way that shows its relationship to "righteous, righteousness."

@@ -10,9 +10,9 @@ The terms "uncircumcised" and "uncircumcision" refer to a male who has not been 
 ## Translation Suggestions: ##
 
 * If a word for circumcision is used or known in the language, "uncircumcised" could be translated as "not circumcised."
-* The expression, "the uncircumcision" could be translated as "people who are not circumcised" or "people who do not belong to God," depending on the context.
-* Other ways to translate figurative senses of this term could include, "not God's people" or "rebellious like those who don't belong to God" or "people who have no sign of belonging to God."
-* The expression "uncircumcised in heart" could be translated as, "stubbornly rebellious" or "refusing to believe." However, if possible it is best to keep the expression or a similar one since spiritual circumcision is an important concept.
+* The expression "the uncircumcision" could be translated as "people who are not circumcised" or "people who do not belong to God," depending on the context.
+* Other ways to translate figurative senses of this term could include "not God's people" or "rebellious like those who don't belong to God" or "people who have no sign of belonging to God."
+* The expression "uncircumcised in heart" could be translated as "stubbornly rebellious" or "refusing to believe." However, if possible it is best to keep the expression or a similar one since spiritual circumcision is an important concept.
 
 (See also: [Abraham](../other/abraham.md), [circumcise](../kt/circumcise.md))
 

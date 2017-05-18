@@ -2,9 +2,9 @@
 
 ## Definition: ##
 
-Shimei is the name of several men in the Old Testament.
+Shimei was the name of several men in the Old Testament.
 
-* Shimei son of Gera, was a Benjamite who cursed King David and threw stones at him as he was fleeing Jerusalem to escape being killed by his son Absalom.
+* Shimei son of Gera was a Benjamite who cursed King David and threw stones at him as he was fleeing Jerusalem to escape being killed by his son Absalom.
 * There were also several Levite priests in the Old Testament who were named Shimei.
 
 (See also: [Absalom](../other/absalom.md), [Benjamin](../other/benjamin.md), [Levite](../other/levite.md), [priest](../kt/priest.md))

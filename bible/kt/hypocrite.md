@@ -6,7 +6,7 @@ The term "hypocrite" refers to a person who does things to appear righteous, but
 
 * Hypocrites want to be seen doing good things so that people will think that they are good people.
 * Often a hypocrite will criticize other people for doing the same sinful things that they themselves do.
-* Jesus called the Pharisees hypocrites because they did religious things like wearing certain clothes and eating certain foods, they were not kind or fair to people.
+* Jesus called the Pharisees hypocrites because although they acted religiously like wearing certain clothes and eating certain foods, they were not kind or fair to people.
 * A hypocrite points out faults in other people, but doesn't admit his own faults.
 
 ## Translation Suggestions: ##

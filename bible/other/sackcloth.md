@@ -2,16 +2,17 @@
 
 ## Definition: ##
 
-Sackcloth was a coarse, scratchy type of cloth that was made out of goat hair or camel hair.
+Sackcloth was a coarse, scratchy type of cloth that was made from goat hair or camel hair.
 
-* Clothing made out of sackcloth was uncomfortable for the person wearing it. It was worn as a way of showing mourning, grief, or humble repentance.
+* A person who wore clothing made from it would be uncomfortable. Sackcloth was worn to show mourning, grief, or humble repentance.
 * The phrase "sackcloth and ashes" was a common term referring to a traditional expression of grief and repentance.
 
-## Translation Suggestions ##
+## Translation Suggestions:
 
-* This term could also be translated as, "coarse cloth from animal hair" or "clothes made of goat hair" or "rough, scratchy clothing."
-* Other ways to translate this term could include, "rough, scratchy mourning clothes."
-* The phrase "sit in sackcloth and ashes" could be translated as, "show mourning and humility by wearing scratchy cloth and sitting in ashes."
+* This term could also be translated as "coarse cloth from animal hair" or "clothes made of goat hair" or "rough, scratchy clothing."
+* Another way to translate this term could be "rough, scratchy mourning clothes."
+* The phrase "sit in sackcloth and ashes" could be translated as "show mourning and humility by wearing scratchy cloth and sitting in ashes."
+
 
 (See also: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 

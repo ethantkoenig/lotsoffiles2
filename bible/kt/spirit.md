@@ -8,22 +8,22 @@ The term "spirit" refers to the non-physical part of people which cannot be seen
 * A person's spirit is the part of him that can know God and believe in him.
 * In general, the term "spiritual" describes anything in the non-physical world.
 * In the Bible, it especially refers to anything that relates to God, specifically to the Holy Spirit.
-* For example, "spiritual food" refers to God's teachings that give nourishment to a person's spirit, "spiritual wisdom" refers to the knowledge and righteous behavior that come from the power of the Holy Spirit.
-* God is a spirit and he created other spirit beings who do not have physical bodies.
+* For example, "spiritual food" refers to God's teachings, which give nourishment to a person's spirit, and "spiritual wisdom" refers to the knowledge and righteous behavior that come from the power of the Holy Spirit.
+* God is a spirit and he created other spirit beings, who do not have physical bodies.
 * Angels are spirit beings, including those who rebelled against God and became evil spirits.
-* The term "spirit of" can also mean "having the characteristics of," such as in, "spirit of wisdom" or "in the spirit of Elijah."
-* Examples of "spirit" as an attitude or emotion would include "spirit of fear" or "spirit of jealousy."
+* The term "spirit of" can also mean "having the characteristics of," such as in "spirit of wisdom" or "in the spirit of Elijah."
+* Examples of "spirit" as an attitude or emotion would include "spirit of fear" and "spirit of jealousy."
 
 ## Translation Suggestions: ##
 
-* Depending on the context, some ways to translate "spirit" might include, "non-physical being" or "inside part" or "inner being."
+* Depending on the context, some ways to translate "spirit" might include "non-physical being" or "inside part" or "inner being."
 * In some contexts, the term "spirit" could be translated as "evil spirit" or "evil spirit being."
-* Sometimes the term "spirit" is used to express the feelings of a person as in, "my spirit was grieved in my inmost being." This could also be translated as, "I felt grieved in my spirit" or "I felt deeply grieved."
-* The phrase "spirit of" could be translated as, "character of" or "influence of" or "attitude of" or "thinking (that is) characterized by."
-* Depending on the context, "spiritual" could be translated as, "non-physical" or "from the Holy Spirit" or "God's" or "part of the non-physical world."
-* The figurative expression "spiritual milk" could also be translated as, "basic teachings from God" or "God's teachings that nourish the spirit (like milk does)."
+* Sometimes the term "spirit" is used to express the feelings of a person, as in "my spirit was grieved in my inmost being." This could also be translated as "I felt grieved in my spirit" or "I felt deeply grieved."
+* The phrase "spirit of" could be translated as "character of" or "influence of" or "attitude of" or "thinking (that is) characterized by."
+* Depending on the context, "spiritual" could be translated as "non-physical" or "from the Holy Spirit" or "God's" or "part of the non-physical world."
+* The figurative expression "spiritual milk" could also be translated as "basic teachings from God" or "God's teachings that nourish the spirit (like milk does)."
 * The phrase "spiritual maturity" could be translated as "godly behavior that shows obedience to the Holy Spirit."
-* A "spiritual gift" could be translated as, "special ability that the Holy Spirit gives."
+* The term "spiritual gift" could be translated as "special ability that the Holy Spirit gives
 
 (See also: [angel](../kt/angel.md), [demon](../kt/demon.md), [Holy Spirit](../kt/holyspirit.md), [soul](../kt/soul.md))
 

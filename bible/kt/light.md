@@ -6,7 +6,7 @@ There are several figurative uses of the term "light" in the Bible. It is often 
 
 * Jesus said, "I am the light of the world" to express that he brings God's true message to the world and rescues people from the darkness of their sin.
 * Christians are commanded to "walk in the light," which means they should be living the way God wants them to and avoiding evil.
-* The apostle John stated that "God is light," and there is no darkness in him.
+* The apostle John stated that "God is light" and in him there is no darkness at all.
 * Light and darkness are complete opposites. Darkness is the absence of all light. 
 * Jesus said that he was "the light of the world" and that his followers should shine like lights in the world by living in a way that clearly shows how great God is.
 * "Walking in the light" represents living in a way that pleases God, doing what is good and right. Walking in darkness represents living in rebellion against God, doing evil things.

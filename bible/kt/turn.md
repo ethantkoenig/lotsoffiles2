@@ -15,15 +15,15 @@ To "turn" means to physically change direction or to cause something else to cha
 ## Translation Suggestions: ##
 
 * Depending on the context, "turn" can be translated as "change direction" or "go" or "move."
-* In some contexts, "turn" could be translated as, "cause" (someone) to do something. To "turn (someone) away from" could be translated as "cause (someone) to go away" or "cause (someone) to stop."
+* In some contexts, "turn" could be translated as "cause" (someone) to do something. To "turn (someone) away from" could be translated as "cause (someone) to go away" or "cause (someone) to stop."
 * The phrase "turn away from God" could be translated as "stop worshiping God."
-* The phrase "turn back to God" could be translated as, "start worshiping God again."
+* The phrase "turn back to God" could be translated as "start worshiping God again."
 * When enemies "turn back," it means they "retreat." To "turn back the enemy" means to "cause the enemy to retreat."
-* Used figuratively, wh14#translationwordsen Israel "turned to" false gods, they "started to worship" them. When they "turned away" from idols, they "stopped worshiping" them.
+* Used figuratively, when Israel "turned to" false gods, they "started to worship" them. When they "turned away" from idols, they "stopped worshiping" them.
 * When God "turned away from" his rebellious people, he "stopped protecting" or "stopped helping" them.
-* The phrase "turn the hearts of the fathers to their children" could be translated as, "cause fathers to care for their children again."
-* The expression, "turn my honor into shame" could be translated as, "cause my honor to become shame" or "dishonor me so that I am shamed" or "shame me (by doing what is evil) so that people no longer honor me."
-* "I will turn your cities into ruin" could be translated as, "I will cause your cities to be destroyed" or "I will cause enemies to destroy your cities."
+* The phrase "turn the hearts of the fathers to their children" could be translated as "cause fathers to care for their children again."
+* The expression "turn my honor into shame" could be translated as "cause my honor to become shame" or "dishonor me so that I am shamed" or "shame me (by doing what is evil) so that people no longer honor me."
+* "I will turn your cities into ruin" could be translated as "I will cause your cities to be destroyed" or "I will cause enemies to destroy your cities."
 * The phrase "turn into" could be translated as "become." When Moses' rod "turned into" a snake, it "became" a snake." It could also be translated as "changed into."
 
 (See also: [idol](../other/idol.md), [leprosy](../other/leprosy.md), [worship](../kt/worship.md))

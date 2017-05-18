@@ -4,10 +4,10 @@
 
 Joseph was Jesus' earthly father and raised him as his son. He was a righteous man who worked as a carpenter.
 
-* Joseph became engaged to a Jewish girl named Mary, whom God had chosen to be the mother of Jesus the Messiah.
+* Joseph became engaged to a Jewish girl named Mary, while they were engaged God chose her to become the mother of Jesus the Messiah.
 * An angel told Joseph that the Holy Spirit had miraculously caused Mary to be pregnant, and that Mary's baby was the Son of God.
 * After Jesus was born, an angel warned Joseph to take the baby and Mary to Egypt in order to escape from Herod.
-* Joseph and his family lived in the city of Nazareth of Galilee, where he earned a living doing carpentry work.
+* Joseph and his family later lived in the city of Nazareth of Galilee, where he earned a living doing carpentry work.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 

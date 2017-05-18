@@ -2,7 +2,7 @@
 
 ## Facts: ##
 
-Titus was a Gentile who became a believer through the ministry of the apostle Paul. He was trained by Paul to be a leader in the early churches.
+Titus was a Gentile. He was trained by Paul to be a leader in the early churches.
 
 * A letter written to Titus by Paul is one of the books of the New Testament.
 * In this letter Paul instructed Titus to appoint elders for the churches on the island of Crete.

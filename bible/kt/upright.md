@@ -10,8 +10,8 @@ The terms "upright" and "uprightness" refer to acting in a way that follows God'
 
 ## Translation Suggestions: ##
 
-* Ways to translate "upright" could include, "acting rightly" or "one who acts rightly" or "following God's laws" or "obedient to God" or "behaving in a way that is right."
-* The term "uprightness" could be translated as, "moral purity" or "good moral conduct" or "rightness."
+* Ways to translate "upright" could include "acting rightly" or "one who acts rightly" or "following God's laws" or "obedient to God" or "behaving in a way that is right."
+* The term "uprightness" could be translated as "moral purity" or "good moral conduct" or "rightness."
 * The phrase "the upright" could be translated as "people who are upright" or "upright people."
 
 (See also: [integrity](../other/integrity.md), [law](../other/law.md), [law](../kt/lawofmoses.md), [obey](../other/obey.md), [pure](../kt/purify.md), [righteous](../kt/righteous.md))

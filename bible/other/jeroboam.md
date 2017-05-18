@@ -8,7 +8,7 @@ Jeroboam son of Nebat was the first king of the northern kingdom of Israel aroun
 * When Solomon died, the ten northern tribes of Israel rebelled against Solomon's son Rehoboam and instead made Jeroboam their king, leaving Rehoboam as king of only the southern two tribes, Judah and Benjamin.
 * Jeroboam became a wicked king who led the people away from worshiping Yahweh and instead set up idols for them to worship. All the other kings of Israel followed Jeroboam's example and were evil like he was.
 * Almost 120 years later, another King Jeroboam began ruling the northern kingdom of Israel. This Jeroboam was the son of King Jehoash and was wicked like all the previous kings of Israel had been.
-* In spite of this, God had mercy on Israel and helped this King Jeroboam to gain land and establish boundaries for their territory.
+* In spite of the Israelite's wickedness, God had mercy on them and helped this King Jeroboam to gain land and establish boundaries for their territory.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 

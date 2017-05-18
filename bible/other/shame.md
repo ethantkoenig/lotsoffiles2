@@ -8,7 +8,7 @@ The term "shame" refers to a painful feeling of being disgraced a person has bec
 * The term "ashamed" describes how a person feels when he has done something shameful.
 * The phrase "put to shame" means to defeat people or expose their sin so that they feel ashamed of themselves.
 * The prophet Isaiah said that those who make and worship idols will be put to shame.
-* God can bring shame to a person who does not repent, by exposing that person's sin and causing him to be humiliated.
+* God can bring shame to a person who does not repent by exposing that person's sin and causing him to be humiliated.
 
 (See also: [false god](../kt/falsegod.md), [humble](../other/humble.md), [humiliate](../other/humiliate.md), [Isaiah](../other/isaiah.md), [repent](../kt/repent.md), [sin](../kt/sin.md), [worship](../kt/worship.md)) 
 

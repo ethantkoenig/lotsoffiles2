@@ -14,7 +14,7 @@ The term "innocent" means to not be guilty of a crime or other wrongdoing. It ca
 * The frequently occurring expression "innocent blood" could be translated as "people who did nothing wrong to deserve being killed."
 * The expression "shed innocent blood" could be translated as "kill innocent people" or "kill people who did nothing wrong to deserve it."
 * In the context of someone being killed, "innocent of the blood of" could be translated as "not guilty for the death of."
-* When talking about people not accepting the good news about Jesus but not accepting it, "innocent of the blood of" could be translated as "not responsible for whether they remain spiritually dead or not" or "not responsible for whether they accept this message."
+* When talking about people not hearing the good news about Jesus but not accepting it, "innocent of the blood of" could be translated as "not responsible for whether they remain spiritually dead or not" or "not responsible for whether they accept this message."
 * When Judas said "I have betrayed innocent blood," he was saying "I have betrayed a man who did nothing wrong" or "I have caused the death of a man who was sinless."
 * When Pilate said about Jesus "I am innocent of the blood of this innocent man," this could be translated as "I am not responsible for the killing of this man who has done nothing wrong to deserve it."
 

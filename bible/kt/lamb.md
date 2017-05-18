@@ -13,7 +13,9 @@ The term "lamb" refers to a young sheep. Sheep are four-legged animals with thic
 * If sheep are known in the language area, the name for their young should be used to translate the terms "lamb" and "Lamb of God."
 * "Lamb of God" could be translated as "God's (sacrificial) Lamb," or "Lamb sacrificed to God" or "(sacrificial) Lamb from God."
 * If sheep are not known, this term could be translated as "a young sheep" with a footnote that describes what sheep are like. The note could also compare sheep and lambs to an animal from that area that lives in herds, that is timid and defenseless, and that often wanders away.
-* Also consider how this term is translated in a Bible translation of a nearby local or national language. (See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
+* Also consider how this term is translated in a Bible translation of a nearby local or national language. 
+
+(See: [How to Translate Unknowns](en/ta-vol1/translate/man/translate-unknown))
 
 (See also: [sheep](../other/sheep.md), [shepherd](../other/shepherd.md))
 

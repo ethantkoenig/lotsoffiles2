@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-Oil is a thick, clear liquid that can be taken from certain plants or fruits. In Bible times, oil usually came from olives.
+Oil is a thick, clear liquid that can be taken from certain plants. In Bible times, oil usually came from olives.
 
 * Olive oil was used for cooking, anointing, sacrifice, lamps, and medicine.
 * In ancient times, olive oil was highly prized, and the possession of oil was considered a measurement of wealth.

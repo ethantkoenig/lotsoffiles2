@@ -6,8 +6,8 @@ Syria is a country located northeast of Israel. During the time of the New Testa
 
 * In the Old Testament time period, the Syrians were strong military enemies of the Israelites.
 * Naaman was a commander of the Syrian army who was cured of leprosy by the prophet Elisha.
-* Many of the inhabitants of Syria are descendants of Aram, who was descended from Noah's son Shem.
-* Damascus, the capital city of Syria, is mentioned many times in the Bible.
+* Many inhabitants of Syria are descendants of Aram, who was descended from Noah's son Shem.
+* Damascus, the capital city of Syria, was mentioned many times in the Bible.
 * Saul went to the city of Damascus with plans to persecute Christians there, but Jesus stopped him.
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))

@@ -2,7 +2,7 @@
 
 ## Definition: ##
 
-The terms "teach" and "teaching" refer to telling other people information they didn't know before. Usually the information is given in a formal or systematic way.
+To “teach” someone is to tell him something he doesn’t already know. It can also mean “to provide information” in general, with no reference to the person who is learning. Usually the information is given in a formal or systematic way. A person’s “teaching” is or his “teachings” are what he has taught.
 
 * A "teacher" is someone who teaches. The past action of "teach" is "taught."
 * When Jesus was teaching, he was explaining things about God and his kingdom.

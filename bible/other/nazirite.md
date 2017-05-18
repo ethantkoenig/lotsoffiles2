@@ -4,11 +4,11 @@
 
 The term "Nazirite" refers to a person who has taken a "Nazirite vow." Mostly men took this vow, but women could also take it.
 
-* A person who took the Nazirite vow agreed to not have any food or drink made from grapes for the number of days, weeks, or months that had been agreed upon for the fulfillment of the vow. Also during that time, he did not cut his hair and did not get near a dead body.
+* A person who took the Nazirite vow agreed to not have any food or drink made from grapes for period that had been agreed upon for the fulfillment of the vow. During this period he was also not to get his hair cut and not go near a dead body.
 * When the required length of time had passed, and the vow had been fulfilled, the Nazirite would go to the priest and provide an offering. This would include the cutting and burning of his hair. All other restrictions would also be removed.
 * Samson is a well-known man in the Old Testament who was under the Nazirite vow.
 * The angel announcing John the Baptist's birth told Zechariah that his son would not drink strong drink, which may indicate that John was under the Nazirite vow.
-* The apostle Paul may also have at one time taken this vow, according to one passage in the book of Acts.
+* According to a passage in the book of Acts the apostle Paul may also have at one time taken this vow, according to one passage in the book of Acts.
 
 (Translation suggestions: [Translate Names](en/ta-vol1/translate/man/translate-names))
 

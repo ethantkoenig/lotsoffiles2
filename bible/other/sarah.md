@@ -4,7 +4,7 @@
 
  * Sarah was Abraham's wife.
  * Her name was originally "Sarai," but God changed it to "Sarah."
- * Sarah gave birth to the son God had promised to give her and Abraham.
+ * Sarah gave birth to Isaac, the son God had promised to give her and Abraham.
  
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
    

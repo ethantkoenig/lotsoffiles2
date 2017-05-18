@@ -6,7 +6,7 @@ The Jordan River is a river that flows from north to south, and forms the easter
 
 * Today, the Jordan River separates Israel on its west from Jordan on its east. 
 * The Jordan River flows through the Sea of Galilee and then empties into the Dead Sea.
-* When Joshua led the Israelites into Canaan, they had to cross the Jordan River. It was too deep, but God miraculously stopped the river from flowing so they could go across.
+* When Joshua led the Israelites into Canaan, they had to cross the Jordan River. It was too deep to cross normally, but God miraculously stopped the river from flowing so they could walk across the river bed.
 * Often in the Bible the Jordan River is referred to as "the Jordan."
 
 (See also: [Canaan](../other/canaan.md), [Salt Sea](../other/saltsea.md), [Sea of Galilee](../other/seaofgalilee.md))

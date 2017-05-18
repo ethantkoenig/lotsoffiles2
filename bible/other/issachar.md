@@ -5,7 +5,7 @@
 Issachar was the fifth son of Jacob. His mother was Leah.
 
 * The tribe of Issachar was one of the twelve tribes of Israel.
-* Issachar's land was bordered by Naphtali, Zebulun, Manasseh, and Gad.
+* Issachar's land was bordered by the lands of Naphtali, Zebulun, Manasseh, and Gad.
 * It was located just south of the Sea of Galilee. 
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))

@@ -5,13 +5,13 @@
 The term "save" refers to keeping someone from experiencing something bad or harmful. To "be safe" means to be protected from harm or danger.
 
 * In a physical sense, people can be saved or rescued from harm, danger, or death.
-* In a spiritual sense, if a person has been "saved," it means that through Jesus' death on the cross, God has forgiven him and rescued him from being punished in hell for his sin.
+* In a spiritual sense, if a person has been "saved," then God, through Jesus' death on the cross, has forgiven him and rescued him from being punished in hell for his sin.
 * People can save or rescue people from danger, but only God can save people from being punished eternally for their sins.
 
 ## Translation Suggestions: ##
 
-* Ways to translate "save" could include, "deliver" or "keep from harm" or "take out of harm's way" or "keep from dying."
-* In the expression, "whoever would save his life," the term "save" could also be translated as "preserve" or "protect."
+* Ways to translate "save" could include "deliver" or "keep from harm" or "take out of harm's way" or "keep from dying."
+* In the expression "whoever would save his life," the term "save" could also be translated as "preserve" or "protect."
 * The term "safe" could be translated as "protected from danger" or "in a place where nothing can harm."
 
 (See also: [cross](../kt/cross.md), [deliver](../kt/deliverer.md), [punish](../other/punish.md), [salvation](../kt/salvation.md), [sin](../kt/sin.md))

@@ -9,7 +9,7 @@ A province is a division or part of a nation or empire. The term "provincial" de
 * Each province had its own ruling authority, who was subject to the king or ruler of the empire. This ruler was sometimes called a "provincial official" or "provincial governor."
 * The terms "province" and "provincial" could also be translated as "region" and "regional."
 
-(See also: [Asia](../other/asia.md), [Egypt](../other/egypt.md), [Esther](../other/esther.md)[Galatia](../other/galatia.md), [Galilee](../other/galilee.md), [Judea](../other/judea.md), [Macedonia](../other/macedonia.md), [Medes](../other/mede.md), [Rome](../other/rome.md), [Samaria](../other/samaria.md), [Syria](../other/syria.md))
+(See also: [Asia](../other/asia.md), [Egypt](../other/egypt.md), [Esther](../other/esther.md), [Galatia](../other/galatia.md), [Galilee](../other/galilee.md), [Judea](../other/judea.md), [Macedonia](../other/macedonia.md), [Medes](../other/mede.md), [Rome](../other/rome.md), [Samaria](../other/samaria.md), [Syria](../other/syria.md))
 
 ## Bible References: ##
 

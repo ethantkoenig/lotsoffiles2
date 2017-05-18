@@ -11,7 +11,7 @@ The term "overtake" and "overtook" refer to gaining control over someone or some
 * Depending on the context, "overtake" could be translated as "conquer" or "capture" or "defeat" or "catch up to" or "completely affect."
 * The past action "overtook" can be translated as "caught up to" or "came alongside of" or "conquered" or "defeated" or "caused harm to."
 * When used in a warning that darkness or punishment or terrors will overtake people because of their sin, it means that those people will experience these negative things if they don't repent.
-* The phrase "My words have overtaken your fathers" means that the teachings that Yahweh gave to their ancestors will now cause them to receive punishment because they failed to obey those teachings.
+* The phrase "My words have overtaken your fathers" means that the teachings that Yahweh gave to their ancestors will now cause the ancestors to receive punishment because they failed to obey those teachings.
 
 (See also: [bless](../kt/bless.md), [curse](../kt/curse.md), [[../other/capture.md]], [[../other/conquer.md]], [prey](../other/prey.md), [punish](../other/punish.md))
 

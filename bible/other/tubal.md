@@ -2,11 +2,12 @@
 
 ## Facts: ##
 
-There are several men in the Old Testament who had the name "Tubal."
+There were several men in the Old Testament who had the name "Tubal."
 
 * One man named Tubal was one of the sons of Japheth.
-* A man named "Tubal-Cain" was the son of Lamech and descendant of Cain.
-* Tubal is also the name of a people group mentioned by the prophets Isaiah and Ezekiel.
+* A man named "Tubal-Cain" was a son of Lamech and descendant of Cain.
+* Tubal was also the name of a people group mentioned by the prophets Isaiah and Ezekiel.
+
 
 (Translation suggestions: [How to Translate Names](en/ta-vol1/translate/man/translate-names))
 

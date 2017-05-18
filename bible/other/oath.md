@@ -11,7 +11,7 @@ In the Bible, an oath is a formal promise to do something. The person making the
 * Abraham and Abimelech swore an oath when they made a covenant together concerning the use of a well.
 * Abraham told his servant to swear (formally promise) that he would find Isaac a wife from among Abraham's relatives.
 * God also made oaths in which he made promises to his people.
-* A modern-day meaning of the word "swear" means to use foul language. This is not its meaning in the Bible.
+* A modern-day meaning of the word "swear" means is "use foul language." This is not its meaning in the Bible.
 
 ## Translation Suggestions: ##
 

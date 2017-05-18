@@ -2,20 +2,20 @@
 
 ## Definition: ##
 
-The terms "righteous" and "righteousness" refer to God's absolute goodness, justice, faithfulness, and love. Because God is righteous, he must condemn sin.
+The term "righteousness" refers to God's absolute goodness, justice, faithfulness, and love. Having these qualities makes God “righteous." Because God is righteous, he must condemn sin.
 
 * These terms are also often used to describe a person who obeys God and is morally good. However, because all people have sinned, no one except God is completely righteous.
-* Examples of people who the Bible calls "righteous" include Noah, Job, Abraham, Zachariah, and Elisabeth.
-* When people trust in Jesus to save them, God cleanses them from their sins and declares them to be righteous based on Jesus' righteousness.
+* Examples of people the Bible who were called "righteous" include Noah, Job, Abraham, Zachariah, and Elisabeth.
+* When people trust in Jesus to save them, God cleanses them from their sins and declares them to be righteous because of Jesus' righteousness.
 
 ## Translation Suggestions: ##
 
-* When referring to God, the term "righteous" could be translated as "perfectly good and just" or "always acting rightly."
+* When it describes God, the term "righteous" could be translated as "perfectly good and just" or "always acting rightly."
 * God's "righteousness" could also be translated as "perfect faithfulness and goodness."
-* When referring to people who are obedient to God, the term "righteous" could also be translated as "morally good" or "just" or "living a God-pleasing life."
+* When it describes people who are obedient to God, the term "righteous" could also be translated as "morally good" or "just" or "living a God-pleasing life."
 * The phrase "the righteous" could also be translated as "righteous people" or "God-fearing people."
 * Depending on the context, "righteousness" could also be translated with a word or phrase that means  "goodness" or "being perfect before God" or "acting in a right way by obeying God" or "doing perfectly good 
-* Sometimes "the righteous" is used figuratively and refers to "people who think they are good" or "people who seem to be righteous."
+* Sometimes "the righteous" was used figuratively and referred to "people who think they are good" or "people who seem to be righteous."
 
 (See also: [good](../kt/good.md), [holy](../kt/holy.md), [evil](../kt/evil.md), [just](../kt/justice.md), [faithful](../kt/faithful.md))
 

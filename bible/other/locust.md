@@ -2,10 +2,10 @@
 
 ## Facts: ##
 
-The term "locust" refers to a kind of large, flying grasshopper that sometimes flies in a swarm which is very destructive, eating all vegetation in its path. 
+The term "locust" refers to a type of large, flying grasshopper that sometimes flies with many other of its kind in a very destructive swarm that eats all vegetation. 
  
-* Locusts and other grasshoppers are large, straight-winged insects with long, jointed back legs that give them the ability to jump a long way.
-* In the Old Testament, swarming locusts are referred to figuratively as a symbol or picture of the overwhelming devastation that would come as a result of Israel's disobedience.
+* Locusts and other grasshoppers are large, straight-winged insects with long, jointed back legs that give them the ability to jump a long distance way.
+* In the Old Testament, swarming locusts were referred to figuratively as a symbol or picture of the overwhelming devastation that would come as a result of Israel's disobedience.
 * God sent locusts as one of the ten plagues against the Egyptians. 
 * The New Testament says that locusts were a main source of food for John the Baptist while he was living in the desert. 
 
