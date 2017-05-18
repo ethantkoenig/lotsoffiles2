@@ -42,4 +42,4 @@ projects:
         path: './bible'
         sort: 0
         title: 'translationWords'
-        versification: ufw
+        versification:
